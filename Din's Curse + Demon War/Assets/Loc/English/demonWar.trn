@@ -1,0 +1,1463 @@
+OptionKeys				"Options"
+ShowLevelAboveDesc			"Afficher niv. au-dessus"
+ShowLevelBelowDesc			"Afficher niv. au-dessous"
+
+ClumsyMode				"Maladroit"
+ClumsyDesc				"Maladroit est une option de difficulté réservée aux joueurs avancés.\n\nLes joueurs maladroits ont la moitié de la dextérité normale. \n\nPourrez-vous sauver le monde si vous ne savez pas mastiquer et marcher en même temps ?"
+
+PovertyMode				"Pauvre"
+PovertyDesc				"Pauvre est une option de difficulté réservée aux joueurs avancés.\n\nLes joueurs fragiles trouvent moins d'argent et moins d'objets. \n\nPourrez-vous toujours sauver les villes d'Aleria si vous êtes salement pauvre ?"
+
+FragileDesc				"Fragile est une option de difficulté réservée aux joueurs avancés.\n\nLes joueurs fragiles ont la moitié de la santé normale. \n\nPourrez-vous sauver le monde si vous avez la santé d'un chaton nouveau-né ?"
+
+UnluckyMode				"Malchanceux"
+UnluckyDesc				"Malchanceux est une option de difficulté réservée aux joueurs avancés.\n\nLes personnages malchanceux trouvent moins d'objets magiques que la normale.\n\nPourrez-vous survivre sans votre soutien magique ?"
+
+HonorableDeathMode		"Mort honorable"
+HonorableDeathDesc		"Mort honorable est une option de difficulté réservée aux joueurs avancés.\n\nEn mode mort honorable, si la ville est détruite, vous mourez.\nCe n'est pas permanent, à moins que vous ne jouiez en hardcore.\n\nAvez-vous ce qu'il faut pour sauver la ville lorsque votre vie est en jeu ?"
+
+EgoMode				"Ego"
+EgoDesc				"Ego est une option de difficulté réservée aux joueurs avancés.\n\nEn mode ego, vous gagnez la moitié de l'expérience normale pour\nles accomplissements qui sont au-dessous de votre niveau.\nPour gagner votre expérience complète, vous devrez vous bouger\ndavantage.\n\nAvez-vous ce qu'il faut pour jouer avec un gros ego ?"
+
+LostMode				"Perdu"
+LostDesc				"Perdu est une option de difficulté réservée aux joueurs avancés.\n\nLes personnages n'ont aucun sens de l'orientation ni\ncompétence en cartographie, aussi sont-ils toujours perdus.\n\nPouvez-vous sauver le monde quand vous vous ne pouvez même pas trouver\nvotre chemin pour sortir d'une pièce carrée avec une seule porte ?"
+
+CursedMode				"Maudit"
+CursedDesc				"Maudit est une option de difficulté réservée aux\njoueurs avancés.\nL'option maudit n'est pas disponible\njusqu'à ce que vous ayez au moins un \npersonnage au niveau 25 ou au-dessus.\n\nLes règles de la malédiction sont simples :\nVous ne pouvez porter que des objets maudits.\n\nChoisissez cette option en connaissance de cause.\nUne fois qu'un personnage est créé en tant que \npersonnage maudit, il le reste pour toujours.\n\nAvez-vous ce qu'il faut pour jouer maudit ?"
+
+HardcoreMode			"Hardcore"
+HardcoreDesc			"Hardcore (mortel) est une option de difficulté réservée aux joueurs avancés.\nL'option hardcore n'est pas disponible avant d'avoir au moins un personnage de niveau 25 ou supérieur\n\nLes règles hardcore sont simples :\n1) Lorsque les personnages qui ont choisi l'option hardcore meurent, ils restent morts.\nLa mort est permanente en hardcore.\n2) Les personnages n'ont pas accès à l'inventaire partagé.\n\nChoisissez cette option en connaissance de cause.\nUne fois qu'un personnage est créé en tant que personnage hardcore, il le reste pour toujours.\n\nAvez-vous ce qu'il faut pour jouer hardcore ?"
+
+SemiHardcoreMode			"Semi-hardcore"
+SemiHardcoreDesc			"Semi-hardcore est une option de difficulté réservée aux joueurs avancés.\n\nEn Semi-hardcore, chaque mort est très douloureuse, mais pas nécessairement\nla fin. Chaque fois que vous mourez, vous perdez 5 en vitalité de base. Si votre\nvitalité de base descend à 0 ou au-dessous, alors vous êtes mort pour toujours.\n\nPouvez-vous sauver le monde quand la mort est vraiment dangereuse ?"
+
+AxeNameUniqueStarter			"Hache de départ"
+BowNameUniqueStarter			"Arc de départ"
+MaceNameUniqueStarter			"Masse de départ"
+SwordNameUniqueStarter			"Épée de départ"
+DaggerNameUniqueStarter			"Dague de départ"
+StaffNameUniqueStarter			"Bâton de départ"
+
+PrimaDonnaMode				"Prima Donna"
+PrimaDonnaDesc				"Prima Donna est une option de difficulté réservée aux joueurs avancés.\n\nLes Prima Donnas n'utiliseront que des sets, des objets d'élite, des artéfacts,\nou des objets légendaires.\n\nPourrez-vous sauver le monde quand vous refusez d'utiliser tout sauf \nle meilleur ?"
+
+CantUsePrimaDonna			"Je n'utiliserai pas ça ! (Prima Donna)"
+
+OnlyHopeMode				"Seul espoir"
+OnlyHopeDesc				"Seul espoir est une option de difficulté réservée aux joueurs avancés.\n\nEn cochant cette option, les villes se reposent complètement sur vous\net si vous mourez, la ville est perdue.\n\nPouvez-vous sauver une ville quand vous n'avez qu'une vie ?"
+
+HungerMode				"Faim"
+HungerDesc				"Faim est une option de difficulté réservée aux joueurs avancés.\n\nLes joueurs avec la faim ont besoin de manger occasionnellement.\nS'ils ne le font pas suffisamment souvent,\nils commencent à dépérir, et\nmeurent de faim peu après.\n\nPouvez-vous sauver le monde quand vous êtes distrait pas la faim ?"
+Starving				"Mourant de faim"
+PlayerStarving				"Vous êtes en train de mourir de faim !"
+Hunger					"Faim"
+
+Guard					"Garde"
+GuardDesc				"NOTE : les gardes ne sont pas sauvegardés et ne ressuscitent pas !"
+
+Scar					"Scar"
+Beastmaster				"Dresseur de bêtes"
+
+DecreaseAttributeStrength		"^c008Clic gauche pour diminuer la Force de 1^c141"
+DecreaseAttributeDexterity		"^c008Clic gauche pour diminuer la Dextérité de 1^c141"
+DecreaseAttributeVitality		"^c008Clic gauche pour diminuer la Vitalité de 1^c141"
+DecreaseAttributeIntelligence		"^c008Clic gauche pour diminuer l'Intelligence de 1^c141"
+DecreaseAttributeSpirit			"^c008Clic gauche pour diminuer l'Esprit de 1^c141"
+
+AntiMagic				"Anti-magie"
+BlockedFromUsingSpells			"Ne peut pas utiliser de sorts"
+
+// World modifiers
+
+WorldModifierOnTheBrink			"Au bord du gouffre"
+WorldModifierOnTheBrinkDesc		"Au bord du gouffre : La ville commence sur le point de perdre (manquent l'apothicaire et l'intendant)."
+
+WorldModifierDemandingTown		"Ville exigeante"
+WorldModifierDemandingTownDesc		"Ville exigeante : Cette ville fait le plus grand cas des\nPNJ tués et des quêtes échouées. La perte de réputation y est beaucoup \nplus haute que la normale."
+
+WorldModifierAggressiveWorld		"Monde agressif"
+WorldModifierAggressiveWorldDesc	"Monde agressif : Les monstres sont beaucoup plus agressifs."
+
+WorldModifierAntiMagic			"Anti-magie"
+WorldModifierAntiMagicDesc		"Anti-Magie : Le souterrain a beaucoup plus de zones anti-magie qu'à la normale."
+
+WorldModifierGigantism			"Gigantisme"
+WorldModifierGigantismDesc		"Gigantisme : Davantage de monstres géants qu'à la normale."
+
+WorldModifierFleetOfFoot		"Pied léger"
+WorldModifierFleetOfFootDesc		"Pied léger : Davantage de monstres rapides qu'à la normale."
+
+WorldModifierBerserk			"Berserk"
+WorldModifierBerserkDesc		"Berserk : Davantage de monstres berserkers qu'à la normale."
+
+WorldModifierTemporalFlux		"Flux temporel"
+WorldModifierTemporalFluxDesc		"Flux temporel : Davantage de poches de Flux temporel que la normale.\nLe flux temporel ralentit tous les projectiles qui le traversent."
+
+WorldModifierPoorTown			"Ville pauvre"
+WorldModifierPoorTownDesc		"Ville pauvre : Les habitants de cette ville n'ont pas beaucoup d'argent."
+
+WorldModifierRichTown			"Ville riche"
+WorldModifierRichTownDesc		"Ville riche : Les habitants de cette ville ont plus d'argent que la moyenne."
+
+WorldModifierGamblingTown		"Ville de joueurs"
+WorldModifierGamblingTownDesc		"Ville de joueurs : Les habitants de cette ville parient plus que la moyenne."
+
+WorldModifierSeedyTown			"Ville prompte"
+WorldModifierSeedyTownDesc		"Ville prompte : Les habitants de cette ville sont plus enclins à plonger dans le crime."
+
+WorldModifierMiseryTown			"Ville miséreuse"
+WorldModifierMiseryTownDesc		"Ville miséreuse : Les habitants de cette ville tendent à penser sans cesse aux problèmes d'autrui (dwell on everyone's problems)."
+
+WorldModifierDrunkTown			"Ville d'alcooliques"
+WorldModifierDrunkTownDesc		"Ville d'alcooliques : Les habitants de cette ville boivent plus que la normale."
+
+WorldModifierHighUnemployment		"Chômage élevé"
+WorldModifierHighUnemploymentDesc	"Chômage élevé : Les habitants de cette ville ont moins d'occasions de faire de l'argent."
+
+WorldModifierReligiousTown		"Ville religieuse"
+WorldModifierReligiousTownDesc		"Ville religieuse : Les habitants d'ici ont davantage de foi en Din que la moyenne."
+
+WorldModifierSocialTown			"Ville sociale"
+WorldModifierSocialTownDesc		"Ville sociale : Les gens d'ici parlent beaucoup."
+
+WorldModifierHeroicTown			"Ville héroïque"
+WorldModifierHeroicTownDesc		"Ville héroïque : Les habitants de cette ville essaient davantage d'agir en héros."
+
+WorldModifierTornados			"Allée des tornades"
+WorldModifierTornadosDesc		"Allée des tornades : La ville est dans une zone qui est propice aux tornades."
+
+WorldModifierWarZone			"Zone de guerre"
+WorldModifierWarZoneDesc		"Zone de guerre : Il y a eu ici de nombreux incidents avec des démons et des morts-vivant."
+
+WorldModifierPayingTraitors		"Traîtres rémunérés"
+WorldModifierPayingTraitorsDesc		"Traîtres rémunérés : Quelqu'un paie des traîtres avec prodigalité."
+
+WorldModifierElectricalHazard		"Risque électrique"
+WorldModifierElectricalHazardDesc	"Risque électrique : Le souterrain tend à présenter de nombreux moyens de vous électrocuter."
+
+WorldModifierRagingHoards		"Hordes enragées"
+WorldModifierRagingHoardsDesc		"Hordes enragées : Davantage de monstres courent dans les environs que la normale.\nIls sont cependant moins puissants que la normale."
+
+WorldModifierHaltedMining		"Extraction minière entravée"
+WorldModifierHaltedMiningDesc		"Extraction minière entravée : Quelque chose empêche les PNJ en ville de faire \nune partie de leur travail habituel, de sorte qu'ils font moins d'argent que d'habitude."
+
+WorldModifierInfestation		"Infestation"
+WorldModifierInfestationDesc		"Infestation : La ville est infestée de petites créatures, ce qui augmente le prix de la nourriture."
+
+WorldModifierThievesDen			"Repaire de voleurs"
+WorldModifierThievesDenDesc		"Repaire de voleurs : Beaucoup de vols ont lieu dans cette ville."
+
+WorldModifierCupid			"Cupidon"
+WorldModifierCupidDesc			"Cupidon : Les relations entre les habitants sont généralement très bonnes."
+
+WorldModifierRowdy			"Bagarreur"
+WorldModifierRowdyDesc			"Bagarreur : Des combats sont plus susceptibles d'éclater en ville."
+
+WorldModifierMissingShipmentItem	"Chargement d'objets disparu"
+WorldModifierMissingShipmentItemDesc	"Chargement d'objets disparu : Un chargement de denrées\nde base est perdu, ce qui augmente les prix des objets."
+
+WorldModifierMissingShipmentFood	"Cargaison de nourriture disparue"
+WorldModifierMissingShipmentFoodDesc	"Cargaison de nourriture disparue : Une cargaison de denrées\nalimentaires de base est perdue, ce qui augmente les prix de la nourriture."
+
+WorldModifierMissingShipmentWater	"Cargaison d'eau disparue"
+WorldModifierMissingShipmentWaterDesc	"Cargaison d'eau disparue : Une cargaison d'eau indispensable a été perdue, ce qui augmente les prix des boissons."
+
+
+DemonHunter				"Chasseur dém."
+DemonHunterDesc				"Chasseur de démons\n\nCe mortel marchand de mort se délecte des arts démoniques, utilisant ses pouvoirs de façon nouvelle et sournoise."
+
+SkillTreeReaver				"Déchireur"
+SkillTreeWarden				"Gardien"
+SkillTreeDemonologist			"Démonologiste"
+
+ReaverDesc				"Déchireur\n\nCe berserker frappe vite et durement, appréciant de convertir le pouvoir démoniaque en morts rapides."
+WardenDesc				"Gardien\n\nCe déflecteur excelle en protection, dégâts d'arcanes et contrôle."
+DemonologistDesc			"Démonologiste\n\nLes études de cet intellectuel ont grandement payé, car il manie des pouvoir de démons comme la possession et le contrôle démoniaque."
+
+ManaGenReaver				"Dévorer"
+ManaGenReaverDesc			"Gagne de la mana à chaque victime."
+
+FireResistanceBonus			"Bonus de résistance au feu"
+FireResistanceDesc			"Résistance au feu supplémentaire par point d'esprit."
+ColdResistanceBonus			"Bonus de résistance au froid"
+ColdResistanceDesc			"Résistance au froid supplémentaire par point d'esprit."
+LightningResistanceBonus		"Bonus de résistance à la foudre"
+LightningResistanceDesc			"Résistance à la foudre supplémentaire par point d'esprit."
+PoisonResistanceBonus			"Bonus d'immunisation au poison"
+PoisonResistanceDesc			"Résistance supplémentaire au poison par point d'esprit."
+
+TwoHandedMasterySkill			"Maîtrise des armes à deux mains"
+TwoHandedMasteryDesc			"Améliore les performances au combat avec les armes à deux mains."
+UnholyStrikeSkill			"Coup impie"
+UnholyStrikeDesc			"Pouvoir démoniaque ajouté à votre frappe qui cause\nses propres dégâts tout en ralentissant la victime."
+FireStrikeSkill				"Frappe de feu"
+FireStrikeDesc				"Une courte attaque de feu démoniaque qui blesse tous les ennemis sur son chemin."
+BreechSkill				"Rupture"
+BreechDesc				"Trouve les points vulnérables de l'armure et du corps."
+ChargeSkill				"Charge"
+ChargeDesc				"Avec une vitesse de mouvement, une attaque et une défense augmentées,\nvous êtes prêt à charger dans la bataille."
+RavageSkill				"Ravage"
+RavageDesc				"Endommage jusqu'à trois ennemis en une attaque."
+TerrorizeSkill				"Terrorise"
+TerrorizeDesc				"Terrorise tous les ennemis dans le champ d'action, diminuant leur\nefficacité au combat."
+WampirBloodSkill			"Sang de Wampir"
+WampirBloodDesc				"Lance du sang de wampir empoisonné que tous \nles ennemis environnants, causant des dégâts avec le temps."
+RampageSkill				"Déchaînement"
+RampageDesc				"Pendant un court laps de temps, vous devenez plus mortel au combat."
+
+SpiritStrikeSkill			"Coup spirituel"
+SpiritStrikeDesc			"Cette attaque endommageante laisse la victime affaiblie."
+ShieldSweepSkill			"Balayage de Bouclier"
+ShieldSweepDesc				"Une attaque de bouclier qui blesse, interrompt et\nassomme jusqu'à 5 victimes."
+ShieldBlastSkill			"Rafale de Bouclier"
+ShieldBlastDesc				"Une attaque de bouclier qui assomme et inflige des dommage."
+IceWardSkill				"Zone de Glace"
+IceWardDesc				"Crée une zone glacée à l'emplacement du pointeur.\nLa zone ralentit les mouvements des ennemis (-33%) et\nla vitesse d'attaque (-5% par niveau de zone) tout en\naugmentant des résistances au froid de vos amis\n et vous (+10% par niveau de zone)."
+LightningWardSkill			"Zone de Foudre"
+LightningWardDesc			"Crée une zone de foudroiement à l'emplacement du pointeur.\nLa zone ralentit tous les projectiles (-75%) pendant qu'elle augmente \nles résistances à la foudre de vos amis et vous (+10%\npar niveau de zone)."
+FireWardSkill				"Zone de Feu"
+FireWardDesc				"Crée une Zone de feu à l'emplacement du pointeur.\nLa zone augmente les résistances au feu de vos amis et vous\n(50% puis +10% par niveau de zone)\net ajoute des dégâts de feu (25%-50%) à\nleurs dégâts de feu."
+PoisonWardSkill				"Zone de Poison"
+PoisonWardDesc				"Crée une Zone de poison à l'emplacement du pointeur.\nLa zone blesse les ennemis avec du poison (+1 dégât\nchaque seconde par niveau de zone) et diminue leur vitesse d'attaque\n(-5% par niveau de zone) tout en augmentant la résistance au poison\nde vos amis (et vous) (+10% par niveau de zone)."
+MagicalDeflectionSkill			"Déflection magique"
+MagicalDeflectionDesc			"Cette puissante défense magique protège le jeteur du sort\nde nombreux coup des ennemis."
+BanishSkill				"Bannir"
+BanishDesc				"Téléporte l'ennemi ciblé plus loin."
+EnergyShieldSkill			"Bouclier d'Énergie"
+EnergyShieldDesc			"Augmente grandement la défense pour un moment, tout\nen reflétant les dégâts vers vos opposants."
+
+ImpaleSkill				"Empaler"
+ImpaleDesc				"Une attaque avec de fortes chances de coups critiques."
+PossessionSkill				"Possession"
+PossessionDesc				"Devenez un puissant démon pendant un court laps de temps."
+InfernoSkill				"Inferno"
+InfernoDesc				"Devenez un feu vivant et endommagez tout ce qui se trouve dans votre champ d'action."
+DemonicRoarSkill			"Rugissement démoniaque"
+DemonicRoarDesc				"Effraie tous les ennemis alentour et diminue leurs capacités au combat."
+BloodRageSkill				"Rage sanguinaire"
+BloodRageDesc				"Utilise cette compétence ajoutant des dégâts à chaque fois que vous êtes touché (jusqu'à quatre cumulables)."
+BloodSacrificeSkill			"Sacrifice de sang"
+BloodSacrificeDesc			"Un grand boost de vos dégâts pendant un court laps de temps\nmais aussi draine votre santé lorsqu'activé."
+CircleOfProtectionSkill			"Cercle de protection"
+CircleOfProtectionDesc			"Ajoute 25 en résistance physique par niveau \nde compétence à tous vos alliés dans le cercle."
+CircleOfPowerSkill			"Cercle de puissance"
+CircleOfPowerDesc			"Augmente la puissance (dégâts physiques 15%, coups critiques 10%,\ncoups écrasants 10%, coups critiques magiques 10%\net coups écrasants magiques 10% par niveau\nde compétence) pour tous vos alliés dans le cercle."
+DemonArmorSkill				"Armure de Démon"
+DemonArmorDesc				"En utilisant des morceaux de démons vaincus, augmentez\nvotre armure et diminuez les risques de\nsubir des coups critiques ou écrasants."
+DemonicControlSkill			"Contrôle démoniaque "
+DemonicControlDesc			"La connaissance ultime des démons.\nSubvertit la volonté de la victime et en\nfait un allié pendant un court laps de temps."
+
+IceWardResistance			"Résistance de zone de froid"
+IceWardResistanceAura			"Aura de résistance de zone de froid"
+IceWardSlow				"Ralentissement de zone de froid"
+IceWardSlowAura				"Aura de Ralentissement de zone de froid"
+
+LightningWardResistance			"Résistance de zone de foudre"
+LightningWardResistanceAura		"Aura de résistance de zone de foudre"
+LightningWardTemporalFluxAura		"Aura de flux temporel de zone de foudre"
+
+FireWardResistance			"Résistance de zone de feu"
+FireWardResistanceAura			"Aura de résistance de zone de feu"
+FireWardFireAura			"Aura de feu de zone de feu"
+
+PoisonWardResistance			"Résistance au poison de zone"
+PoisonWardResistanceAura		"Poison Ward Résistance Aura"
+PoisonWardDamage			"Dégâts de zone de poison"
+PoisonWardDamageAura			"Aura de dégâts de zone de poison"
+
+CircleOfProtectionAura			"Cercle d'Aura de protection"
+CircleOfPowerAura			"Cercle d'Aura de puissance"
+
+Controlled				"Contrôlé"
+
+Rylor					"Rylor"
+RylorBull				"Rylor taureau"
+RylorWinged				"Rylor ailé"
+
+Rylor1					"Rylor de magma"
+Rylor2					"Rylor de gel"
+Rylor3					"Rylor de choc"
+Rylor4					"Rylor toxique"
+Rylor5					"Rylor d'arcane"
+
+Rylor1Unique				"Moxx"
+Rylor1bUnique				"Nuz"
+Rylor2Unique				"Darg"
+Rylor2bUnique				"Nalar"
+Rylor3Unique				"Smorn"
+Rylor3bUnique				"Torg"
+Rylor4Unique				"Zuta"
+Rylor4bUnique				"Xak"
+Rylor5Unique				"Lox"
+Rylor5bUnique				"Maw"
+
+Rylor1Legend				"Drot"
+Rylor2Legend				"Urz"
+Rylor3Legend				"Sero"
+Rylor4Legend				"Orok"
+Rylor5Legend				"Imparfait"
+
+RylorBull1				"Rylor taureau du magma"
+RylorBull2				"Rylor taureau du gel"
+RylorBull3				"Rylor taureau de choc"
+RylorBull4				"Rylor taureau toxique"
+RylorBull5				"Rylor taureau des arcanes"
+
+RylorBull1Unique			"Fiero"
+RylorBull1bUnique			"Feroz"
+RylorBull2Unique			"Harg"
+RylorBull2bUnique			"Maloco"
+RylorBull3Unique			"Gava"
+RylorBull3bUnique			"Tarvos"
+RylorBull4Unique			"Tor"
+RylorBull4bUnique			"Tyr"
+RylorBull5Unique			"Erg"
+RylorBull5bUnique			"Kali"
+
+RylorBull1Legend			"Taurus"
+RylorBull2Legend			"Argus"
+RylorBull3Legend			"Grell"
+RylorBull4Legend			"Galak"
+RylorBull5Legend			"Brise-siège"
+
+RylorWinged1				"Rylor du magma ailé"
+RylorWinged2				"Rylor du gel ailé"
+RylorWinged3				"Rylor du choc ailé"
+RylorWinged4				"Rylor toxique ailé"
+RylorWinged5				"Rylor ailé des arcanes"
+
+RylorWinged1Unique			"Alatus"
+RylorWinged1bUnique			"Ruko"
+RylorWinged2Unique			"Vaz"
+RylorWinged2bUnique			"Lanc"
+RylorWinged3Unique			"Aliger"
+RylorWinged3bUnique			"Lagas"
+RylorWinged4Unique			"Slira"
+RylorWinged4bUnique			"Nadar"
+RylorWinged5Unique			"Anudar"
+RylorWinged5bUnique			"Dray"
+
+RylorWinged1Legend			"Morlag"
+RylorWinged2Legend			"Komen"
+RylorWinged3Legend			"Vartok"
+RylorWinged4Legend			"Nokar"
+RylorWinged5Legend			"Dravok"
+
+BodyPartRylorWinged			"aile"
+BodyPartKrallWorker			"pince"
+BodyPartKrallWarrior			"pique"
+
+Krall					"Krall"
+KrallWorker				"Travailleur krall"
+KrallWarrior				"Guerrier krall"
+
+KrallWorker1				"Travailleur Krall"
+KrallWorker2				"Travailleur Krall chargé"
+KrallWorker3				"Travailleur Krall cuirassé"
+KrallWorker4				"Ancien travailleur Krall"
+KrallWorker5				"Travailleur Krall de flamme"
+
+KrallWorker1Unique			"Dent sanglante"
+KrallWorker1bUnique			"Vile Torture"
+KrallWorker2Unique			"Tempête de Gouffre"
+KrallWorker2bUnique			"Vilain Découpeur"
+KrallWorker3Unique			"Sinistre Marcheur"
+KrallWorker3bUnique			"Ravageur de malice"
+KrallWorker4Unique			"Griffe putride"
+KrallWorker4bUnique			"Venin gelé"
+KrallWorker5Unique			"Pique de mort"
+KrallWorker5bUnique			"Vipère d'acier"
+
+KrallWorker1Legend			"Tombe récente"
+KrallWorker2Legend			"Brûlure de Choc"
+KrallWorker3Legend			"Griffe de Ravageur"
+KrallWorker4Legend			"Frappe de Terre"
+KrallWorker5Legend			"Dévastateur de portée"
+
+KrallWarrior1				"Guerrier Krall"
+KrallWarrior2				"Guerrier Krall chargé"
+KrallWarrior3				"Guerrier Krall cuirassé"
+KrallWarrior4				"Ancien guerrier Krall"
+KrallWarrior5				"Guerrier Warrior de flamme"
+
+KrallWarrior1Unique			"Cornes d'acier"
+KrallWarrior1bUnique			"Pique Venimeuse"
+KrallWarrior2Unique			"Pique de Lacération"
+KrallWarrior2bUnique			"Griffe Cruelle"
+KrallWarrior3Unique			"Pique de Sang"
+KrallWarrior3bUnique			"Horreur Lugubre"
+KrallWarrior4Unique			"Éventreur d'Agonie"
+KrallWarrior4bUnique			"L'Élu d'Acier"
+KrallWarrior5Unique			"Rampeur de Mort"
+KrallWarrior5bUnique			"Brûlure d'Explosion"
+
+KrallWarrior1Legend			"Funeste Folie"
+KrallWarrior2Legend			"Choc Foufroyant"
+KrallWarrior3Legend			"Sinistre Marcheur"
+KrallWarrior4Legend			"Nuit d'acier"
+KrallWarrior5Legend			"Brûlure de l'Enfer"
+
+KrallMark				"Marque krall"
+
+FactionNameDemons			"Démons"
+FactionNameNeutralNpc			"PNJ neutre"
+
+WorldModifierSize			"Taille du monde"
+WorldModifierSizeDesc			"Change la profondeur moyenne du souterrain"
+WorldModifierSizeSmall			"Petit"
+WorldModifierSizeNormal			"Normal"
+WorldModifierSizeLarge			"Vaste"
+
+Drunk					"Ivre"
+
+NpcLeftTown				"##1## a quitté la ville (malheureux)."
+LocalHero				"Luminaire de la ville"
+
+NpcLocalHero				"##1## est maintenant un $$LocalHero$$ !"
+NpcNotLocalHero				"##1## n'est plus un $$LocalHero$$ de la ville !"
+
+Hap					" :)"
+UHap					" :("
+
+Drink					"Boire"
+Argument				"Querelle"
+Talk					"Parler"
+GambleLoss				"Perte au jeu"
+GambleWin				"Gain au jeu"
+Pray					"Prier"
+Shopping				"Emplettes"
+Donation				"Donation"
+DwellOnMoney				"S'attarde sur l'argent"
+Jealous					"Jaloux"
+Gossip					"Ragot"
+Praise					"Louange"
+NpcPropose				"^c000Demande en mariage"
+NpcMarried				"^c000Marié(e)"
+NpcDivorced				"^c000Divorcé(e)"
+NpcFlirt				"Flirt"
+NpcRelationshipMarried			"Je suis marié(e) à ##1##."
+NpcRelationshipGoodFriends		"Je suis bien ami(e) avec ##1##."
+NpcRelationshipFriends			"Je suis ami avec ##1##."
+NpcRelationshipHate			"Je déteste ##1##."
+NpcRelationshipDislike			"Je n'apprécie pas ##1##."
+
+Donate					"Donner"
+NpcDonationDesc				"Donner ##1## à ce PNJ\nVous avez ##2##"
+CantAffordDonation			"Ne peut pas se permettre un don"
+
+QuestTitleDebt				"Sortir ##1## de ses dettes"
+QuestTextDebt1				"##1## a laissé ##2## finances devenir hors de contrôle et a maintenant besoin d'aide. Veuillez lui donner de l'argent pour le sortir de ses dettes."
+QuestSolvedByNpcDebt			"Dettes de ##1## payées par ##2##"
+
+QuestMalePronounHis			"ses"
+QuestFemalePronounHer			"ses"
+QuestMalePronounHim			"lui"
+
+QuestAnnounceMining			"##2## a besoin qu'un peu d'exploitation minière soit faite."
+QuestTitleMining			"Veine de mine d'or"
+QuestTextMining				"##1## comptait faire un peu d'exploitation minière dans le souterrain aujourd'hui, mais c'est un peu trop dangereux. La veine d'or spéciale qui est visée est marquée. Vous pouvez trouver ces veines d'or dans l'"
+GoldVeinMarked				"Veine d'or marquée"
+
+ObsidianTeleportStone			"Obsidienne pour Pierre de téléportation"
+TeleportStoneRecharged			"Pierre de téléportation rechargée."
+QuestAnnounceTeleportStone		"Pierre de téléportation trouvée."
+QuestTitleTeleportStone			"Recharger votre Pierre de téléportation"
+QuestTextTeleportStone			"Nous avons localisé des Obsidiennes qui permettront de recharger votre Pierre de téléportation. Note : cela ne sera d'aucune utilité si vous n'avez pas encore utilisé votre Pierre de téléportation."
+
+QuestAnnounceStarving			"##1## est en train de mourir de faim et a besoin d'aide !"
+QuestTitleStarving			"##1## est en train de mourir de faim"
+QuestTextStarving1			"##1## n'a pas d'argent et est en train de mourir de faim. Sans aide, ##1## va vraisemblablement mourir de faim. Pour aider, soit payez les dettes de ##1##, soit donnez ##2## à manger."
+QuestSolvedByNpcStarving		"##1## ne meurt plus de faim grâce à ##2##"
+QuestNpcDiedStarving			"##1## est mort de faim"
+
+CriminalFine				"##1## a été condamné à une amende de ##2##"
+
+LeftClickToPickup			"Clic gauche pour ramasser"
+
+QuestAnnounceEvidenceTheft		"Quelqu'un a volé ##1##"
+QuestTitleEvidenceTheft			"Élucider le vol chez ##1##"
+QuestTextEvidenceTheft			"Quelqu'un a volé ##1##. Veuillez ramener une preuve de qui l'a fait pour qu'il puisse être puni."
+QuestEndEvidenceTheft			"La preuve du vol de ##1## a été détruite."
+EvidenceTheft				"Preuve du vol"
+CaughtTheft				"##1## a été pris en flagrant délit de vol !"
+
+QuestAnnounceEvidencePoisonedSupply	"Quelqu'un en ville a empoisonné les stocks de provisions !"
+QuestTitleEvidencePoisonedSupply	"Trouver qui a empoisonné les stocks de provisions de la ville"
+QuestTextEvidencePoisonedSupply		"Quelqu'un en ville a empoisonné les provisions de la ville. Veuillez rapporter une preuve de l'identité du ou des fautif(s) pour qu'il(s) soi(en)t puni(s)."
+QuestEndEvidencePoisonedSupply		"La preuve de l'empoisonneur des provisions a été détruite."
+EvidencePoisonedSupply			"Preuve d'empoisonnement"
+CaughtPoisonedSupply			"##1## a été pris en train d'empoisonner les provisions !"
+
+QuestAnnounceEvidenceTownTraps		"Quelqu'un en ville a piégé la ville !"
+QuestTitleEvidenceTownTraps		"Trouvé qui a piégé la ville"
+QuestTextEvidenceTownTraps		"Quelqu'un en ville a piégé la ville. Veuillez rapporter des preuves de qui l'a fait pour qu'il puisse être puni."
+QuestEndEvidenceTownTraps		"preuve que le piège en ville a été détruit."
+EvidenceTownTraps			"Preuve du piège en ville"
+CaughtTownTraps				"##1## a été pris en train de poser des pièges en ville !"
+
+QuestAnnounceEvidencePlague		"Quelqu'un a apporté la peste en ville !"
+QuestTitleEvidencePlague		"Trouver qui a apporté la peste"
+QuestTextEvidencePlague			"Quelqu'un d'ici a semé la peste. Veuillez ramener une preuve de son identité pour qu'il puisse être puni."
+QuestEndEvidencePlague			"La preuve de l'identité de l'auteur de la peste a été détruite."
+EvidencePlague				"Preuve de la peste"
+CaughtPlague				"##1## a été pris en train de contaminer la ville par la peste !"
+
+QuestAnnounceEvidenceCurse		"Quelqu'un a maudit la ville !"
+QuestTitleEvidenceCurse			"Trouver qui a maudit la ville"
+QuestTextEvidenceCurse			"Quelqu'un d'ici a maudit la ville. Veuillez ramener une preuve de l'identité du ou des auteur pour qu'on puisse le(s) punir."
+QuestEndEvidenceCurse			"La preuve de l'identité de celui qui a maudit la ville a été détruite."
+EvidenceCurse				"Preuve de la Malédiction"
+CaughtCurse				"##1## a été pris en train de maudire la ville !"
+
+QuestAnnounceEvidenceMonsterScout	"Quelqu'un en ville a laissé entrer un éclaireur !"
+QuestTitleEvidenceMonsterScout		"Trouver qui a laissé entrer l'éclaireur"
+QuestTextEvidenceMonsterScout		"Quelqu'un d'ici a laissé entrer un éclaireur en ville. Veuillez ramener une preuve de son identité pour qu'il puisse être puni."
+QuestEndEvidenceMonsterScout		"La preuve de l'identité de celui qui a laissé entrer l'éclaireur a été détruite."
+EvidenceMonsterScout			"Preuve de la présence d'un éclaireur"
+CaughtMonsterScout			"##1## a été pris en train de laisser entrer un éclaireur dans la ville !"
+
+QuestAnnounceEvidenceWarAgainstTown	"Quelqu'un d'ici nous a entraînés dans une guerre !"
+QuestTitleEvidenceWarAgainstTown	"Trouver qui a déclenché cette guerre"
+QuestTextEvidenceWarAgainstTown		"Quelqu'un d'ici nous a trahis et entraînés dans une guerre. Veuillez ramener la preuve de son identité pour qu'il puisse être puni."
+QuestEndEvidenceWarAgainstTown		"La preuve de l'identité de celui qui a déclenché la guerre a été détruite."
+EvidenceWarAgainstTown			"Preuve de guerre"
+CaughtWarAgainstTown			"##1## a été pris en train de mener la ville à la guerre !"
+
+QuestAnnounceEvidenceUprisingRaidPlan	"Quelqu'un d'ici a vendu des secrets de la ville !"
+QuestTitleEvidenceUprisingRaidPlan	"Trouver qui a vendu les secrets de la ville"
+QuestTextEvidenceUprisingRaidPlan	"Quelqu'un d'ici a vendu des secrets de la ville, ce qui va vraisemblablement entraîner un raid. Veuillez ramener une preuve de l'identité du coupable pour qu'il puisse être puni."
+QuestEndEvidenceUprisingRaidPlan	"La preuve de l'identité de celui qui a vendu des secrets de la ville a été détruite."
+EvidenceUprisingRaidPlan		"Preuve des secrets de la ville"
+CaughtUprisingRaidPlan			"##1## a été pris en train de vendre des secrets de la ville !"
+
+QuestAnnounceEvidenceUprisingTownAttackPlan	"Quelqu'un d'ici essaye de détruire la ville !"
+QuestTitleEvidenceUprisingTownAttackPlan	"Trouver qui essaie de détruire la ville"
+QuestTextEvidenceUprisingTownAttackPlan		"Quelqu'un d'ici essaie de faire détruire la ville en vendant des informations aux monstres qui sont enclins à attaquer la ville. Veuillez ramener une preuve de l'identité du coupable pour qu'il puisse être puni."
+QuestEndEvidenceUprisingTownAttackPlan		"La preuve de l'identité de celui qui essaie de détruire la ville a été détruite."
+EvidenceUprisingTownAttackPlan			"Preuve de l'identité du Destructeur de la ville"
+CaughtUprisingTownAttackPlan			"##1## a été pris en train de tramer la destruction de la ville !"
+
+QuestAnnounceEvidenceDeadlyPoison	"Quelqu'un d'ici a empoisonné un habitant de la ville !"
+QuestTitleEvidenceDeadlyPoison		"Trouver qui a empoisonné un habitant de la ville"
+QuestTextEvidenceDeadlyPoison		"Quelqu'un d'ici a empoisonné un autre habitant. Veuillez ramener une preuve de son identité pour qu'il puisse être puni."
+QuestEndEvidenceDeadlyPoison		"La preuve de l'identité de l'empoisonneur a été détruite."
+EvidenceDeadlyPoison			"Preuve de l'empoisonnement"
+CaughtDeadlyPoison			"##1## a été pris en train d'empoisonner un habitant !"
+
+NpcBanished				"Les habitants de ##2## ont banni ##1## de la ville."
+
+QuestTitleEvidenceGateIntoTown		"Portail vers la ville"
+QuestTextEvidenceGateIntoTown		"Vous avez trouvé et détruit le portail menant en ville !"
+EvidenceGateIntoTown			"Portail illégal vers la ville"
+CaughtGateIntoTown			"##1## a été pris en train de construire un portail en ville !"
+
+TornadoWarning				"Une tornade a touché la ville !"
+
+// MachineEarthquake
+
+MachineAntiMagic			"Machine anti-magie"
+MachineAntiMagicDesc			"Machine anti-magie : Il y a une machine anti-magie dans le souterrain,\nqui crée des champs anti-magie."
+
+QuestAnnounceUniqueMachineAntiMagic	"Découverte d'une machine anti-magie."
+QuestAnnounceUniqueMachineAntiMagicFromBoss	"##3## a construit une machine anti-magie."
+QuestAnnounceUniqueMachineAntiMagicFromUniqueMonsterSpotted	"##3## a construit une machine anti-magie."
+QuestAnnounceUniqueMachineAntiMagicFromKillMonsterGroup	"Le groupe de ##3## a construit une machine anti-magie."
+QuestAnnounceUniqueMachineAntiMagicFromQuestFindPlansMachineEarthquake	"Nous avons échoué à découvrir les plans, et maintenant une machine anti-magie a été construite."
+QuestAnnounceUniqueMachineAntiMagicFromQuestUniqueMachineDarkness	"En raison du succès de la machine à ténèbres, une machine anti-magie a maintenant été construite."
+QuestAnnounceUniqueMachineAntiMagicFromQuestUniqueMachineWeather	"En raison du succès de la machine climatique, une machine anti-magie a maintenant été construite."
+QuestAnnounceUniqueMachineAntiMagicFromQuestUniqueMachineTemporalFlux	"En raison du succès de la machine à flux temporel, une machine anti-magie a maintenant été construite."
+QuestAnnounceUniqueMachineAntiMagicFromQuestUniqueMachineFog	"En raison du succès de la machine à brouillard, une machine anti-magie a maintenant été construite."
+QuestAnnounceUniqueMachineAntiMagicFromQuestUniqueMachineIce		"En raison du succès de la machine à glace, une machine anti-magie a maintenant été construite."
+QuestAnnounceUniqueMachineAntiMagicFromQuestDinUniqueAltarErillin	"En gage de vénération de l'autel d'Erillin, une machine anti-magie a été construite."
+
+QuestTitleUniqueMachineAntiMagic	"Détruisez la machine Anti-Magie"
+QuestTextUniqueMachineAntiMagic		"Nous avons découvert une machine qui produit des champs anti-magie. Allez détruire cette machine."
+
+// MachineTemporalFlux
+
+MachineTemporalFlux			"Machine de flux temporel"
+MachineTemporalFluxDesc			"Machine de flux temporel : Il y a une machine dans le souterrain, qui crée des flux temporels."
+
+QuestAnnounceUniqueMachineTemporalFlux	"Découverte d'une machine de flux temporels."
+QuestAnnounceUniqueMachineTemporalFluxFromBoss	"##3## a construit une machine de flux temporels."
+QuestAnnounceUniqueMachineTemporalFluxFromUniqueMonsterSpotted	"##3## a construit une machine de flux temporels."
+QuestAnnounceUniqueMachineTemporalFluxFromKillMonsterGroup	"Le groupe de ##3## a construit une machine de flux temporels."
+QuestAnnounceUniqueMachineTemporalFluxFromQuestFindPlansMachineEarthquake	"Nous avons échoué à découvrir les plans, et maintenant une machine de flux temporels a été construite."
+QuestAnnounceUniqueMachineTemporalFluxFromQuestUniqueMachineDarkness	"En raison du succès de la machine à ténèbres, une machine à flux temporels a maintenant été construite."
+QuestAnnounceUniqueMachineTemporalFluxFromQuestUniqueMachineWeather	"En raison du succès de la machine climatique, une machine à flux temporels a maintenant été construite."
+QuestAnnounceUniqueMachineTemporalFluxFromQuestUniqueMachineAntiMagic	"En raison du succès de la machine anti-magie, une machine à flux temporels a maintenant été construite."
+QuestAnnounceUniqueMachineTemporalFluxFromQuestUniqueMachineFog		"En raison du succès de la machine à brouillard, une machine à flux temporels a maintenant été construite."
+QuestAnnounceUniqueMachineTemporalFluxFromQuestUniqueMachineIce		"En raison du succès de la machine à glace, une machine à flux temporels a maintenant été construite."
+QuestAnnounceUniqueMachineTemporalFluxFromQuestDinUniqueAltarErillin	"En gage de vénération du l'autel d'Erillin, une machine à flux temporels a été construite."
+
+QuestTitleUniqueMachineTemporalFlux	"Détruire la machine à flux temporel"
+QuestTextUniqueMachineTemporalFlux	"Nous avons découvert une machine qui cause des flux temporels. Allez la détruire."
+
+// MachineFog
+
+Fog					"Brouillard"
+
+MachineFog				"Machine à brouillard"
+MachineFogDesc				"Machine à brouillard : Il y a une machine dans le souterrain qui crée des nappes de brouillard."
+
+QuestAnnounceUniqueMachineFog		"Découverte d'une machine à brouillard."
+QuestAnnounceUniqueMachineFogFromBoss	"##3## a construit une machine à brouillard."
+QuestAnnounceUniqueMachineFogFromUniqueMonsterSpotted	"##3## a construit une machine à brouillard."
+QuestAnnounceUniqueMachineFogFromKillMonsterGroup	"Un groupe de ##3## a construit une machine à brouillard."
+QuestAnnounceUniqueMachineFogFromQuestFindPlansMachineEarthquake	"Nous avons échoué à découvrir les plans, et maintenant une machine à brouillard a été construite."
+QuestAnnounceUniqueMachineFogFromQuestUniqueMachineDarkness	"En raison du succès de la machine à ténèbres, une machine à brouillard a maintenant été construite."
+QuestAnnounceUniqueMachineFogFromQuestUniqueMachineWeather	"En raison du succès de la machine climatique, une machine à brouillard a maintenant été construite."
+QuestAnnounceUniqueMachineFogFromQuestUniqueMachineAntiMagic	"En raison du succès de la machine anti-magie, une machine à brouillard a maintenant été construite."
+QuestAnnounceUniqueMachineFogFromQuestUniqueMachineTemporalFlux	"En raison du succès de la machine à flux temporels, une machine à brouillard a maintenant été construite."
+QuestAnnounceUniqueMachineFogFromQuestUniqueMachineIce		"En raison du succès de la machine à glace, une machine à brouillard a maintenant été construite."
+QuestAnnounceUniqueMachineFogFromQuestDinUniqueAltarErillin	"En gage de vénération de l'autel d'Erillin, une machine à brouillard a été construite."
+
+QuestTitleUniqueMachineFog	"Détruire la machine à brouillard"
+QuestTextUniqueMachineFog	"Nous avons découvert une machine qui crée des nappes de brouillard. Ca pourrait ne pas sembler grave, mais elle gène la visibilité et rend les choses plus dangereuses. Allez la détruite."
+
+// MachineIce
+
+MachineIce				"Machine à glace"
+MachineIceDesc				"Machine à glace : Il y a une machine à glace dans le souterrain, qui crée des plaques de glace."
+
+QuestAnnounceUniqueMachineIce		"Découverte d'une machine à glace."
+QuestAnnounceUniqueMachineIceFromBoss	"##3## a construit une machine à glace."
+QuestAnnounceUniqueMachineIceFromUniqueMonsterSpotted	"##3## a construit une machine à glace."
+QuestAnnounceUniqueMachineIceFromKillMonsterGroup	"Le groupe de ##3## a construit une machine à glace."
+QuestAnnounceUniqueMachineIceFromQuestFindPlansMachineEarthquake	"Nous avons échoué à découvrir les plans, et maintenant une machine à glace a été construite."
+QuestAnnounceUniqueMachineIceFromQuestUniqueMachineDarkness	"En raison du succès de la machine à ténèbres, une machine à glace a maintenant été construite."
+QuestAnnounceUniqueMachineIceFromQuestUniqueMachineWeather	"En raison du succès de la machine climatique, une machine à glace a maintenant été construite."
+QuestAnnounceUniqueMachineIceFromQuestUniqueMachineAntiMagic	"En raison du succès de la machine anti-magie, une machine à glace a maintenant été construite."
+QuestAnnounceUniqueMachineIceFromQuestUniqueMachineTemporalFlux	"En raison d'un succès de la machine à flux temporel, une machine à glace a maintenant été construite."
+QuestAnnounceUniqueMachineIceFromQuestUniqueMachineFog		"En raison du succès de la machine à brouillard, une machine à glace a maintenant été construite."
+QuestAnnounceUniqueMachineIceFromQuestDinUniqueAltarErillin	"En gage de vénération de l'autel d'Erillin, une machine à glace a été construite."
+
+QuestTitleUniqueMachineIce	"Détruire la machine à glace"
+QuestTextUniqueMachineIce	"Nous avons découvert une machine qui crée des plaques de glace. Allez la détruite."
+
+// UniqueBuildingMachineAntiMagic
+
+QuestAnnounceUniqueBuildingMachineAntiMagic	"##1## est en train de construire une machine anti-magie."
+QuestAnnounceUniqueBuildingMachineAntiMagicFromQuestUniqueMachineDarkness	"En raison du succès de la machine à ténèbres, ##1## construit une machine anti-magie."
+QuestAnnounceUniqueBuildingMachineAntiMagicFromQuestUniqueMachineWeather	"En raison du succès de la machine climatique, ##1## construit une machine anti-magie."
+
+QuestTextUniqueBuildingMachineAntiMagic		"##1## est en train de construire une machine anti-magie. Vous devez le tuer avant qu'il ne puisse l'achever !"
+
+// UniqueBuildingMachineTemporalFlux
+
+QuestAnnounceUniqueBuildingMachineTemporalFlux	"##1## est en train de construire une machine à flux temporels."
+QuestAnnounceUniqueBuildingMachineTemporalFluxFromQuestUniqueMachineDarkness	"En raison du succès de la machine à ténèbres, ##1## construit une machine à flux temporels."
+QuestAnnounceUniqueBuildingMachineTemporalFluxFromQuestUniqueMachineWeather	"En raison du succès de la machine climatique, ##1## construit une machine à flux temporels."
+
+QuestTextUniqueBuildingMachineTemporalFlux		"##1## est en train de construire une machine à flux temporels. Vous devez le tuer avant qu'il ne puisse l'achever !"
+
+// UniqueBuildingMachineFog
+
+QuestAnnounceUniqueBuildingMachineFog	"##1## est en train de construire une machine à brouillard."
+QuestAnnounceUniqueBuildingMachineFogFromQuestUniqueMachineDarkness	"En raison du succès de la machine à ténèbres, ##1## construit une machine à brouillard."
+QuestAnnounceUniqueBuildingMachineFogFromQuestUniqueMachineWeather	"En raison du succès de la machine climatique, ##1## construit une machine à brouillard."
+
+QuestTextUniqueBuildingMachineFog		"##1## est en train de construire une machine à brouillard. Vous devez le tuer avant qu'il ne puisse l'achever !"
+
+// UniqueBuildingMachineIce
+
+QuestAnnounceUniqueBuildingMachineIce	"##1## est en train de construire une machine à glace."
+QuestAnnounceUniqueBuildingMachineIceFromQuestUniqueMachineDarkness	"En raison du succès de la machine à ténèbres, ##1## construit une machine à glace."
+QuestAnnounceUniqueBuildingMachineIceFromQuestUniqueMachineWeather	"En raison du succès de la machine climatique, ##1## construit une machine à glace."
+
+QuestTextUniqueBuildingMachineIce		"##1## est en train de construire une machine à glace. Vous devez le tuer avant qu'il ne puisse l'achever !"
+
+// Find Plans
+
+QuestAnnouncePlansBrokenMachineAntiMagic	"Nous avons perturbé les plans visant à construire une machine anti-magie."
+QuestAnnouncePlansBrokenMachineTemporalFlux	"Nous avons perturbé les plans visant à construire une machine à flux temporels."
+QuestAnnouncePlansBrokenMachineFog		"Nous avons perturbé les plans visant à construire une machine à brouillard."
+QuestAnnouncePlansBrokenMachineIce		"Nous avons perturbé les plans visant à construire une machine à glace."
+
+// Old machine quest announcements
+
+QuestAnnounceUniqueMachineEarthquakeFromQuestUniqueMachineAntiMagic	"En raison du succès de la machine anti-magie, une machine à tremblements de terre a maintenant été construite."
+QuestAnnounceUniqueMachineEarthquakeFromQuestUniqueMachineTemporalFluxc	"En raison du succès de la machine à flux temporel, une machine à tremblements de terre a maintenant été construite."
+QuestAnnounceUniqueMachineEarthquakeFromQuestUniqueMachineFog		"En raison du succès de la machine à brouillard, une machine à tremblements de terre a maintenant été construite."
+QuestAnnounceUniqueMachineEarthquakeFromQuestUniqueMachineIce		"En raison du succès de la machine à glace, une machine à tremblements de terre a maintenant été construite."
+
+QuestAnnounceUniqueMachineDarknessFromQuestUniqueMachineAntiMagic	"En raison du succès de la machine anti-magie, une machine à ténèbres a maintenant été construite."
+QuestAnnounceUniqueMachineDarknessFromQuestUniqueMachineTemporalFluxc	"En raison du succès de la machine à flux temporels, une machine à ténèbres a maintenant été construite."
+QuestAnnounceUniqueMachineDarknessFromQuestUniqueMachineFog		"En raison du succès de la machine à brouillard, une machine à ténèbres a maintenant été construite."
+QuestAnnounceUniqueMachineDarknessFromQuestUniqueMachineIce		"En raison du succès de la machine à glace, une machine à ténèbres a maintenant été construite."
+
+QuestAnnounceUniqueMachineWeatherFromQuestUniqueMachineAntiMagic	"En raison du succès de la machine anti-magie, une machine climatique a maintenant été construite."
+QuestAnnounceUniqueMachineWeatherFromQuestUniqueMachineTemporalFluxc	"En raison du succès de la machine à flux temporels, une machine climatique a maintenant été construite."
+QuestAnnounceUniqueMachineWeatherFromQuestUniqueMachineFog		"En raison du succès de la machine à brouillard, une machine climatique a été construite."
+QuestAnnounceUniqueMachineWeatherFromQuestUniqueMachineIce		"En raison du succès de la machine à glace, une machine climatique a maintenant été construite."
+
+QuestAnnounceWanderingVendorStayedInTown	"##1## était sur le point de quitter la ville, mais est vraiment heureux ici."
+
+ToolTipDelay				"Délai des trucs"
+ToolTipDelayDesc			"Ceci contrôle le temps qu'il faut aux trucs pour s'afficher."
+
+Wet					"Mouillé"
+
+MinorMagicResistance			"Résistance mineure à la magie"
+MagicResistance				"Résistance à la magie"
+MajorMagicResistance			"Résistance majeure à la magie"
+
+Vortar					"Vortar"
+VortarSoldier				"Soldat vortar"
+VortarRaider				"Raider vortar"
+VortarGuardian				"Gardien vortar"
+
+VortarSoldier1				"Soldat vortar de saphir"
+VortarSoldier2				"Soldat vortar d'ambre"
+VortarSoldier3				"Soldat vortar d'onyx"
+VortarSoldier4				"Soldat vortar d'émeraude"
+VortarSoldier5				"Soldat ovrtar d'améthyste"
+
+VortarSoldier1Unique			"Flammegriffe"
+VortarSoldier1bUnique			"Pyropique"
+VortarSoldier2Unique			"Sangfort"
+VortarSoldier2bUnique			"Toxicopique"
+VortarSoldier3Unique			"Vilegore"
+VortarSoldier3bUnique			"Carnofléau"
+VortarSoldier4Unique			"Voctogriffe"
+VortarSoldier4bUnique			"Sinistrovitesse (Direspeed)"
+VortarSoldier5Unique			"Braisobalafre"
+VortarSoldier5bUnique			"Perce"
+
+VortarSoldier1Legend			"Gangrecoeur"
+VortarSoldier2Legend			"Brûlocrainte"
+VortarSoldier3Legend			"Cornoruine"
+VortarSoldier4Legend			"Sanguinépine"
+VortarSoldier5Legend			"Lugubrochoc"
+
+VortarRaider1				"Raider vortar de saphir"
+VortarRaider2				"Raider vortar d'ambre"
+VortarRaider3				"Raider vortar d'onyx"
+VortarRaider4				"Raider vortar d'émeraude"
+VortarRaider5				"Raider vortar d'améthyste"
+
+VortarRaider1Unique			"Dardbataille"
+VortarRaider1bUnique			"Brûlepointe"
+VortarRaider2Unique			"Sanguinofrappe"
+VortarRaider2bUnique			"Frapptrip"
+VortarRaider3Unique			"Pyromalice"
+VortarRaider3bUnique			"Rocdémon"
+VortarRaider4Unique			"Igniputride"
+VortarRaider4bUnique			"Noctogrief"
+VortarRaider5Unique			"Queuefutée"
+VortarRaider5bUnique			"Touchelamenace"
+
+VortarRaider1Legend			"Vitessedebrute"
+VortarRaider2Legend			"Cruellebrute"
+VortarRaider3Legend			"Sanguinofurie"
+VortarRaider4Legend			"Œil-de-vipère"
+VortarRaider5Legend			"Kai"
+
+VortarGuardian1				"Gardien vortar de saphir"
+VortarGuardian2				"Gardien vortar d'ambre"
+VortarGuardian3				"Gardien vortar d'onyx"
+VortarGuardian4				"Gardien vortar d'émeraude"
+VortarGuardian5				"Gardien vortar d'améthyste"
+
+VortarGuardian1Unique			"Braiso-démolisseur"
+VortarGuardian1bUnique			"Maliroc"
+VortarGuardian2Unique			"Ponte-ailée"
+VortarGuardian2bUnique			"Braiso'rage"
+VortarGuardian3Unique			"Foudropilonne"
+VortarGuardian3bUnique			"Viletouche"
+VortarGuardian4Unique			"Toxicocarnage"
+VortarGuardian4bUnique			"Pierre Coupante"
+VortarGuardian5Unique			"Sire Crépuscule"
+VortarGuardian5bUnique			"Cryobrute"
+
+VortarGuardian1Legend			"Obscuroravageur"
+VortarGuardian2Legend			"Egorge'âme"
+VortarGuardian3Legend			"Sauvageterreur"
+VortarGuardian4Legend			"Ecras'arcane"
+VortarGuardian5Legend			"Raseur"
+
+FlamingClaws				"Griffes enflammées"
+
+NpcMarriage				"##1## et ##2## sont désormais mariés."
+NpcDivorce				"##1## et ##2## divorcent."
+
+RylorTaunt				"Rylor Sarcasme"
+
+QuestAnnouncePayingTraitors		"##1## paye beaucoup d'or aux traîtres."
+QuestTextPayingTraitors			"Nous avons découvert que ##1## paye un grand prix quiconque trahit la ville. Nous ne pouvons pas laisser faire ça. Allez le tuer avant qu'il puisse corrompre nos habitants !"
+
+FireWeaponSmallPowerupName		"Arme enflammée"
+PoisonWeaponSmallPowerupName		"Arme empoisonnée"
+AcidWeaponSmallPowerupName		"Arme ruisselant d'acide"
+
+EmptyVial				"Flacon vide"
+EmptyVialDesc				"Utilisez puis cliquez sur quelque chose dans le\nmonde pour le mettre à l'intérieur (comme de l'huile)"
+
+HardcoreHeroes				"Héros Hardcore"
+HardcoreHero				"                            ^f003Héros Hardcore # ##1##^f001"
+HardcoreHeroSeparator			"                           ---------------------------"
+HardcoreHeroNameTitle			"##1##, ##3## de niv. ##2##"
+St					""
+Rd					""
+Th					""
+HardcoreHeroTowns			"Villes sauvées ^c002##1##^c145, perdues ^c001##2##^c145, et abandonnées ^c005##3##^c145"
+HardcoreHeroBestKill			"Tueur de ##1##"
+HardcoreHeroDead			"^c001Mort^c145"
+HardcoreHeroAlive			"^c002Toujours en vie^c145"
+HardcoreHeroKilledBy			"^c001Tué par^c145 ##1##"
+HardcoreHeroWeapon			"Manieur de ##1##"
+HardcoreHeroArmor			"Porteur de ##1##"
+HardcoreHeroNone			"Aucun personnage hardcore trouvé"
+HardcoreHeroScore			"Score"
+HardcoreHeroScoreLevel			"Niveau"
+
+QuestTextInvasion3Waves			"Les ##1## envahissent la ville en 3 vagues. S'il-vous-plaît, gardez-nous an sécurité et tuez-les tous."
+QuestTextInvasion6Waves			"Les ##1## envahissent la ville en 6 vagues. S'il-vous-plaît, gardez-nous an sécurité et tuez-les tous."
+QuestTextInvasion9Waves			"Les ##1## envahissent la ville en 9 vagues. S'il-vous-plaît, gardez-nous an sécurité et tuez-les tous."
+QuestTextInvasion100Waves		"Les ##1## envahissent la ville en 100 vagues. S'il-vous-plaît, gardez-nous an sécurité et tuez-les tous."
+
+QuestInvasionWave			"La vague d'invasion ##1## sur ##2## attaque maintenant !"
+QuestInvasionWaveTime			"##1## minute##2## jusqu'à la vague d'invasion suivante !"
+
+WorldStart100WaveInvasion		"Mode invasion"
+WorldStart100WaveInvasionDesc		"Mode invasion : Le monde commence avec une quête d'invasion de 100 vagues."
+
+QuestAnnounceBarbarianRaid		"Des ##1##s font une razzia sur la ville !"
+
+Barbarian1				"Barbare de la Légion de la Peur"
+Barbarian2				"Barbare de Mort & Destruction"
+Barbarian3				"Barbare de Raid & Pillage"
+Barbarian4				"Barbare des Raiders noirs"
+Barbarian5				"Barbare des Tueurs Brutaux"
+Barbarian6				"Barbare de la Ligue de l'Ombre"
+
+DinBlessing				"Bénédiction de Din"
+
+Achievements				"Succès"
+AchievementUnlocked			"^c002Atteint !^c145"
+AchievementLocked			"^c001Pas encore atteint.^c145"
+
+UnlockAwardKills1			"^c061Tueur^c145"
+UnlockAwardKills2			"^c061Egorgeur^c145"
+UnlockAwardKills3			"^c061Exécuteur^c145"
+UnlockAwardKillsDesc			"Débloqué après avoir tué ##1## monstres"
+
+UnlockAwardSecrets1			"^c061Oeil d'aigle^c145"
+UnlockAwardSecrets2			"^c061Chasseur de trésors^c145"
+UnlockAwardSecretsDesc			"Débloqué après avoir trouvé ##1## secrets"
+
+UnlockAwardDeaths1			"^c061Juste humain^c145"
+UnlockAwardDeathsDesc			"Débloqué après être mort ##1## fois"
+
+UnlockAwardGoldFound1			"^c061Chanceux^c145"
+UnlockAwardGoldFound2			"^c061Leprechaun^c145"
+UnlockAwardGoldFoundDesc		"Débloqué après avoir trouvé ##1##"
+
+UnlockAwardQuestsSolved1		"^c061Chercheur^c145"
+UnlockAwardQuestsSolved2		"^c061Aventurier^c145"
+UnlockAwardQuestsSolvedDesc		"Débloqué après avoir résolu ##1## quêtes"
+
+UnlockAwardGamesWon1			"^c061Héros^c145"
+UnlockAwardGamesWon2			"^c061Guardien^c145"
+UnlockAwardGamesWon3			"^c061Sauveur^c145"
+UnlockAwardGamesWonDesc			"Débloqué après avoir sauvé ##1## villes"
+
+UnlockAwardMoney1			"^c061Riche^c145"
+UnlockAwardMoneyDesc			"Débloqué après avoir acquis ##1##"
+
+UnlockAwardLevel1			"^c061Ultime^c145"
+UnlockAwardLevelDesc			"Débloqué dès qu'un de vos personnages atteint le niveau ##1##"
+
+UnlockAwardBaseStrength1		"^c061Puissant^c145"
+UnlockAwardBaseStrengthDesc		"Débloqué dès qu'un de vos personnages atteint ##1## de force de base"
+
+UnlockAwardBaseDexterity1		"^c061Agile^c145"
+UnlockAwardBaseDexterityDesc		"Débloqué dès qu'un de vos personnages atteint ##1## de dextérité de base"
+
+UnlockAwardBaseVitality1		"^c061Bien portant comme un bœuf^c145"
+UnlockAwardBaseVitalityDesc		"Débloqué dès qu'un de vos personnages atteint ##1## de vitalité de base"
+
+UnlockAwardBaseIntelligence1		"^c061Brillant^c145"
+UnlockAwardBaseIntelligenceDesc		"Débloqué dès qu'un de vos personnages atteint ##1## d'intelligence de base"
+
+UnlockAwardBaseSpirit1			"^c061Divinité^c145"
+UnlockAwardBaseSpiritDesc		"Débloqué dès qu'un de vos personnages atteint ##1## d'esprit de base"
+
+UnlockAwardAttack1			"^c061Vrai but^c145"
+UnlockAwardAttackDesc			"Débloqué dès qu'un de vos personnages atteint ##1## en attaque"
+
+UnlockAwardDefense1			"^c061Sentinelle^c145"
+UnlockAwardDefenseDesc			"Débloqué dès qu'un de vos personnages atteint ##1## en défense"
+
+UnlockAwardArmor1			"^c061Fortifié^c145"
+UnlockAwardArmorDesc			"Débloqué dès qu'un de vos personnages atteint ##1## en armure"
+
+UnlockAwardBestTrapDisarmed1		"^c061Doigts déliés^c145"
+UnlockAwardBestTrapDisarmedDesc		"Débloqué dès qu'un de vos personnages désarme un piège de niveau ##1##"
+
+UnlockAwardMaxHealthHealed1		"^c061Soigneur^c145"
+UnlockAwardMaxHealthHealedDesc		"Débloqué dès qu'un de vos personnages a soigné au moins ##1## points de santé"
+
+UnlockAwardEquipmentWorth1		"^c061Envie^c145"
+UnlockAwardEquipmentWorth2		"^c061Armure dorée^c145"
+UnlockAwardEquipmentWorthDesc		"Débloqué dès qu'un de vos personnages a un équipement valant au moins ##1##"
+
+UnlockAwardKillsPerDeath1		"^c061Tueur efficace^c145"
+UnlockAwardKillsPerDeath2		"^c061Déchaînement^c145"
+UnlockAwardKillsPerDeathDesc		"Débloqué dès qu'un de vos personnages a fait au moins ##1## victimes par vie"
+
+UnlockAwardMagicChance1			"^c061Patte de Lapin^c145"
+UnlockAwardMagicChanceDesc		"Débloqué dès qu'un de vos personnages a au moins +##1##% de chances de magie"
+
+UnlockAwardMaxDamageDealt1		"^c061Fracasseur^c145"
+UnlockAwardMaxDamageDealt2		"^c061Concasseur^c145"
+UnlockAwardMaxDamageDealtDesc		"Débloqué dès qu'un de vos personnages a infligé au moins ##1## dégâts"
+
+UnlockAwardWarrior			"^c061Voie de la Puissance^c145"
+UnlockAwardWarriorDesc			"Débloqué dès qu'un de vos personnages de classe guerrier s'est vu accorder la liberté"
+
+UnlockAwardRogue			"^c061Voie de la Furtivité^c145"
+UnlockAwardRogueDesc			"Débloqué dès qu'un de vos personnages de classe roublard s'est vu accorder la liberté"
+
+UnlockAwardPriest			"^c061Voie de la Foi^c145"
+UnlockAwardPriestDesc			"Débloqué dès qu'un de vos personnages de classe prêtre s'est vu accorder la liberté"
+
+UnlockAwardWizard			"^c061Voie de la Magie^c145"
+UnlockAwardWizardDesc			"Débloqué dès qu'un de vos personnages de classe ensorceleur s'est vu accorder la liberté "
+
+UnlockAwardConjurer			"^c061Voie des Ténèbres^c145"
+UnlockAwardConjurerDesc			"Débloqué dès qu'un de vos personnages de classe conjureur s'est vu accorder la liberté"
+
+UnlockAwardRanger			"^c061Voie de la Forêt^c145"
+UnlockAwardRangerDesc			"Débloqué dès qu'un de vos personnages de classe ranger s'est vu accorder la liberté"
+
+UnlockAwardHybrid			"^c061Voie de l'Inconnu^c145"
+UnlockAwardHybridDesc			"Débloqué dès qu'un de vos personnages de classe hybride s'est vu accorder la liberté"
+
+UnlockAwardDemonHunter			"^c061Voie du Démon^c145"
+UnlockAwardDemonHunterDesc		"Débloqué dès qu'un de vos personnages de classe chasseur de démons s'est vu accorder la liberté"
+
+UnlockAwardMaxDamageDealtAtOnce1	"^c061Marchand de Mort^c145"
+UnlockAwardMaxDamageDealtAtOnce2	"^c061Destructeur^c145"
+UnlockAwardMaxDamageDealtAtOnceDesc	"Débloqué dès qu'un de vos personnages a infligé au moins ##1## dégâts en une fois"
+
+UnlockAwardFreedom			"^c061Liberté !^c145"
+UnlockAwardFreedomDesc			"Débloqué dès qu'un de vos personnage s'est vu accorder sa liberté"
+
+UnlockAwardChampion			"^c061Champion de Din !^c145"
+UnlockAwardChampionDesc			"Débloqué dès qu'un de vos personnage devient un Champion de Din"
+
+UnlockAwardElite			"^c061Elite de Din !^c145"
+UnlockAwardEliteDesc			"Débloqué dès qu'un de vos personnage devient l'Elite de Din"
+
+UnlockAwardLegend			"^c061Légende de Din !^c145"
+UnlockAwardLegendDesc			"Débloqué dès qu'un de vos personnage devient Légende de Din"
+
+UnlockAwardHardcoreFreedom		"^c061Liberté Hardcore !^c145"
+UnlockAwardHardcoreFreedomDesc		"Débloqué dès qu'un de vos personnages hardcore s'est vu accorder sa liberté"
+
+UnlockAwardHardcoreChampion		"^c061Champion de Din hardcore !^c145"
+UnlockAwardHardcoreChampionDesc		"Débloqué dès qu'un de vos personnages hardcore devient un Champion de Din"
+
+UnlockAwardHardcoreElite		"^c061Elite de Din hardcore !^c145"
+UnlockAwardHardcoreEliteDesc		"Débloqué dès qu'un de vos personnages hardcore devient l'Élite de Din"
+
+UnlockAwardHardcoreLegend		"^c061Légende de Din hardcore !^c145"
+UnlockAwardHardcoreLegendDesc		"Débloqué dès qu'un de vos personnages hardcore devient Légende de Din"
+
+UnlockAwardInvasion			"^c061Survivant à l'invasion^c145"
+UnlockAwardInvasionDesc			"Débloqué dès qu'un personnage a survécu à une invasion de 100 vagues"
+
+DemonGate				"Portail de Démon"
+DemonRune				"Rune de démon"
+
+TrapArrowSlit				"Piège fente à flèches"
+
+AreaDungeonDW1				"La Tombe Démoniaque"
+AreaDungeonDW2				"Le Sanctuaire Corrompu"
+AreaDungeonDW3				"La Crypte Oubliée"
+AreaDungeonDW4				"La Tombe Hantée"
+AreaDungeonDW5				"La Crypte Abandonnée"
+AreaDungeonDW6				"Les Halles de la Saleté"
+
+AreaCaveDW1				"L'Étreinte de la Mort"
+AreaCaveDW2				"Les Catacombes du Vent des Morts"
+AreaCaveDW3				"La Fosse du Chagrin"
+AreaCaveDW4				"Le Labyrinthe Sinistre"
+AreaCaveDW5				"Les Profondeurs Oubliées"
+AreaCaveDW6				"La Caverne de Cristal"
+AreaCaveDW7				"L'Abysse Infernal"
+AreaCaveDW8				"Le Requiem de l'Égorgeur"
+AreaCaveDW9				"Le Domaine des Morts"
+
+RylorRipper				"Éventreur Rylor"
+WingedRylorWrecker			"Démolisseur rylor ailé"
+KrallWarriorMasher			"Pilonneur guerrier krall"
+VortarSoldierSlayer			"Égorgeur soldat vortar"
+VortarGuardianGorer			"Gardien gore vortar"
+KrallWorkerKiller			"Tueur de Travailleur krall"
+VortarRaiderVexer			"Tracasseur de Raider vortar"
+RylorBullBarb				"Taureau rylor barbu"
+
+EgoWeaponLevelUp			"L'arme à Ego monte de niveau, +##1## de dégâts max. de base"
+
+Rylor4LegendWeapon			"Hache de $$Rylor4Legend$$"
+VortarSoldier1LegendWeapon		"Hache de $$VortarSoldier1Legend$$"
+VortarSoldier2LegendWeapon		"Hache de $$VortarSoldier2Legend$$"
+VortarSoldier3LegendWeapon		"Hache de $$VortarSoldier3Legend$$"
+VortarSoldier4LegendWeapon		"Hache de $$VortarSoldier4Legend$$"
+RylorBull3LegendWeapon			"Hache de $$RylorBull3Legend$$"
+RylorBull5LegendWeapon			"Hache de $$RylorBull5Legend$$"
+VortarGuardian5LegendWeapon		"Hache de $$VortarGuardian5Legend$$"
+Rylor5LegendWeapon			"Dague de $$Rylor5Legend$$"
+RylorWinged2LegendWeapon		"Dague de $$RylorWinged2Legend$$"
+VortarGuardian3LegendWeapon		"Dague de $$VortarGuardian3Legend$$"
+Rylor1LegendWeapon			"Masse de $$Rylor1Legend$$"
+Rylor2LegendWeapon			"Masse de $$Rylor2Legend$$"
+RylorWinged5LegendWeapon		"Masse de $$RylorWinged5Legend$$"
+RylorBull1LegendWeapon			"Masse de $$RylorBull1Legend$$"
+RylorBull2LegendWeapon			"Masse de $$RylorBull2Legend$$"
+RylorBull4LegendWeapon			"Masse de $$RylorBull4Legend$$"
+Rylor3LegendWeapon			"Bâton de $$Rylor3Legend$$"
+VortarGuardian1LegendWeapon		"Bâton de $$VortarGuardian1Legend$$"
+RylorWinged1LegendWeapon		"Arc de $$RylorWinged1Legend$$"
+RylorWinged3LegendWeapon		"Arc de $$RylorWinged3Legend$$"
+VortarGuardian2LegendWeapon		"Arc de $$VortarGuardian2Legend$$"
+VortarGuardian4LegendWeapon		"Arc de $$VortarGuardian4Legend$$"
+RylorWinged4LegendWeapon		"Epée de $$RylorWinged4Legend$$"
+VortarSoldier5LegendWeapon		"Epée de $$VortarSoldier5Legend$$"
+VortarRaider1LegendWeapon		"Epée de $$VortarRaider1Legend$$"
+VortarRaider2LegendWeapon		"Epée de $$VortarRaider2Legend$$"
+VortarRaider3LegendWeapon		"Épée de $$VortarRaider3Legend$$"
+VortarRaider4LegendWeapon		"Épée de $$VortarRaider4Legend$$"
+VortarRaider5LegendWeapon		"Épée de $$VortarRaider5Legend$$"
+
+QuestAnnounceHaltedMining		"Les opération d'extraction minière sont interrompues"
+QuestTitleHaltedMining			"Restaurer les opérations d'extraction minière"
+QuestTextHaltedMining			"Les ##1## sont devenus si dangereux que la ville a dû interrompre les opérations d'extraction minière. Veuillez en tuer quelques uns pour que nous puissions reprendre le travail. Pendant ce temps, les habitants gagnent moins d'argent. "
+
+QuestAnnounceInfestation		"La ville est infestée"
+QuestTitleInfestation			"Enrayer l'infestation"
+QuestTextInfestation			"La ville est infestée de petites bestioles, ce qui entraîne une hausse des prix de la nourriture. S'il-vous-plaît, veuillez vous en charger. Tout ce que vous avez à faire est de marcher sur les ##1## des petites choses et ça devrait régler le problème."
+QuestProgressInfestation		"Il en reste ##1## à écraser"
+
+QuestTitleFlowers			"Mettre des fleurs sur la tombe"
+QuestTextFlowers1			"J'ai un être cher qui a été enterré là où il est mort, juste en dessous. Je ne peux pas visiter sa tombe, mais j'aimerais que vous y déposiez ces fleurs."
+QuestTextFlowers2			"J'ai un être cher qui a été enterré là où elle est morte, juste en dessous. Je ne peux pas visiter sa tombe, mais j'aimerais que vous y déposiez ces fleurs."
+GravestoneLovedOne			"Pierre tombale de l'être aimé"
+
+QuestTitleRecoverBody			"Récupérer le corps"
+QuestTextRecoverBody1			"J'ai un ami qui a été tué en-dessous. Je veux lui offrir un enterrement convenable, mais je ne peux me rendre sur les lieux. Pourriez-vous retrouver le corps pour moi ?"
+QuestTextRecoverBody2			"J'ai une amie qui a été tuée là-dessous. Je veux lui offrir un enterrement convenable, mais je ne peux me rendre sur les lieux. Pourriez-vous retrouver le corps pour moi ?"
+FriendsBody				"Corps de l'ami(e)"
+
+GateIsBlocked				"Le portail est bloqué (Tuez ce qui en est responsable)"
+GateIsBlockedUprising			"Le portail est bloqué par un soulèvement de ##1##"
+GateIsBlockedUnique			"Le portail est bloqué par ##1##"
+
+QuestAnnounceUniqueBlockGate		"##1## bloque le portail dans ##2##."
+QuestAnnounceUniqueBlockGateFromBoss	"##3## a envoyé ##1## bloquer le portail dans ##2##."
+
+QuestTitleUniqueBlockGate		"Débloquer le système de portail"
+QuestTextUniqueBlockGate		"##1## bloque le portail dans ##2##. Avec ##1## sur notre chemin, personne ne peut traverser vers ##2## ni plus bas et une fois sous ce niveau, personne ne peut se téléporter en ville."
+
+FightStarted				"##1## a commencé une bagarre avec ##2##."
+FightStopped				"La bagarre entre ##1## et ##2## a cessé."
+
+QuestAnnounceUprisingBlockGate		"Un soulèvement de ##1## bloque le portail dans ##2##."
+QuestAnnounceUprisingBlockGateFromBoss		"##3## a lancé un soulèvement de ##1## pour bloquer le portail dans ##2##."
+QuestAnnounceUprisingBlockGateFromMonsterHunter	"Un chasseur ##3## a lancé un soulèvement de ##1## pour bloquer le portail dans ##2##."
+QuestAnnounceUprisingBlockGateFromUniqueMonsterSpotted	"##3## a lancé un soulèvement de ##1## pour bloquer le portai dans ##2##."
+QuestAnnounceUprisingBlockGateFromKillMonsterGroup	"Le groupe de ##3## a lancé un soulèvement de ##1## pour bloquer le portail dans ##2##."
+QuestAnnounceUprisingBlockGateFromWar		"Une guerre a mené à un soulèvement de ##1##, bloquant le portail dans ##2##."
+
+QuestTitleUprisingBlockGate		"Soulèvement de ##1## bloquant un portail"
+QuestTextUprisingBlockGate		"Le portail dans ##2## est bloqué à cause d'un soulèvement de ##1##. Avec ##1## sur le chemin, personne ne peut passer le portail dans ##2## ni plus bas, et une fois au dessous de ce niveau, personne ne peut remonter en ville."
+
+QuestAnnounceOverlord			"##1## est maintenant Suzerain du souterrain."
+QuestTitleOverlord			"Tuez ##1## le Suzerain"
+QuestTextOverlord			"##1## a pris le souterrain entier. Les Suzerains sont extrêmement dangereux. Normalement, ils n'attaquent pas la ville directement, mais ils peuvent susciter de nombreux problèmes chez nous. Ils peuvent même établir des bosses. Allez tuer ##1## dès que vous pourrez descendre jusqu'à lui."
+
+QuestAnnounceUprisingFromQuestOverlord		"Le Suzerain ##3## a lancé un soulèvement de ##1## dans ##2##."
+QuestAnnounceMonsterHunterFromQuestOverlord	"Le Suzerain ##3## a envoyé un chasseur ##1## dans ##2##."
+QuestAnnounceWarFromQuestOverlord		"Le Suzerain ##3## a poussé les ##1##s déclarer la guerre aux ##2##s."
+QuestAnnounceUniqueBlockGateFromQuestOverlord	"Le Suzerain ##2## a envoyé ##1## bloquer un portail !"
+QuestAnnounceUprisingBlockGateFromQuestOverlord	"Le Suzerain ##3## a lancé un soulèvement de ##1## pour bloquer le portail dans ##2##."
+QuestAnnounceBossFromQuestOverlord		"Le Suzerain ##3## a établi ##1## comme nouveau boss dans ##2##."
+
+QuestAnnounceUniqueFallenHero		"##1## garde le trésor de ##4##."
+QuestTitleUniqueFallenHero		"Retrouver le trésor du héros tombé au combat"
+QuestTextUniqueFallenHero		"##1## garde le trésor d'un héros mort. Si vous parvenez à le tuer, vous obtiendrez une partie du trésor du héros tombé au combat."
+
+FallenHeroChestName			"Trésor de ##1##"
+ChestQuestLocked			"Le coffre est protégé"
+
+Tornado					"Tornade"
+
+QuestAnnounceUniqueRaider		"##1## garde le trésor de ##4##."
+QuestTitleUniqueRaider			"Retrouver le trésor d'un héros défunt"
+QuestTextUniqueRaider			"##1## garde le trésor d'un héros défunt. Si vous parvenez à tuer ##1##, vous obtiendrez une partie du trésor du héros déchu."
+
+QuestAnnounceUniqueMachinist		"##1## le Machiniste a été repéré dans ##2##."
+QuestTitleUniqueMachinist		"Tuer ##1## le Machiniste"
+QuestTextUniqueMachinist		"##1## le Machiniste a été repéré. ##1## est connu pour construire des machines maléfiques qui sont extrêmement dangereuses pour ses ennemis. Tuez-le avant qu'il ne puisse construire quoi que ce soit !"
+
+QuestAnnounceUniqueWarMonger		"##1## le Belliqueux a été repéré dans ##2##."
+QuestTitleUniqueWarMonger		"Tuer ##1## le Belliqueux"
+QuestTextUniqueWarMonger		"##1## le Belliqueux a été repéré. ##1## est connu pour déclencher autant de guerres que possible afin de causer autant de chaos que possible. Tuez-le avant qu'il ne commence à faire du grabuge !"
+
+QuestAnnounceUniqueMonsterSpottedFromQuestRescue	"##1## est furieux parce que nous avons recouru une de ses victimes !"
+
+ScarIntro				"Nouveau en ville ? Je le savais. Je suis le seul maître de bêtes dans les parages. Vous voulez un familier, je suis votre homme."
+
+LifeStealPerHitX			"Vol de vie : +##1## santé par coup"
+LifeStealPerKillX			"Vol d'âme : +##1## santé par victime"
+ManaStealPerHitX			"Vol de mana : +##1## mana par coup"
+ManaStealPerKillX			"Vol de mana : +##1## mana par victime"
+ManaStealPerBlockX			"Absorption d'énergie : +##1## mana par blocage"
+
+LifeStealPerHitModifierName1		"du Parasite"
+LifeStealPerHitModifierName2		"de la Liche"
+LifeStealPerHitModifierName3		"du Candiru"
+LifeStealPerHitModifierName4		"de la Lamproie"
+LifeStealPerHitModifierName5		"de la Chauve-souris"
+LifeStealPerHitModifierName6		"du Chupacabra"
+LifeStealPerHitModifierName7		"du Vampire"
+
+LifeStealPerKillModifierName1		"de Source"
+LifeStealPerKillModifierName2		"d'Essence"
+LifeStealPerKillModifierName3		"de Sang de Vie"
+LifeStealPerKillModifierName4		"du noyau"
+LifeStealPerKillModifierName5		"d'Esprit"
+LifeStealPerKillModifierName6		"d'Ame"
+
+ManaStealPerHitModifierName1		"Suintant"
+ManaStealPerHitModifierName2		"Epuisant"
+ManaStealPerHitModifierName3		"Extrayant"
+ManaStealPerHitModifierName4		"Sapant"
+ManaStealPerHitModifierName5		"Exsudant"
+ManaStealPerHitModifierName6		"Drainant"
+
+ManaStealPerKillModifierName1		"de Saisie"
+ManaStealPerKillModifierName2		"d'Etreinte"
+ManaStealPerKillModifierName3		"de Récolte"
+ManaStealPerKillModifierName4		"de Fauchage"
+
+ManaStealPerBlockModifierName1		"Absorbant"
+ManaStealPerBlockModifierName2		"Imbibant"
+ManaStealPerBlockModifierName3		"Consumant"
+ManaStealPerBlockModifierName4		"Digérant"
+ManaStealPerBlockModifierName5		"Gavant"
+ManaStealPerBlockModifierName6		"Dévorant"
+
+QuestAnnounceUniqueMassacre		"Il y a eu un massacre dans ##2## !"
+QuestTitleUniqueMassacre		"Venger le massacre"
+QuestTextUniqueMassacre			"##1## a déjà massacré de nombreux humains. Tuez-le avant qu'il puisse faire mire !"
+
+QuestAnnounceRescueDisappeared		"##1## a disparu."
+QuestTitleRescueDisappeared		"Trouver ##1##"
+QuestTextRescueDisappeared		"Nous ignorons ce qui est arrivé à ##1##. Veuillez vous en charger."
+
+QuestAnnounceRenegadeDisappeared	"##1## a disparu."
+QuestTitleRenegadeDisappeared		"Trouver ##1##"
+QuestTextRenegadeDisappeared		"Nous ignorons ce qui est arrivé à ##1##. Veuillez vous en charger."
+
+AxeNameExp1-1				"Hache viking en mithril"
+AxeNameExp1-2				"Hache viking en adamantium"
+
+AxeTwoHandedNameExp1-1			"Hache d'exécuteur en mithril"
+AxeTwoHandedNameExp1-2			"Hache d'exécuteur en adamantium"
+
+BowNameExp1-1				"Arc composite en hickory"
+BowNameExp1-2				"Arc composite en if"
+
+DaggerNameExp1-1			"Dague enflammée en mithril"
+DaggerNameExp1-2			"Dague enflammée en adamantium"
+
+MaceNameExp1-1				"Double fléau en mithril"
+MaceNameExp1-2				"Double fléau en adamantium"
+
+MaceTwoHandedNameExp1-1			"Martel géant en mithril"
+MaceTwoHandedNameExp1-2			"Martel géant en adamantium"
+
+StaffNameExp1-1				"Bâton en mithril"
+StaffNameExp1-2				"Bâton en adamantium"
+
+SwordNameExp1-1				"Épée de guerre en mithril"
+SwordNameExp1-2				"Épée de guerre en adamantium"
+
+SwordTwoHandedNameExp1-1		"Épée de seigneur de guerre en mithril"
+SwordTwoHandedNameExp1-2		"Épée de seigneur de guerre en adamantium"
+
+ShieldNameExp1-1			"Bouclier de templier en mithril"
+ShieldNameExp1-2			"Bouclier de templier en adamantium"
+
+BeltClothNameExp1-1			"Ceinturon de soie imprégnée"
+BeltClothNameExp1-2			"Ceinturon de soie à rune"
+
+BeltLeatherNameExp1-1			"Ceinturon en peau imprégnée"
+BeltLeatherNameExp1-2			"Ceinturon en peau à rune"
+
+BeltMailNameExp1-1			"Ceinturon en écailles de mithril"
+BeltMailNameExp1-2			"Ceinturon en écailles d'adamantium"
+
+BeltPlateNameExp1-1			"Ceinturon de mithril"
+BeltPlateNameExp1-2			"Ceinturon en adamantium"
+
+BootsClothNameExp1-1			"Bottes de soir imprégnée"
+BootsClothNameExp1-2			"Bottes de soie à rune"
+
+BootsLeatherNameExp1-1			"Bottes de peau imprégnée"
+BootsLeatherNameExp1-2			"Bottes de peau à rune"
+
+BootsMailNameExp1-1			"Bottes à écailles en mithril"
+BootsMailNameExp1-2			"Bottes à écailles en adamantium"
+
+BootsPlateNameExp1-1			"Bottes en mithril"
+BootsPlateNameExp1-2			"Bottes en adamantium"
+
+CapeClothNameExp1-1			"Pèlerine de soie imprégnée"
+CapeClothNameExp1-2			"Pèlerine de soie à rune"
+
+ChestClothNameExp1-1			"Tunique de soie imprégnée"
+ChestClothNameExp1-2			"Tunique de soie à rune"
+
+ChestLeatherNameExp1-1			"Harnois de peau imprégnée"
+ChestLeatherNameExp1-2			"Harnois de peau à rune"
+
+ChestMailNameExp1-1			"Pièce de poitrine à écailles en mithril"
+ChestMailNameExp1-2			"Pièce de poitrine à écailles en adamantium"
+
+ChestPlateNameExp1-1			"Plastron en mithril"
+ChestPlateNameExp1-2			"Plastron en adamantium"
+
+GlovesClothNameExp1-1			"Gants de soie imprégnée"
+GlovesClothNameExp1-2			"Gants de soie à rune"
+
+GlovesLeatherNameExp1-1			"Gants de peau imprégnée"
+GlovesLeatherNameExp1-2			"Gants de peau à rune"
+
+GlovesMailNameExp1-1			"Gantelets à écailles en mithril"
+GlovesMailNameExp1-2			"Gantelets à écailles en adamantium"
+
+GlovesPlateNameExp1-1			"Gantelets en mithril"
+GlovesPlateNameExp1-2			"Gantelets en adamantium"
+
+GreavesClothNameExp1-1			"Jambières en soie imprégnée"
+GreavesClothNameExp1-2			"Jambières en soie à rune"
+
+GreavesLeatherNameExp1-1		"Jambières en peau imprégnée"
+GreavesLeatherNameExp1-2		"Jambières en peau à rune"
+
+GreavesMailNameExp1-1			"Grêves à écailles en mithril"
+GreavesMailNameExp1-2			"Grêves à écailles en adamantium"
+
+GreavesPlateNameExp1-1			"Cuissardes en mithril"
+GreavesPlateNameExp1-2			"Cuissardes en adamantium"
+
+HelmetClothNameExp1-1			"Capuche en soie imprégnée"
+HelmetClothNameExp1-2			"Capuche en soie à rune"
+
+HelmetLeatherNameExp1-1			"Heaume en peau imprégnée"
+HelmetLeatherNameExp1-2			"Heaume en peau à rune"
+
+HelmetMailNameExp1-1			"Casque à écailles en mithril"
+HelmetMailNameExp1-2			"Casque à écailles en adamantium"
+
+HelmetPlateNameExp1-1			"Casque en mithril"
+HelmetPlateNameExp1-2			"Casque en adamantium"
+
+ShoulderClothNameExp1-1			"Épaulières en soie imprégnée"
+ShoulderClothNameExp1-2			"Épaulières en soie à rune"
+
+ShoulderLeatherNameExp1-1		"Spallières en peau imprégnée"
+ShoulderLeatherNameExp1-2		"Spallières en peau à rune"
+
+ShouldersMailNameExp1-1			"Spallières à écailles en mithril"
+ShouldersMailNameExp1-2			"Spallières à écailles en adamantium"
+
+ShouldersPlateNameExp1-1		"Spallières en mithril"
+ShouldersPlateNameExp1-2		"Spallières en adamantium"
+
+WristsClothNameExp1-1			"Brassards de soie imprégnée"
+WristsClothNameExp1-2			"Brassards de soie à rune"
+
+WristsLeatherNameExp1-1			"Brassards en peau imprégnée"
+WristsLeatherNameExp1-2			"Brassards en peau à rune"
+
+WristsMailNameExp1-1			"Brassards à écailles en mithril"
+WristsMailNameExp1-2			"Brassards à écailles en adamantium"
+
+WristsPlateNameExp1-1			"Canons d'avant-bras en mithril"
+WristsPlateNameExp1-2			"Canons d'avant-bras en adamantium"
+
+NpcFight				"Combat avec le joueur"
+NpcFightDesc				"Un joueur a engagé un combat avec ce PNJ.\nPrenez garde de ne pas tuer les PNJ que vous souhaitez garder en vie !"
+
+StartFight				"Combat"
+StartFightDesc				"Choisissez cette action si vous voulez combattre ce PNJ.\nEst-ce vraiment ce que vous voulez ?"
+
+ConfirmStartFight			"Etes-vous sûr de vouloir attaquer ce PNJ ?"
+
+QuestAnnounceUprisingFromQuestUprising	"Un soulèvement établi a mené à un nouveau soulèvement de ##1## dans ##2##."
+
+QuestAnnounceMonsterQuestItemRitual	"##3## a besoin de davantage de ##2##s de ##1## pour un rituel."
+QuestTitleMonsterQuestItemRitual	"Trouvez ##1## ##3## de ##2## pour un rituel."
+QuestTextMonsterQuestItemPersonalRitual	"Les gens du coin ne vont pas aimer ce que je fais, mais j'ai besoin de ##1## ##3## de ##2## pour un vieux rituel que j'aimerais pratiquer. Je vous paierai bien pour les parties du corps dont j'ai besoin !"
+
+QuestAnnounceWarParty			"Il y a un parti belliciste (War Party) de ##1## dans ##2##."
+QuestTitleWarParty			"Tuer le parti belliciste de ##1##"
+QuestTextWarParty			"Il y a un parti belliciste de ##1## dans ##2##. Allez vous charger d'eux avant qu'ils ne nous prennent pour cible !"
+
+QuestAnnounceWarFromQuestWarParty			"Le parti belliciste a poussé les ##1##s à déclarer la guerre aux ##2##s."
+QuestAnnounceTownAttackFromQuestWarParty		"Des ##1## du parti belliciste attaquent la ville !"
+QuestAnnounceRaidFromQuestWarParty			"Des ##1## du parti belliciste font un raid sur la ville !"
+QuestAnnounceInvasionFromQuestWarParty			"Des ##1## du parti belliciste envahissent la ville !"
+QuestAnnounceWarAgainstBarbariansFromQuestWarParty	"Un parti belliciste nous a entraînés dans une guerre avec les ##1##."
+
+DisplayEquipment			"Equippement"
+
+BasicVest				"Veste basique"
+BasicLeggings				"Chausses basiques"
+BasicBoots				"Bottes basiques"
+BasicGloves				"Gants basiques"
+CantReplaceWithCheaperItem		"Ne peut être remplacé par un objet moins cher !"
+
+QuestTextMonsterQuestCommonEnemy	"Je crois que nous avons un ennemi commun, le ##1##. Faites-nous une faveur à tous deux et tuez ##2## ##1##."
+
+MissingShipment				"Cargaison disparue"
+
+QuestAnnounceMissingShipmentFood	"Une cargaison de nourriture cruciale a été perdue."
+QuestAnnounceMissingShipmentFoodFromMonsterHunter	"Une cargaison de nourriture cruciale a été perdue, à cause d'un chasseur de monstres."
+QuestAnnounceMissingShipmentFoodFromRenegade		"Une cargaison de nourriture cruciale a été perdue, à cause d'un renégat."
+QuestTitleMissingShipmentFood		"Trouver le chargement de nourriture perdu"
+QuestTextMissingShipmentFood		"Une cargaison de nourriture cruciale a été perdue en bas dans le souterrain. Veuillez la retrouver. Jusque là, les prix de la nourriture seront augmentés."
+
+QuestAnnounceMissingShipmentWater	"Une cargaison d'eau cruciale a été perdue."
+QuestAnnounceMissingShipmentWaterFromMonsterHunter	"Une cargaison d'eau cruciale a été perdue, à cause d'un chasseur de monstres."
+QuestAnnounceMissingShipmentWaterFromRenegade		"Une cargaison d'eau cruciale a été perdue, à cause d'un renégat."
+QuestTitleMissingShipmentWater		"Trouver la cargaison d'eau"
+QuestTextMissingShipmentWater		"Une cargaison d'eau cruciale a été perdue dans le souterrain. Veuillez la retrouver. Jusque là, les prix des boissons seront augmentés."
+
+
+ItemSupplyPriceDesc			"Les réserves d'objets sont basses et coûtent actuellement ##1##% de plus que la normale."
+
+QuestAnnounceMissingShipmentItem	"Un chargement d'objets crucial a été perdu."
+QuestAnnounceMissingShipmentItemFromMonsterHunter	"Un chargement d'objet crucial a été perdu, à cause d'un chasseur de démons."
+QuestAnnounceMissingShipmentItemFromRenegade		"Un chargement d'objets critique a été perdu, à cause d'un renégat."
+QuestTitleMissingShipmentItem		"Trouver le chargement d'objets perdu"
+QuestTextMissingShipmentItem		"Un chargement d'objets critique a été perdu  en bas dans le souterrain. Veuillez le retrouver. Pendant ce temps, les prix des objets seront augmentés."
+
+QuestAnnouncePillage			"##1## pillent la ville !"
+QuestAnnouncePillageFromBoss		"##2## a envoyé ##1## piller la ville !"
+QuestAnnouncePillageFromUniqueMonsterSpotted		"##2## a envoyé ##1## piller la ville !"
+QuestAnnouncePillageFromKillMonsterGroup		"Le groupe de ##2## a envoyé ##1## piller la ville !"
+QuestAnnouncePillageFromUprising	"Des partisans d'un soulèvement de ##1## sont en train de piller la ville !"
+QuestAnnouncePillageFromMonsterScout	"L'éclaireur ##2## a fait entrer des ##1## pilleurs !"
+QuestAnnouncePillageFromWarAgainstBarbarians	"En raison de notre guerre avec les ##1##, ils sont en train de piller la ville !"
+
+QuestAnnouncePillageFromQuestMonsterGathering	"Des partisans d'un rassemblement de monstres dans ##1## sont en train de piller la ville !"
+QuestAnnouncePillageFromQuestAreaOverrun		"Des ##1## de la zone envahie sont en train de piller la ville !"
+
+QuestTitlePillage			"Arrêter les pilleurs ##1##"
+QuestTextPillage			"Les ##1## sont en train de piller la ville. Dépêchez-vous, s'il-vous-plaît, et tuez les tous. Assurez-vous de détruire aussi le portail."
+
+QuestAnnounceEvidenceWorshipMortus	"Quelqu'un dans cette ville vénère le dieu maléfique Mortus !"
+QuestTitleEvidenceWorshipMortus		"Trouver qui vénère le dieu maléfique Mortus"
+QuestTextEvidenceWorshipMortus		"Certaines personnes dans cette ville vénèrent le dieu maléfique Mortus. S'il-vous-plaît, ramenez des preuves de leur identité afin qu'ils puissent être punis."
+QuestEndEvidenceWorshipMortus		"Preuve de la vénération de Mortus détruite."
+
+EvidenceEvilGodWorship			"Preuve de la vénération de dieux maléfiques"
+CaughtEvilGodWorship			"##1## a été pris à vénérer des dieux maléfiques !"
+
+QuestAnnounceEvidenceWorshipErillin	"Quelqu'un d'ici vénère la déesse maléfique Erillin !"
+QuestTitleEvidenceWorshipErillin	"Trouver qui vénère la déesse maléfique Erillin"
+QuestTextEvidenceWorshipErillin		"Quelqu'un d'ici vénère la déesse maléfique Erillin. Veuillez ramener une preuve de son identité afin qu'il puisse être puni."
+QuestEndEvidenceWorshipErillin		"La preuve de la vénération d'Erillin a été détruite."
+
+QuestAnnounceEvidenceWorshipKracht	"Quelqu'un d'ici vénère le dieu maléfique Kracht !"
+QuestTitleEvidenceWorshipKracht		"Trouver qui vénère le dieu maléfique Kracht"
+QuestTextEvidenceWorshipKracht		"Quelqu'un d'ici vénère le dieu maléfique Kracht. Veuillez ramener une preuve de son identité afin qu'il puisse être puni."
+QuestEndEvidenceWorshipKracht		"La preuve de l'identité du vénérateur de Kracht a été détruite."
+
+QuestAnnounceEvidenceWorshipValta	"Quelqu'un d'ici vénère la déesse maléfique Valta !"
+QuestTitleEvidenceWorshipValta		"Trouver qui vénère la déesse maléfique Valta"
+QuestTextEvidenceWorshipValta		"Quelqu'un d'ici vénère la déesse maléfique Valta. Veuillez ramener une preuve de son identité pour qu'il puisse être puni."
+QuestEndEvidenceWorshipValta		"La preuve de l'identité du vénérateur de Valta a été détruite."
+
+FoundRoomPrisonLesser			"Trouvé prison mineure"
+FoundRoomPrison				"Trouvé prison"
+FoundRoomPrisonGreater			"Trouvé grande prison"
+
+// 1.012 changes
+
+NpcEquipmentTitle			"Équipement"
+NpcEquipmentText			"Les PNJ peuvent porter du tissu et du cuir"
+
+// 1.013 changes
+
+GateUnblocked				"##1## portail débloqué"
+
+WorldModifierNpcPace			"Tempo des PNJ"
+WorldModifierNormalNpcPace		"Tempo PNJ normal"
+WorldModifierNpcPaceDesc		"L'option de tempo des PNJ affecte la fréquence à laquelle les PNJ choisissent de faire des activités."
+
+WorldModifierSlowNpcPace		"Tempo PNJ lent"
+WorldModifierSlowNpcPaceDesc		"Tempo PNJ lent : les PNJ sont moins actifs que la normale."
+
+WorldModifierFastNpcPace		"Tempo PNJ rapide"
+WorldModifierFastNpcPaceDesc		"Tempo PNJ rapide : les PNJ sont beaucoup plus actifs que la normale."
+
+// 1.015 changes
+
+FireMasteryDescExp1			"Améliore les compétences de feu suivantes :\n$$FieryBlast$$, $$Fireball$$, $$SweepingFlames$$,\n$$ImmolationSkillName$$, $$VolcanoSkillName$$, $$MaelstromSkillName$$,\n$$HolyFire$$ ($$SkillTreeShaman$$), $$Lifeburn$$ ($$SkillTreeShaman$$),\n$$FlamingArrowSkillName$$ ($$SkillTreeArcher$$), $$ExplodingArrowSkillName$$ ($$SkillTreeArcher$$),\n$$ImmolationTrapSkillName$$ ($$SkillTreeHunter$$), $$FireStrikeSkill$$ ($$SkillTreeReaver$$)\net $$InfernoSkill$$ ($$SkillTreeDemonologist$$)."
+
+NpcLeftTownBanished			"##1## a quitté la ville (banni)."
+
+// 1.016 changes
+
+TownArmory				"Armoire municipale"
+TownArmoryDesc				"Placez des objets ici pour être automatiquement distribués aux habitants.\nPriorité est donnée aux donneurs de quête et aux marchands.\nLe produit de la vente de n'importe quel objet\nqui ne peut être utilisé ira à la loterie\nmunicipale."
+LotteryWinner				"##1## a gagné ##2## à la loterie municipale !"
+TownOutfitted				"##1## pièces d'armure ont été données à la population"
+
+QuestTextArmorsmithOutfitTown		"Je voudrais équiper une partie de la ville si vous me rameniez quelques fournitures. J'ai besoin de ##1## ##3## de ##2##."
+ItemDonatedTo				"##1## donnés à ##2##."
+LotteryIncreased			"##1## ajoutés à la loterie municipale, maintenant à ##2##."
+
+// 1.018 changes
+
+HardcoreModeAbbrev			"HC"
+CursedModeAbbrev			"Mau"
+EgoModeAbbrev				"E"
+UnluckyModeAbbrev			"Mal"
+PovertyModeAbbrev			"P"
+HonorableDeathModeAbbrev		"MH"
+FragileModeAbbrev			"F"
+ClumsyModeAbbrev			"Md"
+CharacterOptionsKey			"Touche"
+CharacterOptions			"Options"
+
+SemiHardcoreModeAbbrev			"SH"
+LostModeAbbrev				"P"
+PrimaDonnaModeAbbrev			"PD"
+OnlyHopeModeAbbrev			"SE"
+HungerModeAbbrev			"F"
+Level					"niveau"
+
+// 1.021 changes
+
+PreventsNpcFights			"Empêche les PNJ de se mettre à se battre"
+NpcNoFights				"Bénédiction de Din"
+ThankYou				"Merci"
+
+QuickTipExp1_1				"DW Truc 1 : Les armes à Ego peuvent monter en niveau quand vous les utilisez pour tuer des choses."
+QuickTipExp1_2				"DW Truc 2 : Vous pouvez arrêter un combat entre PNJ si vous continuez à donner de l'argent aux deux PNJ."
+QuickTipExp1_3				"DW Truc 3 : Équipez des PNJ de meilleurs objets pour leur donner une meilleure chance de survivre à un combat."
+QuickTipExp1_4				"DW Truc 4 : Vous pouvez équiper la ville entière en ajoutant des objets dans l'emplacement de l'armurerie municipale sur le maître de guerre."
+QuickTipExp1_5				"DW Truc 5 : Donner de l'argent aux PNJ ne les rendra pas heureux mais atténuera leurs problèmes."
+
+// 1.024 changes
+
+DemonWarCredits				"Equipe de Demon War"
+

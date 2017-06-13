@@ -1,0 +1,6 @@
+Soldat vortar
+
+	Le soldat vortar cornu a le pouvoir d'enflammer ses griffes traîtresses en combat. Il est impitoyable et vindicatif. Il n'au aucun prédateur naturel et règne souvent suprêmement dans les villes de démons.
+
+Capacités spéciales : $$FlamingClaws$$
+Variantes : $$VortarSoldier1$$ (ci-contre), $$VortarSoldier2$$, $$VortarSoldier3$$, $$VortarSoldier4$$ et $$VortarSoldier5$$

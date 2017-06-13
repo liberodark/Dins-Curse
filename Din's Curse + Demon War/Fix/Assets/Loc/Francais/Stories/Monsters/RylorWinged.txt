@@ -1,0 +1,6 @@
+Rylor Ailé
+
+	Descendants des rylors, les rylors ailés utilisent des blocs vicieux (wicked) et des attaques sauvages avec leurs ailes. Ils s'adaptent à de nombreux climats et régimes alimentaires, facilitant l'exploration et l'expansion de la démonité.
+
+Capacités spéciales : Bloc d'ailes, Attaque d'ailes et Imprégnation élémentaire basée sur leur type
+Variantes : $$RylorWinged1$$, $$RylorWinged2$$, $$RylorWinged3$$ (ci-contre), $$RylorWinged4$$ et $$RylorWinged5$$

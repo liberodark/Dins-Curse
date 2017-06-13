@@ -1,0 +1,3 @@
+Scarabus Explosif
+
+	Comme tuer des ennemis est plus important que la survie d'un individu, ces creatures rempantes exploseront si elles sont vraiment effrayées. Guettez les signes d'explosions imminents et sauvez-vous !

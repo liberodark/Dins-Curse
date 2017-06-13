@@ -1,0 +1,14 @@
+^c017$$Artists$$
+^c023Stephen A Hornback
+^c023Ethan McCaughey
+^c023Patrick Boisvert
+^c023Rebecca Smith
+^c023Joseph Mirabello
+^c023Alex McCusker
+^c023Rich Fleider
+^c023Vasili Gaidukevic
+
+^c017$$
+
+  Traducteur$$
+^c023  Alexandre Mangin

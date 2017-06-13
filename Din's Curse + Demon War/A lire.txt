@@ -1,0 +1,21 @@
+
+installation:
+copier le dossier "Assets" dans le répertoire du jeu
+
+*si le jeu ne se lance pas en français !
+copier le dossier "Assets" qui se trouve dans le dossier "Fix" dans le répertoire du jeu
+
+
+
+
+
+
+----------------------------------
+Cette traduction a été réalisée bénévolement par moi, all_zebest, sur mon temps libre.
+Si des erreurs (fautes de frappe ou contresens) subsistaient, n'hésitez pas à me les communiquer via le forum de Soldak sur la page suivante :
+http://www.soldak.com/forums/showthread.php?t=4061
+
+Certains fichiers n'acceptaient pas les accents du français. J'ai tout essayé pour y remédier, sans effet. Merci de votre compréhension. Une aide est également la bienvenue.
+Faites une copie de sécurité de vos fichiers précieux, au cas où.
+Bon jeu !
+v. 0.01

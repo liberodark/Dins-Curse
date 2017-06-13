@@ -1,0 +1,3 @@
+Portail dimentionnel 
+
+	Portails magiques, les portails dimentionnels transportent les monstres d'un endroit aléatoire à sa localisation, se protégeant et se nourrissant de la mort que causent les monstres. Les Mages obscurs les utilisent pour semer leurs poursuivants, détruire leurs ennemis et comme pièges. 

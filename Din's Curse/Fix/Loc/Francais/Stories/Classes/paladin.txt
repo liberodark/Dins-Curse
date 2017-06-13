@@ -1,0 +1,6 @@
+Risto – Male Paladin
+	$$PersonNamePaladin$$ joined the paladins as a compromise to ease his parents’ minds.  He was always a carefree, energetic soul, not even having the common sense to fear the outlands.  Despite his loose affiliation with the God Brujar, $$PersonNamePaladin$$ found himself pulled toward great enemies no one acknowledged.  Just because everyone said the traveler, $$PersonNameWarrior$$, was crazier than sun walkers, didn’t make it so.  In his heart, $$PersonNamePaladin$$ knew $$PersonNameWarrior$$ spoke the truth.
+
+Arms: 2 Handed Sword
+Skills: Smite and Regen
+Attributes: Strong (more damage)

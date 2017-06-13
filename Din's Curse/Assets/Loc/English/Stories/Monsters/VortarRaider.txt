@@ -1,0 +1,6 @@
+Pillard vortar (Vortar Raider)
+
+	Le pillard vortar peut sembler petit, comparé aux autres de son espèce, mais ne vous laissez pas tromper. Ce pyromane implacable est sans peur, promouvant le chaos et festoyant sur la chair des infortunés imprudents.
+
+Capacités spéciales : Résistance au feu
+Variantes : $$VortarRaider1$$, $$VortarRaider2$$, $$VortarRaider3$$, $$VortarRaider4$$ (ci-contre) et $$VortarRaider5$$

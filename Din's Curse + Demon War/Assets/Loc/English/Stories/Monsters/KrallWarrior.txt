@@ -1,0 +1,6 @@
+Guerrier Krall
+
+	Les plus grands guerriers krall torpille de flammes ses victimes, massacrant impitoyablement tous ceux qui croisent leur chemin. Ils peuvent régénérer des membres perdus si on leur donne assez de temps. Ne croisez pas leur chemin si vous pouvez ; les guerriers krall sont férocement attachés à leur territoire.
+
+Capacités spéciales : Torpille de flammes
+Variantes : $$KrallWarrior1$$, $$KrallWarrior2$$, $$KrallWarrior3$$, $$KrallWarrior4$$ et $$KrallWarrior5$$ (ci-contre)

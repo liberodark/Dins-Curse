@@ -1,0 +1,6 @@
+Taureau Rylor
+
+	Du clan rylor, le funeste taureau rylor nargue sa victime insensée avec rage, mais avant que la victime ait pu frapper, le taureau la défonce avec ses puissantes cornes. Les taureaux rylor sont impulsifs, sautant dans les combats sans considérer leurs chances.
+
+Capacités spéciales : Coup de tête, Narguer, et Imprégnation élémentaire basée sur leur type 
+Variantes : $$RylorBull1$$, $$RylorBull2$$ (ci-contre), $$RylorBull3$$, $$RylorBull4$$ et $$RylorBull5$$

@@ -1,0 +1,6 @@
+Gardien Vortar
+
+	Le plus gros des vortars, le gardien, contre toute attente, vole hors de portée puis s'écrase en une attaque sauvage. Ses impressionnantes compétences au combat et ses tactiques ne sont pas les seules choses qui inquiètent. Cette brute a le pouvoir d'invoquer des kralls.
+
+Capacités spéciales : Invocation de krall, Ecrasement de feu
+Variantes : $$VortarGuardian1$$, $$VortarGuardian2$$, $$VortarGuardian3$$, $$VortarGuardian4$$, and $$VortarGuardian5$$ (ci-contre)

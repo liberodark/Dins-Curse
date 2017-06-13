@@ -1,0 +1,124 @@
+// DirectInputKey	FullName	KeyName	KeyNameWithShift
+
+001			escape		""	""
+
+002			1		1	!
+003			2		2	@
+004			3		3	#
+005			4		4	$
+006			5		5	%
+007			6		6	^
+008			7		7	&
+009			8		8	*
+010			9		9	(
+011			0		0	)
+
+030			A		a	A
+048			B		b	B
+046			C		c	C
+032			D		d	D
+018			E		e	E
+033			F		f	F
+034			G		g	G
+035			H		h	H
+023			I		i	I
+036			J		j	J
+037			K		k	K
+038			L		l	L
+050			M		m	M
+049			N		n	N
+024			O		o	O
+025			P		p	P
+016			Q		q	Q
+019			R		r	R
+031			S		s	S
+020			T		t	T
+022			U		u	U
+047			V		v	V
+017			W		w	W
+045			X		x	X
+021			Y		y	Y
+044			Z		z	Z
+
+041			`		`	~
+012			-		-	_
+013			=		=	+
+015			tab		""	""	\\ \t
+026			[		[	{
+027			]		]	}
+043			backslash	\	|
+039			;		;	:
+040			'		'	"\""
+051			,		,	<
+052			.		.	>
+053			/		/	?
+
+057			espace		" "	" "
+028			entree		""	""
+
+029			leftcontrol	""	""
+157			rightcontrol	""	""
+
+042			maj gauche	""	""
+054			rightshift	""	""
+
+056			alt gauche		""	""
+184			htalt droit	""	""
+
+219			leftwindows	""	""
+220			rightwindows	""	""
+
+058			verr. maj.	""	""
+069			numlock		""	""
+070			scrolllock	""	""
+//220			sysrq		""	""
+183			sysrq		""	""
+197			pause		""	""
+
+210			insert		""	""
+211			delete		""	""
+199			home		""	""
+207			end		""	""
+201			pageup		""	""
+209			pagedown	""	""
+
+059			F1		""	""
+060			F2		""	""
+061			F3		""	""
+062			F4		""	""
+063			F5		""	""
+064			F6		""	""
+065			F7		""	""
+066			F8		""	""
+067			F9		""	""
+068			F10		""	""
+087			F11		""	""
+088			F12		""	""
+100			F13		""	""
+101			F14		""	""
+102			F15		""	""
+
+082			"numpad 0"	0	""
+079			"numpad 1"	1	""
+080			"numpad 2"	2	""
+081			"numpad 3"	3	""
+075			"numpad 4"	4	""
+076			"numpad 5"	5	""
+077			"numpad 6"	6	""
+071			"numpad 7"	7	""
+072			"numpad 8"	8	""
+073			"numpad 9"	9	""
+
+055			"numpad *"	*	*
+074			"numpad -"	-	-
+078			"numpad +"	+	+
+083			"numpad ."	.	.
+141			"numpad ="	=	=
+179			"numpad ,"	,	,
+181			"numpad /"	/	/
+156			"numpad enter"	""	""
+
+200			"Fleche haut"	""	""
+203			"Fleche gauche"	""	""
+205			"Fleche droit"	""	""
+208			"Fleche bas"	""	""

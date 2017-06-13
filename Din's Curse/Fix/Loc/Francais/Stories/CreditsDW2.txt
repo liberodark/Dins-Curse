@@ -1,0 +1,9 @@
+^c017$$Artistes$$
+^c023Stephen A Hornback
+^c023Ethan McCaughey
+^c023Patrick Boisvert
+^c023Andy Arrondo
+^c023Rich Fleider
+
+^c017$$Translater$$
+^c023Alexandre Mangin

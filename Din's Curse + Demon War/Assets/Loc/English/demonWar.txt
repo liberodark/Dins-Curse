@@ -1,0 +1,1361 @@
+
+ShowLevelAboveDesc			"Show Level Above"
+ShowLevelBelowDesc			"Show Level Below"
+
+LostMode				"Perdu"
+LostDesc				"Lost is a difficulty option only for advanced players.\n\nLost characters have no sense of direction and\nno mapping skills, so they are always lost.\n\nCan you save the world when you can't even find\nyour way out of a square room with one door?"
+
+SemiHardcoreMode			"Semi-Hardcore"
+SemiHardcoreDesc			"Semi-Hardcore is a difficulty option only for advanced players.\n\nIn Semi-Hardcore, each death is very painful, but not necessarily\nthe end. Each time you die, you lose 5 base vitality. If your base\nvitality ever gets to 0 or below, then you are dead forever.\n\nCan you save the world when death is actually dangerous?"
+
+AxeNameUniqueStarter			"Starter Axe"
+BowNameUniqueStarter			"Starter Bow"
+MaceNameUniqueStarter			"Starter Mace"
+SwordNameUniqueStarter			"Starter Sword"
+DaggerNameUniqueStarter			"Starter Dagger"
+StaffNameUniqueStarter			"Starter Staff"
+
+PrimaDonnaMode				"Prima Donna"
+PrimaDonnaDesc				"Prima Donna is a difficulty option only for advanced players.\n\nPrima Donnas will not use any except set, elite, artifact,\nor legendary items.\n\nCan you save the world when you refuse to use anything but\nthe best?"
+
+CantUsePrimaDonna			"Will not use (Prima Donna)"
+
+OnlyHopeMode				"Only Hope"
+OnlyHopeDesc				"Only Hope is a difficulty option only for advanced players.\n\nWith Only Hope set, towns are completely relying on you\nand if you die, the town is lost.\n\nCan you save a town when you only have one life?"
+
+HungerMode				"Hunger"
+HungerDesc				"Hunger is a difficulty option only for advanced players.\n\nPlayers with Hunger need to eat occasionally. If you\ndon't eat often enough, you will start starving, and then\ndie soon after.\n\nCan you save the world when you are distracted by hunger?"
+Starving				"Mourant de faim"
+PlayerStarving				"Vous êtes en train de mourir de faim !"
+Hunger					"Faim"
+
+Guard					"Guarde"
+GuardDesc				"NOTE : les guardes ne sont pas sauvegardés et ne ressuscitent pas !"
+
+Scar					"Scar"
+Beastmaster				"Dresseur de bêtes"
+
+DecreaseAttributeStrength		"^c008Left click to decrease Strength by 1^c141"
+DecreaseAttributeDexterity		"^c008Left click to decrease Dexterity by 1^c141"
+DecreaseAttributeVitality		"^c008Left click to decrease Vitality by 1^c141"
+DecreaseAttributeIntelligence		"^c008Left click to decrease Intelligence by 1^c141"
+DecreaseAttributeSpirit			"^c008Left click to decrease Spirit by 1^c141"
+
+AntiMagic				"Anti-magie"
+BlockedFromUsingSpells			"Ne peut pas utiliser de sorts"
+
+// World modifiers
+
+WorldModifierOnTheBrink			"On The Brink"
+WorldModifierOnTheBrinkDesc		"On The Brink: The town starts on the brink of losing (missing apothecary and steward)."
+
+WorldModifierDemandingTown		"Demanding Town"
+WorldModifierDemandingTownDesc		"Demanding Town: This town gets much more upset about\nkilled NPCs and failed quests. Reputation loss is much\nhigher than normal."
+
+WorldModifierAggressiveWorld		"Aggressive World"
+WorldModifierAggressiveWorldDesc	"Aggressive World: Monsters are much more aggressive."
+
+WorldModifierAntiMagic			"Anti-Magic"
+WorldModifierAntiMagicDesc		"Anti-Magic: The dungeon has way more Anti-Magic areas than normal."
+
+WorldModifierGigantism			"Gigantism"
+WorldModifierGigantismDesc		"Gigantism: More giant monsters than normal."
+
+WorldModifierFleetOfFoot		"Fleet of Foot"
+WorldModifierFleetOfFootDesc		"Fleet of Foot: More speedy monsters than normal."
+
+WorldModifierBerserk			"Berserk"
+WorldModifierBerserkDesc		"Berserk: More berserker monsters than normal."
+
+WorldModifierTemporalFlux		"Temporal Flux"
+WorldModifierTemporalFluxDesc		"Temporal Flux: More pockets of Temporal Flux than normal.\nTemporal Flux slow down any projectiles that moves through them."
+
+WorldModifierPoorTown			"Poor Town"
+WorldModifierPoorTownDesc		"Poor Town: The people in this town don't have much money."
+
+WorldModifierRichTown			"Rich Town"
+WorldModifierRichTownDesc		"Rich Town: The people in this town have more money than usual."
+
+WorldModifierGamblingTown		"Gambling Town"
+WorldModifierGamblingTownDesc		"Gambling Town: The people in this town gamble more than usual."
+
+WorldModifierSeedyTown			"Seedy Town"
+WorldModifierSeedyTownDesc		"Seedy Town: The people in this town are more likely to turn to crime."
+
+WorldModifierMiseryTown			"Misery Town"
+WorldModifierMiseryTownDesc		"Misery Town: The people in this town tend to dwell on everyone's problems."
+
+WorldModifierDrunkTown			"Drunk Town"
+WorldModifierDrunkTownDesc		"Drunk Town: The people in this town drink more than usual."
+
+WorldModifierHighUnemployment		"High Unemployment"
+WorldModifierHighUnemploymentDesc	"High Unemployment: People in this town have less opportunities to make money."
+
+WorldModifierReligiousTown		"Religious Town"
+WorldModifierReligiousTownDesc		"Religious Town: The people here have more faith in Din than is usual."
+
+WorldModifierSocialTown			"Social Town"
+WorldModifierSocialTownDesc		"Social Town: The people here talk a lot."
+
+WorldModifierHeroicTown			"Heroic Town"
+WorldModifierHeroicTownDesc		"Heroic Town: The people in this town try to act more like heroes."
+
+WorldModifierTornados			"Tornado Alley"
+WorldModifierTornadosDesc		"Tornado Alley: The town is in an area that is prone to tornados."
+
+WorldModifierWarZone			"War Zone"
+WorldModifierWarZoneDesc		"War Zone: There has been a lot of trouble with Demons and Undead here."
+
+WorldModifierPayingTraitors		"Paying Traitors"
+WorldModifierPayingTraitorsDesc		"Paying Traitors: Someone is paying traitors a lot of money."
+
+WorldModifierElectricalHazard		"Electrical Hazard"
+WorldModifierElectricalHazardDesc	"Electrical Hazard: The dungeon tends to have lots of ways to electrocute yourself."
+
+WorldModifierRagingHoards		"Raging Hoards"
+WorldModifierRagingHoardsDesc		"Raging Hoards: More monsters are running around than normal.\nThey are less powerful than normal though."
+
+WorldModifierHaltedMining		"Halted Mining"
+WorldModifierHaltedMiningDesc		"Halted Mining: Something is preventing the NPCs in town from doing some\nof their normal work, so they are making less money than usual."
+
+WorldModifierInfestation		"Infestation"
+WorldModifierInfestationDesc		"Infestation: The town is infested with little critters, increasing food prices."
+
+WorldModifierThievesDen			"Thieves Den"
+WorldModifierThievesDenDesc		"Thieves Den: A lot of stealing goes on in this town."
+
+WorldModifierCupid			"Cupid"
+WorldModifierCupidDesc			"Cupid: Relationships between townspeople usually go very well."
+
+WorldModifierRowdy			"Rowdy"
+WorldModifierRowdyDesc			"Rowdy: Fights are more likely to break our in town."
+
+DemonHunter				"Chasseur de démons"
+DemonHunterDesc				"Chasseur de démons\n\nDeadly death-dealers revel in the demonic arts, using those powers in new and devious ways."
+
+SkillTreeReaver				"Reaver"
+SkillTreeWarden				"Warden"
+SkillTreeDemonologist			"Démonologiste"
+
+ReaverDesc				"Reaver\n\nThis berserker strikes fast and hard, enjoying turning demon power into speedy kills."
+WardenDesc				"Warden\n\nThis deflector excels at protecting, arcane damage, and control."
+DemonologistDesc			"Demonologist\n\nThis intellectual's studies have paid off greatly, for they wield demon powers like possession and demonic control."
+
+ManaGenReaver				"Dévorer"
+ManaGenReaverDesc			"Gain mana from each kill."
+
+FireResistanceBonus			"Fire Resistance Bonus"
+FireResistanceDesc			"Extra Fire Resistance per point of spirit."
+ColdResistanceBonus			"Cold Resistance Bonus"
+ColdResistanceDesc			"Extra Cold Resistance per point of spirit."
+LightningResistanceBonus		"Lightning Resistance Bonus"
+LightningResistanceDesc			"Extra Lightning Resistance per point of spirit."
+PoisonResistanceBonus			"Poison Resistance Bonus"
+PoisonResistanceDesc			"Extra Poison Resistance per point of spirit."
+
+TwoHandedMasterySkill			"Two-Handed Mastery"
+TwoHandedMasteryDesc			"Improves combat performance with two-handed weapons."
+UnholyStrikeSkill			"Unholy Strike"
+UnholyStrikeDesc			"Demonic power added to your strike causes its\nown damage while slowing the victim."
+FireStrikeSkill				"Fire Strike"
+FireStrikeDesc				"A short, demonic fire attack harms all enemies in its path."
+BreechSkill				"Breech"
+BreechDesc				"Finds vulnerable spots in armor and bodies."
+ChargeSkill				"Charge"
+ChargeDesc				"With increased movement speed, attack and damage,\nyou're ready to charge into battle."
+RavageSkill				"Ravage"
+RavageDesc				"Damages up to three enemies in one attack."
+TerrorizeSkill				"Terrorize"
+TerrorizeDesc				"Scares all enemies in range, decreasing their\ncombat effectiveness."
+WampirBloodSkill			"Wampir Blood"
+WampirBloodDesc				"Throws poisonous wampir blood on all nearby\nenemies, causing damage over time."
+RampageSkill				"Rampage"
+RampageDesc				"For a short time you become deadlier in combat."
+
+SpiritStrikeSkill			"Spirit Strike"
+SpiritStrikeDesc			"This damaging attack leaves the victim weaker."
+ShieldSweepSkill			"Shield Sweep"
+ShieldSweepDesc				"A shield attack that harms, interrupts, and\nstuns up to 5 victims."
+ShieldBlastSkill			"Shield Blast"
+ShieldBlastDesc				"A shield attack that stuns as well as deals damage."
+IceWardSkill				"Ice Ward"
+IceWardDesc				"Creates an Ice Ward at the cursor location.\nWard slows enemy movement (-33%) and\nattack speed (-5% per ward level) while\nincreasing friendlies' (and your) ice\nresistance (+10% per ward level)."
+LightningWardSkill			"Lightning Ward"
+LightningWardDesc			"Creates a Lightning Ward at the cursor location.\nWard slows all projectiles (-75%) while increasing\nfriendlies' (and your) lightning resistance (+10%\nper ward level)."
+FireWardSkill				"Fire Ward"
+FireWardDesc				"Creates a Fire Ward at the cursor location.\nWard increases friendlies' (and your) fire\nresistance (50% and then +10% per ward\nlevel) and adds fire damage (25%-50%) to\ntheir combat damage."
+PoisonWardSkill				"Poison Ward"
+PoisonWardDesc				"Creates a Poison Ward at the cursor location.\nWard damages enemies with poison (+1 damage\neach second per ward level) and attack speed\n(-5% per ward level) while increasing friendlies'\n(and your) poison resistance (+10% per ward level)."
+MagicalDeflectionSkill			"Magical Deflection"
+MagicalDeflectionDesc			"Powerful magical defense protects the caster\nfrom many of the enemies' hits."
+BanishSkill				"Banish"
+BanishDesc				"Teleports the targeted enemy away."
+EnergyShieldSkill			"Energy Shield"
+EnergyShieldDesc			"Greatly increases defense for a time, while\nreflecting damage back to your opponents."
+
+ImpaleSkill				"Impale"
+ImpaleDesc				"An attack with a high chance of critical hits."
+PossessionSkill				"Possession"
+PossessionDesc				"Become a powerful demon for a short period of time."
+InfernoSkill				"Inferno"
+InfernoDesc				"Become a living fire and damage anything within range."
+DemonicRoarSkill			"Demonic Roar"
+DemonicRoarDesc				"Scares all nearby enemies and decreases their combat abilities."
+BloodRageSkill				"Blood Rage"
+BloodRageDesc				"Use this added damage skill after each time you're hit (stacks up to four)."
+BloodSacrificeSkill			"Blood Sacrifice"
+BloodSacrificeDesc			"A big boost to your damage for a short time but\nalso drains your health while active."
+CircleOfProtectionSkill			"Circle of Protection"
+CircleOfProtectionDesc			"Adds 25 physical resistance per skill level\nto all friendlies within the circle."
+CircleOfPowerSkill			"Circle of Power"
+CircleOfPowerDesc			"Increases power (physical damage 15%, critical hits 10%,\ncrushing blows 10%, magic critical hits 10%,\nand magic crushing blows 10% per skill\nlevel to all friendlies within the circle."
+DemonArmorSkill				"Demon Armor"
+DemonArmorDesc				"Using pieces of vanguished demons, increases\nyour armor and decreases chances of you\ntaking critical hits and crushing blows."
+DemonicControlSkill			"Demonic Control"
+DemonicControlDesc			"The ultimate in knowledge from demons.\nSubvert the will of the victim and make\nthem an ally for a short period of time."
+
+IceWardResistance			"Ice Ward Resistance"
+IceWardResistanceAura			"Ice Ward Resistance Aura"
+IceWardSlow				"Ice Ward Slow"
+IceWardSlowAura				"Ice Ward Slow Aura"
+
+LightningWardResistance			"Lightning Ward Resistance"
+LightningWardResistanceAura		"Lightning Ward Resistance Aura"
+LightningWardTemporalFluxAura		"Lightning Ward Temporal Flux Aura"
+
+FireWardResistance			"Fire Ward Resistance"
+FireWardResistanceAura			"Fire Ward Resistance Aura"
+FireWardFireAura			"Fire Ward Fire Aura"
+
+PoisonWardResistance			"Poison Ward Resistance"
+PoisonWardResistanceAura		"Poison Ward Resistance Aura"
+PoisonWardDamage			"Poison Ward Damage"
+PoisonWardDamageAura			"Poison Ward Damage Aura"
+
+CircleOfProtectionAura			"Circle of Protection Aura"
+CircleOfPowerAura			"Circle of Power Aura"
+
+Controlled				"Controlled"
+
+Rylor					"Rylor"
+RylorBull				"Rylor Bull"
+RylorWinged				"Winged Rylor"
+
+Rylor1					"Magma Rylor"
+Rylor2					"Frost Rylor"
+Rylor3					"Shock Rylor"
+Rylor4					"Toxic Rylor"
+Rylor5					"Arcane Rylor"
+
+Rylor1Unique				"Moxx"
+Rylor1bUnique				"Nuz"
+Rylor2Unique				"Darg"
+Rylor2bUnique				"Nalar"
+Rylor3Unique				"Smorn"
+Rylor3bUnique				"Torg"
+Rylor4Unique				"Zuta"
+Rylor4bUnique				"Xak"
+Rylor5Unique				"Lox"
+Rylor5bUnique				"Maw"
+
+Rylor1Legend				"Drot"
+Rylor2Legend				"Urz"
+Rylor3Legend				"Sero"
+Rylor4Legend				"Orok"
+Rylor5Legend				"Foozle"
+
+RylorBull1				"Magma Rylor Bull"
+RylorBull2				"Frost Rylor Bull"
+RylorBull3				"Shock Rylor Bull"
+RylorBull4				"Toxic Rylor Bull"
+RylorBull5				"Arcane Rylor Bull"
+
+RylorBull1Unique			"Fiero"
+RylorBull1bUnique			"Feroz"
+RylorBull2Unique			"Harg"
+RylorBull2bUnique			"Maloco"
+RylorBull3Unique			"Gava"
+RylorBull3bUnique			"Tarvos"
+RylorBull4Unique			"Tor"
+RylorBull4bUnique			"Tyr"
+RylorBull5Unique			"Erg"
+RylorBull5bUnique			"Kali"
+
+RylorBull1Legend			"Taurus"
+RylorBull2Legend			"Argus"
+RylorBull3Legend			"Grell"
+RylorBull4Legend			"Galak"
+RylorBull5Legend			"Siegebreaker"
+
+RylorWinged1				"Winged Magma Rylor"
+RylorWinged2				"Winged Frost Rylor"
+RylorWinged3				"Winged Shock Rylor"
+RylorWinged4				"Winged Toxic Rylor"
+RylorWinged5				"Winged Arcane Rylor"
+
+RylorWinged1Unique			"Alatus"
+RylorWinged1bUnique			"Ruko"
+RylorWinged2Unique			"Vaz"
+RylorWinged2bUnique			"Lanc"
+RylorWinged3Unique			"Aliger"
+RylorWinged3bUnique			"Lagas"
+RylorWinged4Unique			"Slira"
+RylorWinged4bUnique			"Nadar"
+RylorWinged5Unique			"Anudar"
+RylorWinged5bUnique			"Dray"
+
+RylorWinged1Legend			"Morlag"
+RylorWinged2Legend			"Komen"
+RylorWinged3Legend			"Vartok"
+RylorWinged4Legend			"Nokar"
+RylorWinged5Legend			"Dravok"
+
+BodyPartRylorWinged			"wing"
+BodyPartKrallWorker			"pincher"
+BodyPartKrallWarrior			"spike"
+
+Krall					"Krall"
+KrallWorker				"Krall Worker"
+KrallWarrior				"Krall Warrior"
+
+KrallWorker1				"Krall Worker"
+KrallWorker2				"Charged Krall Worker"
+KrallWorker3				"Armored Krall Worker"
+KrallWorker4				"Ancient Krall Worker"
+KrallWorker5				"Flame Krall Worker"
+
+KrallWorker1Unique			"Blood Tooth"
+KrallWorker1bUnique			"Vile Torture"
+KrallWorker2Unique			"Maw Storm"
+KrallWorker2bUnique			"Wicked Cutter"
+KrallWorker3Unique			"Dire Walker"
+KrallWorker3bUnique			"Malice Ravager"
+KrallWorker4Unique			"Putrid Claw"
+KrallWorker4bUnique			"Frost Venom"
+KrallWorker5Unique			"Dead Spike"
+KrallWorker5bUnique			"Steel Viper"
+
+KrallWorker1Legend			"Early Grave"
+KrallWorker2Legend			"Shock Scorch"
+KrallWorker3Legend			"Reaver Claw"
+KrallWorker4Legend			"Earth Strike"
+KrallWorker5Legend			"Brood Wrecker"
+
+KrallWarrior1				"Krall Warrior"
+KrallWarrior2				"Charged Krall Warrior"
+KrallWarrior3				"Armored Krall Warrior"
+KrallWarrior4				"Ancient Krall Warrior"
+KrallWarrior5				"Flame Krall Warrior"
+
+KrallWarrior1Unique			"Steel Horns"
+KrallWarrior1bUnique			"Venom Spike"
+KrallWarrior2Unique			"Slash Spike"
+KrallWarrior2bUnique			"Cruel Claw"
+KrallWarrior3Unique			"Blood Spike"
+KrallWarrior3bUnique			"Grim Horror"
+KrallWarrior4Unique			"Agony Ripper"
+KrallWarrior4bUnique			"Steel One"
+KrallWarrior5Unique			"Death Creeper"
+KrallWarrior5bUnique			"Blast Burn"
+
+KrallWarrior1Legend			"Doom Craze"
+KrallWarrior2Legend			"Thunder Shock"
+KrallWarrior3Legend			"Grim Walker"
+KrallWarrior4Legend			"Steel Night"
+KrallWarrior5Legend			"Hell Burn"
+
+KrallMark				"Krall Mark"
+
+FactionNameDemons			"Démons"
+FactionNameNeutralNpc			"PNJ neutre"
+
+WorldModifierSize			"Taille du monde"
+WorldModifierSizeDesc			"Changes the average depths of the dungeon"
+WorldModifierSizeSmall			"Petit"
+WorldModifierSizeNormal			"Normal"
+WorldModifierSizeLarge			"Vaste"
+
+Drunk					"Ivre"
+
+NpcLeftTown				"##1## a quitté la ville (malheureux)."
+LocalHero				"Town Luminary"
+
+NpcLocalHero				"##1## est maintenant un $$LocalHero$$ !"
+NpcNotLocalHero				"##1## n'est plus un $$LocalHero$$ de la ville !"
+
+Hap					" :)"
+UHap					" :("
+
+Drink					"Boit"
+Argument				"Querelle"
+Talk					"Parle"
+GambleLoss				"Perd au jeu"
+GambleWin				"Gagne au jeu "
+Pray					"Prie"
+Shopping				"Emplettes"
+Donation				"Donation"
+DwellOnMoney				"Dwelling on Money"
+Jealous					"Jaloux"
+Gossip					"Ragots"
+Praise					"Loue"
+NpcPropose				"^c000Propose"
+NpcMarried				"^c000Marié"
+NpcDivorced				"^c000Divorcé"
+NpcFlirt				"Flirt"
+NpcRelationshipMarried			"I'm married to ##1##."
+NpcRelationshipGoodFriends		"I'm good friends with ##1##."
+NpcRelationshipFriends			"I'm friends with ##1##."
+NpcRelationshipHate			"I hate ##1##."
+NpcRelationshipDislike			"I dislike ##1##."
+
+Donate					"Donate"
+NpcDonationDesc				"Donate ##1## to this npc\nYou have ##2##"
+CantAffordDonation			"Can't Afford Donation"
+
+QuestTitleDebt				"Get ##1## out of debt"
+QuestTextDebt1				"##1## has let ##2## finances get out of control and now needs help. Please donate some money to get them out of debt."
+QuestSolvedByNpcDebt			"##1##'s debt paid off by ##2##"
+
+QuestMalePronounHis			"son"
+QuestFemalePronounHer			"son"
+QuestMalePronounHim			"lui"
+
+QuestAnnounceMining			"##2## needs some mining done."
+QuestTitleMining			"Mine gold vein"
+QuestTextMining				"##1## was planning on doing some mining down in the dungeons today, but it's a bit too dangerous for them. The special gold vein that is wanted is marked. You can find these gold veins to mine in "
+GoldVeinMarked				"Marked Gold Vein"
+
+ObsidianTeleportStone			"Obsidian for Teleport Stone"
+TeleportStoneRecharged			"Teleport Stone Recharged"
+QuestAnnounceTeleportStone		"Teleport Stone found."
+QuestTitleTeleportStone			"Recharge your Teleport Stone"
+QuestTextTeleportStone			"We have located some Obsidian that will allow us to recharge your Teleport Stone. Note: this won't be of any use if you haven't used your Teleport Stone yet."
+
+QuestAnnounceStarving			"##1## is starving and needs help!"
+QuestTitleStarving			"##1## is starving"
+QuestTextStarving1			"##1## has no money and is starving. If no help, ##1## will likely starve to death. To help either pay off ##1##'s debts or give ##2## some food."
+QuestSolvedByNpcStarving		"##1## is no longer starving thanks to ##2##"
+QuestNpcDiedStarving			"##1## starved to death"
+
+CriminalFine				"##1## was fined ##2##"
+
+LeftClickToPickup			"Left Click to Pickup"
+
+QuestAnnounceEvidenceTheft		"Someone has stolen from ##1##"
+QuestTitleEvidenceTheft			"Solve theft from ##1##"
+QuestTextEvidenceTheft			"Someone has stolen from ##1##, please bring back evidence of who did it so they can be punished."
+QuestEndEvidenceTheft			"Evidence in ##1## theft has been destroyed."
+EvidenceTheft				"Evidence of Theft"
+CaughtTheft				"##1## was caught stealing!"
+
+QuestAnnounceEvidencePoisonedSupply	"Someone from town poisoned the provisions supply!"
+QuestTitleEvidencePoisonedSupply	"Find who poisoned the town's provisions supply"
+QuestTextEvidencePoisonedSupply		"Someone from town has poisoned the town's provisions supply, please bring back evidence of who did it so they can be punished."
+QuestEndEvidencePoisonedSupply		"Evidence from the provisions poisoner has been destroyed."
+EvidencePoisonedSupply			"Evidence of Poisoning"
+CaughtPoisonedSupply			"##1## was caught poisoning the provisions supply!"
+
+QuestAnnounceEvidenceTownTraps		"Someone from town trapped the town!"
+QuestTitleEvidenceTownTraps		"Find who trapped the town"
+QuestTextEvidenceTownTraps		"Someone from town has trapped the town, please bring back evidence of who did it so they can be punished."
+QuestEndEvidenceTownTraps		"Evidence from the town trapping has been destroyed."
+EvidenceTownTraps			"Evidence of Town Trapping"
+CaughtTownTraps				"##1## was caught setting traps in town!"
+
+QuestAnnounceEvidencePlague		"Someone has town started the plague!"
+QuestTitleEvidencePlague		"Find who started the plague"
+QuestTextEvidencePlague			"Someone from town has started the plague, please bring back evidence of who did it so they can be punished."
+QuestEndEvidencePlague			"Evidence from the plague starter has been destroyed."
+EvidencePlague				"Evidence of the Plague"
+CaughtPlague				"##1## was caught starting the plague in town!"
+
+QuestAnnounceEvidenceCurse		"Someone has cursed the town!"
+QuestTitleEvidenceCurse			"Find out who cursed the town"
+QuestTextEvidenceCurse			"Someone from town has has cursed the town, please bring back evidence of who did it so they can be punished."
+QuestEndEvidenceCurse			"Evidence who has cursed the town has been destroyed."
+EvidenceCurse				"Evidence of the Curse"
+CaughtCurse				"##1## was caught cursing the town!"
+
+QuestAnnounceEvidenceMonsterScout	"Someone from town let in a scout!"
+QuestTitleEvidenceMonsterScout		"Find who let in the scout"
+QuestTextEvidenceMonsterScout		"Someone from town has let a scout into the town, please bring back evidence of who did it so they can be punished."
+QuestEndEvidenceMonsterScout		"Evidence who let in the scout has been destroyed."
+EvidenceMonsterScout			"Evidence of Scouting"
+CaughtMonsterScout			"##1## was caught letting a scout into town!"
+
+QuestAnnounceEvidenceWarAgainstTown	"Someone from town got us into a war!"
+QuestTitleEvidenceWarAgainstTown	"Find who started the war"
+QuestTextEvidenceWarAgainstTown		"Someone from town has betrayed us and gotten us into a war, please bring back evidence of who did it so they can be punished."
+QuestEndEvidenceWarAgainstTown		"Evidence who started the war has been destroyed."
+EvidenceWarAgainstTown			"Evidence of War"
+CaughtWarAgainstTown			"##1## was caught getting the town into a war!"
+
+QuestAnnounceEvidenceUprisingRaidPlan	"Someone from town sold town secrets!"
+QuestTitleEvidenceUprisingRaidPlan	"Find who sold town secrets"
+QuestTextEvidenceUprisingRaidPlan	"Someone from town has sold town secrets that will likely result in a raid, please bring back evidence of who did it so they can be punished."
+QuestEndEvidenceUprisingRaidPlan	"Evidence who sold town secrets has been destroyed."
+EvidenceUprisingRaidPlan		"Evidence of Town Secrets"
+CaughtUprisingRaidPlan			"##1## was caught selling town secrets!"
+
+QuestAnnounceEvidenceUprisingTownAttackPlan	"Someone from town is trying to destroy it!"
+QuestTitleEvidenceUprisingTownAttackPlan	"Find who is trying to destroy the town"
+QuestTextEvidenceUprisingTownAttackPlan		"Someone from town is trying to get the town destroyed by selling information to monsters that are likely to attack the town, please bring back evidence of who did it so they can be punished."
+QuestEndEvidenceUprisingTownAttackPlan		"Evidence who is trying to destroy the town has been destroyed."
+EvidenceUprisingTownAttackPlan			"Evidence of Town Destroyer"
+CaughtUprisingTownAttackPlan			"##1## was caught trying to get the town destroyed!"
+
+QuestAnnounceEvidenceDeadlyPoison	"Someone from town poisoned a town member!"
+QuestTitleEvidenceDeadlyPoison		"Find who poisoned a town member"
+QuestTextEvidenceDeadlyPoison		"Someone from town has poisoned another town member, please bring back evidence of who did it so they can be punished."
+QuestEndEvidenceDeadlyPoison		"Evidence who poisoned another town member has been destroyed."
+EvidenceDeadlyPoison			"Evidence of Poisoning"
+CaughtDeadlyPoison			"##1## was caught poisoning a town member!"
+
+NpcBanished				"The citizens of ##2## have banished ##1## from town"
+
+QuestTitleEvidenceGateIntoTown		"Gate into town"
+QuestTextEvidenceGateIntoTown		"You found and destroyed the gate leading into town!"
+EvidenceGateIntoTown			"Illegal Gate into Town"
+CaughtGateIntoTown			"##1## was caught building a gate into town!"
+
+TornadoWarning				"A tornado has touched down in town!"
+
+// MachineEarthquake
+
+MachineAntiMagic			"Anti-Magic Machine"
+MachineAntiMagicDesc			"Anti-Magic Machine: There is a machine in the dungeon creating Anti-Magic fields."
+
+QuestAnnounceUniqueMachineAntiMagic	"Discovered an Anti-Magic machine."
+QuestAnnounceUniqueMachineAntiMagicFromBoss	"##3## has built an Anti-Magic machine."
+QuestAnnounceUniqueMachineAntiMagicFromUniqueMonsterSpotted	"##3## has built an Anti-Magic machine."
+QuestAnnounceUniqueMachineAntiMagicFromKillMonsterGroup	"##3##'s group has built an Anti-Magic machine."
+QuestAnnounceUniqueMachineAntiMagicFromQuestFindPlansMachineEarthquake	"We failed to discover the plans, now an Anti-Magic machine has been built."
+QuestAnnounceUniqueMachineAntiMagicFromQuestUniqueMachineDarkness	"Due to the success of the darkness machine, now an Anti-Magic machine has been built."
+QuestAnnounceUniqueMachineAntiMagicFromQuestUniqueMachineWeather	"Due to the success of the weather machine, now an Anti-Magic machine has been built."
+QuestAnnounceUniqueMachineAntiMagicFromQuestUniqueMachineTemporalFlux	"Due to the success of the Temporal Flux machine, now an Anti-Magic machine has been built."
+QuestAnnounceUniqueMachineAntiMagicFromQuestUniqueMachineFog		"Due to the success of the Fog machine, now an Anti-Magic machine has been built."
+QuestAnnounceUniqueMachineAntiMagicFromQuestUniqueMachineIce		"Due to the success of the Ice machine, now an Anti-Magic machine has been built."
+QuestAnnounceUniqueMachineAntiMagicFromQuestDinUniqueAltarErillin	"In worship of the altar to Erillin, an Anti-Magic machine has been built."
+
+QuestTitleUniqueMachineAntiMagic	"Destroy the Anti-Magic machine"
+QuestTextUniqueMachineAntiMagic		"We have discovered a machine that is causing Anti-Magic fields. Go destroy the machine."
+
+// MachineTemporalFlux
+
+MachineTemporalFlux			"Temporal Flux Machine"
+MachineTemporalFluxDesc			"Temporal Flux Machine: There is a machine in the dungeon creating Temporal Fluxes."
+
+QuestAnnounceUniqueMachineTemporalFlux	"Discovered a Temporal Flux machine."
+QuestAnnounceUniqueMachineTemporalFluxFromBoss	"##3## has built a Temporal Flux machine."
+QuestAnnounceUniqueMachineTemporalFluxFromUniqueMonsterSpotted	"##3## has built a Temporal Flux machine."
+QuestAnnounceUniqueMachineTemporalFluxFromKillMonsterGroup	"##3##'s group has built a Temporal Flux machine."
+QuestAnnounceUniqueMachineTemporalFluxFromQuestFindPlansMachineEarthquake	"We failed to discover the plans, now a Temporal Flux machine has been built."
+QuestAnnounceUniqueMachineTemporalFluxFromQuestUniqueMachineDarkness	"Due to the success of the darkness machine, now a Temporal Flux machine has been built."
+QuestAnnounceUniqueMachineTemporalFluxFromQuestUniqueMachineWeather	"Due to the success of the weather machine, now a Temporal Flux machine has been built."
+QuestAnnounceUniqueMachineTemporalFluxFromQuestUniqueMachineAntiMagic	"Due to the success of the Anti-Magic machine, now a Temporal Flux machine has been built."
+QuestAnnounceUniqueMachineTemporalFluxFromQuestUniqueMachineFog		"Due to the success of the Fog machine, now a Temporal Flux machine has been built."
+QuestAnnounceUniqueMachineTemporalFluxFromQuestUniqueMachineIce		"Due to the success of the Ice machine, now a Temporal Flux machine has been built."
+QuestAnnounceUniqueMachineTemporalFluxFromQuestDinUniqueAltarErillin	"In worship of the altar to Erillin, a Temporal Flux machine has been built."
+
+QuestTitleUniqueMachineTemporalFlux	"Destroy the Temporal Flux machine"
+QuestTextUniqueMachineTemporalFlux	"We have discovered a machine that is causing Temporal Fluxes. Go destroy the machine."
+
+// MachineFog
+
+Fog					"Fog"
+
+MachineFog				"Fog Machine"
+MachineFogDesc				"Fog Machine: There is a machine in the dungeon creating patches of fog."
+
+QuestAnnounceUniqueMachineFog		"Discovered a fog machine."
+QuestAnnounceUniqueMachineFogFromBoss	"##3## has built a fog machine."
+QuestAnnounceUniqueMachineFogFromUniqueMonsterSpotted	"##3## has built a fog machine."
+QuestAnnounceUniqueMachineFogFromKillMonsterGroup	"##3##'s group has built a fog machine."
+QuestAnnounceUniqueMachineFogFromQuestFindPlansMachineEarthquake	"We failed to discover the plans, now a fog machine has been built."
+QuestAnnounceUniqueMachineFogFromQuestUniqueMachineDarkness	"Due to the success of the darkness machine, now a fog machine has been built."
+QuestAnnounceUniqueMachineFogFromQuestUniqueMachineWeather	"Due to the success of the weather machine, now a fog machine has been built."
+QuestAnnounceUniqueMachineFogFromQuestUniqueMachineAntiMagic	"Due to the success of the Anti-Magic machine, now a Fog machine has been built."
+QuestAnnounceUniqueMachineFogFromQuestUniqueMachineTemporalFlux	"Due to the success of the Temporal Flux machine, now a Fog machine has been built."
+QuestAnnounceUniqueMachineFogFromQuestUniqueMachineIce		"Due to the success of the Ice machine, now a Fog machine has been built."
+QuestAnnounceUniqueMachineFogFromQuestDinUniqueAltarErillin	"In worship of the altar to Erillin, a fog machine has been built."
+
+QuestTitleUniqueMachineFog	"Destroy the fog machine"
+QuestTextUniqueMachineFog	"We have discovered a machine that is causing patches of fog. This might not sound bad, but it hinders visibility and makes things more dangerous. Go destroy the machine."
+
+// MachineIce
+
+MachineIce				"Ice Machine"
+MachineIceDesc				"Ice Machine: There is a machine in the dungeon creating patches of ice."
+
+QuestAnnounceUniqueMachineIce		"Discovered an Ice machine."
+QuestAnnounceUniqueMachineIceFromBoss	"##3## has built an Ice machine."
+QuestAnnounceUniqueMachineIceFromUniqueMonsterSpotted	"##3## has built an Ice machine."
+QuestAnnounceUniqueMachineIceFromKillMonsterGroup	"##3##'s group has built an Ice machine."
+QuestAnnounceUniqueMachineIceFromQuestFindPlansMachineEarthquake	"We failed to discover the plans, now an Ice machine has been built."
+QuestAnnounceUniqueMachineIceFromQuestUniqueMachineDarkness	"Due to the success of the darkness machine, now an Ice machine has been built."
+QuestAnnounceUniqueMachineIceFromQuestUniqueMachineWeather	"Due to the success of the weather machine, now an Ice machine has been built."
+QuestAnnounceUniqueMachineIceFromQuestUniqueMachineAntiMagic	"Due to the success of the Anti-Magic machine, now an Ice machine has been built."
+QuestAnnounceUniqueMachineIceFromQuestUniqueMachineTemporalFlux	"Due to the success of the Temporal Flux machine, now an Ice machine has been built."
+QuestAnnounceUniqueMachineIceFromQuestUniqueMachineFog		"Due to the success of the Fog machine, now an Ice machine has been built."
+QuestAnnounceUniqueMachineIceFromQuestDinUniqueAltarErillin	"In worship of the altar to Erillin, an Ice machine has been built."
+
+QuestTitleUniqueMachineIce	"Destroy the Ice machine"
+QuestTextUniqueMachineIce	"We have discovered a machine that is causing patches of ice. Go destroy the machine."
+
+// UniqueBuildingMachineAntiMagic
+
+QuestAnnounceUniqueBuildingMachineAntiMagic	"##1## is building an Anti-Magic machine."
+QuestAnnounceUniqueBuildingMachineAntiMagicFromQuestUniqueMachineDarkness	"Due to the success of the darkness machine, ##1## is building an Anti-Magic machine."
+QuestAnnounceUniqueBuildingMachineAntiMagicFromQuestUniqueMachineWeather	"Due to the success of the weather machine, ##1## is building an Anti-Magic machine."
+
+QuestTextUniqueBuildingMachineAntiMagic		"##1## is building an Anti-Magic machine. You must kill him before he can complete it!"
+
+// UniqueBuildingMachineTemporalFlux
+
+QuestAnnounceUniqueBuildingMachineTemporalFlux	"##1## is building a Temporal Flux machine."
+QuestAnnounceUniqueBuildingMachineTemporalFluxFromQuestUniqueMachineDarkness	"Due to the success of the darkness machine, ##1## is building a Temporal Flux machine."
+QuestAnnounceUniqueBuildingMachineTemporalFluxFromQuestUniqueMachineWeather	"Due to the success of the weather machine, ##1## is building a Temporal Flux machine."
+
+QuestTextUniqueBuildingMachineTemporalFlux		"##1## is building a Temporal Flux machine. You must kill him before he can complete it!"
+
+// UniqueBuildingMachineFog
+
+QuestAnnounceUniqueBuildingMachineFog	"##1## is building a Fog machine."
+QuestAnnounceUniqueBuildingMachineFogFromQuestUniqueMachineDarkness	"Due to the success of the darkness machine, ##1## is building a Fog machine."
+QuestAnnounceUniqueBuildingMachineFogFromQuestUniqueMachineWeather	"Due to the success of the weather machine, ##1## is building a Fog machine."
+
+QuestTextUniqueBuildingMachineFog		"##1## is building a Fog machine. You must kill him before he can complete it!"
+
+// UniqueBuildingMachineIce
+
+QuestAnnounceUniqueBuildingMachineIce	"##1## is building an Ice machine."
+QuestAnnounceUniqueBuildingMachineIceFromQuestUniqueMachineDarkness	"Due to the success of the darkness machine, ##1## is building an Ice machine."
+QuestAnnounceUniqueBuildingMachineIceFromQuestUniqueMachineWeather	"Due to the success of the weather machine, ##1## is building an Ice machine."
+
+QuestTextUniqueBuildingMachineIce		"##1## is building an Ice machine. You must kill him before he can complete it!"
+
+// Find Plans
+
+QuestAnnouncePlansBrokenMachineAntiMagic	"We have disrupted plans to build an Anti-Magic machine."
+QuestAnnouncePlansBrokenMachineTemporalFlux	"We have disrupted plans to build a Temporal Flux machine."
+QuestAnnouncePlansBrokenMachineFog		"We have disrupted plans to build a Fog machine."
+QuestAnnouncePlansBrokenMachineIce		"We have disrupted plans to build an Ice machine."
+
+// Old machine quest announcements
+
+QuestAnnounceUniqueMachineEarthquakeFromQuestUniqueMachineAntiMagic	"Due to the success of the Anti-Magic machine, now an earthquake machine has been built."
+QuestAnnounceUniqueMachineEarthquakeFromQuestUniqueMachineTemporalFluxc	"Due to the success of the Temporal Flux machine, now an earthquake machine has been built."
+QuestAnnounceUniqueMachineEarthquakeFromQuestUniqueMachineFog		"Due to the success of the Fog machine, now an earthquake machine has been built."
+QuestAnnounceUniqueMachineEarthquakeFromQuestUniqueMachineIce		"Due to the success of the Ice machine, now an earthquake machine has been built."
+
+QuestAnnounceUniqueMachineDarknessFromQuestUniqueMachineAntiMagic	"Due to the success of the Anti-Magic machine, now a Darkness machine has been built."
+QuestAnnounceUniqueMachineDarknessFromQuestUniqueMachineTemporalFluxc	"Due to the success of the Temporal Flux machine, now a Darkness machine has been built."
+QuestAnnounceUniqueMachineDarknessFromQuestUniqueMachineFog		"Due to the success of the Fog machine, now a Darkness machine has been built."
+QuestAnnounceUniqueMachineDarknessFromQuestUniqueMachineIce		"Due to the success of the Ice machine, now a Darkness machine has been built."
+
+QuestAnnounceUniqueMachineWeatherFromQuestUniqueMachineAntiMagic	"Due to the success of the Anti-Magic machine, now a Weather machine has been built."
+QuestAnnounceUniqueMachineWeatherFromQuestUniqueMachineTemporalFluxc	"Due to the success of the Temporal Flux machine, now a Weather machine has been built."
+QuestAnnounceUniqueMachineWeatherFromQuestUniqueMachineFog		"Due to the success of the Fog machine, now a Weather machine has been built."
+QuestAnnounceUniqueMachineWeatherFromQuestUniqueMachineIce		"Due to the success of the Ice machine, now a Weather machine has been built."
+
+QuestAnnounceWanderingVendorStayedInTown	"##1## was going to leave town, but is really happy here."
+
+ToolTipDelay				"Tool Tip Delay"
+ToolTipDelayDesc			"This controls how long it takes for tool tips to display."
+
+Wet					"Wet"
+
+MinorMagicResistance			"Minor Magic Resistance"
+MagicResistance				"Magic Resistance"
+MajorMagicResistance			"Major Magic Resistance"
+
+Vortar					"Vortar"
+VortarSoldier				"Vortar Soldier"
+VortarRaider				"Vortar Raider"
+VortarGuardian				"Vortar Guardian"
+
+VortarSoldier1				"Sapphire Vortar Soldier"
+VortarSoldier2				"Amber Vortar Soldier"
+VortarSoldier3				"Onyx Vortar Soldier"
+VortarSoldier4				"Emerald Vortar Soldier"
+VortarSoldier5				"Amethyst Vortar Soldier"
+
+VortarSoldier1Unique			"Flameclaw"
+VortarSoldier1bUnique			"Firespike"
+VortarSoldier2Unique			"Toughblood"
+VortarSoldier2bUnique			"Toxicspike"
+VortarSoldier3Unique			"Vilegore"
+VortarSoldier3bUnique			"Fleshbane"
+VortarSoldier4Unique			"Nightclaw"
+VortarSoldier4bUnique			"Direspeed"
+VortarSoldier5Unique			"Emberslash"
+VortarSoldier5bUnique			"Pierce"
+
+VortarSoldier1Legend			"Felheart"
+VortarSoldier2Legend			"Dreadburn"
+VortarSoldier3Legend			"Doomhorns"
+VortarSoldier4Legend			"Bloodthorn"
+VortarSoldier5Legend			"Grimshock"
+
+VortarRaider1				"Sapphire Vortar Raider"
+VortarRaider2				"Amber Vortar Raider"
+VortarRaider3				"Onyx Vortar Raider"
+VortarRaider4				"Emerald Vortar Raider"
+VortarRaider5				"Amethyst Vortar Raider"
+
+VortarRaider1Unique			"Battlesting"
+VortarRaider1bUnique			"Burnspike"
+VortarRaider2Unique			"Bloodstrike"
+VortarRaider2bUnique			"Gutstrike"
+VortarRaider3Unique			"Pyrowicked"
+VortarRaider3bUnique			"Rockdemon"
+VortarRaider4Unique			"Putridfire"
+VortarRaider4bUnique			"Nightgrief"
+VortarRaider5Unique			"Wisetail"
+VortarRaider5bUnique			"Menacetouch"
+
+VortarRaider1Legend			"Brutespeed"
+VortarRaider2Legend			"Cruelbrute"
+VortarRaider3Legend			"Bloodfury"
+VortarRaider4Legend			"Vipereye"
+VortarRaider5Legend			"Kai"
+
+VortarGuardian1				"Sapphire Vortar Guardian"
+VortarGuardian2				"Amber Vortar Guardian"
+VortarGuardian3				"Onyx Vortar Guardian"
+VortarGuardian4				"Emerald Vortar Guardian"
+VortarGuardian5				"Amethyst Vortar Guardian"
+
+VortarGuardian1Unique			"Emberwrecker"
+VortarGuardian1bUnique			"Wickedrock"
+VortarGuardian2Unique			"Wingspawn"
+VortarGuardian2bUnique			"Emberrage"
+VortarGuardian3Unique			"Thundercrush"
+VortarGuardian3bUnique			"Viletouch"
+VortarGuardian4Unique			"Toxiccarnage"
+VortarGuardian4bUnique			"Sharpstone"
+VortarGuardian5Unique			"Dusklord"
+VortarGuardian5bUnique			"Icybrute"
+
+VortarGuardian1Legend			"Darkravager"
+VortarGuardian2Legend			"Soulslayer"
+VortarGuardian3Legend			"Savageterror"
+VortarGuardian4Legend			"Arcanecrusher"
+VortarGuardian5Legend			"Razer"
+
+FlamingClaws				"Flaming Claws"
+
+NpcMarriage				"##1## and ##2## are now married."
+NpcDivorce				"##1## and ##2## got a divorce."
+
+RylorTaunt				"Rylor Taunt"
+
+QuestAnnouncePayingTraitors		"##1## is paying lots of gold to traitors."
+QuestTextPayingTraitors			"We have discovered that ##1## is paying a very high price to anyone that betrays the town. We can't let this happen. Go kill him before he can corrupt our own townspeople!"
+
+FireWeaponSmallPowerupName		"Flaming Weapon"
+PoisonWeaponSmallPowerupName		"Poisoned Weapon"
+AcidWeaponSmallPowerupName		"Acid Dripping Weapon"
+
+EmptyVial				"Empty Vial"
+EmptyVialDesc				"Use and then click on something in the\nworld to put in it (like oil)"
+
+HardcoreHeroes				"Héros Hardcore"
+HardcoreHero				"                            ^f003Hardcore Hero # ##1##^f001"
+HardcoreHeroSeparator			"                           ---------------------------"
+HardcoreHeroNameTitle			"##1## the ##2## level ##3##"
+HardcoreHeroTowns			"Saved ^c002##1##^c145, lost ^c001##2##^c145, and abandoned ^c005##3##^c145 towns"
+HardcoreHeroBestKill			"Killer of ##1##"
+HardcoreHeroDead			"^c001Mort^c145"
+HardcoreHeroAlive			"^c002Encore en vie^c145"
+HardcoreHeroKilledBy			"^c001Tué par^c145 ##1##"
+HardcoreHeroWeapon			"Manieur de ##1##"
+HardcoreHeroArmor			"Porteur de ##1##"
+HardcoreHeroNone			"Aucun personnage hardcore trouvé"
+HardcoreHeroScore			"Score"
+HardcoreHeroScoreLevel			"Niveau"
+
+QuestTextInvasion3Waves			"The ##1## are invading the town in 3 waves. Please keep us safe and kill them all."
+QuestTextInvasion6Waves			"The ##1## are invading the town in 6 waves. Please keep us safe and kill them all."
+QuestTextInvasion9Waves			"The ##1## are invading the town in 9 waves. Please keep us safe and kill them all."
+QuestTextInvasion100Waves		"The ##1## are invading the town in 100 waves. Please keep us safe and kill them all."
+
+QuestInvasionWave			"Invasion wave ##1## of ##2## now attacking!"
+QuestInvasionWaveTime			"##1## minute##2## until next invasion wave!"
+
+WorldStart100WaveInvasion		"Mode invasion"
+WorldStart100WaveInvasionDesc		"World starts with a 100 Wave Invasion quest"
+
+QuestAnnounceBarbarianRaid		"##1##s are raiding the town!"
+
+Barbarian1				"Legion of Fear Barbarian"
+Barbarian2				"Death & Destruction Barbarian"
+Barbarian3				"Raid & Pillage Barbarian"
+Barbarian4				"Black Raiders Barbarian"
+Barbarian5				"Brutal Slayers Barbarian"
+Barbarian6				"Shadow League Barbarian"
+
+DinBlessing				"Din's Blessing"
+
+Achievements				"Succès"
+AchievementUnlocked			"^c002Atteint !^c145"
+AchievementLocked			"^c001Not achieved yet.^c145"
+
+UnlockAwardKills1			"^c061Tueur^c145"
+UnlockAwardKills2			"^c061Egorgeur^c145"
+UnlockAwardKills3			"^c061Executeur^c145"
+UnlockAwardKillsDesc			"Unlocks after killing ##1## monsters"
+
+UnlockAwardSecrets1			"^c061Eagle Eye^c145"
+UnlockAwardSecrets2			"^c061Treasure Hunter^c145"
+UnlockAwardSecretsDesc			"Unlocks after finding ##1## secrets"
+
+UnlockAwardDeaths1			"^c061Only Human^c145"
+UnlockAwardDeathsDesc			"Unlocks after dying ##1## times"
+
+UnlockAwardGoldFound1			"^c061Lucky^c145"
+UnlockAwardGoldFound2			"^c061Leprechaun^c145"
+UnlockAwardGoldFoundDesc		"Unlocks after finding ##1##"
+
+UnlockAwardQuestsSolved1		"^c061Fetcher^c145"
+UnlockAwardQuestsSolved2		"^c061Adventurer^c145"
+UnlockAwardQuestsSolvedDesc		"Unlocks after solving ##1## quests"
+
+UnlockAwardGamesWon1			"^c061Hero^c145"
+UnlockAwardGamesWon2			"^c061Guardian^c145"
+UnlockAwardGamesWon3			"^c061Savior^c145"
+UnlockAwardGamesWonDesc			"Unlocks after saving ##1## towns"
+
+UnlockAwardMoney1			"^c061Rich^c145"
+UnlockAwardMoneyDesc			"Unlocks after having ##1##"
+
+UnlockAwardLevel1			"^c061Ultimate^c145"
+UnlockAwardLevelDesc			"Unlocks after having a character at level ##1##"
+
+UnlockAwardBaseStrength1		"^c061Mighty^c145"
+UnlockAwardBaseStrengthDesc		"Unlocks after having a character with at least ##1## base strength"
+
+UnlockAwardBaseDexterity1		"^c061Agile^c145"
+UnlockAwardBaseDexterityDesc		"Unlocks after having a character with at least ##1## base dexterity"
+
+UnlockAwardBaseVitality1		"^c061Healthy as an Ox^c145"
+UnlockAwardBaseVitalityDesc		"Unlocks after having a character with at least ##1## base vitality"
+
+UnlockAwardBaseIntelligence1		"^c061Brilliant^c145"
+UnlockAwardBaseIntelligenceDesc		"Unlocks after having a character with at least ##1## base intelligence"
+
+UnlockAwardBaseSpirit1			"^c061Divinity^c145"
+UnlockAwardBaseSpiritDesc		"Unlocks after having a character with at least ##1## base spirit"
+
+UnlockAwardAttack1			"^c061True Aim^c145"
+UnlockAwardAttackDesc			"Unlocks after having a character with at least ##1## attack"
+
+UnlockAwardDefense1			"^c061Sentinel^c145"
+UnlockAwardDefenseDesc			"Unlocks after having a character with at least ##1## defense"
+
+UnlockAwardArmor1			"^c061Fortified^c145"
+UnlockAwardArmorDesc			"Unlocks after having a character with at least ##1## armor"
+
+UnlockAwardBestTrapDisarmed1		"^c061Nimble Fingers^c145"
+UnlockAwardBestTrapDisarmedDesc		"Unlocks after having a character disarm a level ##1## trap"
+
+UnlockAwardMaxHealthHealed1		"^c061Healer^c145"
+UnlockAwardMaxHealthHealedDesc		"Unlocks after having a character heal at least ##1## health"
+
+UnlockAwardEquipmentWorth1		"^c061Envy^c145"
+UnlockAwardEquipmentWorth2		"^c061Golden Armor^c145"
+UnlockAwardEquipmentWorthDesc		"Unlocks after having a character with equipement worth at least ##1##"
+
+UnlockAwardKillsPerDeath1		"^c061Efficient Killer^c145"
+UnlockAwardKillsPerDeath2		"^c061Rampage^c145"
+UnlockAwardKillsPerDeathDesc		"Unlocks after having a character with at least ##1## kills per death"
+
+UnlockAwardMagicChance1			"^c061Rabbit's Paw^c145"
+UnlockAwardMagicChanceDesc		"Unlocks after having a character with at least +##1##% magic chance"
+
+UnlockAwardMaxDamageDealt1		"^c061Smasher^c145"
+UnlockAwardMaxDamageDealt2		"^c061Crusher^c145"
+UnlockAwardMaxDamageDealtDesc		"Unlocks after having a character do at least ##1## damage"
+
+UnlockAwardWarrior			"^c061Path of Might^c145"
+UnlockAwardWarriorDesc			"Unlocks after being granted your freedom with the Warrior class"
+
+UnlockAwardRogue			"^c061Path of Stealth^c145"
+UnlockAwardRogueDesc			"Unlocks after being granted your freedom with the Rogue class"
+
+UnlockAwardPriest			"^c061Path of Faith^c145"
+UnlockAwardPriestDesc			"Unlocks after being granted your freedom with the Priest class"
+
+UnlockAwardWizard			"^c061Path of Magic^c145"
+UnlockAwardWizardDesc			"Unlocks after being granted your freedom with the Wizard class"
+
+UnlockAwardConjurer			"^c061Path of Darkness^c145"
+UnlockAwardConjurerDesc			"Unlocks after being granted your freedom with the Conjurer class"
+
+UnlockAwardRanger			"^c061Path of the Forest^c145"
+UnlockAwardRangerDesc			"Unlocks after being granted your freedom with the Ranger class"
+
+UnlockAwardHybrid			"^c061Path of the Unknown^c145"
+UnlockAwardHybridDesc			"Unlocks after being granted your freedom with the Hybrid class"
+
+UnlockAwardDemonHunter			"^c061Path of the Demon^c145"
+UnlockAwardDemonHunterDesc		"Unlocks after being granted your freedom with the Demon Hunter class"
+
+UnlockAwardMaxDamageDealtAtOnce1	"^c061Death Dealer^c145"
+UnlockAwardMaxDamageDealtAtOnce2	"^c061Destroyer^c145"
+UnlockAwardMaxDamageDealtAtOnceDesc	"Unlocks after having a character do at least ##1## damage at once"
+
+UnlockAwardFreedom			"^c061Freedom!^c145"
+UnlockAwardFreedomDesc			"Unlocks after any character is granted their freedom"
+
+UnlockAwardChampion			"^c061Din's Champion!^c145"
+UnlockAwardChampionDesc			"Unlocks after any character becomes a Din's Champion"
+
+UnlockAwardElite			"^c061Din's Elite!^c145"
+UnlockAwardEliteDesc			"Unlocks after any character becomes a Din's Elite"
+
+UnlockAwardLegend			"^c061Din's Legend!^c145"
+UnlockAwardLegendDesc			"Unlocks after any character becomes a Din's Legend"
+
+UnlockAwardHardcoreFreedom		"^c061Hardcore Freedom!^c145"
+UnlockAwardHardcoreFreedomDesc		"Unlocks after any Hardcore character is granted their freedom"
+
+UnlockAwardHardcoreChampion		"^c061Hardcore Din's Champion!^c145"
+UnlockAwardHardcoreChampionDesc		"Unlocks after any Hardcore character becomes a Din's Champion"
+
+UnlockAwardHardcoreElite		"^c061Hardcore Din's Elite!^c145"
+UnlockAwardHardcoreEliteDesc		"Unlocks after any Hardcore character becomes a Din's Elite"
+
+UnlockAwardHardcoreLegend		"^c061Hardcore Din's Legend!^c145"
+UnlockAwardHardcoreLegendDesc		"Unlocks after any Hardcore character becomes a Din's Legend"
+
+UnlockAwardInvasion			"^c061Invasion Survivor^c145"
+UnlockAwardInvasionDesc			"Unlocks after any character survives a 100 Wave Invasion"
+
+DemonGate				"Demon Gate"
+DemonRune				"Demon Rune"
+
+TrapArrowSlit				"Arrow Slit Trap"
+
+AreaDungeonDW1				"Demonic Tomb"
+AreaDungeonDW2				"Corrupted Sanctuary"
+AreaDungeonDW3				"Forgotten Crypt"
+AreaDungeonDW4				"Haunted Tomb"
+AreaDungeonDW5				"Abandoned Crypt"
+AreaDungeonDW6				"Halls of Grime"
+
+AreaCaveDW1				"Death's Embrace"
+AreaCaveDW2				"Dead Wind Catacombs"
+AreaCaveDW3				"Pit of Sorrow"
+AreaCaveDW4				"Grim Labyrinth"
+AreaCaveDW5				"Forsaken Deeps"
+AreaCaveDW6				"Crystal Cave"
+AreaCaveDW7				"Infernal Abyss"
+AreaCaveDW8				"Slayer's Requiem"
+AreaCaveDW9				"Domain of the Dead"
+
+RylorRipper				"Rylor Ripper"
+WingedRylorWrecker			"Winged Rylor Wrecker"
+KrallWarriorMasher			"Krall Warrior Masher"
+VortarSoldierSlayer			"Vortar Soldier Slayer"
+VortarGuardianGorer			"Vortar Guardian Gorer"
+KrallWorkerKiller			"Krall Worker Killer"
+VortarRaiderVexer			"Vortar Raider Vexer"
+RylorBullBarb				"Rylor Bull Barb"
+
+EgoWeaponLevelUp			"Ego weapon leveled up, +##1## base max damage"
+
+Rylor4LegendWeapon			"$$Rylor4Legend$$'s Axe"
+VortarSoldier1LegendWeapon		"$$VortarSoldier1Legend$$'s Axe"
+VortarSoldier2LegendWeapon		"$$VortarSoldier2Legend$$'s Axe"
+VortarSoldier3LegendWeapon		"$$VortarSoldier3Legend$$'s Axe"
+VortarSoldier4LegendWeapon		"$$VortarSoldier4Legend$$'s Axe"
+RylorBull3LegendWeapon			"$$RylorBull3Legend$$'s Axe"
+RylorBull5LegendWeapon			"$$RylorBull5Legend$$'s Axe"
+VortarGuardian5LegendWeapon		"$$VortarGuardian5Legend$$'s Axe"
+Rylor5LegendWeapon			"$$Rylor5Legend$$'s Dagger"
+RylorWinged2LegendWeapon		"$$RylorWinged2Legend$$'s Dagger"
+VortarGuardian3LegendWeapon		"$$VortarGuardian3Legend$$'s Dagger"
+Rylor1LegendWeapon			"$$Rylor1Legend$$'s Mace"
+Rylor2LegendWeapon			"$$Rylor2Legend$$'s Mace"
+RylorWinged5LegendWeapon		"$$RylorWinged5Legend$$'s Mace"
+RylorBull1LegendWeapon			"$$RylorBull1Legend$$'s Mace"
+RylorBull2LegendWeapon			"$$RylorBull2Legend$$'s Mace"
+RylorBull4LegendWeapon			"$$RylorBull4Legend$$'s Mace"
+Rylor3LegendWeapon			"$$Rylor3Legend$$'s Staff"
+VortarGuardian1LegendWeapon		"$$VortarGuardian1Legend$$'s Staff"
+RylorWinged1LegendWeapon		"$$RylorWinged1Legend$$'s Bow"
+RylorWinged3LegendWeapon		"$$RylorWinged3Legend$$'s Bow"
+VortarGuardian2LegendWeapon		"$$VortarGuardian2Legend$$'s Bow"
+VortarGuardian4LegendWeapon		"$$VortarGuardian4Legend$$'s Bow"
+RylorWinged4LegendWeapon		"$$RylorWinged4Legend$$'s Sword"
+VortarSoldier5LegendWeapon		"$$VortarSoldier5Legend$$'s Sword"
+VortarRaider1LegendWeapon		"$$VortarRaider1Legend$$'s Sword"
+VortarRaider2LegendWeapon		"$$VortarRaider2Legend$$'s Sword"
+VortarRaider3LegendWeapon		"$$VortarRaider3Legend$$'s Sword"
+VortarRaider4LegendWeapon		"$$VortarRaider4Legend$$'s Sword"
+VortarRaider5LegendWeapon		"$$VortarRaider5Legend$$'s Sword"
+
+QuestAnnounceHaltedMining		"Mining operations have halted"
+QuestTitleHaltedMining			"Restore mining operations"
+QuestTextHaltedMining			"The ##1## have become so dangerous that the town has had to halt mining operations. Please kill some of them so we can resume working. In the meantime, the townspeople will make less money. "
+
+QuestAnnounceInfestation		"The town is infested"
+QuestTitleInfestation			"Stamp out the infestation"
+QuestTextInfestation			"The town is infested with little critters which is causing higher food prices. Please go deal with this. All you need to do is step on ##1## of the little things and it should clear up the problem."
+QuestProgressInfestation		"##1## left to squash"
+
+QuestTitleFlowers			"Put flowers on grave"
+QuestTextFlowers1			"I have a loved one that was buried where he died down below. I can't visit, but I would like you to put these flowers on his grave."
+QuestTextFlowers2			"I have a loved one that was buried where she died down below. I can't visit, but I would like you to put these flowers on her grave."
+GravestoneLovedOne			"Loved One's Gravestone"
+
+QuestTitleRecoverBody			"Recover body"
+QuestTextRecoverBody1			"I have a friend that was killed down below. I want to give him a proper burial, but can't get to the location. Can you retrieve the body for me?"
+QuestTextRecoverBody2			"I have a friend that was killed down below. I want to give her a proper burial, but can't get to the location. Can you retrieve the body for me?"
+FriendsBody				"Friend's Body"
+
+GateIsBlocked				"Gate is Blocked (Kill whatever is responsible)"
+GateIsBlockedUprising			"Gate is Blocked by ##1## Uprising"
+GateIsBlockedUnique			"Gate is Blocked by ##1##"
+
+QuestAnnounceUniqueBlockGate		"##1## is blocking the gate in ##2##."
+QuestAnnounceUniqueBlockGateFromBoss	"##3## has sent ##1## to block the gate in ##2##."
+
+QuestTitleUniqueBlockGate		"Unblock the gate system"
+QuestTextUniqueBlockGate		"##1## is blocking the gate in ##2##. With ##1## in the way no one can gate to ##2## or below and once below that level no one can gate back to town."
+
+FightStarted				"##1## started a fight with ##2##."
+FightStopped				"The fight between ##1## and ##2## has stopped."
+
+QuestAnnounceUprisingBlockGate		"An uprising of ##1## are blocking the gate in ##2##."
+QuestAnnounceUprisingBlockGateFromBoss		"##3## has started an uprising of ##1## to block the gate in ##2##."
+QuestAnnounceUprisingBlockGateFromMonsterHunter	"A ##3## hunter has started an uprising of ##1## to block the gate in ##2##."
+QuestAnnounceUprisingBlockGateFromUniqueMonsterSpotted	"##3## has started an uprising of ##1## to block the gate in ##2##."
+QuestAnnounceUprisingBlockGateFromKillMonsterGroup	"##3##'s group has started an uprising of ##1## to block the gate in ##2##."
+QuestAnnounceUprisingBlockGateFromWar		"A war has led to an uprising of ##1## blocking the gate in ##2##."
+
+QuestTitleUprisingBlockGate		"Uprising of ##1## blocking a gate"
+QuestTextUprisingBlockGate		"The gate in ##2## is being blocked because of an uprising of ##1##. With ##1## in the way no one can gate to ##2## or below and once below that level no one can gate back to town."
+
+QuestAnnounceOverlord			"##1## is now Overlord of the dungeon."
+QuestTitleOverlord			"Kill ##1## the Overlord"
+QuestTextOverlord			"##1## has taken over the entire dungeon. Overlords are extremely dangerous. They usually won't attack the town directly but they can instigate many problems for us. They can even setup bosses. Go kill ##1## as soon as you can get down to him."
+
+QuestAnnounceUprisingFromQuestOverlord		"The Overlord ##3## has started an uprising of ##1## in ##2##."
+QuestAnnounceMonsterHunterFromQuestOverlord	"The Overlord ##3## has sent a ##1## hunter to ##2##."
+QuestAnnounceWarFromQuestOverlord		"The Overlord ##3## has led the ##1##s to declare war on the ##2##s."
+QuestAnnounceUniqueBlockGateFromQuestOverlord	"The Overlord ##2## has sent ##1## to block a gate!"
+QuestAnnounceUprisingBlockGateFromQuestOverlord	"The Overlord ##3## has started an uprising of ##1## to block the gate in ##2##."
+QuestAnnounceBossFromQuestOverlord		"The Overlord ##3## has setup ##1## as the new boss of ##2##."
+
+QuestAnnounceUniqueFallenHero		"##1## is guarding ##4##'s treasure."
+QuestTitleUniqueFallenHero		"Retrieve fallen hero's treasure"
+QuestTextUniqueFallenHero		"##1## is guarding a fallen hero's treasure. If you can kill ##1##, you will get some of the treasure from the fallen hero."
+
+FallenHeroChestName			"##1##'s Treasure"
+ChestQuestLocked			"Chest is protected"
+
+Tornado					"Tornado"
+
+QuestAnnounceUniqueRaider		"##1## is guarding ##4##'s treasure."
+QuestTitleUniqueRaider			"Retrieve fallen hero's treasure"
+QuestTextUniqueRaider			"##1## is guarding a fallen hero's treasure. If you can kill ##1##, you will get some of the treasure from the fallen hero."
+
+QuestAnnounceUniqueMachinist		"##1## the Machinist has been spotted in ##2##."
+QuestTitleUniqueMachinist		"Kill ##1## the Machinist"
+QuestTextUniqueMachinist		"##1## the Machinist has been spotted. ##1## is known for building evil machines that are extremely dangerous to his enemies. Kill him before he can build anything!"
+
+QuestAnnounceUniqueWarMonger		"##1## the Warmonger has been spotted in ##2##."
+QuestTitleUniqueWarMonger		"Kill ##1## the Warmonger"
+QuestTextUniqueWarMonger		"##1## the Warmonger has been spotted. ##1## is known for starting as many wars as possible to cause as much chaos as possible. Kill him before he starts trouble!"
+
+QuestAnnounceUniqueMonsterSpottedFromQuestRescue	"##1## is pissed because we rescued one of his victims!"
+
+ScarIntro				"New in town? I knew it. I'm the only beastmaster in these parts. You want a pet, I'm your guy."
+
+LifeStealPerHitX			"Life Steal: +##1## health per hit"
+LifeStealPerKillX			"Soul Steal: +##1## health per kill"
+ManaStealPerHitX			"Mana Steal: +##1## mana per hit"
+ManaStealPerKillX			"Mana Steal: +##1## mana per kill"
+ManaStealPerBlockX			"Energy Absorb: +##1## mana per block"
+
+LifeStealPerHitModifierName1		"of the Parasite"
+LifeStealPerHitModifierName2		"of the Leech"
+LifeStealPerHitModifierName3		"of the Candiru"
+LifeStealPerHitModifierName4		"of the Lamprey"
+LifeStealPerHitModifierName5		"of the Bat"
+LifeStealPerHitModifierName6		"of the Chupacabra"
+LifeStealPerHitModifierName7		"of the Vampire"
+
+LifeStealPerKillModifierName1		"of Source"
+LifeStealPerKillModifierName2		"of Essence"
+LifeStealPerKillModifierName3		"of Lifeblood"
+LifeStealPerKillModifierName4		"of Core"
+LifeStealPerKillModifierName5		"of Spirit"
+LifeStealPerKillModifierName6		"of Soul"
+
+ManaStealPerHitModifierName1		"Seeping"
+ManaStealPerHitModifierName2		"Depleting"
+ManaStealPerHitModifierName3		"Extracting"
+ManaStealPerHitModifierName4		"Saping"
+ManaStealPerHitModifierName5		"Oozing"
+ManaStealPerHitModifierName6		"Draining"
+
+ManaStealPerKillModifierName1		"of Grasping"
+ManaStealPerKillModifierName2		"of Embrace"
+ManaStealPerKillModifierName3		"of Harvest"
+ManaStealPerKillModifierName4		"of Reaping"
+
+ManaStealPerBlockModifierName1		"Absorbing"
+ManaStealPerBlockModifierName2		"Imbibing"
+ManaStealPerBlockModifierName3		"Consuming"
+ManaStealPerBlockModifierName4		"Digesting"
+ManaStealPerBlockModifierName5		"Gorging"
+ManaStealPerBlockModifierName6		"Devouring"
+
+QuestAnnounceUniqueMassacre		"There has been a massacre in ##2##!"
+QuestTitleUniqueMassacre		"Get revenge for the massacre"
+QuestTextUniqueMassacre			"##1## has slaughtered many humans already. Kill him before he can do worse!"
+
+QuestAnnounceRescueDisappeared		"##1## has disappeared."
+QuestTitleRescueDisappeared		"Find ##1##"
+QuestTextRescueDisappeared		"We don't know what has happened to ##1##. Please deal with it."
+
+QuestAnnounceRenegadeDisappeared	"##1## has disappeared."
+QuestTitleRenegadeDisappeared		"Find ##1##"
+QuestTextRenegadeDisappeared		"We don't know what has happened to ##1##. Please deal with it."
+
+AxeNameExp1-1				"Mithril Viking Axe"
+AxeNameExp1-2				"Adamantium Viking Axe"
+
+AxeTwoHandedNameExp1-1			"Mithril Executioner Axe"
+AxeTwoHandedNameExp1-2			"Adamantium Executioner Axe"
+
+BowNameExp1-1				"Hickory Composite Bow"
+BowNameExp1-2				"Yew Composite Bow"
+
+DaggerNameExp1-1			"Mithril Flame Dagger"
+DaggerNameExp1-2			"Adamantium Flame Dagger"
+
+MaceNameExp1-1				"Mithril Double Flail"
+MaceNameExp1-2				"Adamantium Double Flail"
+
+MaceTwoHandedNameExp1-1			"Mithril Giant Martel"
+MaceTwoHandedNameExp1-2			"Adamantium Giant Martel"
+
+StaffNameExp1-1				"Mithril Staff"
+StaffNameExp1-2				"Adamantium Staff"
+
+SwordNameExp1-1				"Mithril War Sword"
+SwordNameExp1-2				"Adamantium War Sword"
+
+SwordTwoHandedNameExp1-1		"Mithril Warlord Sword"
+SwordTwoHandedNameExp1-2		"Adamantium Warlord Sword"
+
+ShieldNameExp1-1			"Mithril Templar Shield"
+ShieldNameExp1-2			"Adamantium Templar Shield"
+
+BeltClothNameExp1-1			"Imbued Silk Girdle"
+BeltClothNameExp1-2			"Rune Silk Girdle"
+
+BeltLeatherNameExp1-1			"Imbued Hide Girdle"
+BeltLeatherNameExp1-2			"Rune Hide Girdle"
+
+BeltMailNameExp1-1			"Mithril Scale Girdle"
+BeltMailNameExp1-2			"Adamantium Scale Girdle"
+
+BeltPlateNameExp1-1			"Mithril Girdle"
+BeltPlateNameExp1-2			"Adamantium Girdle"
+
+BootsClothNameExp1-1			"Imbued Silk Boots"
+BootsClothNameExp1-2			"Rune Silk Boots"
+
+BootsLeatherNameExp1-1			"Imbued Hide Boots"
+BootsLeatherNameExp1-2			"Rune Hide Boots"
+
+BootsMailNameExp1-1			"Mithril Scale Boots"
+BootsMailNameExp1-2			"Adamantium Scale Boots"
+
+BootsPlateNameExp1-1			"Mithril Boots"
+BootsPlateNameExp1-2			"Adamantium Boots"
+
+CapeClothNameExp1-1			"Imbued Silk Cloak"
+CapeClothNameExp1-2			"Rune Silk Cloak"
+
+ChestClothNameExp1-1			"Imbued Silk Tunic"
+ChestClothNameExp1-2			"Rune Silk Tunic"
+
+ChestLeatherNameExp1-1			"Imbued Hide Harness"
+ChestLeatherNameExp1-2			"Rune Hide Harness"
+
+ChestMailNameExp1-1			"Mithril Scale Chestpiece"
+ChestMailNameExp1-2			"Adamantium Scale Chestpiece"
+
+ChestPlateNameExp1-1			"Mithril Breastplate"
+ChestPlateNameExp1-2			"Adamantium Breastplate"
+
+GlovesClothNameExp1-1			"Imbued Silk Gloves"
+GlovesClothNameExp1-2			"Rune Silk Gloves"
+
+GlovesLeatherNameExp1-1			"Imbued Hide Gloves"
+GlovesLeatherNameExp1-2			"Rune Hide Gloves"
+
+GlovesMailNameExp1-1			"Mithril Scale Gauntlets"
+GlovesMailNameExp1-2			"Adamantium Scale Gauntlets"
+
+GlovesPlateNameExp1-1			"Mithril Gauntlets"
+GlovesPlateNameExp1-2			"Adamantium Gauntlets"
+
+GreavesClothNameExp1-1			"Imbued Silk Leggings"
+GreavesClothNameExp1-2			"Rune Silk Leggings"
+
+GreavesLeatherNameExp1-1		"Imbued Hide Leggings"
+GreavesLeatherNameExp1-2		"Rune Hide Leggings"
+
+GreavesMailNameExp1-1			"Mithril Scale Greaves"
+GreavesMailNameExp1-2			"Adamantium Scale Greaves"
+
+GreavesPlateNameExp1-1			"Mithril Legplates"
+GreavesPlateNameExp1-2			"Adamantium Legplates"
+
+HelmetClothNameExp1-1			"Imbued Silk Hood"
+HelmetClothNameExp1-2			"Rune Silk Hood"
+
+HelmetLeatherNameExp1-1			"Imbued Hide Helm"
+HelmetLeatherNameExp1-2			"Rune Hide Helm"
+
+HelmetMailNameExp1-1			"Mithril Scale Helmet"
+HelmetMailNameExp1-2			"Adamantium Scale Helmet"
+
+HelmetPlateNameExp1-1			"Mithril Helmet"
+HelmetPlateNameExp1-2			"Adamantium Helmet"
+
+ShoulderClothNameExp1-1			"Imbued Silk Shoulders"
+ShoulderClothNameExp1-2			"Rune Silk Shoulders"
+
+ShoulderLeatherNameExp1-1		"Imbued Hide Pauldron"
+ShoulderLeatherNameExp1-2		"Rune Hide Pauldron"
+
+ShouldersMailNameExp1-1			"Mithril Scale Pauldron"
+ShouldersMailNameExp1-2			"Adamantium Scale Pauldron"
+
+ShouldersPlateNameExp1-1		"Mithril Pauldron"
+ShouldersPlateNameExp1-2		"Adamantium Pauldron"
+
+WristsClothNameExp1-1			"Imbued Silk Bracers"
+WristsClothNameExp1-2			"Rune Silk Bracers"
+
+WristsLeatherNameExp1-1			"Imbued Hide Bracers"
+WristsLeatherNameExp1-2			"Rune Hide Bracers"
+
+WristsMailNameExp1-1			"Mithril Scale Bracers"
+WristsMailNameExp1-2			"Adamantium Scale Bracers"
+
+WristsPlateNameExp1-1			"Mithril Vambrace"
+WristsPlateNameExp1-2			"Adamantium Vambrace"
+
+NpcFight				"Fight with Player"
+NpcFightDesc				"A player started a fight with this NPC.\nBe careful and don't kill NPCs you want to live!"
+
+StartFight				"Fight"
+StartFightDesc				"Choose this if you want to fight this npc.\nIs this really what you want?"
+
+ConfirmStartFight			"Are you sure you want to attack this NPC?"
+
+QuestAnnounceUprisingFromQuestUprising	"An established uprising has led to a new uprising of ##1## in ##2##."
+
+QuestAnnounceMonsterQuestItemRitual	"##3## needs more ##1## ##2##s for a ritual."
+QuestTitleMonsterQuestItemRitual	"Find ##1## ##2## ##3## for a ritual"
+QuestTextMonsterQuestItemPersonalRitual	"People arount here won't like what I'm doing, but I need ##1## ##2## ##3## for a old ritual I would like to perform. I will pay you well for the body parts I need!"
+
+QuestAnnounceWarParty			"There is a War Party of ##1## in ##2##."
+QuestTitleWarParty			"Kill ##1## War Party"
+QuestTextWarParty			"There is a War Party of ##1## in ##2##. Go deal with them before they pick us as a target!"
+
+QuestAnnounceWarFromQuestWarParty			"The War Party has led the ##1##s to declare war on the ##2##s."
+QuestAnnounceTownAttackFromQuestWarParty		"##1## from the War Party are attacking the town!"
+QuestAnnounceRaidFromQuestWarParty			"##1## from the War Party are raiding the town!"
+QuestAnnounceInvasionFromQuestWarParty			"##1## from the War Party are invading the town!"
+QuestAnnounceWarAgainstBarbariansFromQuestWarParty	"A War Party has gotten us into a war with the ##1##."
+
+DisplayEquipment			"Equipment"
+
+BasicVest				"Basic Vest"
+BasicLeggings				"Basic Leggings"
+BasicBoots				"Basic Boots"
+BasicGloves				"Basic Gloves"
+CantReplaceWithCheaperItem		"Can't replace with a cheaper item!"
+
+QuestTextMonsterQuestCommonEnemy	"I believe we have a common enemy, the ##1##. Do us both a favor and kill ##2## ##1##."
+
+MissingShipment				"Missing Shipment"
+
+QuestAnnounceMissingShipmentFood	"A critical food shipment has been lost."
+QuestAnnounceMissingShipmentFoodFromMonsterHunter	"A critical food shipment has been lost, due to a monster hunter."
+QuestAnnounceMissingShipmentFoodFromRenegade		"A critical food shipment has been lost, due to a renegade."
+QuestTitleMissingShipmentFood		"Find lost food shipment"
+QuestTextMissingShipmentFood		"A critical food shipment has been lost down in the dungeon, please retrieve it. In the meantime, food prices will be higher."
+
+WorldModifierMissingShipmentFood	"Missing Food Shipment"
+WorldModifierMissingShipmentFoodDesc	"Missing Food Shipment: A critical food shipment is lost, increasing food prices."
+
+QuestAnnounceMissingShipmentWater	"A critical water shipment has been lost."
+QuestAnnounceMissingShipmentWaterFromMonsterHunter	"A critical water shipment has been lost, due to a monster hunter."
+QuestAnnounceMissingShipmentWaterFromRenegade		"A critical water shipment has been lost, due to a renegade."
+QuestTitleMissingShipmentWater		"Find lost water shipment"
+QuestTextMissingShipmentWater		"A critical water shipment has been lost down in the dungeon, please retrieve it. In the meantime, drink prices will be higher."
+
+WorldModifierMissingShipmentWater	"Missing Water Shipment"
+WorldModifierMissingShipmentWaterDesc	"Missing Water Shipment: A critical water shipment is lost, increasing drink prices."
+
+ItemSupplyPriceDesc			"Item supplies are low and currently cost ##1##% more than normal"
+
+QuestAnnounceMissingShipmentItem	"A critical item shipment has been lost."
+QuestAnnounceMissingShipmentItemFromMonsterHunter	"A critical item shipment has been lost, due to a monster hunter."
+QuestAnnounceMissingShipmentItemFromRenegade		"A critical item shipment has been lost, due to a renegade."
+QuestTitleMissingShipmentItem		"Find lost item shipment"
+QuestTextMissingShipmentItem		"A critical item shipment has been lost down in the dungeon, please retrieve it. In the meantime, item prices will be higher."
+
+WorldModifierMissingShipmentItem	"Missing Item Shipment"
+WorldModifierMissingShipmentItemDesc	"Missing Item Shipment: A critical item shipment is lost, increasing item prices."
+
+QuestAnnouncePillage			"##1## are pillaging the town!"
+QuestAnnouncePillageFromBoss		"##2## sent ##1## to pillage the town!"
+QuestAnnouncePillageFromUniqueMonsterSpotted		"##2## sent ##1## to pillage the town!"
+QuestAnnouncePillageFromKillMonsterGroup		"##2##'s group sent ##1## to pillage the town!"
+QuestAnnouncePillageFromUprising	"Followers from an uprising of ##1## are pillaging the town!"
+QuestAnnouncePillageFromMonsterScout	"The ##2## scout led in ##1## pillagers!"
+QuestAnnouncePillageFromWarAgainstBarbarians	"Due to our war with the ##1## they are pillaging the town!"
+QuestAnnouncePillageFromQuestMonsterGathering	"Followers from a monster gathering of ##1## are pillaging the town!"
+QuestAnnouncePillageFromQuestAreaOverrun		"##1## from the area overrun are pillaging the town!"
+
+QuestTitlePillage			"Stop the ##1## pillagers"
+QuestTextPillage			"The ##1## are pillaging the town. Please hurry and kill them all. Make sure to destroy the gate also."
+
+QuestAnnounceEvidenceWorshipMortus	"Someone from town is worshipping the evil god Mortus!"
+QuestTitleEvidenceWorshipMortus		"Find who is worshipping the evil god Mortus"
+QuestTextEvidenceWorshipMortus		"Someone from town is worshipping the evil god Mortus, please bring back evidence of who it is so they can be punished."
+QuestEndEvidenceWorshipMortus		"Evidence from the worshipper of Mortus has been destroyed."
+
+EvidenceEvilGodWorship			"Evidence of Worshipping Evil Gods"
+CaughtEvilGodWorship			"##1## was caught Worshipping evil gods!"
+
+QuestAnnounceEvidenceWorshipErillin	"Someone from town is worshipping the evil god Erillin!"
+QuestTitleEvidenceWorshipErillin	"Find who is worshipping the evil god Erillin"
+QuestTextEvidenceWorshipErillin		"Someone from town is worshipping the evil god Erillin, please bring back evidence of who it is so they can be punished."
+QuestEndEvidenceWorshipErillin		"Evidence from the worshipper of Erillin has been destroyed."
+
+QuestAnnounceEvidenceWorshipKracht	"Someone from town is worshipping the evil god Kracht!"
+QuestTitleEvidenceWorshipKracht		"Find who is worshipping the evil god Kracht"
+QuestTextEvidenceWorshipKracht		"Someone from town is worshipping the evil god Kracht, please bring back evidence of who it is so they can be punished."
+QuestEndEvidenceWorshipKracht		"Evidence from the worshipper of Kracht has been destroyed."
+
+QuestAnnounceEvidenceWorshipValta	"Someone from town is worshipping the evil god Valta!"
+QuestTitleEvidenceWorshipValta		"Find who is worshipping the evil god Valta"
+QuestTextEvidenceWorshipValta		"Someone from town is worshipping the evil god Valta, please bring back evidence of who it is so they can be punished."
+QuestEndEvidenceWorshipValta		"Evidence from the worshipper of Valta has been destroyed."
+
+FoundRoomPrisonLesser			"Found Lesser Prison"
+FoundRoomPrison				"Found Prison"
+FoundRoomPrisonGreater			"Found Greater Prison"

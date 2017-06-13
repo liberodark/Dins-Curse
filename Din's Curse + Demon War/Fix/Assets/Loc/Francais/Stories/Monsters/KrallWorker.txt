@@ -1,0 +1,6 @@
+Travailleur Krall
+
+	Le moindre des travailleurs krall tranche ses ennemis avec des membres polyvalents et grêles. Il est connu pour appeler des démons à la bataille. Les kralls demeurent dans les villes démoniques davantage comme une infestation que comme une société civilisée, mais ils sont favorisés par les vortars.
+
+Capacités spéciales : Alerter les démons, Marques Krall
+Variantes : $$KrallWorker1$$ (ci-contre), $$KrallWorker2$$, $$KrallWorker3$$, $$KrallWorker4$$ et $$KrallWorker5$$

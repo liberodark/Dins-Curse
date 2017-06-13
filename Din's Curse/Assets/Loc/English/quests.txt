@@ -1,0 +1,1190 @@
+
+// General
+
+QuestSlotEmpty				"Emplacement de quête vide"
+QuestCompleted				"(^c061accomplie^c145)"
+QuestFailed				"(^c001echouee^c145)"
+QuestSolved				"Resolu la quete ##1##"
+QuestAccepted				"Accepte la quete ##1##"
+Decline					"Decliner"
+Close						"Fermer"
+QuestXFailed				"Echoue dans la quete ##1##"
+QuestSkipped				"Saute la quete ##1##"
+QuestTitlePlayerInQuestLevel		"^c002*^c145"
+QuestTextPartCompleted			"(accomplie)"
+
+AnnounceQuestCompleted			"Quete accomplie"
+AnnounceQuestFailed			"Quete echouee"
+
+DiscoveredQuestLate			"Nous avons manque un indice et decouvert un probleme tardif !"
+
+QuestTitleKillUniqueMonster		"Tuer ##1##"
+
+QuestKilledMonster			"##1## a ete tue."
+QuestDestroyedObject			"##1## a ete detruit."
+
+QuestOptional				"Cette quete est optionelle."
+
+FailConditionsRescue			"Vous aller rater cette quete si le PNJ meurt !\n"
+FailConditionsDelivery			"Vous allez rater cette quete si le PNJ meurt !\n"
+
+QuestTitleMonsterQuestItem		"Trouver ##1## ##3## de ##2##"
+
+Kill					"Tuer"
+TimeLeft				"Temps restant"
+KnownLocation				"Emplacement connu"
+Location				"Emplacement"
+QuestLevel				"Niveau de quete"
+ProgressCompleted			"Avancement : ^c061completed^c000"
+
+QuestArmorReward			"Armure de recompense deposee au sol"
+QuestWeaponReward			"Arme de recompense deposee au sol"
+QuestItemReward				"Objet de recompense depose au sol"
+QuestChestReward			"Coffre de recompense amene"
+
+RandomArmorReward			"une piece d'armure aleatoire"
+RandomWeaponReward			"un arme aleatoire"
+
+MonsterTypeAddition			" (un ##2##)"
+
+TalkToMonster				"Parlez a ##1## a ##2## quand la quete sera accomplie.\n"
+TalkToSpecificNpc			"Parlez a votre ##1## a ##2## quand la quete sera accomplie.\n"
+TalkToRevenge				"Parlez a ##1## en ville quand la quete sera accomplie.\n"
+TalkToNpcType				"Parlez a votre ##1## quand la quete sera accomplie.\n"
+
+ItemQuestStartBad			"Le papier ne comprend que du charabia"
+
+// Generic titles
+
+QuestTitleLevelQuestItem		"Rassembler ##1## ##2##"
+
+QuestItemPapersName			"Document secret"
+
+// Progress
+
+QuestProgressFailed			"Avancee : ^c001echec^c145\n"
+
+QuestProgressKillMonsterFull		"##1## ##2## restent a tuer\n"
+QuestProgressKillMonsterPartial		"Avancee : ##1## restent a tuer\n"
+
+QuestProgressMonsterItemFull		"##1## ##3## de ##2## restent a trouver\n"
+QuestProgressMonsterItemPartial		"Avancee : ##1## reste a trouver\n"
+
+QuestProgressLevelItemFull		"##1## ##2## restent a trouver\n"
+QuestProgressLevelItemPartial		"Avancee : ##1## reste a trouver\n"
+
+QuestProgressMonsterGroupFull		"##1## monstre ##2## en groupe restent a tuer\n"
+QuestProgressMonsterGroupPartial	"Avancee : ##1## monstre##2## en groupe restent a tuer\n"
+
+QuestProgressClearLevel			"##1## monstre ##2## reste a tuer\n"
+
+QuestProgressKillMonsterFull		"##1## ##2## restent a tuer\n"
+QuestProgressKillMonsterPartial		"Avancee : ##1## reste a tuer\n"
+
+// Specific text
+
+// KillMonsters
+
+QuestTitleKillMonsters			"Tuer ##1## ##2##"
+QuestTextKillMonsters1			"Prouvez que vous etes digne d'etre un heros. Menez a bien cette tache."
+QuestTextKillMonsters2			"Acceptez cette mission et prouvez votre courage."
+QuestTextKillMonsters3			"Securisez la ville."
+QuestTextKillMonsters4			"Nous devons nous venger !  Ils doivent mourir pour les vies qu'ils ont prises."
+QuestTextKillMonsters5			"Les ##1## deviennent une enorme nuisance. Allez decimer leur nombre."
+
+QuestTextKillMonstersDin1		"J'ai de quoi vous faire travailler et de continuer a vous laisser prouver votre valeur."
+
+// Boss
+
+QuestAnnounceBoss			"##1## est maintenant chef des ##2##"
+QuestTitleBoss				"Tuer ##1## le chef"
+QuestTextBoss				"##1## a pris les souterrains, allez tuer ##1##."
+QuestEventOverthrowAttemptSucess	"##1## a renverse avec succes ##2##."
+QuestEventOverthrowAttemptFailed	"##1## a echoue a renverser ##2##."
+
+QuestTextBossDin1			"##1## a pris le souterrain. Plus important encore, la deesse Erillin a pris de linteret a ##1##. Ne sous-estimez pas Erillin. Elle gagne du pouvoir par ces instruments du mal. Allez tuer ##1##."
+QuestTextBossDin2			"##1## a acquis enormement d'adeptes. Le dieu Hamlec manie ##1## se glorifie de la destruction. Hamlec ne doit pas reussir. Tuez ##1##."
+QuestTextBossDin3			"##1## a pris le commandement des souterrains, avec l'aide du dieu Kracht. Kracht se delecte de la guerre et gagnera du pouvoir par l'intermediaire de ##1##. Vous devez arreter ca en tuant ##1##."
+QuestTextBossDin4			"Sur ordre du dieu Mortus, ##1## a ramene l'ordre parmi nos ennemis. Mortus detruira la ville, a moins que vous ne detruisiez son mignon, ##1##."
+QuestTextBossDin5			"La deesse malefique Valta a sali une autre ame a sa cause dans ##1##. Ses desseins doivent etre arretes a tout prix. Allez tuer ##1## avant qu'il ne soit trop tard !"
+
+
+// Assassin
+
+QuestAnnounceAssassin			"##1## a ete apercu en ville"
+QuestAnnounceAssassinFromMonsterScout	"The ##2## scout led the assassin ##1## to town"
+QuestAnnounceAssassinFromMonsterHunter	"A ##2## hunter sent the assassin ##1## to town"
+QuestAnnounceAssassinFromBoss		"##2## has sent the assassin ##1## to town!"
+QuestAnnounceAssassinFromUniqueMonsterSpotted		"##2## has sent the assassin ##1## to town!"
+QuestAnnounceAssassinFromKillMonsterGroup		"##2##'s group has sent the assassin ##1## to town!"
+QuestAnnounceAssassinFromRenegade	"The renegade ##2## has sent the assassin ##1## to town!"
+QuestAnnounceAssassinFromQuestUniqueReconTotem	"Helped by a recon totem, the assassin ##1## has snuck into town!"
+QuestAnnounceAssassinFromQuestDinUniqueAltarValta	"Due to the influence of Valta's Altar, the assassin ##1## has snuck into town!"
+
+QuestTextAssassin1			"##1## has been spotted in town.  Go kill him before he hurts anyone!"
+QuestTextAssassin2			"##1## has been seen in town.  Kill him before he has a chance to hurt us!"
+QuestTextAssassin3			"##1## has been in town.  He must be killed before he murders someone!"
+
+// Town Traps
+
+QuestAnnounceTownTraps				"Someone has set up traps in the town!"
+QuestAnnounceTownTrapsFromAssassin		"The assassin ##1## has set up traps in the town!"		
+QuestAnnounceTownTrapsFromMonsterScout		"The ##1## scout has set up traps in the town!"		
+QuestAnnounceTownTrapsFromRenegadeAttack	"The renegade ##1## has set up traps in the town!"		
+
+// Dungeon traps
+
+QuestAnnounceDungeonTraps			"Someone has set up traps in ##2##!"
+QuestAnnounceDungeonTrapsFromMonsterHunter	"A ##1## hunter has set up traps in ##2##!"
+
+// Monster scout
+
+QuestAnnounceMonsterScout		"A ##1## scout has been spotted in town."
+QuestAnnounceMonsterScoutFromBoss			"##2## has sent a ##1## scout to town."
+QuestAnnounceMonsterScoutFromUniqueMonsterSpotted	"##2## has sent a ##1## scout to town."
+QuestAnnounceMonsterScoutFromKillMonsterGroup		"##2##'s group has sent a ##1## scout to town."
+QuestAnnounceMonsterScoutFromRenegade	"The renegade ##2## has sent a ##1## scout to town."
+QuestAnnounceMonsterScoutFromMonsterHunter	"A ##2## hunter has sent a ##1## scout to town."
+
+QuestTitleMonsterScout			"Tuer l'eclaireur ##1##"
+QuestTextMonsterScout1			"Un eclaireur ##1## a ete repere en ville.  Allez le tuer avant qu'il ne cause du grabuge !"
+QuestTextMonsterScout2			"Un eclaireur ##1## a ete vu en ville.  Tuez-le avant que des proplemes n'apparaissent !"
+QuestTextMonsterScout3			"You'll never guess what found a way into town!  A ##1## scout.  Someone has to kill it!"
+QuestKilledMonsterScout			"L'eclaireur ##1## a ete tue."
+
+// Monster hunter
+
+QuestAnnounceMonsterHunter		"A ##1## hunter has been spotted in ##2##."
+QuestAnnounceMonsterHunterFromBoss			"##3## has sent a ##1## hunter to ##2##."
+QuestAnnounceMonsterHunterFromUniqueMonsterSpotted	"##3## has sent a ##1## hunter to ##2##."
+QuestAnnounceMonsterHunterFromKillMonsterGroup		"##3##'s group has sent a ##1## hunter to ##2##."
+
+QuestTitleMonsterHunter			"Tuer le chasseur ##1##"
+QuestTextMonsterHunter1			"A ##1## hunter has been spotted in ##2##.  Go kill it before it causes trouble! Beware: hunters move around a lot and are very fast."
+QuestTextMonsterHunter2			"A ##1## hunter has been seen in ##2##.  Kill it before trouble starts! Beware: hunters move around a lot and are very fast."
+QuestKilledMonsterHunter		"##1## hunter has been killed."
+
+// Monster slayer
+
+QuestAnnounceMonsterSlayer		"##1##, un tueur, a ete repere dans ##2##."
+QuestTitleMonsterSlayer			"Tuer ##1## le tueur"
+QuestTextMonsterSlayer			"##1##, un tueur, a ete repere dans ##2##.  Allez le tuer avant qu'il ne cause des degats ! Prenez garde : les tueurs se deplacent beaucoup et sont tres rapides."
+QuestKilledMonsterSlayer		"##1## le tueur a ete tue."
+
+// Monster item
+
+QuestAnnounceMonsterQuestItem		"La ville a besoin de davantage de ##2## de ##1##s\n"
+QuestTitleMonsterQuestItem		"Trouver ##1## ##3## de ##2##"
+QuestTextMonsterQuestItemWarning	"We need high quality supplies, so it might take multiple monsters to find each good one."
+QuestTextMonsterQuestItem1		"The town is low on provisions; find ##1## ##2## ##3##.  $$QuestTextMonsterQuestItemWarning$$"
+QuestTextMonsterQuestItem2		"The town needs more supplies, seek ##1## ##2## ##3##.  $$QuestTextMonsterQuestItemWarning$$"
+QuestTextMonsterQuestItem3		"The last bombardment destroyed some of our stores. Gather ##1## ##2## ##3##.  $$QuestTextMonsterQuestItemWarning$$"
+QuestTextMonsterQuestItem4		"The war has taken a toil on our resources and we have few means to gather more.  Please gather ##1## ##2## ##3##.  $$QuestTextMonsterQuestItemWarning$$"
+
+QuestTextArmorsmithMonsterQuestItem1	"I'm low on supplies, find me ##1## ##2## ##3##."
+QuestTextArmorsmithMonsterQuestItem2	"I need more materials, bring me ##1## ##2## ##3##."
+QuestTextArmorsmithMonsterQuestItem3	"I doubt anyone can help, but I really need ##1## ##2## ##3##."
+QuestTextArmorsmithMonsterQuestItem4	"I've run out of some of the supplies I need to enchant the armor that I forge.  Find me ##1## ##2## ##3##."
+QuestTextWeaponsmithMonsterQuestItem1	"I'm low on supplies, find me ##1## ##2## ##3##."
+QuestTextWeaponsmithMonsterQuestItem2	"I need more materials, find me ##1## ##2## ##3##."
+QuestTextWeaponsmithMonsterQuestItem3	"If anyone can help me, you can! Bring me ##1## ##2## ##3##."
+QuestTextWeaponsmithMonsterQuestItem4	"I use a lot of ingredients from different monster species when I forge weapons.  Unfortunately I have run out of some.  Find me ##1## ##2## ##3##."
+
+QuestEventGatherSuccessMonsterItem	"##1## has gathered the ##2## ##3##s needed"
+QuestEventGatherFailureMonsterItem	"##1## attempted to gather the ##2## ##3##s needed, but has died"
+QuestEventGatherRescueMonsterItem	"##1## attempted to gather the ##2## ##3##s needed, but now needs to be rescued"
+
+QuestTextArmorsmithMonsterQuestUniqueItem1	"Je fabrique ##5## mais j'ai besoin de quelques ressources finales. Trouvez-moi ##1## ##3## de ##2## pour que je puisse achever mon projet. J'envisage de vendre l'armure apres sa realisation."
+QuestTextWeaponsmithMonsterQuestUniqueItem1	"I'm making ##5## but I need some final supplies. Find me ##1## ##2## ##3## so I can complete my project. I'm planning on selling the weapon after it is completed."
+
+// Monster item personal
+
+QuestAnnounceMonsterQuestItemPersonal	"##3## a besoin de davantage de ##2## de ##1##s\n"
+QuestTextMonsterQuestItemPersonal	"##4## a besoin de ##1## ##3## de ##2## pour un projet personnel."
+
+QuestAnnounceMonsterQuestItemPersonalApothecary	"The apothecary needs more ##1## ##2##s\n"
+QuestTextMonsterQuestItemPersonalApothecary	"The apothecary needs ##1## ##2## ##3## for a personal project."
+
+QuestAnnounceMonsterQuestItemPersonal2	"##3## needs more ##1## ##2##s\n"
+QuestTextMonsterQuestItemPersonal2	"I really don't need any more ##3##s, I just really hate ##2##s."
+
+// Scout
+
+QuestTitleScoutLocation			"Eclaireur ##1##"
+QuestTextScoutLocation1			"We haven't heard anything from ##1## lately.  Go scout ##1##."
+QuestTextScoutLocation2			"We've lost contact with ##1##.  Go scout ##1##."
+QuestTextScoutLocation3			"We don't know what's happening in ##1##.  Go scout ##1##."
+
+// Delivery
+
+QuestAnnounceDelivery			"An important delivery needs to be made to ##1##"
+QuestAnnounceRetrieve			"An important delivery needs to be picked up from ##1##"
+QuestTitleDeliverySimple		"Deliver package"
+QuestTitleDelivery			"Deliver package to ##1##"
+QuestTitleRetrieve			"Retrieve information from ##1##"
+QuestTextDelivery1			"You must deliver package to ##1##."
+QuestTextDelivery2			"Can you deliver this package to ##1##?"
+QuestTextDelivery3			"A critical delivery needs to be made, but I don't think anyone else can get through.  Can you deliver this package to ##1## ?"
+QuestTextDeliveryPreventWar		"I have very important information that might keep us out of war. Please delivery this information to ##1## as quickly as possible."
+QuestTextDeliveryStartWar		"I have some information that might start a war between the monsters below us if we can deliver it in time. Please delivery this information to ##1##."
+QuestTextDeliveryGetInfo		"##1## has some important information for us. Please go to ##1## and find out what is going on."
+QuestKilledDelivery			"##1## was killed before the delivery was made!"
+
+// DeliveryPersonal
+
+QuestAnnounceDeliveryPersonal		"A personal delivery needs to be made to ##1##"
+QuestTextDeliveryPersonal		"Can you deliver this package to ##1## for me, please?"
+QuestAnnounceDeliverySmuggledGoods	"You just delivered smuggled goods!"
+QuestTalkToDeliveryPersonal		"Talk to ##4## in town when the quest is completed.\n"
+
+// War
+
+QuestAnnounceWar			"The ##1##s have declared war on the ##2##s"
+QuestAnnounceWarFromBoss		"##3## has led the ##1##s to declare war on the ##2##s"
+QuestAnnounceWarFromUniqueMonsterSpotted	"##3## has led the ##1##s to declare war on the ##2##s"
+QuestAnnounceWarFromDelivery		"We have caused a war! The ##1##s have declared war on the ##2##s"
+QuestAnnounceWarFromUprising		"An uprising has led the ##1##s to declare war on the ##2##s"
+QuestAnnounceWarFromQuestMonsterGathering	"A monster gathering has led the ##1##s to declare war on the ##2##s"
+QuestAnnounceWarFromQuestAreaOverrun		"An overrun area has led the ##1##s to declare war on the ##2##s"
+QuestAnnounceWarFromQuestUprisingBase		"From their base of operations, the ##1##s have declared war on the ##2##s"
+QuestAnnounceWarFromQuestMonsterQuestBase	"From their secret base of operations, the ##1##s have declared war on the ##2##s"
+QuestAnnounceWarFromQuestDinUniqueAltarKracht	"Due to the influence of Kracht's Altar, the ##1##s have declared war on the ##2##s"
+
+QuestEventEndWar			"Les ##1##s et les ##2##s ont cesse leur guerre"
+QuestEventWonWar			"The ##1##s have won their war against the ##2##s"
+QuestEventWarWar			"The ##1##s have joined the ##2##s in a war against the ##3##s"
+
+// WarAgainstBarbarians
+
+QuestAnnounceWarAgainstBarbarians	"We are now at war with the ##1##."
+QuestAnnounceWarAgainstBarbariansFromRenegade	"The renegade ##2## has gotten us into a war with the ##1##."
+QuestAnnounceWarAgainstBarbariansFromDelivery	"Our delivery failed, we are now at war with the ##1##."
+QuestAnnounceWarAgainstBarbariansFromQuestMeetingTruce	"The truce meeting when badly, we are now at war with the ##1##."
+QuestAnnounceWarAgainstBarbariansFromQuestMonsterGathering	"Due to a monster gathering, we are now at war with the ##1##."
+QuestAnnounceWarAgainstBarbariansFromQuestDinUniqueAltarKracht	"Due to the influence of Kracht's Altar, we are now at war with the ##1##."
+
+QuestTitleWarAgainstBarbarians		"Guerre avec ##1##"
+QuestTextWarAgainstBarbarians1		"The ##1## and the town are in the state of war.  Go slaughter ##1## until they flee in fear!"
+QuestTextWarAgainstBarbarians2		"The ##1## have declared war on the town.  Go destroy them!  Kill enough of ##1## and they will retreat."
+QuestTextWarAgainstBarbarians3		"Someday our enemies will realize that they are puny compared to the us.  We are now at war with the ##1##.  Kill them until they leave us alone."
+
+QuestAnnounceWarAgainstBarbariansDin	"The ##1## have declared a secret war on the town!"
+QuestTextWarAgainstBarbariansDin	"The ##1## and the town are now in the state of war. The problem is the town doesn't even know. Go slaughter ##1## until they flee in fear!"
+
+// Ghost revenge
+
+QuestTitleGhostRevenge			"Venger la mort de ##1##"
+QuestTextGhostRevenge1			"Je m'appelle ##1##.  J'ai ete tue(e) par ##2## et je dois avoir ma vengeance.  Allez tuer ##2##. ##2## est un ##4##."
+QuestTextGhostRevenge2			"##1## etait mon nom avant que ##2## ne m'assassine.  Mon esprit est enferme ici jusqu'a ce que ##2## paye pour ce qu'il a fait.  Tuez ##2##. ##2## est un ##4##."
+
+// Revenge
+
+QuestTitleRevenge			"Venger la mort du (/de la) ##2## de ##1##"
+QuestTextRevenge			"##1## a tue mon (/ma) ##2##.  Allez tuer ##1##.  ##1## est un ##4##."
+//QuestTextRevenge1			"##1## a tue mon (/ma) ##2##.  Allez tuer ##1##.  ##1## est un ##4##."
+//QuestTextRevenge2			"Mon (/ma) cher(e) ##2## a ete assassine par ##1##.  Tuez ##1## pour moi !  ##1## est un ##4##."
+//QuestTextRevenge3			"Quand le malefique ##1## a tue mon (/ma) ##2##, j'ai pense que je ne pourrais pas continuer a vivre.  Je dois avoir ma vengeance ! Allez tuer ##1##.  ##1## est un ##4##."
+QuestKilledRevenge			"##1## (quete de vengeance) est mort !"
+QuestAnnounceRevengeTraitor		"##1## est un traitre et a essaye de nous faire tuer !"
+
+RevengeMother				"mere"
+RevengeSister				"soeur"
+RevengeDaughter				"fille"
+RevengeAunt				"tante"
+RevengeFather				"pere"
+RevengeBrother				"frere"
+RevengeSon				"fils"
+RevengeUncle				"oncle"
+
+// Monster quest
+
+QuestTextMonsterQuest1			"Les ##1## nous ont trahis.  We may think better of your kind if you kill ##2## ##1## pour nous aider a nous en sortir."
+QuestTextMonsterQuest2			"Do you like the ##1##?  Neither do we.  Go kill ##2## ##1## and maybe we can come to a truce of some kind."
+QuestTextMonsterQuest3			"The ##1## are monster hugging vile disgusting scum of lowest dirty fungus!  Kill ##2## ##1## if you agree, and maybe we'll reconsider our relationship with your kind."
+QuestMonsterQuestTruce			"The ##1##s have declared a truce with the town!\n"
+
+// Escort
+
+QuestAnnounceEscort			"##1## needs an escort from ##2## to ##3##"
+QuestTitleEscort			"Escorter ##1##"
+QuestTextEscort1			"Escortez ##1## de ##2## a ##3##."
+QuestTextEscort2			"If you're going to be in ##2##, ##1## needs to be escorted to ##3##."
+QuestTextEscort3			"Pouvez-vous escorter ##1## de ##2## a ##3## ?"
+QuestTextEscort4			"The lands have become extremely dangerous. ##1## needs an escort from ##2## to ##3##."
+QuestKilledEscort			"##1## was not escorted safely and has died!"
+
+// Renegade
+
+QuestAnnounceRenegade			"##1## est devenu renegat"
+QuestAnnounceRenegadeFromEscort		"##1## has betrayed us and gone renegade"
+QuestAnnounceRenegadeFromRescueNpc	"##1## has betrayed us and gone renegade"
+QuestAnnounceRenegadeFromMonsterQuestItem	"##1## has betrayed us and gone renegade"
+QuestAnnounceRenegadeFromLevelQuestItem	"##1## has betrayed us and gone renegade"
+
+QuestTitleRenegade			"Tuer le renegat ##1##"
+QuestTextRenegade1			"##1## has gone renegade.  Kill ##2## quickly!"
+QuestTextRenegade2			"##1## has become a renegade.  ##3## must be stopped!"
+QuestTextRenegade3			"The renegade, ##1##, has been seen.  Go kill ##2##!"
+QuestEventRecruitRenegade		"The renegade ##1## has recruited ##2##!"
+QuestKilledRenegade			"The ##2## ##1## has been killed."
+QuestCovKillRenegade			"##1## covenant has killed the renegade ##2##"
+QuestMalePronounRenegade1		"le"
+QuestFemalePronounRenegade1		"la"
+QuestMalePronounRenegade2		"Il"
+QuestFemalePronounRenegade2		"Elle"
+
+// Renegade attack
+
+QuestAnnounceRenegadeAttack		"Le renegat ##1## attaque la ville"
+
+QuestTextRenegadeAttack1		"Le renegat ##1## attaque la ville.  Allez #2## tuer !"
+QuestTextRenegadeAttack2		"##1##, le renegat, attaque la ville. Tuez ##2## !"
+QuestTextRenegadeAttack3		"La ville est attaquee parle renegat, ##1##.  ##3## doit mourir !"
+QuestMalePronounRenegadeAttack1		"le"
+QuestFemalePronounRenegadeAttack1	"la"
+QuestMalePronounRenegadeAttack2		"Il"
+QuestFemalePronounRenegadeAttack2	"Elle"
+
+// Poisoned supply
+
+PoisonedSupplyFood			"de nourriture"
+PoisonedSupplyWater			"d'eau"
+
+QuestAnnouncePoisonedSupply		"Les reserves ##1## ont ete empoisonnees. Les prix ont augmente."
+QuestAnnouncePoisonedSupplyFromPoisonedSupply	"Les reserves ##1## ont ete empoisonnees (contamination des reserves empoisonnees). Les prix ont augmente."
+QuestAnnouncePoisonedSupplyFromRenegadeAttack	"The renegade ##2## has poisoned the ##1## supply. Prices have gone up."
+QuestAnnouncePoisonedSupplyFromAssassin		"The assassin ##2## has poisoned the ##1## supply. Prices have gone up."
+QuestAnnouncePoisonedSupplyFromTownAttack	"The ##2## town attack has poisoned the ##1## supply. Prices have gone up."
+
+QuestTitlePoisonedSupply		"The ##1## supply has been poisoned"
+QuestTextPoisonedSupply			"The ##1## supply has been poisoned.  Go find ##2## ##3## so that we can fix the ##1##"
+//QuestTextPoisonedSupply1			"The ##1## supply has been poisoned.  Go find ##2## ##3## so that we can fix the ##1##"
+//QuestTextPoisonedSupply2			"Poison was found contaminating the ##1## supply.  Find ##2## ##3## so we can cleanse the ##1##"
+//QuestTextPoisonedSupply3			"The ##1## stores has been tainted with poisoned.  I need ##2## ##3## to purify the ##1##"
+QuestEventSupplyChange			"The ##1## supply situation has become worse."
+
+// Petrify
+
+QuestAnnouncePetrify			"##1## a ete petrifie.\n"
+QuestAnnouncePetrifyFromRenegadeAttack	"##1## has been petrified by the renegade ##2##.\n"
+QuestAnnouncePetrifyFromAssassin	"##1## has been petrified by the assassin ##2##.\n"
+
+QuestTitlePetrify			"Guerissez ##1##"
+QuestTextPetrify			"##1## a ete petrifie ! Ne vous inquietez pas. Nous pourrons le sauver lorsque vous nous apporterez ##2## ##4## de ##3##."
+QuestKilledPetrify			"##1## a ete tue avant d'etre desenvoute de sa petrification !"
+
+// Deadly poison
+
+QuestAnnounceDeadlyPoison		"##1## has been poisoned!"
+QuestAnnounceDeadlyPoisonFromRenegadeAttack	"##1## has been poisoned by the renegade ##2##!"
+QuestAnnounceDeadlyPoisonFromAssassin		"##1## has been poisoned by the assassin ##2##!"
+QuestAnnounceDeadlyPoisonFromTownAttack		"##1## has been poisoned by the ##2## town attack!"
+QuestAnnounceDeadlyPoisonFromMonsterQuestItem	"Contaminated goods have poisoned ##1##!"
+QuestAnnounceDeadlyPoisonFromLevelQuestItem	"Contaminated goods have poisoned ##1##!"
+
+QuestTitleDeadlyPoison			"Soigner ##1##"
+QuestTextDeadlyPoison			"##1## a ete empoisonne !  Pouvez-vous l'aider ? J'ai besoin de ##2## ##4## de ##3## pour le soigner."
+QuestDeadlyPoisonLate			"##1## est mort d'un poison mortel !"
+QuestKilledDeadlyPoison			"##1## was killed before being cured!"
+DeadlyPoison				"Poison mortel"
+
+// Plague
+
+QuestAnnouncePlague			"The plague has broken out in town!\n"
+QuestAnnouncePlagueFromAssassin		"The assassin ##1## has spread the plague in town!\n"
+QuestAnnouncePlagueFromRenegadeAttack	"The renegade ##1## has spread the plague in town!\n"
+QuestAnnouncePlagueFromTownAttack	"The town attackers have spread the plague in town!\n"
+
+QuestTitlePlague			"Enrayez la peste"
+QuestTextPlague1			"The town has the plague!.  Go find ##1## ##2## ##3## so I can cure it."
+QuestTextPlague2			"The plague has come to the town!  To cure it, I need ##1## ##2## ##3##."
+QuestTextPlague3			"The town has become infected with the plague!. Not only are people getting sick but food is much more expensive now. Bring me ##1## ##2## ##3## so we can cure it."
+QuestEventPlagueSpread			"##1## has caught the plague.\n"
+Plague					"Peste"
+
+// Town curse
+
+QuestAnnounceCurse			"La ville a ete maudite !\n"
+QuestAnnounceCurseFromAssassin		"The assassin ##1## has cursed the town!\n"
+QuestAnnounceCurseFromRenegadeAttack	"The renegade ##1## has cursed the town!\n"
+QuestAnnounceCurseFromTownAttack	"The town attackers have cursed the town!\n"
+
+QuestTitleCurse				"Lever la malediction"
+QuestTextCurse				"La ville a ete maudite !  Allez trouver ##1## ##3## de ##2## pour que je puisse regler le probleme."
+QuestEventCurseSpread			"##1## a ete maudit.\n"
+
+QuestTextCurseDin			"No one in the town understands, but the town has been cursed!.  Go find ##1## ##2## ##3## so I can fix it."
+
+// Town Attack
+
+QuestAnnounceTownAttack			"##1## attaquent la ville !"
+QuestAnnounceTownAttackFromBoss		"##2## a envoye ##1## attaquer la ville !"
+QuestAnnounceTownAttackFromUniqueMonsterSpotted		"##2## sent ##1## to attack the town!"
+QuestAnnounceTownAttackFromKillMonsterGroup		"##2##'s group sent ##1## to attack the town!"
+QuestAnnounceTownAttackFromUprising	"Followers from an uprising of ##1## are attacking the town!"
+QuestAnnounceTownAttackFromMonsterScout	"The ##2## scout led in a town attack of ##1##!"
+QuestAnnounceTownAttackFromWarAgainstBarbarians	"Due to our war with the ##1## they are attacking the town!"
+QuestAnnounceTownAttackFromQuestMonsterGathering	"Followers from a monster gathering of ##1## are attacking the town!"
+QuestAnnounceTownAttackFromQuestAreaOverrun		"##1## from the area overrun are attacking the town!"
+QuestAnnounceTownAttackFromQuestUprisingTownAttackPlan		"Failed to disrupt plan, ##1## are attacking the town!"
+QuestAnnounceTownAttackFromQuestUprisingBase		"From their base of operations, the ##1## are attacking the town!"
+QuestAnnounceTownAttackFromQuestUniqueReconTotem	"Helped by a recon totem, the ##1## are attacking the town!"
+QuestAnnounceTownAttackFromQuestGetInfoTownAttack	"We failed to discover their plans, now the ##1## are attacking the town!"
+QuestAnnounceTownAttackFromQuestMonsterQuestBlackmailAccepted	"We failed to honor their blackmail, now the ##1## are attacking the town!"
+
+QuestAnnounceRaid			"##1## are raiding the town!"
+QuestAnnounceRaidFromBoss		"##2## sent ##1## to raid the town!"
+QuestAnnounceRaidFromUniqueMonsterSpotted		"##2## sent ##1## to raid the town!"
+QuestAnnounceRaidFromKillMonsterGroup		"##2##'s group sent ##1## to raid the town!"
+QuestAnnounceRaidFromUprising	"Followers from an uprising of ##1## are raiding the town!"
+QuestAnnounceRaidFromMonsterScout	"The ##2## scout led in a raid of ##1##!"
+QuestAnnounceRaidFromWarAgainstBarbarians	"Due to our war with the ##1## they are raiding the town!"
+QuestAnnounceRaidFromQuestMonsterGathering	"Followers from a monster gathering of ##1## are raiding the town!"
+QuestAnnounceRaidFromQuestAreaOverrun		"##1## from the area overrun are raiding the town!"
+QuestAnnounceRaidFromQuestUprisingRaidPlan	"Failed to disrupt plan, ##1## are raiding the town!"
+QuestAnnounceRaidFromQuestUprisingBase		"From their base of operations, the ##1## are raiding the town!"
+QuestAnnounceRaidFromQuestUniqueReconTotem	"Helped by a recon totem, the ##1## are raiding the town!"
+QuestAnnounceRaidFromQuestFindPlans1	"We failed to discover their plans, now the ##1## are raiding the town!"
+QuestAnnounceRaidFromQuestGetInfoRaid	"We failed to discover their plans, now the ##1## are raiding the town!"
+QuestAnnounceRaidFromQuestMonsterQuestBlackmail1	"Since we refused their blackmail, now the ##1## are raiding the town!"
+QuestAnnounceRaidFromQuestMonsterQuestBase	"From their secret base of operations, the ##1## are raiding the town!"
+
+QuestAnnounceInvasion			"##1## envahissent la ville !"
+QuestAnnounceInvasionFromBoss		"##2## sent ##1## to invade the town!"
+QuestAnnounceInvasionFromUniqueMonsterSpotted		"##2## sent ##1## to invade the town!"
+QuestAnnounceInvasionFromKillMonsterGroup		"##2##'s group sent ##1## to invade the town!"
+QuestAnnounceInvasionFromUprising	"Followers from an uprising of ##1## are invading the town!"
+QuestAnnounceInvasionFromMonsterScout	"The ##2## scout led in a invasion of ##1##!"
+QuestAnnounceInvasionFromWarAgainstBarbarians	"Due to our war with the ##1## they are invading the town!"
+QuestAnnounceInvasionFromQuestMonsterGathering	"Followers from a monster gathering of ##1## are invading the town!"
+QuestAnnounceInvasionFromQuestAreaOverrun		"##1## from the area overrun are invading the town!"
+QuestAnnounceInvasionFromQuestUprisingBase		"From their base of operations, the ##1## are invading the town!"
+
+QuestEventGateOut			"Town attackers have gated out"
+QuestEventTownAttackTownAttack		"Coordinated town attack!"
+QuestSuccessTownAttack			"The attack on the town has been repelled"
+
+// Thief
+
+QuestAnnounceThief			"A thief has been spotted in town stealing items from the vendors!"
+QuestAnnounceThiefFromRenegade		"The renegade ##1## has sent a thief into town!"
+QuestAnnounceThiefFromQuestUniqueReconTotem	"Helped by a recon totem, a thief has snuck into town!"
+
+QuestTitleThief				"Voleuse"
+QuestTextThief1				"There is a thief skulking around town stealing from the vendors.  Go kill her."
+QuestTextThief2				"A lowlife thief is stealing from the vendors.  Find her and kill her."
+QuestTextThief3				"A scamp of a thief stole an amulet I was saving for!  She must be stopped before the vendors have nothing left.  Kill her."
+QuestKilledThief			"The thief has been killed."
+QuestCovKillThief			"##1## covenant has killed the thief."
+QuestThiefItemsStolen			"Thief has stolen ##1## item##2## worth ##3## from ##4##"
+QuestThiefDisappeared			"Thief has disappeared"
+QuestThiefWins				"Thief stole ##1## item##2## and escaped town!"
+
+// Meeting
+
+QuestAnnounceMeeting			"Meeting between ##1## and ##2## in ##3##"
+QuestAnnounceMeetingFromDelivery	"We have discovered that there is a meeting between ##1## and ##2## in ##3##"
+
+QuestTitleMeeting			"Rencontre entre ##1## et ##2##"
+QuestTextMeeting1			"Our scouts report that there is a meeting between ##1## and ##2## in ##3##. If you can kill both of them without either escaping, their kind will turn on each other.  If either of them lives, they will likely declare war on us.  It is a risk we are willing to take.  You will be rewarded well if you succeed."
+QuestTextMeeting2			"There is a meeting between ##1## and ##2## in ##3##. If you can kill both without either escaping, their people will turn on each other.  If either gets away, they are likely to attack the town.  It's risky, but necessary.  Your reward will be great when you succeed."
+QuestTextMeeting3			"We know there is a meeting between ##1## and ##2## in ##3##. If you can kill them without either escaping, their races will turn on each other.  If either of them escapes, they will likely descend on the town.  We must take this risk.  The reward for success is worthwhile."
+
+QuestTextMeetingTruce			"We know there is a meeting between ##1## and ##2## in ##3##. They are trying to negotiation a truce. If you can kill them both we can keep them in war a little longer. If either of them escapes, they will likely declare war on us."
+
+// Uprising
+
+QuestAnnounceUprising			"An uprising of ##1## has started in ##2##."
+QuestAnnounceUprisingFromBoss		"##3## has started an uprising of ##1## in ##2##."
+QuestAnnounceUprisingFromMonsterHunter	"A ##3## hunter has started an uprising of ##1## in ##2##."
+QuestAnnounceUprisingFromUniqueMonsterSpotted		"##3## has started an uprising of ##1## in ##2##."
+QuestAnnounceUprisingFromKillMonsterGroup		"##3##'s group has started an uprising of ##1## in ##2##."
+QuestAnnounceUprisingFromWar		"A war has led to an uprising of ##1## in ##2##."
+QuestAnnounceUprisingFromQuestUniqueGate	"An evil gate has led to an uprising of ##1## in ##2##."
+QuestAnnounceUprisingFromQuestDinArtifact	"Destroying the evil artifact has led to an uprising of ##1## in ##2##."
+QuestAnnounceUprisingFromQuestDinUniqueAltarErillin	"Due to the influence of Erillin's Altar, an uprising of ##1## has started in ##2##."
+QuestAnnounceUprisingFromQuestDinUniqueAltarHamlec	"Due to the influence of Hamlec's Altar, an uprising of ##1## has started in ##2##."
+QuestAnnounceUprisingFromQuestDinUniqueAltarMortus	"Due to the influence of Mortus's Altar, an uprising of ##1## has started in ##2##."
+QuestAnnounceUprisingFromQuestDinUniqueAltarValta	"Due to the influence of Valta's Altar, an uprising of ##1## has started in ##2##."
+
+QuestTitleUprising			"Soulevement de ##1##"
+QuestTextUprising1			"There has been an uprising of ##1##.  Go deal with them before they cause more damage!"
+QuestTextUprising2			"An uprising of ##1## is causing trouble.  Deal with them before we lose more ground!"
+QuestTextUprising3			"There's another uprising, this time it's ##1##.  Go deal with them before it's too late!"
+
+QuestEventUprisingDestroyed		"An uprising of ##2## has been destroyed by ##1##s"
+
+// Area Overrun
+
+QuestAnnounceAreaOverrun		"##2## is now overrun with ##1##."
+QuestTitleAreaOverrun			"Area overrun with ##1##"
+QuestTextAreaOverrun			"##2## is now overrun with ##1##.  Go deal with them before it gets worse!"
+
+// Monster Gathering
+
+QuestAnnounceMonsterGathering		"Il y a un rassemblement de ##1## dans ##2##."
+QuestTitleMonsterGathering		"Rassemblement de ##1##"
+QuestTextMonsterGathering		"##1## are gathering in ##2## for some reason. They must be planning something. Go deal with them before their plan can take shape!"
+
+// Monster Pre Gathering
+
+QuestAnnounceMonsterPreGathering	"Augmentation des ##1## dans ##2##."
+QuestTitleMonsterPreGathering		"Augmentation de la population de ##1##"
+QuestTextMonsterPreGathering		"Il y a eu un influx de ##1## dans ##2##. Allez en tuer quelques uns avant qu'ils n'aient des idees."
+
+// UprisingRaidPlan
+
+QuestAnnounceUprisingRaidPlan		"Un soulevement de ##1## prepare une attaque de la ville."
+QuestTitleUprisingRaidPlan		"Attaque ##1## imminente de la ville"
+QuestTextUprisingRaidPlan		"Un groupe de ##1## dans ##2## prepare une attaque de la ville. Allez les tuer avant qu'ils ne puissent nous attaquer."
+
+QuestTextUprisingRaidPlanDin		"La ville ne le saitpas encore, mais un groupe de ##1## dans ##2## prepare une attaque de la ville. Allez les tuer avant qu'ils ne puissent attaquer la ville."
+
+// UprisingTownAttackPlan
+
+QuestAnnounceUprisingTownAttackPlan	"Un soulevement de ##1## se prepare a attaquer la ville."
+QuestAnnounceUprisingTownAttackPlanFromQuestFindPlans1	"Nous avons decouvert qu'un soulevement de ##1## prepare une attaque de la ville."
+
+QuestTitleUprisingTownAttackPlan	"Attaque ##1## de la ville imminente"
+QuestTextUprisingTownAttackPlan		"A group of ##1## in ##2## are planning to attack the town. Go kill them before they can attack us."
+
+QuestTextUprisingTownAttackPlanDin	"The town doesn't know it yet, but a group of ##1## in ##2## are planning to attack the town. Go kill them before they can attack the town."
+
+// UprisingBase
+
+QuestAnnounceUprisingBase		"##1## base of operations found in ##2##."
+QuestTitleUprisingBase			"##1## base of operations"
+QuestTextUprisingBase			"We have located a base of operations for some ##1## in ##2##. They aren't terribly organized at this point. Go kill them before they cause too much trouble."
+
+// UprisingUndead
+
+QuestTextUprisingUndead			"The ##1## are spreading more and more undead in ##2##. Go deal with them before they infect the entire world!"
+
+// Altar
+
+QuestAnnounceUniqueAltar		"Discovered an evil altar."
+QuestAnnounceUniqueAltarFromBoss	"##3## has built an evil altar."
+QuestAnnounceUniqueAltarFromUniqueMonsterSpotted	"##3## has built an evil altar."
+QuestAnnounceUniqueAltarFromKillMonsterGroup	"##3##'s group has built an evil altar."
+QuestAnnounceUniqueAltarFromQuestFindPlansAltar	"We failed to discover the plans, now an evil altar has been built."
+
+QuestTitleUniqueAltar			"Destroy the evil altar"
+QuestTextUniqueAltar			"We have discovered an altar being used for evil purposes in ##2##. It is making all of the monsters in the area stronger. Go destroy the altar."
+QuestAnnounceAltarRevenge		"Raid is revenge for destroying their altar!"
+
+QuestAnnounceUniqueAltarErillin		"An altar has built to serve the goddess Erillin."
+QuestTitleUniqueAltarErillin		"Destroy Erillin's altar"
+QuestTextUniqueAltarErillin		"An altar has been built to serve the goddess Erillin in ##2## to make all nearby monsters stronger. The Goddess of Magic and the naga won't stop there. You must destroy her altar before she gets a stronger hold."
+
+QuestAnnounceUniqueAltarHamlec		"An altar has built to serve the god Hamlec."
+QuestTitleUniqueAltarHamlec		"Destroy Hamlec's altar"
+QuestTextUniqueAltarHamlec		"An altar has been built to serve the god Hamlec in ##2## to make all nearby monsters stronger. Orcs worship the God of Destruction and his altar will bring more terror to this town. Destroy it!"
+
+QuestAnnounceUniqueAltarKracht		"An altar has built to serve the god Kracht."
+QuestTitleUniqueAltarKracht		"Destroy Kracht's altar"
+QuestTextUniqueAltarKracht		"The god Kracht's altar has been built to in ##2## to make all nearby monsters stronger. The God of War must not be allowed free reign. You have to destroy his altar."
+
+QuestAnnounceUniqueAltarMortus		"An altar has built to serve the god Mortus."
+QuestTitleUniqueAltarMortus		"Destroy Mortus's altar"
+QuestTextUniqueAltarMortus		"An altar has been built in ##2##  serving the god Mortus. It makes all nearby monsters stronger, and you must not allow the God of Death to undermine our work. Go destroy his altar."
+
+QuestAnnounceUniqueAltarValta		"Un autel a ete erige pour servir la deesse Valta."
+QuestTitleUniqueAltarValta		"Detruire l'autel de Valta"
+QuestTextUniqueAltarValta		"In ##2##, an altar has been built for the goddess Valta and makes all nearby monsters stronger. The Goddess of Chaos must not get a foothold here, or the town is doomed. Dark elves follow where she goes. You must stop this blight by destroying her altar."
+
+// AltarCurse
+
+QuestAnnounceUniqueAltarCurse		"Discovered an evil altar cursing the area."
+QuestAnnounceUniqueAltarCurseFromBoss	"##3## has built an evil altar cursing the area."
+QuestAnnounceUniqueAltarCurseFromUniqueMonsterSpotted	"##3## has built an evil altar cursing the area."
+QuestAnnounceUniqueAltarCurseFromKillMonsterGroup	"##3##'s group has built an evil altar cursing the area."
+QuestAnnounceUniqueAltarCurseFromQuestFindPlansAltarCurse	"We failed to discover the plans, now an evil altar is cursing the area."
+
+QuestTitleUniqueAltarCurse		"Destroy the evil altar curse"
+QuestTextUniqueAltarCurse		"We have discovered an altar being used for evil purposes in ##2##. It cursing more and more items in the area. Go destroy the altar."
+
+// MachineEarthquake
+
+QuestAnnounceUniqueMachineEarthquake	"Discovered an earthquake machine."
+QuestAnnounceUniqueMachineEarthquakeFromBoss	"##3## has built an earthquake machine."
+QuestAnnounceUniqueMachineEarthquakeFromUniqueMonsterSpotted	"##3## has built an earthquake machine."
+QuestAnnounceUniqueMachineEarthquakeFromKillMonsterGroup	"##3##'s group has built an earthquake machine."
+QuestAnnounceUniqueMachineEarthquakeFromQuestFindPlansMachineEarthquake	"We failed to discover the plans, now an earthquake machine has been built."
+QuestAnnounceUniqueMachineEarthquakeFromQuestUniqueMachineDarkness	"Due to the success of the darkness machine, now an earthquake machine has been built."
+QuestAnnounceUniqueMachineEarthquakeFromQuestUniqueMachineWeather	"Due to the success of the weather machine, now an earthquake machine has been built."
+QuestAnnounceUniqueMachineEarthquakeFromQuestDinUniqueAltarErillin	"In worship of the altar to Erillin, an earthquake machine has been built."
+
+QuestTitleUniqueMachineEarthquake	"Detruire la machine a tremblements de terre"
+QuestTextUniqueMachineEarthquake	"We have discovered a machine that is causing earthquakes. Go destroy the machine."
+
+// MachineDarkness
+
+QuestAnnounceUniqueMachineDarkness	"Discovered a darkness machine."
+QuestAnnounceUniqueMachineDarknessFromBoss	"##3## has built a darkness machine."
+QuestAnnounceUniqueMachineDarknessFromUniqueMonsterSpotted	"##3## has built a darkness machine."
+QuestAnnounceUniqueMachineDarknessFromKillMonsterGroup		"##3##'s group has built a darkness machine."
+QuestAnnounceUniqueMachineDarknessFromQuestFindPlansMachineEarthquake	"We failed to discover the plans, now a darkness machine has been built."
+QuestAnnounceUniqueMachineDarknessFromQuestUniqueMachineEarthquake	"Due to the success of the earthquake machine, now a darkness machine has been built."
+QuestAnnounceUniqueMachineDarknessFromQuestUniqueMachineWeather	"Due to the success of the weather machine, now a darkness machine has been built."
+QuestAnnounceUniqueMachineDarknessFromQuestDinUniqueAltarErillin	"In worship of the altar to Erillin, a darkness machine has been built."
+
+QuestTitleUniqueMachineDarkness		"Destroy the darkness machine"
+QuestTextUniqueMachineDarkness		"We have discovered a machine that is causing darkness for the entire area. The town is much more vulnerable like this and food is much more expensive. Go destroy the machine."
+
+// MachineWeather
+
+QuestAnnounceUniqueMachineWeather	"Discovered a weather machine."
+QuestAnnounceUniqueMachineWeatherFromBoss	"##3## has built a weather machine."
+QuestAnnounceUniqueMachineWeatherFromUniqueMonsterSpotted	"##3## has built a weather machine."
+QuestAnnounceUniqueMachineWeatherFromKillMonsterGroup		"##3##'s group has built a weather machine."
+QuestAnnounceUniqueMachineWeatherFromQuestFindPlansMachineEarthquake	"We failed to discover the plans, now a weather machine has been built."
+QuestAnnounceUniqueMachineWeatherFromQuestUniqueMachineEarthquake	"Due to the success of the earthquake machine, now a weather machine has been built."
+QuestAnnounceUniqueMachineWeatherFromQuestUniqueMachineDarkness	"Due to the success of the darkness machine, now a weather machine has been built."
+QuestAnnounceUniqueMachineWeatherFromQuestDinUniqueAltarErillin	"In worship of the altar to Erillin, a weather machine has been built."
+
+QuestTitleUniqueMachineWeather		"Detruire la machine a climat"
+QuestTextUniqueMachineWeather		"We have discovered a machine that is causing terrible weather for the town. While the machine is running food will be much more expensive. Go destroy the machine."
+
+// Gate
+
+QuestAnnounceUniqueGate			"On a decouvert un portail malefique."
+QuestAnnounceUniqueGateFromBoss		"##3## has built an evil gate."
+QuestAnnounceUniqueGateFromUniqueMonsterSpotted		"##3## has built an evil gate."
+QuestAnnounceUniqueGateFromKillMonsterGroup		"##3##'s group has built an evil gate."
+QuestAnnounceUniqueGateFromQuestFindPlansGate		"We failed to discover the plans, now an evil gate has been built."
+
+QuestTitleUniqueGate			"Detruire le portazil malefique"
+QuestTextUniqueGate			"We have discovered a gate that has been set up by the evil forces below us. Destroy the gate before it has time to bring in even more hideous monsters."
+
+// Recon totem
+
+QuestAnnounceUniqueReconTotem		"Discovered a recon totem."
+QuestAnnounceUniqueReconTotemFromBoss	"##3## has built a recon totem."
+QuestAnnounceUniqueReconTotemFromUniqueMonsterSpotted	"##3## has built a recon totem."
+QuestAnnounceUniqueReconTotemFromKillMonsterGroup	"##3##'s group has built a recon totem."
+QuestAnnounceUniqueReconTotemFromQuestFindPlansReconTotem	"We failed to discover the plans, now a recon totem has been built."
+
+QuestTitleUniqueReconTotem		"Destroy the recon totem"
+QuestTextUniqueReconTotem		"We have discovered a recon totem that is spying on the town. The more they know about the town the more likely the will attack us in same way. Hurry and destroy the recon totem!"
+
+// Unique monster spotted
+
+QuestAnnounceUniqueMonsterSpotted	"##1## has been spotted in ##2##"
+QuestAnnounceUniqueMonsterSpottedFromUprising	"The uprising of ##3## have promoted ##1## as their new leader in ##2##!"
+QuestAnnounceUniqueMonsterSpottedFromQuestUniqueGate	"An evil gate has spawned ##1## in to ##2##!"
+QuestAnnounceUniqueMonsterSpottedFromQuestUniqueSummoning	"##3## has summoned ##1## in to ##2##!"
+
+QuestTextUniqueMonsterSpotted1		"##1## has been spotted.  Go kill him before he becomes more dangerous!"
+QuestTextUniqueMonsterSpotted2		"##1## is too dangerous.  He must die!"
+QuestTextUniqueMonsterSpotted3		"##1## has been seen nearby.  Kill him before he starts trouble!"
+QuestTextUniqueMonsterSpotted4		"##1## a ete vu dans les environs.  Nous craignons que ca ne vaille rien de bon !"
+
+QuestAnnounceReplacementUnique		"It seems that ##1## was keeping another monster in line."
+QuestAnnounceUpsetFollowers		"Looks like killing ##1## upset some followers."
+QuestAnnounceUpsetFactions		"Looks like killing ##1## might have just started a war."
+QuestAnnounceGroupTakingAdvantage	"Looks like a group is taking advantage of ##1## being killed."
+
+// UniqueRaidPlan
+
+QuestAnnounceUniqueRaidPlan		"##1## has plans to raid the town"
+QuestTextUniqueRaidPlan			"##1## has plans to raid the town.  Go kill him before he can!"
+
+// UniqueTownAttackPlan
+
+QuestAnnounceUniqueTownAttackPlan	"##1## has plans to attack the town"
+QuestTextUniqueTownAttackPlan		"##1## has plans to attack the town.  Go kill him before he can!"
+
+// UniqueInvasionPlan
+
+QuestAnnounceUniqueInvasionPlan		"##1## has plans to invade the town"
+QuestTextUniqueInvasionPlan		"##1## has plans to invade the town.  Go kill him before he can!"
+
+// Bounty
+
+QuestAnnounceUniqueBounty		"Prime pour ##1##"
+QuestTextUniqueBounty			"There is an outstanding bounty for ##1##.  Kill ##3## to collect the reward."
+
+// UniqueBuildingSomething
+
+QuestAnnounceUniqueBuildingSomething	"##1## is building something"
+QuestTextUniqueBuildingSomething	"We think ##1## is building something down in the dungeon. You must kill him before he can complete it!"
+
+// UniqueBuildingGate
+
+QuestAnnounceUniqueBuildingGate		"##1## est en train de construire un portail"
+QuestTextUniqueBuildingGate		"##1## est en train de construire un portail. Vous devez le tuer avant qu'il ne puisse l'achever !"
+
+// UniqueBuildingAltar
+
+QuestAnnounceUniqueBuildingAltar	"##1## est en train de construire un autel"
+QuestTextUniqueBuildingAltar		"##1## est en train de construire un autel. Vous devez le tuer avant qu'il ne puisse l'achever !"
+
+// UniqueBuildingAltarCurse
+
+QuestAnnounceUniqueBuildingAltarCurse	"##1## est en train de construire un autel maudit"
+QuestTextUniqueBuildingAltarCurse	"##1## est en train de construire un autel maudit. Vous devez le tuer avant qu'il ne puisse l'achever !"
+
+// UniqueBuildingReconTotem
+
+QuestAnnounceUniqueBuildingReconTotem	"##1## is building a recon totem"
+QuestTextUniqueBuildingReconTotem	"##1## is building a recon totem. Vous devez le tuer avant qu'il ne puisse l'achever !"
+
+// UniqueBuildingMachineEarthquake
+
+QuestAnnounceUniqueBuildingMachineEarthquake	"##1## is building an earthquake machine"
+QuestAnnounceUniqueBuildingMachineEarthquakeFromQuestUniqueMachineDarkness	"Due to the success of the darkness machine, ##1## is building an earthquake machine"
+QuestAnnounceUniqueBuildingMachineEarthquakeFromQuestUniqueMachineWeather	"Due to the success of the weather machine, ##1## is building an earthquake machine"
+
+QuestTextUniqueBuildingMachineEarthquake	"##1## is building an earthquake machine. Vous devez le tuer avant qu'il ne puisse l'achever !"
+
+// UniqueBuildingMachineDarkness
+
+QuestAnnounceUniqueBuildingMachineDarkness	"##1## is building a darkness machine"
+QuestAnnounceUniqueBuildingMachineDarknessFromQuestUniqueMachineEarthquake	"Due to the success of the earthquake machine, ##1## is building a darkness machine"
+QuestAnnounceUniqueBuildingMachineDarknessFromQuestUniqueMachineWeather		"Due to the success of the weather machine, ##1## is building a darkness machine"
+
+QuestTextUniqueBuildingMachineDarkness		"##1## is building a darkness machine. Vous devez le tuer avant qu'il ne puisse l'achever !"
+
+// UniqueBuildingMachineWeather
+
+QuestAnnounceUniqueBuildingMachineWeather	"##1## is building a weather machine"
+QuestAnnounceUniqueBuildingMachineWeatherFromQuestUniqueMachineEarthquake	"Due to the success of the earthquake machine, ##1## is building a weather machine"
+QuestAnnounceUniqueBuildingMachineWeatherFromQuestUniqueMachineDarkness		"Due to the success of the darkness machine, ##1## is building a weather machine"
+
+QuestTextUniqueBuildingMachineWeather		"##1## is building a weather machine. Vous devez le tuer avant qu'il ne puisse l'achever !"
+
+// UniqueSummoning
+
+QuestAnnounceUniqueSummoning		"##1## is summoning more monsters"
+QuestTextUniqueSummoning		"##1## is summoning more monsters. We don't know if he will cause monster uprisings or summon powerful monsters like himself, either way he needs to be stopped!"
+
+// UniqueBuildingArmy
+
+QuestAnnounceUniqueBuildingArmy		"##1## est en train de reunir une armee"
+QuestTextUniqueBuildingArmy		"##1## est en train de reunir une armee de monstres. Nous ne voulons pas savoir ce que ##1## va faire avec cette armee. Allez le tuer immediatement !"
+
+// Peacemaker
+
+QuestTextUniquePeacemaker		"Nous pensons que ##1## est un pacifiste et une guerre avec les monstres va eclatter si vous le tuez."
+QuestAnnouncePeacemakerDead		"##1## gardait la horde sous controle"
+
+// Ambush
+
+QuestAnnounceAmbush			"Ambuscade !"
+
+// Kill monster group
+
+QuestAnnounceKillMonsterGroup		"##1## a forme un groupe de monstres dans ##2##"
+QuestTitleMonsterGroup			"Tuer le groupe de ##1##"
+QuestTextKillMonsterGroup1		"##1## has formed a group of monsters. Go kill them before they cause trouble."
+QuestTextKillMonsterGroup2		"A group of monsters now follows ##1##. You must kill them before they cause trouble."
+QuestTextKillMonsterGroup3		"##1## has assembled a group of monsters. They will cause trouble unless you go kill them."
+QuestProgressMonsterGroupFull		"##1## monster ##2## in group left to kill\n"
+QuestProgressMonsterGroupPartial	"Progress: ##1## monster##2## in group left to kill\n"
+QuestEventGroupSplit			"##1##'s group of monsters has split apart"
+QuestEventGroupAddedTo			"##2## has joined ##1##'s group of monsters"
+
+// Kidnapping
+
+QuestAnnounceKidnapping			"##1## a enleve ##2## !"
+QuestAnnounceKidnappingFromMonsterScout	"A cause de l'eclaireur ##3##, ##1## a enleve ##2## !"
+
+QuestTitleKindappingFailed		"Un villageois a ete enleve"
+QuestTitleKindapping			"##1## a ete enleve"
+QuestTextKidnappingFailed		"Un villageois a ete enleve, et vous ne l'avez pas sauve !"
+QuestTextKidnapping1			"##1## a enleve ##2##.  Allez ##3## secourir."
+QuestTextKidnapping2			"Je n'arrive pas a croire que ##1## ait enleve ##2##.  Allez. Vous devez ##3## sauver."
+QuestTextKidnapping3			"Ce malefique ##1## a enleve ##2##.  Secourez ##3## si vous pouvez."
+QuestKilledKidnapping			"##1## n'a pas ete secouru(e) et est mort(e) !"
+QuestMalePronounKidnapping		"le"
+QuestFemalePronounKidnapping		"la"
+
+// Hostage
+
+QuestAnnounceHostage			"##1## a pris ##2## en otage !"
+QuestTitleHostage			"##1## a ete pris en otage"
+QuestTextHostage			"##1## a pris ##2## en otage.  Allez ##3## secourir."
+
+HostageQuestion				"J'exige que vous me payiez ##2## ou je tue ##1##"
+HostageAnswer1				"Payer la rancon"
+HostageAnswer2				"Refuser l'exigence"
+
+// Level items
+
+QuestAnnounceLevelQuestItem		"La ville a besoin de davantage de ##1##"
+QuestAnnounceLevelQuestItemFromScoutLocation	"Now that the area has been scouted, the town needs more ##1##"
+
+QuestTitleLevelQuestItem		"Rassembler ##1## ##2##"
+QuestTextLevelQuestItem1		"The town is low on provisions; gather ##1## ##2##.  You can find ##2## on the ground in ##5##."
+QuestTextLevelQuestItem2		"The town needs more supplies, gather ##1## ##2## off of the ground in ##5##."
+QuestTextLevelQuestItem3		"Our town is in need of certain stores. Please find ##1## ##2##, probably in ##5##."
+QuestTextLevelQuestItem4		"We have run out of some greatly needed supplies but they are much too dangerous to gather for most of us.  Please gather ##1## ##2##.  You will find them in ##5##."
+QuestTextArmorsmithLevelQuestItem1	"I'm low on supplies, gather me ##1## ##2##.  You can find ##2## on the ground in ##5##."
+QuestTextArmorsmithLevelQuestItem2	"I need more materials, gather me ##1## ##2##.  Gather ##2## from the ground in ##5##."
+QuestTextArmorsmithLevelQuestItem3	"You're just who I was looking for! Please bring me ##1## ##2##, most likely located on the ground in ##5##."
+QuestTextWeaponsmithLevelQuestItem1	"I'm low on supplies, gather me ##1## ##2##.  You can find ##2## on the ground in ##5##."
+QuestTextWeaponsmithLevelQuestItem2	"I need more materials, gather me ##1## ##2##.  Gather ##2## from the ground in ##5##."
+QuestTextWeaponsmithLevelQuestItem3	"I'm doomed if I don't get more supplies! I doubt you can help, but in case I'm wrong, please bring me ##1## ##2##.  They will be on the ground in ##5##."
+QuestTextWeaponsmithLevelQuestItem4	"I use a lot of magical components when I forge weapons.  Unfortunately I have run out of some.  Find me ##1## ##2##. They will be on the ground in ##5##."
+
+QuestAnnounceArmorsmithLevelQuestItem	"The armorsmith needs more ##1##\n"
+QuestAnnounceWeaponsmithLevelQuestItem	"The weaponsmith needs more ##1##\n"
+
+QuestEventGatherSuccessLevelItem	"##1## has gathered the ##2## needed"
+QuestEventGatherFailureLevelItem	"##1## attempted to gather the ##2## needed, but has died"
+QuestEventGatherRescueLevelItem		"##1## attempted to gather the ##2## needed, but now needs to be rescued"
+
+QuestTextArmorsmithLevelQuestUniqueItem1	"I'm making ##4## but I need some final supplies. Find me ##1## ##2## so I can complete my project. I'm planning on selling the armor after it is completed."
+QuestTextWeaponsmithLevelQuestUniqueItem1	"I'm making ##4## but I need some final supplies. Find me ##1## ##2## so I can complete my project. I'm planning on selling the weapon after it is completed."
+
+// Level items personal
+
+QuestAnnounceLevelQuestItemPersonal	"##3## a besoin de davantage de ##1##\n"
+QuestTextLevelQuestItemPersonal		"##3## needs ##1## ##2## for a personal project.  You can find ##2## on the ground in "
+
+QuestAnnounceLevelQuestItemPersonalApothecary	"The apothecary needs more ##1##\n"
+QuestTextLevelQuestItemPersonalApothecary	"The apothecary needs ##1## ##2## for a personal project.  You can find ##2## on the ground in "
+
+// Find Plans
+
+QuestAnnounceFindPlans			"Something strange is going on in ##2##"
+QuestTitleFindPlans			"Trouver les plans"
+QuestTextFindPlans			"Something strange is going on, search for the plans in ##5##."
+QuestAnnouncePlansBrokenGate		"We have disrupted plans to build a gate"
+QuestAnnouncePlansBrokenAltar		"We have disrupted plans to build an altar"
+QuestAnnouncePlansBrokenAltarCurse	"We have disrupted plans to build a cursed altar"
+QuestAnnouncePlansBrokenReconTotem	"We have disrupted plans to build a recon totem"
+QuestAnnouncePlansBrokenMachineEarthquake	"We have disrupted plans to build an earthquake machine"
+QuestAnnouncePlansBrokenMachineDarkness	"We have disrupted plans to build a darkness machine"
+QuestAnnouncePlansBrokenMachineWeather	"We have disrupted plans to build a weather machine"
+
+// Lost item
+
+QuestAnnounceLostHeirloom		"##3## has lost a valuable family heirloom"
+QuestTitleLostHeirloom			"Heritage familial perdu"
+QuestTextLostHeirloom			"I have lost a valuable family heirloom down in the dungeon, pleace bring it back to me."
+
+// Relic
+
+Relic					"Relique"
+QuestAnnounceRelic			"##3## est a la recherche d'une relique fabuleuse"
+QuestTitleRelic				"Trouver la relique fabuleuse"
+QuestTextRelic				"##3## is looking for a fabled relic that is believed to have great powers but it is unclear what those powers are. Please go down into the dungeon and find this relic if you can."
+
+// Artifact
+
+Artifact				"Artefact"
+QuestAnnounceArtifactDin		"Din est a la recherche d'un artefact malefique"
+QuestTitleArtifactDin			"Trouver l'artefact malefique"
+QuestTextArtifactDin			"Din is looking for an evil artifact that is extremely dangerous. Beware if you successfully find this artifact, there might be a backlash."
+
+// Possessed
+
+QuestAnnouncePossessed			"##2## has been possessed, find a cure before we are forced to kill\n"
+QuestTitlePossessed			"##1## est possede"
+QuestTextPossessed			"##4## a ete possede !.  Allez trouver ##1## ##3## de ##2## pour que je puisse le guerir."
+
+// Treasure map
+
+QuestAnnounceTreasureMap		"Emplacement du tresor marque sur la carte du monde (##1##)"
+QuestTitleTreasureMap			"Trouver le tresor enterre"
+QuestTextTreasureMap1			"Trouvez le tresor enterre"
+QuestTextTreasureMap2			"Find the buried horde treasure"
+QuestTextTreasureMap3			"Find the buried pirate treasure"
+QuestSolvedTreasureMap			"Found buried treasure"
+
+// Rescue
+
+QuestAnnounceRescueNpc			"##1## a besoin d'etre secouru"
+QuestAnnounceRescueNpcFromEscort	"##1## n'a pas ete escorte(e) a temps et a maintenant besoin d'etre secouru"
+
+QuestTitleRescueNpc			"Secourir ##1##"
+QuestRescueNotSafe			"Can't rescue until safe from nearby monsters!"
+QuestTextRescue1			"Secourez ##1##."
+QuestTextRescue2			"Vous devez secourir ##1##."
+QuestTextRescue3			"Secourez ##1##, si vous pouvez."
+QuestKilledRescueNpc			"##1## was not rescued and has died!"
+RescueNpcText				"Sauvez-moi, je vous en prie."
+
+QuestTextRescueDin			"##1## is in danger and is important to my cause. Go rescue ##1##"
+
+// Din quests
+
+AvatarTalkTo				"Talk to Din's Avatar when the quest is completed.\n"
+
+QuestTextDinStartQuestNormal		"For your first task on the path of redeeming yourself, prove yourself by killing ##2## ##1##."
+QuestTextDinEndQuestNormal		"You have come a long way. If you can do this thing for me, I will release you from my service. ##1## has taken over the dungeon below, go kill him."
+QuestSolveTextDinEndQuestNormal		"You have been granted your freedom"
+
+QuestTextDinStartQuestChampion		"For your first task on the path of becoming one of my champions, prove yourself by killing ##2## ##1##."
+QuestTextDinEndQuestChampion		"You have come a long way. If you can do this thing for me, I will make you one of my champions. ##1## has taken over the dungeon below, go kill him."
+QuestSolveTextDinEndQuestChampion	"Vous etes maintenant un Champion de Din"
+
+QuestTextDinStartQuestElite		"For your first task on the path of becoming one of my elite, prove yourself by killing ##2## ##1##."
+QuestTextDinEndQuestElite		"You have come a long way. If you can do this thing for me, I will make you one of my elites. ##1## has taken over the dungeon below, go kill him."
+QuestSolveTextDinEndQuestElite		"Vous etes maintenant un membre de l'Elite de Din"
+
+QuestTextDinStartQuestLegendary		"For your first task on the path of becoming one of my legends, prove yourself by killing ##2## ##1##."
+QuestTextDinEndQuestLegendary		"You have come a long way. If you can do this thing for me, I will make you one of my legends. ##1## has taken over the dungeon below, go kill him."
+QuestSolveTextDinEndQuestLegendary	"Vous etes maintenant une Legende de Din"
+
+// Wandering vendors
+
+QuestAnnounceWanderingVendorInTown	"##1## has arrived in town and will leave shortly"
+
+// New npc quests
+
+QuestAnnounceNewNpcWarmaster		"A potential new Warmaster has been found"
+QuestTitleNewNpcWarmaster		"Recruit a new Warmaster"
+QuestTextNewNpcWarmaster1		"I have found a potential new Warmaster, but we need to prove ourselves worthy. Kill ##2## ##1##."
+
+QuestAnnounceNewNpcApothecary		"A potential new Apothecary has been found"
+QuestTitleNewNpcApothecary		"Recruit a new Apothecary"
+QuestTextNewNpcApothecary1		"I have found a potential new Apothecary, but we need to prove ourselves worthy. Find ##1## ##2##."
+
+QuestAnnounceNewNpcSteward		"A potential new Steward has been found"
+QuestTitleNewNpcSteward			"Recruit a new Steward"
+QuestTextNewNpcSteward1			"I have found a potential new Steward, but we need to prove ourselves worthy. Find ##1## ##2## ##3##."
+
+QuestAnnounceNewNpcArmorsmith		"A potential new Armorsmith has been found"
+QuestTitleNewNpcArmorsmith		"Recruit a new Armorsmith"
+QuestTextNewNpcArmorsmith1		"I have found a potential new Armorsmith, but we need to clear a path so that they can get here. Kill ##2## monsters in ##1## to clear a path."
+
+QuestAnnounceNewNpcWeaponsmith		"A potential new Weaponsmith has been found"
+QuestTitleNewNpcWeaponsmith		"Recruit a new Weaponsmith"
+QuestTextNewNpcWeaponsmith1		"I have found a potential new Weaponsmith, but we need to clear a path so that they can get here. Kill ##2## monsters in ##1## to clear a path."
+
+QuestAnnounceNewNpcVendor		"A potential new Vendor has been found"
+QuestTitleNewNpcVendor			"Recruit a new Vendor"
+QuestTextNewNpcVendor1			"I have found a potential new Vendor, but we need to clear a path so that they can get here. Kill ##2## monsters in ##1## to clear a path."
+
+QuestNewNpcAnnouncement			"##1## a rejoint ##2##"
+
+// QuestTriggerTotem
+
+QuestTitleTriggerTotem			"Activer ##2##"
+QuestTextTriggerTotem1			"One of our ##1##s below has been deactived, please re-activate it."
+
+// ClearLevel
+
+QuestProgressClearLevel			"##1## monstres ##2## restent a tuer\n"
+
+// PickupArmorsmithUniqueItem
+
+QuestTitlePickupArmorsmithUniqueItem	"Retrieve important info from ##1##"
+QuestTextPickupArmorsmithUniqueItem	"I'm making ##2## but I need some final instructions. Talk to ##1## so I can finish the armor."
+
+QuestTitlePickupWeaponsmithUniqueItem	"Retrieve important info from ##1##"
+QuestTextPickupWeaponsmithUniqueItem	"I'm making ##2## but I need some final instructions. Talk to ##1## so I can finish the Weapon."
+
+// GetInfo
+
+QuestTitleGetInfo			"Retrieve important info from ##1##"
+QuestTextGetInfo			"##1## has some important information for us. Talk to ##1## to see what is going on."
+
+// EscapedPrisoner
+
+QuestAnnounceEscapedPrisoner		"Le prisonnier ##1## s'est evade"
+QuestTitleEscapedPrisoner		"Kill the escaped prisoner ##1##"
+QuestTextEscapedPrisoner		"The dangerous prisoner named ##1## has has escaped.  Kill ##2## quickly!"
+
+// FormerCursed
+
+QuestAnnounceFormerCursed		"One of Din's Cursed, ##1##, has betrayed Din"
+QuestTitleFormerCursed			"Tuer le traitre ##1##"
+QuestTextFormerCursed			"One of Din's Cursed has betrayed him. Track down and kill ##1##."
+
+// MonsterQuestBlackmail
+
+MonsterQuestBlackmailQuestion		"I demand that you help me! If you do not, the consequences will be bad for you and your kind."
+MonsterQuestBlackmailAnswer1		"Aider"
+MonsterQuestBlackmailAnswer2		"Refuser d'aider"
+
+// MonsterQuestBase
+
+QuestTitleMonsterQuestBase		"##1## base of operations"
+QuestTextMonsterQuestBase		"My race is evil, I can no longer follow their path. They have a secret base of operations in ##2##. Go kill a bunch of ##1## in ##2##. That should take care of them."
+
+// BossTownDestroyed
+
+QuestTextBossTownDestroyed		"##1## a detruit notre ville. Je le veux mort !"
+
+// KillMonstersTownDestroyed
+
+QuestTextKillMonstersTownDestroyed	"Les ##1## ont detruit notre ville. Je les veux morts, autant que possible."
+
+
+QuestTitleTrigger			"Activer le totem"
+
+MonsterItemName				"##2## de ##1##"
+
+// 1.002 changes
+
+Reward					"Recompense"
+Score					"Score"
+
+// 0.901 changes
+
+QuestOptionalShort			"optionnelle"
+
+// 0.902 changes
+
+QuestAnnounceRaidFromQuestAltarRevenge2	"Les ##1## font un raid sur la ville pour se venger de la destruction de leur autel !"
+
+// 0.904 changes
+
+DefenseAddedToTown			"##1## ajoute a la ville"
+
+QuestAnnounceTownTotem1			"Town needs some supplies to build a $$TownFireTotem$$."
+QuestTitleTownTotem1			"Build a $$TownFireTotem$$"
+QuestTextTownTotem1			"I need some supplies to build a $$TownFireTotem$$ in town to help protect us better. Find ##1## ##2## ##3##. $$QuestTextMonsterQuestItemWarning$$"
+
+QuestAnnounceTownTotem2			"The town is almost finished building $$TownIceTotem$$."
+QuestTitleTownTotem2			"Finish the $$TownIceTotem$$"
+QuestTextTownTotem2			"I need some supplies to finish building a $$TownIceTotem$$. Having a $$TownIceTotem$$ in town will make us much safer when you aren't around. Find ##1## ##2## ##3##.  $$QuestTextMonsterQuestItemWarning$$"
+
+QuestAnnounceTownTotem3			"The town is working on a $$TownPoisonTotem$$."
+QuestTitleTownTotem3			"Build a $$TownPoisonTotem$$"
+QuestTextTownTotem3			"I need some final supplies to build a $$TownPoisonTotem$$ here in town. With a $$TownPoisonTotem$$ nearby, I won't have to worry about my safety as much. Find ##1## ##2## ##3##.  $$QuestTextMonsterQuestItemWarning$$"
+
+QuestAnnounceTownTotem4			"The armorsmiths are working on a $$TownLightningTotem$$."
+QuestTitleTownTotem4			"Build a $$TownLightningTotem$$"
+QuestTextTownTotem4			"We feel that the armorsmith area of the town isn't safe enough, so we are building a $$TownLightningTotem$$. Gather ##1## ##2## so that we can complete it.  You can find ##2## on the ground in ##5##."
+
+QuestAnnounceTownTotem5			"The weaponsmiths are working on a $$TownLightningTotem$$."
+QuestTitleTownTotem5			"Build a $$TownLightningTotem$$"
+QuestTextTownTotem5			"The weaponsmith area is too dangerous. Help us build a $$TownLightningTotem$$ by gathering ##1## ##2## so that we can complete it.  You can find ##2## on the ground in ##5##."
+
+QuestAnnounceBuildObelisk1		"The town wants to build a $$ObeliskGiant$$."
+QuestTitleBuildObelisk1			"Build a $$ObeliskGiant$$"
+QuestTextBuildObelisk1			"Help me build a $$ObeliskGiant$$ here in town. Having a $$ObeliskGiant$$ in town will allow you to get a quick boost when needed. Find ##1## ##2## ##3##.  $$QuestTextMonsterQuestItemWarning$$"
+
+QuestAnnounceBuildObelisk2		"The town wants to build a $$ObeliskRegeneration$$."
+QuestTitleBuildObelisk2			"Build a $$ObeliskRegeneration$$"
+QuestTextBuildObelisk2			"Help me build a $$ObeliskRegeneration$$ here in town. Having a $$ObeliskRegeneration$$ in town will allow you to get a quick boost when needed. Find ##1## ##2## ##3##.  $$QuestTextMonsterQuestItemWarning$$"
+
+QuestAnnounceBuildObelisk3		"The town wants to build a $$ObeliskLifeSteal$$."
+QuestTitleBuildObelisk3			"Build a $$ObeliskLifeSteal$$"
+QuestTextBuildObelisk3			"Help me build a $$ObeliskLifeSteal$$ here in town. Having a $$ObeliskLifeSteal$$ in town will allow you to get a quick boost when needed. Find ##1## ##2## ##3##.  $$QuestTextMonsterQuestItemWarning$$"
+
+QuestAnnounceBuildGoodTotem1		"The town is building a $$FireTotem$$."
+QuestTitleBuildGoodTotem1		"Build a $$FireTotem$$"
+QuestTextBuildGoodTotem1		"Help me build a $$FireTotem$$ to increase the town's fire power. Building a $$FireTotem$$ will give those of us that are near enough to the totem extra fire damage. Find ##1## ##2## ##3##.  $$QuestTextMonsterQuestItemWarning$$"
+
+QuestAnnounceBuildAltar1		"The town is building an $$Altar$$."
+QuestTitleBuildAltar1			"Build an $$Altar$$"
+QuestTextBuildAltar1			"Help me build an $$Altar$$ so that we can all defend the town better. Gather ##1## ##2## so that we can complete it.  You can find ##2## on the ground in ##5##."
+
+QuestAnnounceUniqueMachineBrightness	"With materials from the destroyed darkness machine, the town built a brightness machine."
+
+// 0.906 changes
+
+QuestAnnounceWanderingVendorInTownLeft	"##1## has left town."
+
+QuestObsolete				"(^c005obsolete^c145)"
+QuestProgressObsolete			"Progress: ^c005obsolete^c145\n"
+AnnounceQuestObsolete			"quest obsolete"
+
+// 0.908 changes
+
+QuestAnnounceGamblerBet1		"A gambler has a bet for you."
+QuestTitleGamblerBet1			"##2## bet"
+QuestTextGamblerBet1			"I bet that you can't kill ##2## ##1## without dying!\n\nIf you take this bet, half of the potential winnings will be taken as an upfront payment for your side of the bet.\n\nCanceling this quest will result in permanent loss of your upfront payment.\n\nThe death clause applies to any players in the game, not just you."
+NotEnoughMoneyForBet			"Not enough money for bet"
+
+PossibleLocation			"One Possible Location"
+
+// 0.909 changes
+
+QuestAnnounceTreasureMapFromQuestScoutLocation1		"As a reward for scouting, a treasure location is marked on the world map (##1##)."
+
+// 0.910 changes
+
+QuestAnnounceShrunk			"##1## has been shrunk."
+QuestAnnounceShrunkFromRenegadeAttack	"##1## has been shrunk by the renegade ##2##."
+QuestAnnounceShrunkFromAssassin		"##1## has been shrunk by the assassin ##2##."
+
+QuestTitleShrunk			"Unshrink ##1##"
+QuestTextShrunk				"##1## has been shrunk! I can cure the condition if you can bring me ##2## ##3## ##4##."
+QuestKilledShrunk			"##1## was killed before being unshrunk!"
+
+QuestAnnounceTriggerLever1		"A gate-unlocking lever has been located."
+QuestTitleTriggerLever1			"Find the gate unlocking lever"
+QuestTextTriggerLever1			"Please track down and use the lever in ##2##. We don't know which gate it will unlock, but hopefully it will give you better access to the dangers below."
+
+QuestAnnounceSuperBoss			"##1## is now Super Boss of ##2##."
+QuestTitleSuperBoss			"Kill ##1## the Super Boss"
+QuestTextSuperBoss1			"The dungeon now has a Super Boss. We are doomed! Go kill ##1## if you can. Beware ##1## is not a typical boss, it is much stronger than normal."
+QuestTextSuperBoss2			"The dungeon now has a Super Boss. We are doomed! Go kill ##1## if you can. Beware ##1## is not a typical boss, it is much quicker than normal."
+QuestTextSuperBoss3			"The dungeon now has a Super Boss. We are doomed! Go kill ##1## if you can. Beware ##1## is not a typical boss, it is much quicker than normal."
+QuestTextSuperBoss4			"The dungeon now has a Super Boss. We are doomed! Go kill ##1## if you can. Beware ##1## is not a typical boss, it has much higher resistances than normal."
+QuestTextSuperBoss5			"The dungeon now has a Super Boss. We are doomed! Go kill ##1## if you can. Beware ##1## is not a typical boss, it is also a Defender."
+QuestTextSuperBoss6			"The dungeon now has a Super Boss. We are doomed! Go kill ##1## if you can. Beware ##1## is not a typical boss, it is also a Berserker."
+QuestTextSuperBoss7			"The dungeon now has a Super Boss. We are doomed! Go kill ##1## if you can. Beware ##1## is not a typical boss, it is also a Zealot."
+QuestTextSuperBoss8			"The dungeon now has a Super Boss. We are doomed! Go kill ##1## if you can. Beware ##1## is not a typical boss, it is also a Giant."
+
+TalkToSpecificNpcInTown			"Talk to ##1## in town when the quest is completed.\n"
+
+QuestFailGiverKilled			"NPC that gave quest killed"
+QuestFailNpcDied			"Npc died"
+QuestFailNpcGaveUp			"Npc gave up and left area"
+QuestFailEnemyObjective			"Enemy acheived their objective"
+QuestFailNpcSolved			"Npc solved"
+QuestFailPlayerKilled			"Player killed"
+QuestFailNpcRenegade			"Npc went renegade"
+
+// QuestProgressFailed changed
+
+QuestLateTextDelivery			"##2## gave up waiting for the delivery and has left the area!"
+QuestLateTextGetInfo			"##2## gave up waiting and has left the area!"
+
+NormalMonsterUpgrade			"##1## that killed ##2## is now a Champion ##1##."
+ChampionMonsterUpgrade			"Champion ##1## that killed ##2## is now an Elite ##1##."
+EliteMonsterUpgrade			"Elite ##1## that killed ##2## is now known as ##3##."
+
+// 0.912 changes
+
+QuestTitleFledglingHero			"Fight with ##1##"
+QuestTextFledglingHero1			"##1## is a fledgling hero like yourself and would like to fight with you until you get down to ##3##. Note: ##1## can't follow you through gates."
+
+QuestAnnouncePersonalGift		"##1## has left a personal gift for you in a chest in town"
+PersonalGiftChestName			"Gift from ##1##"
+
+QuestEventEscapeRescue			"##1## has managed to escape and has returned to town!"
+
+QuestEndOnSuccessScout			"The ##1## scout was successful and has left town!"
+
+// 1.003 changes
+
+QuestTitleDinEndQuestNormal		"Quest for Freedom"
+QuestTitleDinEndQuestChampion		"Become a Champion of Din"
+QuestTitleDinEndQuestElite		"Become one of Din's Elite"
+QuestTitleDinEndQuestLegendary		"Become one of Din's Legends"
+
+// 1.008 changes
+
+QuestArmorRewardDirect			"Armor reward placed in inventory"
+QuestWeaponRewardDirect			"Weapon reward placed in inventory"
+
+QuestDestroyedGodAltar			"##1## has been destroyed."
+
+// 1.011 changes
+
+QuestTitleRaid				"Stop the ##1## raid"
+QuestTextRaid				"The ##1## are raiding the town. Please hurry and kill them all. Make sure to destroy the gate also."
+
+QuestTitleTownAttack			"Quell the ##1## town attack"
+QuestTextTownAttack			"The ##1## are attacking the town. Please hurry and kill them all. Make sure to destroy the gate also."
+
+QuestTitleInvasion			"Save the town from the ##1## invasion"
+QuestTextInvasion			"The ##1## are invading the town. Please hurry and kill them all. Make sure to destroy the gate also."
+
+// 1.018 changes
+
+QuestItemRewardNone			"No item reward given!"
+
+// 1.021 changes
+
+QuestSpecificItemRewardDirect		"##1## reward placed in inventory"
+QuestSpecificItemReward			"##1## reward dropped on ground"
+

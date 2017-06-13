@@ -1,0 +1,6 @@
+Rylor
+
+	Le sinistre rylor attaque avec des bombes à retardement, oblitérant ses ennemis sans scrupule. D'une nature de feu, les Rylors détestent le froid. Bien que civilisés à leur facon, ils ont tendance à conserver une vilaine disposition et respectent uniquement le pouvoir.
+
+Capacités spéciales : Bombes à retardement et Imprégnation élémentaire basée sur leur type 
+Variantes : $$Rylor1$$ (ci-contre), $$Rylor2$$, $$Rylor3$$, $$Rylor4$$ et $$Rylor5$$

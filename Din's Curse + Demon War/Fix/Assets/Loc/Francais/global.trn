@@ -1,0 +1,4407 @@
+Acid					"Acide"
+Resume					"Reprendre"
+defense					"Défense"
+Shrink					"Rétrécit"
+Causes					"Provoque"
+Gain					"Gain"
+Players					"Joueurs"
+Eating					"Mange"
+Drinking				"Boit"
+MonsterItemName				"##2## de ##1##"
+UnknownGateToX				"Portail vérifié vers ##1##"
+DungeonLevelName			"##1## niv. ##2##"
+IncredibleFireResistance		"Incroyable ignifugation"
+Size					"Taille"
+AggressivePetsDesc	"Familiers agressifs\n^c008Clic gauche pour changer"
+DefensivePetsDesc		"Familiers défensifs\n^c008Clic gauche pour changer"
+Manastone				"Pierre de mana"
+Healthstone				"Pierre de santé"
+LeaveTownQuestion			"Êtes-vous sûr de souhaiter quitter\ncette ville et de vous rendre à la\nprochaine ?"
+LeaveTown				"Quitter"
+StayInTown				"Rester"
+Entering				"Vous entrez dans"
+Bestiary				"Bestiaire"
+Inventory				"Inventaire"
+Minimap					"Mini-carte"
+ShowingItemNames			"Noms des objets affichés"
+
+Solve					"Résoudre"
+TeleportToGate				"Téléporter au portail"
+
+ChooseSpecialty				"Choisir une spécialité"
+
+MachineEarthquakeDesc			"Machine à tremblements de terre : Il y a une machine dans les souterrains qui cause des tremblements de terre."
+MachineDarknessDesc			"Machine à ténèbres : Il y a une machine dans les souterrains qui rend la zone plus sombre."
+MachineWeatherDesc			"Machine climatique : Il y a une machine dans les souterrains qui produit le mauvais temps."
+
+QuestLevelInTitle			" (^c002##1##^c145)"
+LevelCleared				"##1## nettoyé"
+
+Dead						"Mort"
+Accept					"Accepter"
+
+AbandonWorld				"Créer monde (abandonner l'ancien)"
+AbandonWorldDesc			"En cliquant ici, vous abandonnerez l'ancien monde et en créerez un nouveau.\nCela augmentera aussi vos statistiques d'abandon et vous occasionnera\nune dette d'exp..\n\nVotre personnage et vos objets seront tous transportés dans le nouveau monde."
+
+VirtualNextQuickTip			"Truc rapide"
+
+QuickTip1				"Truc 1 : Pressez la touche H pendant la partie pour voir le truc rapide suivant."
+QuickTip2				"Truc 2 : Agrandissez votre inventaire en vous munissant de sacs plus grands."
+QuickTip3				"Truc 3 : Vous pouvez attaquer presque n'importe quel objet en le sélectionnant et en utilisant une compétence dessus."
+QuickTip4				"Truc 4 : Vous pouvez abandonner un monde en allant dans les options de jeu via le menu principal."
+QuickTip5				"Truc 5 : Un ^c001?^c145 au-dessus du nom d'un PNJ signifie qu'il a une quête disponible."
+QuickTip6				"Truc 6 : Un ^c002!^c145 au-dessus du nom d'un PNJ signifie que vous avez réussi un quête pour lui."
+QuickTip7				"Truc 7 : Utilisez votre pierre de téléportation en cas d'urgence (l'orbe verte dans le coin gauche en bas de l'écran)."
+QuickTip8				"Truc 8 : Vous pouvez zoomer et dézoomer avec la roulette de la souris et Pghaut/Pgbas."
+QuickTip9				"Truc 9 : Vous pouvez permuter avec la plupart des PNJ (une option dans leur menu)."
+QuickTip10				"Truc 10 : Ajoutez des objets et des compétences dans les emplacements au bas de l'écran pour un accès plus rapide."
+QuickTip11				"Truc 11 : Faites le plein de nourriture, boissons et potions."
+QuickTip12				"Truc 12 : Si vous trouvez un objet pour une classe différente, mettez-le dans votre inventaire partagé pour un autre personnage."
+QuickTip13				"Truc 13 : Maintenez Ctrl appuyé pour rester immobile."
+QuickTip14				"Truc 14 : Plusieurs fois, vous pouvez maintenir pressé un bouton de la souris ou une touche pour continuer une action."
+QuickTip15				"Truc 15 : Soignez-vous à l'autel en ville, en cliquant dessus."
+QuickTip16				"Truc 16 : Assurez-vous de trouver rapidement les portails de tous les niveaux pour savoir revenir en ville."
+QuickTip17				"Truc 17 : Vous pouvez rendre les nouvelles villes plus dures ou plus faciles en choisissant un niveau de départ différent."
+QuickTip18				"Truc 18 : Parfois il faut mieux laisser un monstres très dur à plus tard."
+QuickTip19				"Truc 19 : Prenez garde à ne pas causer d'explosions. Elle peuvent entraîner des éboulements."
+QuickTip20				"Truc 20 : Soyez prudent avec le feu, de nombreuses choses peuvent prendre feu et vous blesser."
+QuickTip21				"Truc 21 : Pressez alt pour afficher/masquer les objets au sol."
+QuickTip22				"Truc 22 : Pendant une transaction avec un marchand, vendez/achetez rapidement en survolant un objet et pressant espace."
+QuickTip23				"Truc 23 : Un journal est sauvegardé pour chaque ville dans votre répertoire de sauvegarde."
+QuickTip24				"Truc 24 : Vous pouvez commercer avec d'autres joueurs en cliquant droit sur la barre de santé du joueur, puis en requérant une transaction."
+QuickTip25				"Truc 25 : Les habitants se retourneront contre les attaquants de la ville."
+
+GoldStolen				"##1## volé"
+
+LevelUnderLevel				"##1##"
+Lvl						"niv."
+
+Durability				"Durabilité"
+ItemAlmostBroken			"Objet presque cassé"
+ItemWorn				"Objet usé"
+ItemBroken				"Objet cassé"
+DamagesItems				"Endommage les objets"
+
+PowerName				"Mana"
+
+HybridTree1				"Spécialité 1"
+HybridTree2				"Spécialité 2"
+
+StatChangePerAttribute			"##1## ##2## par point de ##3##"
+MaxDamagePerAttribute			"##1##% de ##2## par point de ##3##"
+
+PickupToReduceExperiencePenaltyByHalf	"Ramasser pour réduire la pénalité d'expérience de moitié"
+
+// Class descriptions
+
+WarriorDesc				"Guerrier\n\nCe héros musclé emploie la force brute avec presque tous les objets, tant émoussés que pointus, pour démolir ses stupides ennemis."
+WeaponMasterDesc			"Maître d'arme\n\nCe malabar va tuer direct. Un expert en armes variées."
+GladiatorDesc				"Gladiateur\n\nCe bagarreur mange ses ennemis au déjeuner, utilisant le côté glamour de la classe avec rage et focalisation."
+DefenderDesc				"Défenseur\n\nCe prétendant (contender) maximise ses gains défensifs, en expert dans toute une variété d'armures."
+
+RogueDesc				"Roublard\n\nVivant selon ses propres règles, cette classe retorse excelle dans la tromperie furtive, l'évitement des pièges, le crochetage et est une machine létale à tuer."
+AssassinDesc				"Assassin\n\nCe vainqueur (vanquisher) est un tueur létal, accumulant d'immense quantités de dégâts."
+TricksterDesc				"Filou\n\nCe fantôme passe sans être vu, tuant les inconscients et évitant des coups fatals."
+ThiefDesc				"Voleur\n\nLa connaissance en serrures et pièges de ce bandit le protège pendant qu'il découvre un butin qui brille."
+
+PriestDesc				"Prêtre\n\nPar la lumière du Bien, ce guerrier saint non seulement commande à la force et à la puissance, mais aussi soigne et bénit les autres et lui-même."
+PaladinDesc				"Paladin\n\nCe gardien porte une armure lourde avec aise pendant qu'il utilise le pouvoir des dieux pour estropier l'injuste."
+HealerDesc				"Soigneur\n\nCe protecteur utilise le don de soin pour se soutenir lui-même et parfois les autres durant la bataille."
+ShamanDesc				"Shaman\n\nCe dispensateur (bestower) de bénédictions choisit les meilleurs améliorations pour différentes situations, ayant toujours une petite longueur d'avance sur l'indigne."
+
+WizardDesc				"Ensorceleur\n\nUne puissante magie parcourt l'ensorceleur, à la recherche de la connaissance, qui possède la maîtrise de la glace, du feu et d'autres sorts utiles."
+FireMageDesc				"Pyromancien\n\nCe spécialiste des flammes brûle ses ennemis en cendre en utilisant une bouillante magie de feu."
+IceMageDesc				"Cryomancien\n\nCe spécialiste du blizzard gèle ses ennemis à mort au moyen d'une implacable magie de glace."
+MagicianDesc				"Magicien\n\nCe champion a appris une variété d'arts des arcanes, et a plusieurs stratégies de bataille cachées dans les poches de sa ceinture."
+
+RangerDesc				"Ranger\n\nJack de tous les coups, ce combattant solitaire manie les armes à distance avec habileté, jette quelques pièges mortels et utilise la métamorphose pour brouiller l'esprit et décimer d'effrayants ennemis."
+ArcherDesc				"Archer\n\nCe combattant emploie un arc et des flèches rapides, aidé de la magie, pour affiner le nombre des ennemis."
+HunterDesc				"Chasseur\n\nCe défenseur pose des pièges mortels, attrapant ses ennemis au dépourvu (off guard) et s'assurant ainsi le succès."
+DruidDesc				"Druide\n\nCe métamorphe a le pouvoir de commander à la terre, de changer de forme et autres magies pour battre les monstres des profondeurs."
+
+ConjurerDesc				"Conjurateur\n\nLa magie noire coule dans ses veines métalliques. Un puissant pouvoir demeure dans les paumes du conjurateur, notamment la maîtrise de la foudre, de viles malédictions et des maladies, l'appel aux démons de l'au-delà et la réanimation des morts comme esclaves sans âme."
+WarlockDesc				"Sorcier\n\nCe mercenaire a maîtrisé la magie des monstres, les malédictions et l'invocation de démons pour transpercer quiconque lui barrerait folement le passage."
+NecromancerDesc				"Necromancien\n\nCe réanimateur de mort commande aux maladies et relève les morts pour accomplir les ordres de leur maître."
+SorcererDesc				"Sorceleur\n\nCe spécialiste de l'air électrocute ses ennemis en commandant à la foudre et à l'aide d'autres magies."
+
+HybridDesc				"Hybride\n\nDeux arbres de compétences de chaque classe créent cet unique combattant. Avoir un arbre de compétence de moins que les classes pures est peu cher payer pour devenir le héros ultime."
+
+// Classes
+
+Warrior					"Guerrier"
+Rogue					"Roublard"
+Priest					"Prêtre"
+Wizard					"Ensorceleur"
+Ranger					"Ranger"
+Conjurer				"Conjurateur"
+Hybrid				"Hybride"
+DemonHunter				"Chasseur de Démons"
+
+// Skill trees
+
+SkillTreeWeaponMaster			"Maître d'armes"
+SkillTreeGladiator			"Gladiateur"
+SkillTreeDefender			"Défenseur"
+SkillTreeAssassin			"Assassin"
+SkillTreeTrickster			"Filou"
+SkillTreeThief				"Voleur"
+SkillTreePaladin			"Paladin"
+SkillTreeHealer				"Soigneur"
+SkillTreeShaman				"Shaman"
+SkillTreeFireMage			"Pyromancien"
+SkillTreeIceMage			"Cryomancien"
+SkillTreeMagician			"Magicien"
+SkillTreeArcher				"Archer"
+SkillTreeHunter				"Chasseur"
+SkillTreeDruid				"Druide"
+SkillTreeWarlock			"Sorcier"
+SkillTreeNecromancer			"Nécromancien"
+SkillTreeSorcerer			"Sorceleur"
+
+// Basic skills
+
+DeepWoundsDesc				"Blessures profondes cause un autre 200% de \ndégâts de mêlée pendant 5 secondes."
+
+ClothArmor				"Armure de tissu"
+BasicClothArmorDesc			"Permet de porter tout type d'armure de tissu."
+LeatherArmor				"Armure de cuir"
+BasicLeatherArmorDesc			"Permet de porter tout type d'armure de cuir."
+MailArmor				"Armure de mailles"
+BasicMailArmorDesc			"Permet de porter tout type d'armure de mailles."
+Shield					"Bouclier"
+BasicShieldDesc				"Permet d'utiliser tout type de bouclier."
+Cape					"Cape"
+BasicCapeDesc				"Permet de porter une cape."
+Dagger					"Dague"
+BasicDaggerDesc				"Permet de manier des dagues."
+Axe					"Hache"
+BasicAxeBothDesc			"Permet d'utiliser des haches à une ou deux mains."
+BasicAxeDesc				"Permet d'utiliser toute hache à une main."
+Sword					"Épée"
+BasicSwordBothDesc			"Permet d'utiliser des épées à une ou deux mains."
+BasicSwordDesc				"Permet d'utiliser toute épée à une main."
+Mace					"Masse"
+BasicMaceBothDesc			"Permet d'utiliser les masses à une ou deux mains."
+BasicMaceDesc				"Permet d'utiliser toute masse à une main."
+Staff					"Bâton"
+BasicStaffDesc				"Permet d'utiliser tout bâton."
+Bow					"Arc"
+BasicBowDesc				"Permet d'utiliser tout arc."
+
+Attack					"Attaque"
+BowAttack				"Attaque à l'arc"
+
+AttackBonus				"Bonus d'attaque"
+AttackBonusDesc				"Vous êtes davantage enclin à toucher votre cible\navec un bonus d'attaque par point de dextérité."
+
+DefenseBonus				"Bonus de défense"
+DefenseBonusDesc			"Vous êtes davantage enclin à éviter les coups avec\nun bonus de défense par point de dextérité."
+
+HealthBonus				"Bonus de santé"
+HealthBonusDesc				"Votre barre verte de santé va grandement augmenter,\navec de la santé supplémentaire par point de vitalité."
+
+PowerBonus				"Bonus de puissance"
+PowerBonusDesc				"La connaissance vous soutient et votre\npuits de magie ne va pas facilement s'assécher avec\nde la mana supplémentaire par point d'intelligence."
+PowerBonusDesc2				"La foi est votre arme, votre puits de magie/nne va pas s'assécher facilement avec\nde la mana supplémentaire par point d'esprit."
+
+DamageMultBonus				"Bonus de dégâts mult."
+DamageMultBonusDesc			"Assène davantage de blessures à votre ennemi\navec des dégâts bonus par point de force."
+
+PowerRegenBonus				"Bonus de Régén. de mana"
+PowerRegenBonusDesc			"La foi nourrit le puits à magie, avec \nune régénération de mana plus rapide par point d'esprit."
+PowerRegenBonusDesc2			"La connaissance remplit le puits à magie, avec\nune régénération de mana plus rapide par point d'intelligence."
+
+// Weapon master skills
+
+ManaGenWeaponMaster			"Rage du Maître d'armes"
+ManaGenWeaponMasterDesc			"Des coups réussis contre un ennemi renforcent votre réserve de mana."
+PowerStrike				"Frappe puissante"
+PowerStrikeDesc				"Une attaque basse, mais puissante qui cause des dégâts supplémentaires à l'ennemi."
+Whirlwind				"Tourbillon"
+WhirlwindDesc				"Répand la douleur à de multiples opposants,\njusqu'à 5 dans votre rayon d'action."
+DevastatingBlow				"Coup dévastateur"
+DevastatingBlowDesc			"Une attaque très puissante lors de laquelle TOUTE la mana\ndu guerrier est canalisée dans un puissant coup."
+Adrenaline				"Adrénaline"
+AdrenalineDesc				"Accélère vos attaques pendant un court laps de temps."
+PerfectStrike				"Frappe parfaite"
+PerfectStrikeDesc			"Une puissante attaque avec une plus grande chance de toucher votre cible."
+ArmsMastery				"Maîtrise des armes"
+ArmsMasteryDesc				"Améliore les performances au combat avec tout type d'armes."
+SwordMastery				"Maîtrise des épées"
+SwordMasteryDesc			"Améliore les performances au combat avec les épées."
+AxeMastery				"Maîtrise des haches"
+AxeMasteryDesc				"Améliore les performances au combat avec les haches."
+MaceMastery				"Maîtrise des masses"
+MaceMasteryDesc				"Améliore les performances au combat avec les masses."
+Bleed					"Saignement"
+BleedDesc				"Les coups auront davantage tendance à causer des blessures profondes.\n$$DeepWoundsDesc$$"
+
+// Gladiator skills
+
+ManaGenGladiator			"Rage du gladiateur"
+ManaGenGladiatorDesc			"Procure un regain de mana lorsque touché par un ennemi."
+FocusArmor				"Focalisation : Absorber les Dégâts"
+FocusArmorDesc				"En se focalisant sur l'armure, le guerrier subit moins de dégâts\n que la normale. Les compétences de focalisation partagent\ndes points de compétence et ne peuvent être utilisées qu'une seule à la fois."
+FocusDamage				"Focalisation : Causer des dégâts"
+FocusDamageDesc				"Se focaliser sur les dégâts cause davantage\nde dégâts que la normale. Les compétences de focalisation partagent\ndes points de compétence et ne peuvent être utilisées qu'une seule à la fois."
+FocusRage				"Focalisation : Rage"
+FocusRageDesc				"Se focaliser sur la rage permet davantage\nde gain de mana que la normale. Les compétences de focalisation partagent\ndes points de compétence et ne peuvent être utilisées qu'une seule à la fois."
+SavageStrike				"Frappe sauvage"
+SavageStrikeDesc			"Une puissante attaque causant des dégâts supplémentaires\nà l'ennemi et avec une plus grande chance de\nflanquer un coup écrasant."
+Enrage					"Enrage"
+EnrageDesc				"Agace les monstres alentour qui seront davantage\nenclins à vous attaquer que les autres."
+Cleave					"Fendre"
+CleaveDesc				"Cette attaque endommage 2 adversaires à la fois."
+Crushingblow				"Coup écrasant"
+CrushingblowDesc			"Augmente vos chances de donner un coup\nécrasant et de cause des dégâts maximums."
+BerserkSkillName			"Berserk"
+BerserkSkillDesc			"Une attaque rapide et puissante qui a plus de chances de\ntoucher l'ennemi avec des dégâts supplémentaires, mais aussi vous\nlaisse vulnérable et plus facile à toucher pendant quelques secondes."
+BloodLustSkillName			"Convoitise de sang"
+BloodLustSkillDesc			"Le mana se recharge plus rapidement."
+RuptureArmorName			"Rupture de l'armure"
+RuptureArmorDesc			"Endommage l'armure de l'ennemi.\nPeut être employé jusqu'à 4 fois sur le même ennemi."
+
+// Defender skills
+
+ManaGenDefender				"Rage du défenseur"
+ManaGenDefenderDesc			"Gagne de la mana supplémentaire chaque fois que vous bloquez ou parez."
+Revenge					"Vengeance"
+RevengeDesc				"Une attaque très puissante utilisée\nseulement après avoir reçu un coup critique."
+Riposte					"Riposte"
+RiposteDesc				"Une attaque avec des dégâts supplémentaires utilisée\nseulement après avoir paré ou bloqué une attaque."
+Retaliation				"Représailles"
+RetaliationDesc				"Une attaque avec des dégâts supplémentaires utilisée\nseulement après avoir été touché par un ennemi."
+ShieldBash				"Coup de bouclier"
+ShieldBashDesc				"Cette attaque de bouclier assomme votre ennemi."
+Gut					"Saccager (Gut)"
+GutDesc					"Une attaque infligeant beaucoup de dégâts avec le temps."
+BlockingSkillName			"Bloquer"
+BlockingSkillDesc			"Augmente votre capacité à bloquer les attaques."
+ParrySkillName				"Parer"
+ParrySkillDesc				"Augmente votre capacité à parer les attaques."
+PlateArmor				"Armure de plaques"
+PlateArmorDesc				"Permet de porter une armure de plaques. Chaque niveau\nde compétence rend votre armure plus efficace."
+BlockSkillName				"Bloquer"
+BlockSkillDesc				"Non seulement il est plus difficile pour votre ennemi de vous toucher\ndurant le blocage, mais en plus cela les assomme."
+ShieldMastery				"Maîtrise du bouclier"
+ShieldMasteryDesc			"Lorsque vous utilisez un bouclier, vous recevez un bonus de défense."
+
+// Assassin skills
+
+ManaGenAssassin				"Assassinat"
+ManaGenAssassinDesc			"Gagnez de la mana supplémentaire quand vous infligez\ndes coups critiques et tuez des ennemis."
+Rupture					"Rupture"
+RuptureDesc				"Inflige des dégâts supplémentaires\navec une forte chance de blessures profondes.\n$$DeepWoundsDesc$$"
+Lethalblow				"Coup létal"
+LethalblowDesc				"Une puissante attaque avec une plus grande chance\nde toucher, davantage de dégâts et davantage de\ncoups critiques à vos ennemis."
+PreciseStrike				"Frappe précise"
+PreciseStrikeDesc			"Cette attaque situationnelle inflige de\nnombreux dégâts supplémentaires et a de bonnes chances\nd'être critique."
+ViperVenom				"Venin de vipère"
+ViperVenomDesc				"Cette attaque inflige des dégâts empoisonnés avec le temps."
+SpotVulnerability			"Repérer la vulnérabilité"
+SpotVulnerabilityDesc			"Trouve les failles dans l'armure de l'ennemi,\ncomme dans une petite partie de strip fighting."
+DeathBlow				"Coup mortel"
+DeathBlowDesc				"Une quantité de dégâts qui a plus de chances de toucher\nla cible. Lorsque vous tuez avec cette\nattaque, un nuage de poison est libéré."
+CriticalStrike				"Frappe critique"
+CriticalStrikeDesc			"Lorsque la cible est distraite, ou que vous ou\nvotre cible infligez un coup critique, cette attaque\ninflige des tonnes de dégâts."
+ChargedStrike				"Frappe chargée"
+ChargedStrikeDesc			"Quand votre attaque a lieu au contact, une nova de gel est libérée."
+DeadlyAim				"Cible mortelle"
+DeadlyAimDesc				"Augmente vos chances d'infliger des coups critiques."
+Precision				"Précision"
+PrecisionDesc				"Améliore votre visée, vous permettant\nde toucher votre cible plus souvent."
+
+// Trickster skills
+
+ManaGenTrickster			"Énergétique"
+ManaGenTricksterDesc			"Régénération de mana plus rapide durant le combat."
+Jab					"Estoc"
+JabDesc					"Un coup sournois qui réduit la haine de\nvotre ennemi, augmentant les chances qu'il\nattaque quelqu'un d'autre."
+Gouge					"Aveuglement temporaire"
+GougeDesc				"Cette attaque de distraction diminue les\ndéfenses de notre ennemi et ses chances de toucher."
+Daze					"Étourdir"
+DazeDesc				"Étourdit l'ennemi pendant un moment."
+Feint					"Feinte"
+FeintDesc				"Trouble la cible et la rend plus facile\nà toucher d'un coup critique pendant un moment."
+Stealth					"Furtivité"
+StealthDesc				"Cliquer gauche n'attaquera pas en mode furtif,\net vous devez reseter invisible pour\ndemeurer indétecté.  Les bonus durent 5 secondes après\navoir été détecté."
+SleightofHand				"Prestidigitation"
+SleightofHandDesc			"Trouble l'ennemi en lui faisant croire\nqu'un non-allié aléatoire alentour l'a attaqué."
+SmokeScreen				"Ecran de fumée"
+SmokeScreenDesc				"Crée un écran de fumée qui trouble vos ennemis."
+Dodge					"Esquive"
+DodgeDesc				"Augmente votre capacité à esquiver une attaque."
+Evasion					"Dérobade"
+EvasionDesc				"Augmente votre capacité à vous dérober à une attaque."
+ShurikenSkillName			"Shuriken"
+ShurikenSkillDesc			"Une attaque à distance avec des étoiles de jet."
+
+// Thief skills
+
+ManaGenThief				"Energétique"
+ManaGenThiefDesc			"Régénération de mana accélérée durant le combat."
+Slice					"Tranche"
+SliceDesc				"Une puissante attaque qui augmente aussi les chances de blessures profondes.\n$$DeepWoundsDesc$$"
+DisarmTrap				"Désarmer les pièges"
+DisarmTrapDesc				"Tente automatiquement de désarmer tout piège déclenché."
+ConcentrationPoison			"Concentration : Poison"
+ConcentrationPoisonDesc			"Ajoute des tonnes de dégâts de poison à toutes\nles attaques de mêlée réussies pour un court\nlaps de temps. On ne peut utiliser qu'une compétence\nde concentration à la fois."
+ConcentrationSpeed			"Concentration : Vitesse"
+ConcentrationSpeedDesc			"Augmente la vitesse d'attaque, les chances de coup\ncritique et de blessures profondes pendant un court laps de temps.\nOn ne peut utiliser qu'une compétence de concentration à la fois."
+ConcentrationBlur			"Concentration : Image brouillée"
+ConcentrationBlurDesc			"Vous rend beaucoup plus dur à toucher pour un court laps de temps.\nOn ne peut utiliser qu'une compétence de concentration à la fois."
+Caltrops				"Chausses-trappes"
+CaltropsDesc				"Dépose une pièce de métal dentelé et affilé\npour ralentir vos opposants."
+CombatReflexes				"Réflexes au combat"
+CombatReflexesDesc			"Augmente votre dextérité et, ainsi,\nvotre attaque et votre défense au combat."
+DaggerMastery				"Maîtrise des dagues"
+DaggerMasteryDesc			"Augmente les performances au combat avec dague."
+LockPickSkillName			"Crochetage"
+LockPickSkillDesc			"Vous pouvez crocheter des serrures."
+TreasureHunterSkillName			"Chasseur de trésors"
+TreasureHunterSkillDesc			"Vous trouverez davantage d'or."
+
+// Paladin skills
+
+ManaGenPaladin				"Sainte rage"
+ManaGenPaladinDesc			"Permet un gain de mana supplémentaire quand vous bloquez ou parez."
+Zeal					"Zèle"
+ZealDesc				"Une attaque avec des dégâts supplémentaires\net des chances d'infliger un coup écrasant."
+MailArmorSkillName			"Armure de mailles"
+MailArmorSkillDesc			"Permet le port d'armures de mailles.  Chaque niveau\nde compétence rend votre armure plus efficace."
+RegenerationSkillName			"Régénération"
+RegenerationSkillDesc			"Ce sort régénère votre santé pendant un moment."
+StunningBlowsSkillName			"Coups assommants"
+StunningBlowsSkillDesc			"Augmente les chances de flanquer des coups\nassommants qui sonnent l'ennemi pendant un moment."
+CrushingBlowSkillName			"Coup écrasant"
+CrushingBlowSkillDesc			"Augmente les chances de flanquer un coup\nécrasant qui inflige automatiquement le\nmaximum de dégâts pour ce coup."
+SmiteSkillName				"Châtier"
+SmiteSkillDesc				"Une puissante attaque avec des dégâts\nprolongés pendant un moment."
+BraverySkillName			"Bravoure"
+BraverySkillDesc			"Défense et chances supplémentaires de toucher\npour vos amis et vous pendant un petit moment."
+
+// Healer skills
+
+Holybolt				"Saint coup de foudre"
+HolyBoltDesc				"Projectile qui inflige des dégâts saints."
+Prayer					"Prière"
+PrayerDesc				"Renouvelle la foi plus rapidement en priant."
+LesserHeal				"Soin mineur"
+LesserHealDesc				"Soigne rapidement le joueur ou un autre personnage."
+CurePoison				"Guérir du poison"
+CurePoisonDesc				"Quand vous êtes empoisonné, ceci amenuisera\nles dégâts que le poison inflige avec le temps"
+AreaHeal				"Soin de zone"
+AreaHealDesc				"Soigne le joueur et tout allié dans la zone."
+GreaterHeal				"Soin majeur"
+GreaterHealDesc				"Soigne le joueur ou un autre personnage\navec le plus efficace usage de mana."
+HolyStrike				"Frappe bénite"
+HolyStrikeDesc				"Frappe votre ennemi avec un éclair bénit."
+HolySymbol				"Symbole sacré"
+HolySymbolDesc				"Cette attaque bénite blesse tous les ennemis dans le champ d'action."
+HolyShield				"Bouclier saint"
+HolyShieldDesc				"Ce bouclier magique absorbe tous les dégâts\njusqu'à ce que le dégât maximum soit absorbé\nou que le temps de sort touche à son terme."
+
+// Shaman skills
+
+Lifeburn				"Brûlure de vie"
+LifeburnDesc				"Brûle la cible avec des dégâts de feu pendant un court laps de temps."
+HardinessBlessing			"Robustesse (Bénédiction)"
+HardinessBlessingDesc			"Cette bénédiction confère de la santé supplémentaire\npendant un temps. On ne peut utiliser qu'une bénédiction à la fois."
+TrueAimBlessing				"But véritable (Bénédiction)"
+TrueAimBlessingDesc			"Cette bénédiction améliore votre attaque\npour un temps. On ne peut utiliser qu'une bénédiction à la fois."
+HolyFire				"Feu sacré"
+HolyFireDesc				"Ce sort d'attaque explosante inflige\ndes dégâts de feu dans un petit rayon d'action."
+FireResistanceProtection		"Résistance au feu (Protection)"
+FireResistanceProtectionDesc		"Augmente la résistance aux dégâts de feu. Les compétences\nde protection sont liées et partagent des points de compétence."
+LightningResistanceProtection		"Résistance à la foudre (Protection)"
+LightningResistanceProtectionDesc	"Augmente la résistance aux dégâts de foudre. Les compétences\nde protection sont liées et partagent des points de compétence."
+PoisonResistanceProtection		"Résistance au poison (Protection)"
+PoisonResistanceProtectionDesc		"Augmente la résistance aux dégâts de poison. Les compétences\nde protection sont liées et partagent des points de compétence."
+ColdResistanceProtection		"Résistance au froid (Protection)"
+ColdResistanceProtectionDesc		"Augmente la résistance aux dégâts de froid. Les compétences\nde protection sont liées et partagent des points de compétence."
+DivineIntervention			"Intervention divine"
+DivineInterventionDesc			"Une prière désespérée pour regagner toute sa santé et toute sa mana."
+ChampionSkillName			"Champion"
+ChampionSkillDesc			"Lie la faveur des dieux à la\ncible du sort pendant un moment."
+
+// Fire mage skills
+
+ManaGenFireMage				"Bonus de potions et boissons"
+ManaGenFireMageDesc			"Les potions et boissons rendent davantage de mana que la normale."
+FieryBlast				"Souffle enflammé"
+FieryBlastDesc				"Attaque vos ennemis avec du feu."
+Fireball				"Boule de feu"
+FireballDesc				"Inflige des dégâts de feu à de multiples ennemis\ndans le rayon, avec cette explosion."
+SweepingFlames				"Flammes balayantes"
+SweepingFlamesDesc			"Cette attaque de feu en forme de cône\nbrûle tout dans sur son passage."
+ImmolationSkillName			"Immolation"
+ImmolationSkillDesc			"Fait bouillir vos victimes de l'intérieur\navec des dégâts de feu prolongés."
+ShieldofFireSkillName			"Bouclier de Feu"
+ShieldofFireSkillDesc			"Vous protège pendant un moment des dégâts de feu aussi bien que\ndes ennemis brûlants qui vous touchent."
+FlameBladeSkillName			"Lame de Flamme"
+FlameBladeSkillDesc			"Enchante votre arme avec des flammes, ajoutant\ndes quantités de dégâts de feu pendant un moment."
+FireElementalSkillName			"Élémentaire de Feu"
+FireElementalSkillDesc			"Crée un élémentaire de feu (un seul contrôlable\nà la fois).  Chaque niveau de compétence\naugmente le niveau de l'élémentaire de feu de 1."
+VolcanoSkillName			"Volcan"
+VolcanoSkillDesc			"Fait sortir du sol une brusque montée de lave.\nDe grands dégâts de feu sont infligés pendant 5 secondes."
+MaelstromSkillName			"Maelström de Feu"
+MaelstromSkillDesc			"Un immense feu de la mort tourbillonnant \nemprisonne les ennemis et les blesse.  De grandes quantités\nde dégâts de feu sont infligés pendant 5 secondes."
+FireMastery				"Maîtrise du Feu"
+FireMasteryDesc				"Améliore les compétences de feu suivantes :\n$$FieryBlast$$, $$Fireball$$, $$SweepingFlames$$,\n$$ImmolationSkillName$$, $$VolcanoSkillName$$ et $$MaelstromSkillName$$."
+
+// Ice mage skills
+
+ManaGenIceMage				"Bonus de potions et boissons"
+ManaGenIceMageDesc			"Permet d'utiliser les potions et boissons pour recharger la mana."
+ArcticShard				"Tesson arctique"
+ArcticShardDesc				"Attaque vos ennemis avec de la glace."
+FrostNova				"Nova de gel"
+FrostNovaDesc				"Un anneau de glace est projeté tout autour de vous,\nendommageant de multiples ennemis."
+IceStorm				"Tempête de Glace"
+IceStormDesc				"Crée une tempête de grêle endommageante.  \nDe grands dégâts sont infligés pendant 5 secondes."
+Concentration				"Concentration"
+ConcentrationDesc			"Régénère la mana plus rapidement."
+IceArmorSkillName			"Armure de Glace"
+IceArmorSkillDesc			"La glace vous protège comme une armure et augmente\nvotre résistance au froid pendant un moment."
+FrostBiteSkillName			"Morsure de givre"
+FrostBiteSkillDesc			"Affaiblit la résistance de votre cible pendant un court moment."
+IcePrisonSkillName			"Prison de Glace"
+IcePrisonSkillDesc			"Gèle un ennemi pendant un moment.  L'ennemi\nne peut rien faire mais ne peut pas non plus être blessé."
+PermafrostSkillName			"Permafrost"
+PermafrostSkillDesc			"Ce sort n'inflige aucun dégât,\nmais il a un méchant effet ralentissant."
+ShatterSkillName			"Fracasser"
+ShatterSkillDesc			"Si votre victime meurt de ce dégât de froid\nmassif, elle deviendra une grenade\net explosera, blessant les ennemis alentour."
+ColdMastery				"Maîtrise du Froid"
+ColdMasteryDesc				"Améliore les compétences de froid suivantes :\n$$ArcticShard$$, $$FrostNova$$, $$IceStorm$$,\n$$FrostBiteSkillName$$, $$IcePrisonSkillName$$, $$PermafrostSkillName$$\n et $$ShatterSkillName$$."
+
+// Magician skills
+
+XDamageEveryYTypeZ			"##1## dégâts de ##3## chaque ##2##"
+ManaGenMagician				"Bonus de potions et boissons"
+ManaGenMagicianDesc			"Permet d'utiliser des potions et boissons pour recharger la mana."
+BlindingFlash				"Flash aveuglant"
+BlindingFlashDesc			"Aveugle tous les ennemis alentours pendant un moment."
+ArmorMelt				"Fonte de l'armure"
+ArmorMeltDesc				"Endommage l'armure d'un ennemi, le rendant plus facile à toucher."
+MagicShield				"Bouclier magique"
+MagicShieldDesc				"Ce bouclier magique absorbe tous les dégâts\njusqu'qu'à ce que les dégâts max. soient absorbés\nou que le temps de sort touche à sa fin."
+DeepThought				"Pensée profonde"
+DeepThoughtDesc				"Augmente votre mana maximum."
+ArcaneFocus				"Focalisation arcane"
+ArcaneFocusDesc				"Augmente les chances d'infliger des coups critiques et\ndes coups écrasants avec votre magie pendant un moment."
+Teleport				"Téléportation"
+TeleportDesc				"Vous téléporte à l'endroit sélectionné\n(là où pointe votre pointeur de souris)."
+ArcaneBlastSkillName			"Explosion d'Arcane"
+ArcaneBlastSkillDesc			"Cette attaque inflige des dégâts magiques."
+ArcaneSwarmSkillName			"Essaim d'Arcane"
+ArcaneSwarmSkillDesc			"De multiples courtes flèches d'énergie magique\nchoisissent des cibles aléatoires."
+ArcaneDrainSkillName			"Drain d'Arcane"
+ArcaneDrainSkillDesc			"Draine la santé d'un ennemi pendant un moment."
+
+// Archer skills
+
+ManaGenArcher				"Exultation"
+ManaGenArcherDesc			"Un gain de mana pour chaque coup critique infligé."
+FlamingArrowSkillName			"Flèche enflammée"
+FlamingArrowSkillDesc			"Décoche une flèche enflammée avec votre\narc, infligeant des dégâts de feu supplémentaires."
+EagleEyeSkillName			"Oeil d'aigle"
+EagleEyeSkillDesc			"De meilleures chances de toucher la cible\net d'infliger des coups critiques."
+PoisonArrowSkillName			"Flèche empoisonnée"
+PoisonArrowSkillDesc			"Décoche une flèche ruisselante de poison infligeant\nde gros dégâts de dégâts empoisonnés pendant un moment."
+ShockBoltSkillName			"Courte flèche de choc"
+ShockBoltSkillDesc			"Décoche une flèche fortifiée par de l'électricité,\nqui peut assommer la cible."
+MultiShotSkillName			"Multi-tir"
+MultiShotSkillDesc			"Décoche 3 flèches magiques d'un coup."
+BowMastery				"Maîtrise de l'Arc"
+BowMasteryDesc				"Améliore les performances au combat à l'arc."
+ExplodingArrowSkillName			"Flèche explosive"
+ExplodingArrowSkillDesc			"Décoche une flèche explosive,\nblessant les ennemis alentour."
+FastDrawSkillName			"Attraction rapide"
+FastDrawSkillDesc			"Augmente la vitesse d'attaque pendant un\ncourt laps de temps, mais aussi draine l'endurance."
+MarkedForDeathSkillName			"Marqué pour la Mort"
+MarkedForDeathSkillDesc			"Rend plus facile de toucher et blesser un ennemi."
+
+// Hunter skills
+
+SerratedArrowSkillName			"Flèche en dents de scie"
+SerratedArrowSkillDesc			"Décoche une flèche dentée avec une plus grande chance\nde causer des blessures profondes ou un coup critique."
+ImmolationTrapSkillName			"Piège d'Immolation"
+ImmolationTrapSkillDesc			"Lance un piège de feu qui est déclenché\nquand les monstres s'approchent trop près.  Le piège\nne dure que 15 secondes."
+FreezingTrapSkillName			"Piège congelant"
+FreezingTrapSkillDesc			"Lance un piège de glace qui est déclenché\nquand les monstres s'approchent trop près.  Le piège\nne dure que 15 secondes."
+NetTrapSkillName			"Piège-filet"
+NetTrapSkillDesc			"Lance un piège immobilisant qui est déclenché\nquand les monstres s'approchent trop près.\nLe piège ne dure que 15 secondes."
+InfusedEnergySkillName			"Énergie insufflée"
+InfusedEnergySkillDesc			"Convertit de l'endurance en mana."
+LightTouchSkillName			"Touche de légèreté (Light Touch)"
+LightTouchSkillDesc			"Rend plus difficile pour les monstres de vous remarquer."
+SprintSkillName				"Sprint"
+SprintSkillDesc				"Permet de courir plus vite pendant un moment."
+TrapMasterySkillName			"Maîtrise des pièges"
+TrapMasterySkillDesc			"Améliore les compétences en pièges suivantes :\n$$ImmolationTrapSkillName$$, $$FreezingTrapSkillName$$ et $$NetTrapSkillName$$."
+CookingSkillName			"Cuisine"
+CookingSkillDesc			"Fouille les corps à la recherche de quelque chose de comestible."
+LureSkillName				"Leurre"
+LureSkillDesc				"Fabrique un leurre pour éloigner les monstres de vous.\nChaque point de compétence augmente le niveau du leurre magique."
+
+// Druid skills
+
+Weakness				"Sape la force"
+WeaknessDesc				"Diminue la quantité de dégâts\nphysiques qu'un ennemi inflige."
+BarkskinSkillName			"Peau d'écorce"
+BarkskinSkillDesc			"Renforce votre armure pendant un temps."
+Earthquake				"Tremblement de terre"
+EarthquakeDesc				"Cause un tremblement de terre, blessant\ntous les ennemis dans une large zone."
+ManaRegenSkillName			"Régénération de mana"
+ManaRegenSkillDesc			"Regenerates mana over time."
+StrengthOfStoneSkillName		"Force de pierre"
+StrengthOfStoneSkillDesc		"Augmente votre force pendant un moment."
+EarthLinkSkillName			"Lien terrestre"
+EarthLinkSkillDesc			"Vous lie à la terre, d'où\nune plus grande santé et une résistance accrue au poison."
+NaturesRevengeSkillName			"Revanche de la Nature"
+NaturesRevengeSkillDesc			"Inflige des dégâts de poison avec le temps."
+KodiakSkillName				"Kodiak"
+KodiakSkillDesc				"Se métamorphose en un féroce Kodiak. Prenez garde,\nvous ne pouvez plus utiliser de compétence pendant ce temps."
+StalkerSkillName			"Traqueur"
+StalkerSkillDesc			"Se métamorphose en un rapide traqueur. Prenez garde,\nvous ne pouvez plus utiliser de compétence pendant ce temps."
+EarthMastery				"Maîtrise de la terre"
+EarthMasteryDesc			"Améliore les compétences de terre suivantes :\n$$BarkskinSkillName$$, $$StrengthOfStoneSkillName$$, $$Earthquake$$,\n$$Weakness$$, $$EarthLinkSkillName$$ et $$NaturesRevengeSkillName$$."
+
+// Warlock skills
+
+OnlyOneCurse				"Un ennemi ne peut avoir qu'une malédiction à la fois."
+
+ShadowBoltSkillName			"Courte flèche d'ombre"
+ShadowBoltSkillDesc			"Un sort d'attaque à dégâts magiques."
+ChaosLordSkillName			"Invoquer un Seigneur du Chaos"
+ChaosLordSkillDesc			"Invoque un Seigneur du Chaos. On ne peut contrôler\nqu'un type de démon à la fois.\nChaque niveau de compétence augmente\nle niveau du Seigneur du Chaos de 1."
+ScreeSkillName				"Invoquer un Éboulis"
+ScreeSkillDesc				"Invoque un éboulis. On ne peut contrôler \nqu'un type de démon à la fois.\nChaque niveau de compétence augmente\nle niveau de l'éboulis de 1.\nLe compte maximum augmente tous les 2 niveaux de compétence."
+FurySkillName				"Invoquer une Furie"
+FurySkillDesc				"Invoque une furie. On ne peut contrôler qu'un seul type de\ndémon à la fois.  Chaque niveau de compétence augmente le niveau\nde la furie de 1.\nLe compte maximal augmente tous les 4 niveaux de compétence."
+DemonMasterySkillName			"Maîtrise des démons"
+DemonMasterySkillDesc			"Augmente les compétences de démon suivantes :\n$$ChaosLordSkillName$$, $$ScreeSkillName$$ et $$FurySkillName$$\nChaque niveau de compétence augmente les dégâts des démons invoqués de 4%."
+CurseOfEnfeeblementSkillName		"Malédiction d'affaiblissement"
+CurseOfEnfeeblementSkillDesc		"La cible inflige moins de dégâts pendant une courte période.\n$$OnlyOneCurse$$"
+CurseOfPainSkillName			"Malédiction de douleur"
+CurseOfPainSkillDesc			"Ralentit l'attaque de la cible pendant une courte période.\n$$OnlyOneCurse$$"
+CurseOfVulnerabilitySkillName		"Malédiction de vulnérabilité"
+CurseOfVulnerabilitySkillDesc		"Rend la cible plus sensible au feu, au froid,\nau poison et à la foudre pendant une courte période.\n$$OnlyOneCurse$$"
+CurseOfStammerSkillName			"Malédiction de bégaiement"
+CurseOfStammerSkillDesc			"Augmente le temps nécessaire à la cible pour jeter un sort pendant une courte période.\n$$OnlyOneCurse$$"
+DarkSacrificeSkillName			"Sombre sacrifice"
+DarkSacrificeSkillDesc			"Convertit la santé en mana.\nPrenez garde : cela peut vous tuer !"
+
+// Necromancer skills
+
+ManaGenNecromancer			"Moisson d'âmes"
+ManaGenNecromancerDesc			"Gagne de la mana à chaque victime."
+BoltOfGloomSkillName			"Courte flèche de mélancolie"
+BoltOfGloomSkillDesc			"Ce sort de dégâts de feu rend aussi\nl'ennemi plus facile à toucher pendant un court laps de temps."
+BoneShatterSkillName			"Fracasseur d'os"
+BoneShatterSkillDesc			"Lorsqu'une victime meurt de ce sort, elle devient une\ngrenade et explose, blessant les autres alentour."
+DiseaseCloudSkillName			"Nuage de maladie"
+DiseaseCloudSkillDesc			"Un nuage de maladie affaiblit l'attaque\net la défense des monstres alentour.\nPlus vous y mettez de points, plus\nl'effet dure."
+DespairSkillName			"Désespoir"
+DespairSkillDesc			"Des ennemis désespérés ont des mouvements plus lents,\ndes temps d'incantation plus longs et infligent moins de dégâts,\nce qui les rend plus faciles à tuer."
+BlightSkillName				"Brûlure"
+BlightSkillDesc				"Un sort de zone qui inflige des dégâts continuels\nà tous les ennemis alentour pendant un moment."
+DarkRitualSkillName			"Sombre rituel"
+DarkRitualSkillDesc			"Augmente les dégâts infligés aux ennemis\npar tous vos familiers."
+SkeletonSkillName			"Relever un squelette"
+SkeletonSkillDesc			"Relève un squelette à partir d'un cadavre.\nLe nombre max. augmente tous les 2 niveaux de compétence."
+SkeletonArcherSkillName			"Relever un archer squelette"
+SkeletonArcherSkillDesc			"Relève un archer squelette à partir d'un cadavre.\nLe nombre max augmente tous les 4 niveaux de compétence."
+RaiseDeadSkillName			"Relever un mort"
+RaiseDeadSkillDesc			"Relève un monstre mort pour en faire votre esclave.\nLe nombre max augmente tous les 4 niveaux de compétence."
+LichSkillName				"Liche"
+LichSkillDesc				"Devient une liche et améliore les compétences en squelettes suivantes :\n$$SkeletonSkillName$$, $$SkeletonArcherSkillName$$ et $$RaiseDeadSkillName$$.\nChaque niveau de compétence augmente la santé de votre mignon mort-vivant de 5%."
+
+// Sorcerer skills
+
+LightningBlast				"Coup de foudre"
+LightningBlastDesc			"Un coup de foudre."
+ChainLightning				"Chaîne de foudre"
+ChainLightningDesc			"Un coup de foudre qui peut s'enchaîner\nd'une victime à l'autre jusqu'à 3 fois."
+BallLightning				"Boule de foudre"
+BallLightningDesc			"Une boule d'énergie qui tire de courtes flèches de foudre\nsur vos ennemis pendant 10 secondes. \nLes dégâts spécifiques sont répandus à travers 5\ncourtes flèches de foudre."
+ThunderboltSkillName			"Eclair"
+ThunderboltSkillDesc			"Un coup d'éclair blesse votre ennemi."
+LightningSwarmSkillName			"Essaim de foudre"
+LightningSwarmSkillDesc			"Libère un bouquet de courtes flèches de foudre qui\nse déplacent aléatoirement.\nChaque niveau de compétence augmente le \nnombre de flèches de 1."
+ShockWaveSkillName			"Onde de choc"
+ShockWaveSkillDesc			"Cette puissante onde aérienne a de bonnes chances d'assommer vos ennemis."
+TornadoSkillName			"Tornade"
+TornadoSkillDesc			"Un énorme vent de mort tourbillonnant emprisonne les cibles\net les blesse.\nDes dégâts spécifiques sont infligés pendant\n 5 secondes."
+GaseousFormSkillName			"Forme gazeuse"
+GaseousFormSkillDesc			"Changez votre forme de solide à gazeuse, ce qui\nvous rend plus dur à blesser.\nCependant, cela ne vous laisse pas\npasser à travers les objets."
+StoredLightningSkillName		"Foudre emmagasinée"
+StoredLightningSkillDesc		"Sauvegardez de la mana dans cette réserve à mana. Le premier jet\nstocke 167% de la mana spécifiée\nen tant que foudre.\nLe second jet rend la foudre stockée\n à votre réservoir de mana.\nLes deux jets de sort coûtent la quantité de mana spécifiée."
+LightningMastery			"Maîtrise de la foudre"
+LightningMasteryDesc			"Améliore les compétences de foudre suivantes : $$LightningBlast$$,\n$$ChainLightning$$, $$BallLightning$$ et $$LightningSwarmSkillName$$."
+
+// Special rooms
+
+FoundRoomVaultLesser			"Trouvé abri mineur"
+FoundRoomVault				"Trouvé abri"
+FoundRoomVaultGreater			"Trouvé plus grand abri"
+
+FoundRoomArmoryLesser			"Trouvé armurerie mineure"
+FoundRoomArmory				"Trouvé armurerie"
+FoundRoomArmoryGreater			"Found grande armurerie"
+
+FoundRoomTreasureRoomLesser		"Trouvé salle du trésor mineure"
+FoundRoomTreasureRoom			"Trouvé salle du trésor"
+FoundRoomTreasureRoomGreater		"Trouvé grande salle du trésor"
+
+FoundRoomLairLesser			"Trouvé petite tanière"
+FoundRoomLair				"Trouvé tanière"
+FoundRoomLairGreater			"Trouvé grande tanière"
+
+FoundRoomSanctuaryLesser		"Trouvé sanctuaire mineur"
+FoundRoomSanctuary			"Trouvé sanctuaire"
+FoundRoomSanctuaryGreater		"Trouvé sanctuaire majeur"
+
+// Zones
+
+CarniverousCave				"Les Caverne Carnivore"
+CrossCaverns				"Les Cavernes Croisées"
+ViciousChambers				"Les Chambres Vicieuses"
+CuasticGrotto				"La Grotte Caustique"
+HarrowingHole				"Le Trou du Harcèlement"
+MalevolentMaze				"Le Dédale Malveillant"
+TormentTomb				"Le Tombeau des Tourments"
+DireRealm				"Le Royaume Sinistre"
+BlackLabyrinth				"Le Labyrinthe noir"
+SullenCrypt				"La Morne Crypte"
+
+ZealousCatacomb				"Les Catacombes zélées"
+BrutalCrypt				"La Crypte Brutale"
+ScowlingDen				"Le Repaire Maussade"
+TortureDungeon				"Le Souterrains de la Torture"
+HostileLabyrinth			"Le Labyrinthe Hostile"
+SavageLair				"Le Repère Sauvage"
+MenaceMausoleum				"Le Mausolée de la Menace"
+FranticPit				"Le Puits Frénétique"
+VehementChambers			"Les Chambres Véhémentes"
+BleakMaze				"Le Dédale Lugubre"
+
+rp					"Réputation"
+
+// Timed actions
+
+UsingSkill				"Utilise la comp."
+IdentifyingItem				"Identifie l'objet"
+OpeningChest				"Ouvre le coffre"
+OpeningStash				"Fouille la cache secrète"
+OpeningDeadBody				"Fouille le cadavre"
+OpeningObject				"Fouille l'objet"
+CreatingGate				"Crée un portail"
+Resurrecting				"Ressuscite"
+
+// Item slots
+
+HeadItemSlot				"VIDE - placer le casque ici"
+NeckItemSlot				"VIDE - placer un collier ici"
+ShouldersItemSlot			"VIDE - placer les épaulières"
+BackItemSlot				"VIDE - placer une cape ici (voleurs et mages uniquement)"
+ChestItemSlot				"VIDE - placer la cuirasse ici"
+WristsItemSlot				"VIDE - placer les canons d'avant-bras ici"
+HandsItemSlot				"VIDE - placer les gants ici"
+WaistItemSlot				"VIDE - placer la ceinture ici"
+LegsItemSlot				"VIDE - placer les grèves ici"
+FeetItemSlot				"VIDE - placer les bottes ici"
+RingItemSlot				"VIDE - placer un anneau ici"
+TrinketItemSlot				"VIDE - placer les colifichets ici"
+HandPrimaryItemSlot			"VIDE - placer l'arme ici"
+HandSecondaryItemSlot			"VIDE - placer le bouclier ici (guerriers et prêtres uniquement)"
+RangedItemSlot				"VIDE - placer l'arme à distance ici"
+BagItemSlot				"VIDE - placer un sac ici"
+GeneralItemSlot				"VIDE - placer tout type d'objet ici"
+JewelryItemSlot				"VIDE - placer un autre bijou ici"
+GuardItemSlot				"VIDE - placer un garde ici"
+RelicItemSlot				"VIDE - placer une relique ici"
+TomeItemSlot				"VIDE - un tome spécifique vient ici"
+
+HeadOnlyHold				"casques"
+NeckOnlyHold				"colliers"
+ShouldersOnlyHold			"protège-épaules"
+BackOnlyHold				"capes"
+ChestOnlyHold				"cuirasse"
+WristsOnlyHold				"canons d'avant-bras"
+HandsOnlyHold				"gants"
+WaistOnlyHold				"ceintures"
+LegsOnlyHold				"grèves"
+FeetOnlyHold				"bottes"
+RingOnlyHold				"anneaux"
+TrinketOnlyHold				"babioles"
+HandPrimaryOnlyHold			"armes"
+HandSecondaryOnlyHold			"boucliers"
+RangedOnlyHold				"armes à distance"
+BagOnlyHold				"sacs"
+GeneralOnlyHold				"tout"
+JewelryOnlyHold				"autres bijoux"
+GuardOnlyHold				"guardes"
+RelicOnlyHold				"reliques"
+TomeOnlyHold				"tomes"
+
+GateTo					"Portail vers"
+GateToHome				"Retour à la ville"
+GateXToY				"##1## vers ##2##"
+TownGate				"Portail de ville"
+CovenantGate				"Portail de ville"
+Gate					"Portail"
+
+// Objects
+
+PlayerStash				"Inventaire du joueur"
+PlayerStashDesc				"\nVoici votre inventaire personnel pour ce personnage.\n"
+SharedStash				"Inventaire partagé"
+SharedStashDesc				"\nCe coffre est partagé par tous les personnages du joueur.\nIndisponible en mode hardcore.\n"
+Lifestone				"Pierre de vie"
+Gate					"Portail"
+TownGate				"Portail de ville"
+Entrance				"Entrée"
+Torch					"Torche"
+TeleportGate				"Portail de téléportation"
+Lantern					"Lanterne"
+CampFire				"Feu de camp"
+Cauldron				"Chaudron"
+TombBraizer				"Tombe de Braizer"
+PikeBraizer				"Pique de Braizer"
+SpikyWheel				"Roue à pointes"
+Door					"Porte"
+PoisonousMushroom			"Champignon vénéneux"
+EvilPool				"Mare maléfique"
+EvilPoolDesc				"\nAccorde généralement un effet positif, mais pas toujours !"
+SpiderWeb				"Toile d'araignée"
+EvilGate				"Portail démoniaque"
+Altar					"Autel"
+AltarDesc				"\nRégénère tout et identifie/répare tous les objets"
+AltarSummoning				"Autel d'Invocation"
+AltarDin				"Autel de Din"
+EnergyVortex				"Vortex d'énergie"
+ReconTotem				"Totem de reconnaissance"
+SupportBeam				"Madrier de soutien"
+DefensiveTotemName			"Totem défensif"
+EvilAltar				"Autel maléfique"
+EvilAltarErillin			"Autel d'Erillin"
+EvilAltarHamlec				"Autel de Hamlec"
+EvilAltarKracht				"Autel de Kracht"
+EvilAltarMortus				"Autel de Mortus"
+EvilAltarValta				"Autel de Valta"
+CursedAltar				"Autel maudit"
+MachineEarthquake			"Machine à tremblements de terre"
+MachineDarkness				"Machine de ténèbres"
+MachineWeather				"Machine à intempéries"
+Lever					"Levier"
+LeverBlast				"Interrupteur explosif"
+
+// NPCs
+
+Kendrich				"Kendrich"
+Marin					"Marin"
+Jewel					"Jewel"
+Mal					"Mal"
+Morgen					"Morgen"
+Slade					"Slade"
+Lory					"Lory"
+Neria					"Neria"
+Talbert					"Talbert"
+Lucia					"Lucia"
+Keely					"Keely"
+Zoe					"Zoe"
+Kyler					"Kyler"
+Garek					"Garek"
+Monroe				"Monroe"
+Yuri					"Yuri"
+Bliss					"Bliss"
+Nye					"Nye"
+Carvis				"Carvis"
+Kalinda				"Kalinda"
+Parc					"Parc"
+Letta					"Letta"
+Jarvin					"Jarvin"
+Ivy					"Ivy"
+Dag					"Dag"
+Culver					"Culver"
+Nore					"Nore"
+Devlin					"Devlin"
+Galia					"Galia"
+Darion					"Darion"
+Falker					"Falker"
+Jacinda					"Jacinda"
+Titus					"Titus"
+Velvet					"Velvet"
+Wade					"Wade"
+Kora					"Kora"
+Tanya					"Tanya"
+Tor					"Tor"
+Delinn					"Delinn"
+Vin					"Vin"
+Ivan					"Ivan"
+Tia					"Tia"
+Kalin					"Kalin"
+Adalia					"Adalia"
+Erin					"Erin"
+Alcott					"Alcott"
+Fitz					"Fitz"
+Jayne					"Jayne"
+Thorn					"Thorn"
+NpcNameZane				"Zane"
+NpcNameMedea				"Medea"
+
+// Monster names
+
+DarkElfWarrior1				"Combattant elfe obscur"
+DarkElfWarrior2				"Mercenaire elfe obscur"
+DarkElfWarrior2Plural			"Mercenaires elfes obscurs"
+DarkElfWarrior3				"Guerrier elfe obscur"
+DarkElfWarrior4				"Gardien elfe obscur"
+DarkElfWarrior5				"Maître de lame elfe obscur"
+
+DarkElfWarrior1Unique			"Vil"
+DarkElfWarrior1bUnique			"Mauvais"
+DarkElfWarrior2Unique			"Tourmenteur"
+DarkElfWarrior2bUnique			"Fléau"
+DarkElfWarrior3Unique			"Sombrelame"
+DarkElfWarrior3bUnique			"Sombreterreur"
+DarkElfWarrior4Unique			"Abominable (Nefarious)"
+DarkElfWarrior4bUnique			"Fonas"
+DarkElfWarrior5Unique			"Frappedebraise"
+DarkElfWarrior5bUnique			"Rouillacier"
+
+DarkElfWarrior1Legend			"Flambacier"
+DarkElfWarrior2Legend			"Aciégorgeur"
+DarkElfWarrior3Legend			"Hépatoserpent"
+DarkElfWarrior4Legend			"Redoutoeil"
+DarkElfWarrior5Legend			"Follelame"
+
+DarkElfAssassin1			"Roublard elfe obscur"
+DarkElfAssassin2			"Assassin elfe obscur"
+DarkElfAssassin3			"Ravageur elfe obscur"
+DarkElfAssassin4			"Sombrelame elfe obscur"
+DarkElfAssassin5			"Marchand de Mort elfe obscur"
+
+
+DarkElfAssassin1Unique			"Noctodémon"
+DarkElfAssassin1bUnique			"Traque'chaos"
+DarkElfAssassin2Unique			"Frap'pierre"
+DarkElfAssassin2bUnique			"Coumortel"
+DarkElfAssassin3Unique			"Egorgeombre"
+DarkElfAssassin3bUnique			"Chassombre"
+DarkElfAssassin4Unique			"Follilame"
+DarkElfAssassin4bUnique			"Découpeur"
+DarkElfAssassin5Unique			"Frap'fléau"
+DarkElfAssassin5bUnique			"Déchiquette Lamiser"
+
+DarkElfAssassin1Legend			"Coudvenin"
+DarkElfAssassin2Legend			"Lam'ravageuse"
+DarkElfAssassin3Legend			"Coumortel"
+DarkElfAssassin4Legend			"Main-de-poison"
+DarkElfAssassin5Legend			"Piège de Lamort"
+
+DarkElfDarkPriest1			"Disciple elfe obscur"
+DarkElfDarkPriest2			"Devin elfe obscur"
+DarkElfDarkPriest3			"Prêtre elfe obscur"
+DarkElfDarkPriest4			"Maître spirituel elfe obscur"
+DarkElfDarkPriest5			"Sombre prêtre elfe obscur"
+
+DarkElfDarkPriest1Unique		"Malheur (Woe)"
+DarkElfDarkPriest1bUnique		"Peste"
+DarkElfDarkPriest2Unique		"Main-impie"
+DarkElfDarkPriest2bUnique		"Cardi'ombre"
+DarkElfDarkPriest3Unique		"Tiss'âme"
+DarkElfDarkPriest3bUnique		"Ravageur Impie"
+DarkElfDarkPriest4Unique		"Brûlâme"
+DarkElfDarkPriest4bUnique		"Mordlâme"
+DarkElfDarkPriest5Unique		"Ombrenuit"
+DarkElfDarkPriest5bUnique		"Tourment Impie"
+
+DarkElfDarkPriest1Legend		"Cruellelangue"
+DarkElfDarkPriest2Legend		"Arctic'âme"
+DarkElfDarkPriest3Legend		"Noire Mort"
+DarkElfDarkPriest4Legend		"Variole"
+DarkElfDarkPriest5Legend		"Gida"
+
+DarkElfWizard1				"Mage elfe obscur"
+DarkElfWizard2				"Elémentalist elfe obscur"
+DarkElfWizard3				"Magicien elfe obscur"
+DarkElfWizard4				"Gardien elfe obscur"
+DarkElfWizard5				"Sorcier elfe obscur"
+
+DarkElfWizard1Unique			"Malédiction"
+DarkElfWizard1bUnique			"Guerr'chant"
+DarkElfWizard2Unique			"Cryomaistre"
+DarkElfWizard2bUnique			"Apportenuit"
+DarkElfWizard3Unique			"Friss'orage"
+DarkElfWizard3bUnique			"Tempêt'de Ponte"
+DarkElfWizard4Unique			"Infernotempête"
+DarkElfWizard4bUnique			"Brûle-pour-poing"
+DarkElfWizard5Unique			"Déchiquett'frisson"
+DarkElfWizard5bUnique			"Arcan'écorcheur"
+
+DarkElfWizard1Legend			"Lingu'explosion"
+DarkElfWizard2Legend			"Sinistrocarnage"
+DarkElfWizard3Legend			"Taro"
+DarkElfWizard4Legend			"Cyro"
+DarkElfWizard5Legend			"Vaden"
+
+CruelTorva				"Cruel Torva"
+Malice					"Malice"
+Pravis					"Pravis"
+Sting					"Aiguillon"
+WickedTorva				"Torva malfaisant"
+Bloodsavage				"Sanguinosauvage"
+Pheros					"Pheros"
+Kruel					"Kruel"
+VileTorva				"Vil Torva"
+Vilesavage				"Vilsauvage"
+Feram					"Feram"
+Rabia					"Rabia"
+MiseryTorva				"Torva de la Misère"
+Galen					"Galen"
+Tor					"Tor"
+TheButcher				"Le Boucher"
+TortureTorva				"Torva de Torture"
+Slag					"Scorie"
+Sty					"Orgelet"
+Matar					"Matar"
+Torva					"Torva"
+
+CruelTorvaShaman			"Cruel shaman torva"
+Soulseeker				"Cherch'âme"
+Atrox					"Atrox"
+Bloodwitch				"Sanguinosorcière"
+WickedTorvaShaman			"Shaman torva malfaisant"
+Direwitch				"Sinistrosorcière"
+Fel					"Fel"
+Darkfire				"Sombrefeu"
+VileTorvaShaman				"Vil shaman torva"
+Qual					"Qual"
+Drol					"Drol"
+Malica					"Malica"
+MiseryTorvaShaman			"Shaman torva de la misère"
+Galak					"Galak"
+Vilesoul				"Vileame"
+Katala					"Katala"
+TortureTorvaShaman			"Shaman torva de la torture"
+Keras					"Keras"
+Foul					"Fou"
+Zao					"Zao"
+TorvaShaman				"Shaman Torva"
+
+FireTower				"Tour de feu"
+IceTower				"Tour de glace"
+LightningTower				"Tour de foudre"
+PoisonTower				"Tour de poison"
+
+Skeleton				"Squelette"
+SkeletonLord				"Seigneur squelette"
+Karn					"Karn"
+BoneLord				"Seigneur des os"
+BoneSoldier				"Soldat d'os"
+SkeletonKing				"Roi Squelette"
+Grim					"Sinistre"
+Gravemaster				"Tombemestre"
+DreadWarrior				"Guerrier de la Crainte"
+Bonestink				"Puelos"
+Cryptwalker				"Cryptambule"
+Bonemaster				"Maître d'os"
+BoneWarlord				"Seigneur de guerre des os"
+Gravelord				"Seigneur des tombes"
+Creeper					"Rampeur"
+LivingBone				"Os vivants"
+Draugr					"Draugr"
+Dreadbones				"Craint'os"
+Grimbone				"Sinistr'os"
+Grimbones				"Sinistr'os"
+
+SkeletonBowman				"Archer squelette"
+SkeletonBowmen				"Archers squelettes"
+Bonesavage				"Sauvage'os"
+Deadshot				"Coup'Alateth"
+Graveshadow				"Tomb're"
+BoneHunter				"Chasseur d'Os"
+Bleakdeath				"Mornemort"
+Cursedshot				"Tirmaudit"
+Bonebane				"Flé'os"
+DreadHunter				"Chasseur de la Crainte"
+Boneslime				"Slim'os"
+Vilebone				"Vil'os"
+Curseddeath				"Mormaudith"
+BoneArcher				"Archer d'os"
+Viledeath				"Vilemort"
+Creak					"Craquement"
+Grimdeath				"Morsinistre"
+DraugrArcher				"Archer draugr"
+Putriddeath				"Putridemort"
+Bleakbone				"Morn'os"
+Abomination				"Abomination"
+
+SkeletonWarrior1			"Guerrier squelette"
+SkeletonWarrior2			"Guerrier d'os"
+SkeletonWarrior3			"Guerrier de la Crainte"
+SkeletonWarrior4			"Seigneur de la guerre Guerrier d'os"
+SkeletonWarrior5			"Guerrier draugr"
+
+SkeletonWarrior1Unique			"Crâne d'acier"
+SkeletonWarrior1bUnique			"Craintemain"
+SkeletonWarrior2Unique			"Empest'os"
+SkeletonWarrior2bUnique			"Terreur Dâme"
+SkeletonWarrior3Unique			"Mordelâme"
+SkeletonWarrior3bUnique			"Cherchecrâne"
+SkeletonWarrior4Unique			"Thanatambule"
+SkeletonWarrior4bUnique			"Pointarctique"
+SkeletonWarrior5Unique			"Puelatombe"
+SkeletonWarrior5bUnique			"Egorge'peau"
+
+SkeletonWarrior1Legend			"Pourr'impie"
+SkeletonWarrior2Legend			"Mélancovile"
+SkeletonWarrior3Legend			"Rampemort"
+SkeletonWarrior4Legend			"Corpochoc"
+SkeletonWarrior5Legend			"Infern'os"
+
+Zombie					"Zombie"
+Graverot				"Pourritombe"
+Duskhorror				"Crépusc'horreur"
+Abordar					"Abordar"
+AnimatedCorpse				"Corps réanimé"
+Corpsesnare				"Corpiégé"
+Gloom					"Mélancolie"
+Rothorror				"Pourritorreur"
+WalkingDead				"Mort Ambulant"
+Dreadstench				"Craintopue"
+Vilestink				"Vilfétide"
+Rotmenace				"Pourritomenace"
+Ghoul					"Ghoule"
+Dreadrot				"Craintopourri"
+Reek					"Relent"
+Gutstench				"Puelatrip'"
+Revenant				"Revenant"
+Deathrot				"Pourrimort"
+Fleshrot				"Chairpourrie"
+Foulcorpse				"Cadavrefétide"
+
+DesertSaurian				"Saurien du désert"
+Geck					"Geck"
+Agama					"Agama"
+Komodo					"Komodo"
+RiverSaurian				"Saurien de rivière"
+Sauros					"Sauros"
+Gekkota					"Gekkota"
+Croc					"Croc"
+ForestSaurian				"Saurien sylvestre"
+Tegus					"Tegus"
+Coldblood				"Coldblood"
+Croag					"Croag"
+MountainSaurian				"Mountain Saurian"
+Klaw					"Griff"
+Scale					"Écaille"
+Tesak					"Tesak"
+JungleSaurian				"Saurien de la jungle"
+Gator					"Gator"
+Toad					"Crapaud"
+Gila					"Gila"
+Saurian					"Saurien"
+
+DesertSaurianMage			"Mage saurien du désert"
+Foulbane				"Fléauinfecte"
+Nightweaver				"Tissenuit"
+StaticCharge				"Charge Statique"
+RiverSaurianMage			"Mage saurien de rivière"
+LightningClaws				"Griffes de Foudre"
+Blueflame				"Flammebleue"
+Bolt					"Fléchette"
+ForestSaurianMage			"Mage saurien sylvestre"
+Charge					"Charge"
+Jolt					"Secousse"
+Thunderstrike				"Coup d'Foudre"
+MountainSaurianMage			"Mage saurien de montagne"
+Storm					"Tempête"
+Shock					"Choc"
+Spark					"Etincelle"
+JungleSaurianMage			"Mage saurien de la jungle"
+Fang					"Croc"
+Zap					"Zap"
+LightningBolt				"Courte flèche de Foudre"
+SaurianMage				"Mage saurien"
+
+Apparition				"Apparition"
+Deathshade				"Thanatombre"
+Soulshiver				"Friss'âme"
+Gloomspirit				"Spiritriste"
+Ghost					"Fantôme"
+Blightspirit			"Corrupt'esprit"
+Ragespirit				"Spiritorage"
+Deadtorment				"Thanatourment"
+LostSoul				"Ame perdue"
+Haunt					"Hantise"
+Souldeath				"Thanat'âme"
+Malevolent				"Malveillant"
+Spectre					"Spectre"
+Vengence				"Vengeance"
+Blight					"Corruption"
+TheCursed				"Le Maudit"
+Wraith					"Apparition"
+Onryou					"Onryô"
+Torment					"Tourment"
+Goryo					"Goryô"
+
+DreadDog				"Chien de la Crainte"
+Blazebiter				"Morlincendie"
+Drandor					"Drandor"
+Direfang				"Sinistrocroc"
+DireWolf				"Sinistre Loup"
+DireWolves				"Sinistres Loups"
+Vilefang				"Vilcroc"
+Wrog					"Wrog"
+Hellbiter				"Infernomordeur"
+DoomHound				"Chien de la Ruine"
+Gutripper				"Eventripe"
+Shreader				"Déchiqueteur"
+Cerberus				"Cerberus"
+Warg					"Warg"
+Barghest				"Barghest"
+Sever					"Sectionne"
+Argos					"Argos"
+Hellhound				"Chien de l'Enfer"
+Grendel					"Grendel"
+Rend					"Déchir"
+Fenrir					"Fenrir"
+
+Pixie					"Lutin pixie"
+Gutsplitter				"Tripotraître"
+Snare					"Piège"
+Tormentor				"Tourmenteur"
+Sprite					"Farfadet"
+Nakal					"Nakal"
+Mole					"Taupe"
+Sotek					"Sotek"
+Imp					"Dibalotin"
+Lutin					"Lutin"
+Slog					"Bosseur"
+Malice					"Malice"
+Gremlin					"Gremlin"
+Pícaro					"Pícaro"
+Stab					"Poignardeur"
+Malo					"Malo"
+Urchin					"Oursin"
+Drog					"Drog"
+Ruin					"Ruine"
+Pan					"Pan"
+
+PixieBigSister				"Grande Soeur Pixie"
+Trickster				"Filou"
+Con					"Escroc"
+Spite					"Farfadet"
+SpriteBigSister				"Grande Soeur Farfadette"
+Malica					"Malica"
+Praxis					"Praxis"
+Koni					"Koni"
+ImpBigSister				"Grande Soeur Diablotine"
+Zekí					"Zekí"
+Quirk					"Caprice"
+Malin					"Malin"
+GremlinBigSister			"Grande Soeur Gremline"
+Mekir					"Mekir"
+Gall					"Gall"
+Dajal					"Dajal"
+UrchinBigSister				"Grande Soeur Oursine"
+Kajan					"Kajan"
+Provoker				"Provocateur"
+Zao					"Zao"
+
+DimensionalGate				"Portail dimensionnel"
+
+Scavenger				"Charognard"
+Rotterror				"Pourriterreur"
+Feast					"Festin"
+Rotskinner				"Tanneurpourri"
+CarrionEater				"Mange-Charogne"
+Corpsecraze				"Foudescorps"
+Gorerot					"Gorepourri"
+Corpsebiter				"Mordlesmorts"
+EateroftheDead				"Mordeur des Morts"
+Bloodtooth				"Sanguinodent"
+Vulture					"Vautour"
+Goretooth				"Goredent"
+Harvester				"Récolteur"
+Corpseripper				"Eventrecorps"
+Gorge					"Gorge"
+Bloodmouth				"Sanguinobouche"
+Reaper					"Ravageur"
+CarnageEater				"Mangeur du Carnage"
+Devourer				"Dévoreur"
+DeathEater				"Mangeur de Mort"
+
+SandAmorph				"Amorphe de sable"
+CreepingDeath				"Mort Rempante"
+Sludge					"Fange"
+Gloomooze				"Morozsuinte"
+SmallSandAmorph				"Petit amorphe de sable"
+TinySandAmorph				"Minuscule amorphe de sable"
+SiltAmorph				"Amorphe de vase"
+Blackgrudge				"Mélanorancune"
+Ulug					"Ulug"
+Darkmenace				"Sombremenace"
+SmallSiltAmorph				"Petit amorphe de vase"
+TinySiltAmorph				"Minuscule amorphe de vase"
+MudAmorph				"Amorphe de boue"
+Deathooze				"Suintemort"
+Grime					"Crasse"
+Blackslime				"Mélanoslime"
+SmallMudAmorph				"Petit amorphe de boue"
+TinyMudAmorph				"Minuscule amorphe de boue"
+EarthAmorph				"Amorphe de terre"
+Deathslime				"Thanatoslime"
+Mire					"Bourbe"
+Slimelord				"Seigneur Slime"
+SmallEarthAmorph			"Petit amorphe de terre"
+TinyEarthAmorph				"Minuscule amorphe de terre"
+ClayAmorph				"Amorphe d'argile"
+Blackgrudge				"Mélanorancune"
+Mudbane					"Fléaudboue"
+Vileooze				"Vilsuintement"
+SmallClayAmorph				"Petit amorphe d'argile"
+TinyClayAmorph				"Minuscule amorphe d'argile"
+Amorph					"Amorphe"
+
+BloodClanOrc				"Orc du Clan du Sang"
+Gurfaut					"Gurfaut"
+Bingor					"Bingor"
+Klaym					"Réklamation"
+HavocClanOrc				"Orc du Clan Ravage"
+Karn					"Karn"
+Omor					"Omor"
+Keil					"Keil"
+GoreClanOrc				"Orc du Clan gore"
+Sald					"Sald"
+Krag					"Krag"
+Fier					"Fier"
+CarnageClanOrc				"Orc du Clan du Carnage"
+Hafog					"Hafog"
+Seru					"Seru"
+Zestok					"Zestok"
+SavageClanOrc				"Orc du Clan Sauvage"
+Venin					"Venin"
+Jarost					"Jarost"
+Pyrs					"Pyrs"
+Orc					"Orc"
+
+BloodClanOrcShaman			"Shaman orc du Clan du Sang"
+HavocClanOrcShaman			"Shaman orc du Clan Ravage"
+GoreClanOrcShaman			"Shaman orc du Clan Gore"
+CarnageClanOrcShaman			"Shaman orc du Clan du Carnage"
+SavageClanOrcShaman			"Shaman orc du Clan Sauvage"
+OrcShaman1Unique			"Vice"
+OrcShaman1bUnique			"Ogrug"
+OrcShaman2Unique			"Naz"
+OrcShaman2bUnique			"Karg"
+OrcShaman3Unique			"Vark"
+OrcShaman3bUnique			"Brork"
+OrcShaman4Unique			"Zurluk"
+OrcShaman4bUnique			"Thogha"
+OrcShaman5Unique			"Morog"
+OrcShaman5bUnique			"Drak"
+OrcShaman1Legend			"Orrag"
+OrcShaman2Legend			"Zardag"
+OrcShaman3Legend			"Krulg"
+OrcShaman4Legend			"Urdak"
+OrcShaman5Legend			"Gizlin"
+OrcShaman				"Shaman orc"
+
+UndeadMage				"Mage mort-vivant"
+Clavros					"Clavros"
+Master					"Maître"
+Grimmaster				"Sinistromaistre"
+EternalWizard				"Eternel Ensorceleur"
+Zalim					"Zalim"
+Darkmaster				"Sombremaistre"
+Deadbringer				"Apportemorts"
+DeathWarlock			"Sorcier de la Mort"
+Grimstriker				"Lugubrofrappeur"
+Darknail				"Onglobscur"
+Dapur					"Dapur"
+ShadowSorcerer				"Sorceleur de l'Ombre"
+Sturen					"Sturen"
+Shadow					"Ombre"
+Tuzan					"Tuzan"
+Lich					"Liche"
+Strog					"Strog"
+Dire					"Sinistre"
+Kreyst					"Kreyte"
+
+BlackWidow				"Veuve noire"
+Blackterror				"Mélanoterreur"
+Widow					"Veuve"
+RedbackSpider				"Araignée rouge & noire"
+Arac					"Arac"
+Wolf					"Loup"
+FunnelwebSpider				"Araignée à toile en entonnoir"
+Venom					"Venin"
+Toxin					"Toxine"
+SandSpider				"Araignée des sables"
+Sicari					"Sicaire"
+Veri					"Veri"
+WanderingSpider				"Araignée errante"
+Racun					"Racun"
+Bisa					"Bisa"
+HoboSpider				"Araignée hobo"
+Osum					"Osum"
+Valo					"Valo"
+BrownRecluse				"Reclus brun"
+Necrosis				"Nécrose"
+Lox					"Saumon fumé"
+YellowSacSpider				"Araignée à sac jaune"
+Zehir					"Zehir"
+Cyto					"Cyto"
+Spider					"Araignée"
+GiantSpider				"Araignée géante"
+
+AdderNaga				"Naga vipère adder"
+Saris					"Saris"
+Adder					"Adder"
+Orm					"Serpent-dragon Orm"
+Vipernaga				"Naga vipère"
+Viper					"Vipère"
+Draco					"Draco"
+Vindla					"Vindla"
+AspNaga					"Naga aspic"
+Nagraj					"Nagraj"
+Ophidia					"Ophidia"
+Elapid					"Elapide"
+MambaNaga				"Naga mamba"
+Slither					"Ondule"
+Venomfang				"Venimocroc"
+Constrictor				"Constrictor"
+CobraNaga				"Naga cobra"
+Snake					"Serpent"
+Salir					"Salir"
+Cobra					"Cobra"
+Naga					"Naga"
+
+AdderNagaPriest				"Prêtre naga adder"
+Venom					"Venin"
+Paean					"Péan"
+Soulcarver				"Ciselâme"
+ViperNagaPriest				"Prêtre naga vipère"
+Vipermaw				"Gueuledevipère"
+Hood					"Capuche"
+Soulshock				"Choc'âme"
+AspNagaPriest				"Prêtre naga aspic"
+Dreadchant				"Chant de Lacrainte"
+Darkfaith				"Sombrefoi"
+Darkritual				"Sombrerituel"
+MambaNagaPriest				"Prêtre naga mamba"
+ToxicFaith				"Foi toxique"
+Soulpoison				"Poisondâme"
+Soulstriker				"Frapp'âme"
+CobraNagaPriest				"Prêtre naga cobra"
+Corrupter				"Corrupteur"
+Craven					"Lâche"
+Doom					"Ruine"
+NagaPriest				"Prêtre naga"
+
+FireMinion				"Mignon de feu"
+Flameooze				"Suinteflamme"
+Mag					"Mag"
+Nightfire				"Nocturnofeu"
+LesserFireElemental			"Petit élémentaire de feu"
+Flamestorm				"Flamm'tempête"
+Molten					"Fondu"
+Doomblaze				"Ruin'explosion"
+FireElemental				"Élémentaire de feu"
+Hellblaze				"Hadèsplosion"
+Charnelfire				"Feucharnel"
+Hellfire				"Feudlenfer"
+GreaterFireElemental			"Grand élémentaire de feu"
+Firelord				"Seigneur du feu"
+Cinder					"Tison"
+Blazelord				"Sire'explose"
+
+IceMinion				"Mignon de Glace"
+Icebane					"Cryofléau"
+Coldember				"Cendrefroide"
+Shiverterror				"Friss'terreur"
+LesserIceElemental			"Petit élémentaire de glace"
+Frostbane				"Fléaudgel"
+
+Stormshiver				"Friss'tempête"
+Icefury					"Cryofurie"
+IceElemental				"Élémentaire de Glace"
+Icestorm				"Tempête de glace"
+Frozentouch				"Touch'gelée"
+FreezingMenace				"Menace Gelante"
+GreaterIceElemental			"Grand élémentaire de glace"
+Icelord					"Cryosire"
+Bleak					"Morne"
+FrozenAbyss				"Abysse gelé"
+
+LightningMinion				"Mignon de Foudre"
+Oblivion				"Oblivion"
+Scorch					"Roussissement"
+Thunderboss				"Bossl'éclair"
+LesserLightningElemental		"Petit élémentaire de foudre"
+Ragestorm				"Ragetempête"
+
+Blast					"Explose"
+Stormterror				"Tempêterreur"
+LightningElemental			"Élémentaire de foudre"
+Vilestorm				"Viletempête"
+Boom					"Boum"
+Thundermaster				"Maîtréclair"
+GreaterLightningElemental		"Grand élémentaire de foudre"
+Stormblaze				"Tempêtincendie"
+
+Staticstorm				"Tempêtstatik"
+LightningLord				"Seigneur de la Foudre"
+
+UndeadKnight				"Chevalier mort-vivant"
+Deathseeker				"Cherchemort"
+Fear					"Peur"
+Deathstriker				"Thanatofrappeur"
+DreadKnight				"Chevalier de la Crainte"
+Azrael					"Azrael"
+Terror					"Terreur"
+Destroyer				"Destructeur"
+ShadowKnight				"Chevalier Ombre"
+GrimReaper				"Lugubre Moissonneur"
+Dire					"Sinistre"
+MasterofDeath				"Maître de la Mort"
+DeathKnight				"Chevalier de la Mort"
+War					"Guerre"
+Dread					"Crainte"
+Famine					"Famine"
+HorrorKnight				"Chevalier de l'Horreur"
+Pestilence				"Pestilence"
+Panic					"Panique"
+Death					"Mort"
+
+Defender				"Défenseur"
+Earthshaker				"Secoueterre"
+Steelhunger				"Faimdacier"
+TheWatcher				"Le Guetteur"
+Sentry					"Sentinelle"
+Sentries				"Sentinelles"
+Stonetremor				"Tremblepierre"
+Rock					"Roc"
+Rocksmasher				"Briseroc"
+Protector				"Protecteur"
+VigilantEyes				"Yeux Vigilants"
+Eyes					"Yeux"
+Golem					"Golem"
+Guardian				"Gardien"
+ImperialGuard				"Garde Impérial"
+TheWarden				"Le Gardien de prison"
+RoyalGuard				"Garde Royal"
+Sentinel				"Sentinelle"
+Praetorian				"Prétorien"
+Stoneshield				"Boucli'pierre"
+Argus					"Argus"
+
+FireTotem				"Totem de feu"
+IceTotem				"Totem de glace"
+LightningTotem				"Totem de foudre"
+PoisonTotem				"Totem de poison"
+ElementalTotem				"Totem élémentaire"
+Totem					"Totem"
+
+TotemDarkElf				"Totem elfe obscur"
+TotemOrc				"Totem orc"
+TotemUndead				"Totem mort-vivant"
+
+Plaguebringer				"Empesteur"
+Plagueshock				"Chocdepeste"
+Foulbreeder				"Pondeusefolle"
+Plaguelord				"Pestesire"
+CrawlingDoom				"Ruine Rampante"
+Plagueagony				"Pestagonie"
+Curse					"Malédiction"
+Foulsplitter				"Salecafard"
+ParasiteDemon				"Démon Parasite"
+Blightmenace				"Corruptomenace"
+Infester				"Infesteur"
+Breedingagony				"Progénit'agonie"
+BreedingDeath				"Thanatoprogéniture"
+Blackmenace				"Mélanomenace"
+Scourge					"Fléau"
+Blackdeath				"Mélanomort"
+BlackDeath2				"Noire Mort"
+Vileblight				"Vilecorruption"
+Blightspreader				"Répandlanielle"
+TheBreeder				"La Pondeuse"
+
+PlaguebringerLarva			"Larve d'Empesteur"
+Blightsavage				"Corruptosauvage"
+Rotspawn				"Pontepourrie"
+Slimespawn				"Pondduslime"
+CrawlingDoomLarva			"Larve rampante de la Ruine"
+Bloodspawn				"PonddusangBloodspawn"
+Plaguespot				"Tachedepeste"
+Painbiter				"Mordendouleur"
+ParasiteDemonLarva			"Larve de Démon parasite"
+Vilespawn				"Vileponte"
+LittleScourge				"Petit Fléau"
+Parasitespawn				"Progéniture-parasite"
+BreedingDeathLarva			"Larve de Mort pondeuse"
+Foulbreeding				"Infecteponte"
+Rot					"Pourri"
+Blackspawn				"Mélanoponte"
+BlackDeathLarva				"Larve de Mort Noire"
+Spawnblight				"Corruptoponte"
+Corrosion				"Corrosion"
+LittleDeath				"Petite Mort"
+
+GhostlyLight				"Lumière Fantomatique"
+Moonfire				"Sélénofeu"
+Glimor					"Glimor"
+Sparky					"Étincelant"
+CorpseCandle				"Cadavre-bougie"
+Shimmer					"Chatoiement"
+Chimera					"Chimère"
+Hellsnare				"Infernotraquenar"
+Wisp					"Feu follet"
+FoxFire					"Feud'renard"
+Sparkles				"Étincelles"
+LivingStorm				"Tempête Vivante"
+CorpseFire				"Feu de Cadavre"
+WalkingFire				"Feu Ambulant"
+Sparkle					"Etincelle"
+BallLightning				"Boule de foudre"
+WillotheWisp				"Volonté du Feufollet"
+IgnisFatuus				"Ignis Fatuus"
+Twinkle					"Pétillement"
+Wildfire				"Feusauvage"
+
+Mimic					"Mimique"
+Bloodmenace				"Sanguinomenace"
+Shroud					"Suaire"
+Kitsune					"Kitsune"
+Shifter					"Morphe"
+Loki					"Loki"
+Thorl					"Thorl"
+Bouda					"Bouda"
+Skinwalker				"Dermambule"
+Zmei					"Zmei"
+Frin					"Frin"
+Taris					"Taris"
+Shapeshifter				"Métamorphe"
+Deathshroud				"Thanatosuaire"
+Rue					"Amerregret"
+HiddenDoom				"Ruine Cachée"
+Changeling				"Changeant"
+Slayer					"Egorgeur"
+Wor					"Wor"
+TheAmbusher				"L'Ambusqué"
+
+Hulk					"Hulk"
+Crusher					"Ecraseur"
+Gravelthorn				"Graviépine"
+Goresnap				"Morsuregore"
+Mammoth					"Mammouth"
+Earthstriker				"Frappe'terre"
+Doublesmash				"Brisedouble"
+Bloodbasher				"Cognausang"
+Gargantuan				"Gargantua"
+Hunch					"Bosse"
+Wrecker					"Démolisseur"
+Earthstomper				"Dunpas Louré-Terreux"
+Behemoth				"Béhémoth"
+Rockmenace				"Rocmenace"
+Pulp					"Pulpe"
+Spike					"Pique"
+Colossus				"Colosse"
+Jotun					"Jotun"
+Tremble					"Tremble"
+Risi					"Risi"
+
+Horror					"Horreur"
+Blink					"Cligne"
+Cerebral				"Cérébral"
+Dreadreign				"Règnedelacrainte"
+DreadBrain				"Cerveau de la Crainte"
+Frostfire				"Feudegel"
+Loath					"Abhorre"
+Grimskull				"Lugubrecrâne"
+Haunt					"Hantise"
+Skullterror				"Crâneterreur"
+Scorn					"Dédain"
+Madeye					"Foloeil"
+EyeofTerror				"Oeil de Terreur"
+EyefromHell				"Oeil de l'Enfer"
+Fry					"Fretin"
+Fear					"Peur"
+Nightmare				"Cauchemar"
+ArmoredEye				"Oeil cuirassé"
+Sinister				"Sinistre"
+Dreadskull				"Craintecrâne"
+
+Shankar					"Shankar"
+Ciglio					"Ciglio"
+Draaien					"Draaien"
+LuteKefahNaga				"Naga Lute Kef'ah"
+Lishlot					"Lishlot"
+Ridit					"Ridit"
+Ovlad					"Ovlad"
+Yuxi					"Yuxi"
+Fryse					"Fryse"
+Criar					"Criar"
+Garrip					"Garrip"
+
+TrapSpinner				"Piège à piques"
+TrapTowerPoison				"Piège à tour de poison"
+TrapSpinTowerFire			"Piège à tour de feu"
+TrapSpinTowerIce			"Piège à tour de glace"
+TrapPoisonCloud				"Piège à nuage de poison"
+TrapConeFire				"Piège à cône de feu"
+TrapConeIce				"Piège à cône de glace"
+TrapConeLightning			"Piège à cône de foudre"
+
+TownFireTotem				"Totem défensif de feu"
+TownIceTotem				"Totem défensif de glace"
+TownLightningTotem			"Totem défensif de foudre"
+TownPoisonTotem				"Totem défensif de poison"
+
+FireThrower1				"Goblin pyromane"
+FireThrower2				"Goblin lance-flamme"
+FireThrower3				"Goblin lance-brûle"
+FireThrower4				"Goblin flambeur"
+FireThrower5				"Goblin immolateur"
+
+FireThrowerUnique1			"Eclat"
+FireThrowerUnique1b			"Flash"
+FireThrowerUnique2			"Inferno"
+FireThrowerUnique2b			"Pyro"
+FireThrowerUnique3			"Attiseur"
+FireThrowerUnique3b			"Tison"
+FireThrowerUnique4			"Metlefeu"
+FireThrowerUnique4b			"Incendie"
+FireThrowerUnique5			"Roussissement"
+FireThrowerUnique5b			"Incendio"
+
+FireThrowerLegend1			"Eldur"
+FireThrowerLegend2			"Fogo"
+FireThrowerLegend3			"Teine"
+FireThrowerLegend4			"Incitar"
+FireThrowerLegend5			"Atex"
+
+Leprechaun1				"Leprechaun du Clan des Chapardeurs"
+Leprechaun2				"Leprechaun du Clan Rampant"
+Leprechaun3				"Leprechaun du Clan des Rôdeurs"
+Leprechaun4				"Leprechaun du Clan Furtif"
+Leprechaun5				"Leprechaun du Clan Escroquerie"
+LeprechaunGeneralName			"Leprechaun maléfique"
+
+Leprechaun1Unique			"Pincement"
+Leprechaun1bUnique			"Mouchard"
+Leprechaun2Unique			"Quisglisse"
+Leprechaun2bUnique			"Mains Gluantes"
+Leprechaun3Unique			"Chipe"
+Leprechaun3bUnique			"Klepto"
+Leprechaun4Unique			"Amoureux de l'Argent"
+Leprechaun4bUnique			"Rusé"
+Leprechaun5Unique			"Butin"
+Leprechaun5bUnique			"Taureau"
+
+Leprechaun1Legend			"Geid"
+Leprechaun2Legend			"Furtar (voler en portugais)"
+Leprechaun3Legend			"Goid"
+Leprechaun4Legend			"Quark"
+Leprechaun5Legend			"Précieux"
+
+Demon1					"Mignon du Chaos"
+Demon2					"Guerrier du Chaos"
+Demon3					"Chevalier du Chaos"
+Demon4					"Seigneur du Chaos"
+Demon5					"Seigneur de guerre du Chaos"
+
+Demon1Unique				"Agitation"
+Demon1bUnique				"Chahut"
+Demon2Unique				"Fureur"
+Demon2bUnique				"Maelström"
+Demon3Unique				"Anarchie"
+Demon3bUnique				"Chaos"
+Demon4Unique				"Désordre"
+Demon4bUnique				"Vide"
+Demon5Unique				"Discorde"
+Demon6bUnique				"Vexe"
+
+Demon1Legend				"Gaia"
+Demon2Legend				"Tartarus"
+Demon3Legend				"Eros"
+Demon4Legend				"Nyx"
+Demon5Legend				"Erebus"
+ChaosLord				"Seigneur du Chaos"
+
+Shadow1					"Tache"
+Shadow2					"Dissimulateur"
+Shadow3					"Brume"
+Shadow4					"Nuance"
+Shadow5					"Ombre"
+
+Shadow1Unique				"Cryogriffe"
+Shadow1bUnique				"Touché ombreux"
+Shadow2Unique				"Fléombre"
+Shadow2bUnique				"Thanathantise"
+Shadow3Unique				"Mélanocorne"
+Shadow3bUnique				"Felgriffe"
+Shadow4Unique				"Ombrofeu"
+Shadow4bUnique				"Ombro"
+Shadow5Unique				"Umbrã"
+Shadow6bUnique				"Prestospectre"
+
+Shadow1Legend				"Ombrogriffe"
+Shadow2Legend				"Mélanocrépuscule"
+Shadow3Legend				"Mélanconuit"
+Shadow4Legend				"Ombrouillard"
+Shadow5Legend				"Sombrefureur"
+
+Morale1					"Pleurnicheur mort-vivant"
+Morale2					"Sirène morte-vivante"
+Morale3					"Trompette mort-vivant"
+Morale4					"Clairon mort-vivant"
+Morale5					"Héraut mort-vivant"
+
+Morale1Unique				"Egorgelie"
+Morale1bUnique				"Menacelangue"
+Morale2Unique				"Grok"
+Morale2bUnique				"Appelmortel"
+Morale3Unique				"Mélancolangue"
+Morale3bUnique				"Peurlangue"
+Morale4Unique				"Noctodémolisseur"
+Morale4bUnique				"Tourment'hurle"
+Morale5Unique				"Apportecrainte"
+Morale5bUnique				"Coeurdecadavre"
+
+Morale1Legend				"Noctotraître"
+Morale2Legend				"Sauvage'os"
+Morale3Legend				"Bellicorne"
+Morale4Legend				"Ruse'corne"
+Morale5Legend				"Strident"
+
+Invisible1				"Progéniture rampante"
+Invisible2				"Progéniture rôdeuse"
+Invisible3				"Progéniture traqueuse"
+Invisible4				"Progéniture piégeuse"
+Invisible5				"Progéniture embusquée"
+
+Invisible1Unique			"Sanguinégorgeur"
+Invisible1bUnique			"Prestecroc"
+Invisible2Unique			"Ferrodent"
+Invisible2bUnique			"Gueuledechoc"
+Invisible3Unique			Dosàcrête"
+Invisible3bUnique			"Ombrenuit"
+Invisible4Unique			"Crocdacier"
+Invisible4bUnique			"Egorgepiège"
+Invisible5Unique			"Tracarcticque"
+Invisible5bUnique			"Coudombre"
+
+Invisible1Legend			"Déchiqueteur"
+Invisible2Legend			"Frappenfurie"
+Invisible3Legend			"Piège"
+Invisible4Legend			"Gueuledecrainte"
+Invisible5Legend			"Frénésie Nourrisseuse"
+
+Fiend1					"Éboulis"
+Fiend2					"Éboulis rouge"
+Fiend3					"Éboulis pourpre"
+Fiend4					"Eboulis vert"
+Fiend5					"Éboulis bleu"
+
+Fiend1Unique				"Vilequeue"
+Fiend1bUnique				"Enravageur"
+Fiend2Unique				"Queuedcrépuscule"
+Fiend2bUnique				"Dentelépine"
+Fiend3Unique				"Tourmentdacier"
+Fiend3bUnique				"Frémid'frappe"
+Fiend4Unique				"Attaquemortelle"
+Fiend4bUnique				"Rapidattaque"
+Fiend5Unique				"Cherchesang"
+Fiend5bUnique				"Eblis"
+
+Fiend1Legend				"Diavol"
+Fiend2Legend				"Piquedufléau"
+Fiend3Legend				"Eventrippe"
+Fiend4Legend				"Prestocoup"
+Fiend5Legend				"Le Frappeur"
+
+FourArms1				"Furie"
+FourArms1Plural				"Furies"
+FourArms2				"Colère"
+FourArms3				"Rage"
+FourArms4				"Déchaînement"
+FourArms5				"Sauvage"
+
+FourArms1Unique				"Hépatomaistre"
+FourArms1bUnique			"Tissecarnage"
+FourArms2Unique				"Apportemort"
+FourArms2bUnique			"Menace"
+FourArms3Unique				"Cruellagonie"
+FourArms3bUnique			"Hépatobrute"
+FourArms4Unique				"Ragemaistre"
+FourArms4bUnique			"Démolit'endouleur"
+FourArms5Unique				"Sauvagebriseur"
+FourArms5bUnique			"Pierregore"
+
+FourArms1Legend				"Massedechair"
+FourArms2Legend				"Coup-roussi"
+FourArms3Legend				"Démolicrainte"
+FourArms4Legend				"Vilerage"
+FourArms5Legend				"Zorn (colère en allemand)
+
+Wampir1					"Wampir"
+Wampir2					"Wampir d'Agonie"
+Wampir3					"Wampir de Sang"
+Wampir4					"Wampir Toxique"
+Wampir5					"Wampir de la Peste"
+
+Wampir1Unique				"Rageaile"
+Wampir1bUnique				"Ombr'aile"
+Wampir2Unique				"Ailedeneige"
+Wampir2bUnique				"Fétidepoison"
+Wampir3Unique				"Gueuledepoison"
+Wampir3bUnique				"Empoisonneur"
+Wampir4Unique				"Toxicochoc"
+Wampir4bUnique				"Mélagonie"
+Wampir5Unique				"Suintepeste"
+Wampir5bUnique				"Mélanaile"
+
+Wampir1Legend				"Récoltaile"
+Wampir2Legend				"Malice Ailée"
+Wampir3Legend				"Corruptagonie"
+Wampir4Legend				"Terreurpoison"
+Wampir5Legend				"Exploison"
+
+Frenzy1					"Targ féroce"
+Frenzy2					"Targ en furie"
+Frenzy3					"Targ berserk"
+Frenzy4					"Targ en frénésie"
+Frenzy5					"Targ aliéné"
+
+Frenzy1Unique				"Sanguinofeu"
+Frenzy1bUnique				"Cruelgel"
+Frenzy2Unique				"Foliesanglante"
+Frenzy2bUnique				"Carnagesauvage"
+Frenzy3Unique				"Panique"
+Frenzy3bUnique				"Menacecornue"
+Frenzy4Unique				"Piquedudémon"
+Frenzy4bUnique				"Frisson"
+Frenzy5Unique				"Piquedepeste"
+Frenzy5bUnique				"Piquederancune"
+
+Frenzy1Legend				"Eventreur"
+Frenzy2Legend				"Brutalepeur"
+Frenzy3Legend				"Rancun'menace"
+Frenzy4Legend				"Piquesale"
+Frenzy5Legend				"Cornecolère"
+
+DemonDog1				"Ragnar"
+DemonDog2				"Ragnar de terre"
+DemonDog3				"Ragnar de sang"
+DemonDog4				"Ragnar de cristal"
+DemonDog5				"Ragnar céleste"
+
+DemonDog1Unique				"Déchiquet'os"
+DemonDog1bUnique			"Sagepatte"
+DemonDog2Unique				"Pattedefer"
+DemonDog2bUnique			"Grogne"
+DemonDog3Unique				"Ragederuine"
+DemonDog3bUnique			"Noctochacal"
+DemonDog4Unique				"Griff'solitaire"
+DemonDog4bUnique			"Grondement-d'bataille"
+DemonDog5Unique				"Gueulededémon"
+DemonDog5bUnique			"Obscurle"
+
+DemonDog1Legend				"Crépuscurle"
+DemonDog2Legend				"Relent-de-démon"
+DemonDog3Legend				"Foudrocroc"
+DemonDog4Legend				"Crodgel"
+DemonDog5Legend				"Cryodéchirure"
+Ragnar					"Ragnar"
+
+Suicide1				"Scarabus Éclateur"
+Suicide2				"Scarabus Boomer"
+Suicide3				"Scarabus Anéantisseur (Blaster)"
+Suicide4				"Scarabus Explosif"
+Suicide5				"Scarabus Eclair"
+
+Suicide1Unique				"Gorexplosion"
+Suicide1bUnique				"Carnagexplosion"
+Suicide2Unique				"Pulpe"
+Suicide2bUnique				"Gore"
+Suicide3Unique				"Sanguinofoudre"
+Suicide3bUnique				"Hépatocarnage"
+Suicide4Unique				"Eclairderuine"
+Suicide4bUnique				"Cruelcarnage"
+Suicide5Unique				"Explosambule"
+Suicide5bUnique				"Brûlurdenfer"
+
+Suicide1Legend				"Souffleroussi (Scorchblow)"
+Suicide2Legend				"Férocemort"
+Suicide3Legend				"Déchiquèt'plaie"
+Suicide4Legend				"Feufollet"
+Suicide5Legend				"Chassechair"
+
+CaveIn					"Éboulement"
+
+// Faction names
+
+Human					"Humain"
+Lich					"Liche"
+Skeleton				"Squelette"
+Zombie					"Zombie"
+Elemental				"Élémentaire"
+Hulk					"Hulk"
+Scavenger				"Charognard"
+Orc					"Orc"
+DarkElf					"Elf obscur"
+Fiend					"Scree"
+Ragnar					"Ragnar"
+Shadow					"Ombre"
+Wampir					"Wampir"
+Fury					"Furie"
+Demon					"Seigneur du Chaos"
+FireThrower				"Pyromane"
+Torva					"Torva"
+Spider					"Araignée"
+Saurian					"Saurien"
+Naga					"Naga"
+Ghost					"Fantôme"
+DeathKnight				"Chevalier mort"
+HellHound				"Chien de l'Enfer"
+Guardian				"Gardien"
+Plaguebringer				"Empesteur"
+Wisp					"Feu follet"
+Changeling				"Changeant"
+Horror					"Horreur"
+Amorph					"Amorphe"
+Pixie					"Lutin"
+Sprite					"Farfadet"
+Imp					"Diablotin"
+Gremlin					"Gremlin"
+Urchin					"Oursin"
+Undead					"Mort-vivant"
+Gargoyle				"Gargouille"
+Invisible				"Progéniture (Brood)"
+Suicide					"Scarabus"
+Leprechaun				"Leprechaun maléfique"
+
+
+// World map menu
+
+WorldMap				"Carte du monde"
+WorldMapInstructions			"Survolez les points de repère sur la carte pour plus d'info.\nUtilisez les barres de défilement ou laissez pressé le bouton droit de la souris pour faire glisser la carte"
+WorldMapInstructions2			"^c008Cliquez droit sur le portail ou covenant pour vous téléporter"
+YourCharacter				"Votre personnage"
+
+WorldMapPlayersGate			"Portail du joueur"
+WorldMapTeleportToGate			"Cliquer droit pour se téléporter au portail"
+WorldMapTo				"vers"
+WorldMapTownGate			"Portail de ville"
+WorldMapConnectionFromXToY		"Connexion de ##1## à ##2##"
+WorldMapArea				"zone"
+
+PlayersListDesc				"Ceci liste tous les joueurs dans le \njeu et leur localisation."
+
+// Locks
+
+LockedYes				"Verrouillé"
+LockedNo				"Pas verrouillé"
+LockedUnknown				"Peut être verrouillé (trop loin)"
+LockPickChance				"##1##% de chances de crocheter"
+LockPicked				"Crocheté"
+LockPickFailed				"Échec du crochetage"
+
+// Traps
+
+TrapNone				"Pas de piège"
+TrapUnknown				"Peut être piégé (trop loin)"
+TrapType				"Type de piège"
+TrapFireNova				"Nova de feu"
+TrapIceStorm				"Tempête de glace"
+TrapPoisonGas				"Gaz empoisonné"
+TrapMagicalExplosion			"Explosion magique"
+TrapAlarm				"Alarme"
+TrapSpawn				"Ponte"
+TrapShrink				"Rétréci"
+TrapCaltrops				"Chausse-trappe"
+TrapCaveIn				"Éboulement"
+TrapPit					"Puits"
+TrapTeleporter				"Téléporteur"
+TrapCurse				"Malédiction"
+TrapBallLightning			"Boule de foudre"
+TrapWind				"Vent"
+TrapDoors				"Portes"
+
+Perception				"Perception"
+PerceptionChanceCorrect			"chance correct"
+
+DisarmChance				"##1##% de chances de désarmer"
+
+// Time
+
+Second					"seconde"
+Seconds					"secondes"
+Minute					"minute"
+Minutes					"minutes"
+Hour					"heure"
+Hours					"heures"
+Day					"jour"
+Days					"jours"
+SecondsAbrev				"sec."
+MinutesAbrev				"min."
+HoursAbrev				"h."
+DaysAbrev				"j."
+
+// Journal stuff
+
+SavedMonsterTextNone			"Aucun"
+SavedMonsterTextRenegade		"Renégat"
+SavedMonsterTextThief			"Voleur"
+SavedMonsterTextLevel			"niv."
+SavedMonsterTextAtLevel			"au niv."
+
+DividerOf				"de"
+
+JournalCharacter			"Personnage"
+JournalGlobalBasic			"Global (Basique)"
+JournalGlobal				"Global"
+JournalFrom				"de"
+
+GamesWon				"Villes sauvées"
+GamesLost				"Villes perdues"
+GamesAbandoned				"Villes abandonnées"
+
+StatsFor				"Statistiques pour :"
+HighestStats				"Plus hautes statistiques"
+StatName				"Nom de stat."
+PlayerCovenant				"Joueur (classe)"
+StatValue				"Valeur stat."
+
+// Npc Types
+
+NpcTypeWarmaster			"Maître de guerre"
+NpcTypeApothecary			"Apothicaire"
+NpcTypeSteward				"Intendant"
+NpcTypeTutor				"Tuteur"
+
+NpcTypeVendorBasic			"Marchand"
+NpcTypeVendorWeapon			"Forgeron d'armes"
+NpcTypeVendorArmor			"Armurier"
+NpcTypeGambler				"Parieur"
+NpcTypeVendorWandering			"Colporteur"
+NpcTypeNormal				"Résident"
+NpcTypeAvatar				"Din"
+Jeweler					"Bijoutier"
+BlackMarketVendor			"Vendeur à la sauvette"
+ShoeVendor				"Marchand de chaussures"
+FoodDrinkVendor				"Epicier"
+FancyVendor				"Marchand de mode"
+PotionVendor				"Marchand de potion"
+EnchanterVendor				"Enchanteur"
+BowSmith				"Fabriquant d'arcs"
+SwordSmith				"Fabriquant d'épées"
+AxeSmith				"Fabriquant de haches"
+MaceSmith				"Fabriquant de masses"
+StaffSmith				"Fabriquant de bâtons"
+DaggerSmith				"Fabriquant de dagues"
+EdgedWeaponsSmith			"Fabriquant d'armes tranchantes"
+BluntWeaponsSmith			"Marchand d'armes émoussées"
+ShieldSmith				"Fabriquant de boucliers"
+ClothArmorSmith				"Tailleur"
+LeatherArmorSmith			"Tanneur"
+MailArmorSmith				"Armurier de mailles"
+PlateArmorSmith				"Armurier de plaques"
+SoftArmorSmith				"Marchand d'armures souples"
+HardArmorSmith				"Marchand d'armures rigides"
+WeaponGambler				"Parieur d'armes"
+ArmorGambler				"Parieur d'armures"
+BagVendor				"Bagagiste"
+TwoHandedWeaponsSmith			"Marchand d'armes à deux mains"
+CapeVendor				"Marchand de capes"
+GloveVendor				"Marchand de gants"
+RingVendor				"Marchand d'anneaux"
+EliteWeaponVendor			"Marchand d'armes d'élite"
+EliteArmorVendor			"Armurier d'élite"
+EliteJeweler				"Bijoutier d'élite"
+EliteClothArmorSmith			"Tailleur d'élite"
+EliteLeatherArmorSmith			"Tanneur d'élite"
+EliteMailArmorSmith			"Armurier de mailles d'élite"
+ElitePlateArmorSmith			"Armurier de plaques d'élite"
+EliteDaggerSmith			"Marchand de dagues d'élite"
+EliteStaffSmith				"Fabricant de bâton d'élite"
+EliteMaceSmith				"Fabricant de masse d'élite"
+EliteAxeSmith				"Fabricant de hache d'élite"
+EliteSwordSmith				"Forgeron d'épée d'élite"
+EliteBowSmith				"Marchand d'arc d'élite"
+TheRenegade				"le Renégat"
+Renegade				"Renégat"
+Prisoner				"Prisonnier"
+ThePrisoner				"le Prisonnier"
+DinsCursed				"Maudit par Din"
+TheDinsCursed				"(Maudit par Din)"
+TheThief				"le voleur"
+NPCsGhost				"le fantôme"
+
+// Npc stuff
+
+DinsAvatar				"Din (Dieu de l'Honneur)"
+
+TalkTo					"Parler à"
+NpcTitle				" le ##1##"
+
+ObeliskGiant				"Obélisque géante"
+ObeliskHaste				"Obélisque de hâte"
+ObeliskStoneSkin			"Obélisque de peau de pierre"
+ObeliskRegeneration			"Obélisque de régénération"
+ObeliskLifeSteal			"Obélisque de Vol de vie"
+ObeliskPowerSteal			"Obélisque de Vol de mana"
+ObeliskHolyShield			"Obélisque de Bouclier Saint"
+ObeliskInfinitePower			"Obélisque de Mana infinie"
+ObeliskInfiniteStamina			"Obélisque d'Endurance infinie"
+ObeliskFireShield			"Obélisque de Bouclier de feu"
+
+GateActivated				"Portail activé !"
+
+// Chests
+
+SmallChest				"Coffret"
+LargeChest				"Coffre"
+SmallBronzeChest			"Coffret de bronze"
+LargeBronzeChest			"Grand coffre de Bronze"
+SmallSilverChest			"Coffret d'argent"
+LargeSilverChest			"Grand coffre d'argent"
+SmallGoldChest				"Coffret d'or"
+MediumGoldChest				"Coffre d'or"
+LargeGoldChest				"Grand coffre d'or"
+SecretStash				"Cache secrète"
+BuriedTreasure				"Trésor enterré"
+ArmorStand				"Râtelier d'armures"
+WeaponStand				"Râtelier d'armes"
+MoneyChest				"Coffre d'argent"
+DeadBody				"Cadavre"
+
+MediumRewardChest			"Coffre de récompense"
+LargeRewardChest			"Grand coffre de récompense"
+RewardChestAvailable			"Un coffre de récompense (niv. ##1##) maintenant disponible au centre de la ville !"
+
+Barrel					"Baril"
+BarrelExploding				"Baril explosif"
+BarrelPoison				"Baril de poison"
+BarrelOil				"Baril d'huile"
+BarrelAlcohol				"Baril d'alcool"
+
+Crate					"Caisse"
+BreakableBush				"Buisson"
+BreakableCandle				"Bougie"
+BreakableStatue				"Statue"
+BreakableMushroom			"Champignon"
+BreakableLocker				"Placard"
+BreakableOrcTotem			"Totem orc"
+BreakableUndeadTotem			"Totem mort-vivant"
+BreakableJar				"Jarre"
+
+BaseAmount				"Montant de base"
+CurrentAmount				"Montant actuel"
+StatAt					"à"
+
+RegenEverySecond			"régén. chaque seconde"
+CriticalHitSpellChance			"chances de coup/sort critique"
+CrushingBlowChance			"chances de coup écrasant"
+DeepWoundsChance			"chances de blessures profondes"
+ToElementalResistances			"aux résistances élémentaires"
+
+DoorLocked				"Porte verrouillée"
+DoorStuck				"Porte bloquée"
+RequiresKeyXDoor			"Porte bloquée"
+ChestLocked				"Coffre verrouillé"
+RequiresKeyXChest			"Coffre bloqué"
+
+// Help Topics (each must have title & text)
+
+HelpTitleHelp				"Système d'aide"
+HelpTextHelp				"Bienvenu dans le système d'aide de Din's Curse. Pour lire un nouveau sujet d'aide, cliquer sur l'icône de point d'interrogation clignotant quand elle apparaît (en bas au centre de l'écran).\n\nCes sujets sont là pour vous aider à apprendre le jeu aussi vite que possible sans vous ennuyer à mort avec un didacticiel.\n\nVous pouvez les désactiver si vous le souhaitez, mais je ne vous le conseillerais pas. Vous pourrez cependant les réactiver (si vous les avez désactivés) en remettant à 0 les sujets d'aide dans les Options de jeu."
+
+HelpTitleAlt				"Alt"
+HelpTextAlt				"Maintenez pressée la touche ALT pour voir en même temps tous les objets au sol.\n\nVous pouvez aussi décider que la touche ALT fonctionne comme un verrouillage dans les options de jeu, si cela est plus aisé pour vous."
+
+HelpTitleCtrl				"Ctrl"
+HelpTextCtrl				"Tenir la touche Ctrl pressée empêchera votre personnage de se déplacer quand vous cliquerez gauche et ainsi rendra plus sure la sélection, le tir ou le sort jeté sur les ennemis.\n\nVous pouvez régler la touche Ctrl pour qu'elle se verrouille dans les options de jeu, si c'est plus pratique ainsi pour vous."
+
+HelpTitleLeftRightClick			"Clics gauche & droit"
+HelpTextLeftRightClick			"Cliquer gauche avec la souris est sensible au contexte et réalise les actions les plus communes (déplacement, attaque, ramassage, etc.) alors que cliquer droit réalise des actions plus rares, comme utiliser un objet. Pour le déplacement et l'attaque, vous pouvez maintenir le bouton gauche appuyé pour continuer l'action en cours.\n\nVous pouvez aussi configurer jusqu'à 3 compétences dans les emplacements du coin droit en bas de l'écran, à utiliser lorsque vous cliquez droit sur un monstre. Cliquer droit utilise la compétence de l'emplacement du bas. Utilisez les touches des flèches haut et bas pour changer leur ordre."
+
+HelpTitleGameObjective			"Objectif du jeu"
+HelpTextGameObjective			"L'objectif de chaque partie ou nouveau monde est de sauver la ville. Ce sont des temps dangereux pour les petites villes humaines. Elles ont besoin d'un héros. C'est vous, grâce à Din, que ça vous plaise ou non. Vous sauverez la ville quand vous aurez mené à bien toutes les quêtes.\n\nVous avez aussi un autre but. Din vous a maudit. Il ne vous libèrera pas de son service à moins que vous ne vous soyez racheté. Parlez à Din en ville pour plus d'informations."
+
+HelpTitleStash				"Inventaire"
+HelpTextStash				"Le coffre est votre espace d'inventaire supplémentaire où vous pouvez stocker n'importe quels objets que vous voulez.\n\nNote : Seuls les sacs peuvent aller directement dans le coffre.  Tout type d'objet peut cependant aller dans ces sacs."
+
+HelpTitleSharedStash			"Inventaire partagé"
+HelpTextSharedStash			"Votre inventaire partagé l'est par tous les personnages que vous avez créé.\n\nNote : seuls les sacs peuvent aller directement dans l'inventaire.  Tout type d'objet peut cependant aller dans ces sacs."
+
+HelpTitleCharacterScreen		"Ecran de personnage"
+HelpTextCharacterScreen			"L'écran de personnage affiche les statistiques de base de votre personnage.  Placez le pointeur de la souris sur tout ce sur quoi vous souhaitez davantage d'informations."
+
+HelpTitleSkillsScreen			"Écran de compétences"
+HelpTextSkillsScreen			"L'écran de compétences affiche toutes les compétences disponibles pour votre classe de personnage.  Une bordure dorée autour de l'icône de compétence signifie que vous avez cette compétence.  Remarquez qu'il y a de multiples onglets en bas.  Une classe complète aura 3 onglets tandis qu'une classe hybride en aura seulement 2."
+
+HelpTitleBuyingSkills			"Achat de compétences"
+HelpTextBuyingSkills			"Les compétences ne sont pas arrangées dans un arbre de compétences.  Toutes les compétences sont disponibles dès le début, mais chacune a un coût en points différent.  En général, plus une compétence est en bas de l'écran, et plus elle coûte de points.  Pour chaque niveau de compétence, le coût en points augmente de un, comparé au niveau précédent.  Acheter une compétence coûte aussi une somme d'argent basée sur le coût en points."
+
+HelpTitleSkillTypes			"Types de compétences"
+HelpTextSkillTypes			"Il existe deux types de compétences : les passives et les actives.  Les compétences passives fonctionnent automatiquement sans nécessiter d'ordre du joueur, à supposer que vous ayez la compétence en question, bien sûr.  Les compétences actives ne fonctionnent que quand le joueur les utilise de la façon appropriée.  La façon la plus simple d'utiliser une compétence est de l'ajouter à votre barre de raccourcis et de presser la touche associée ou de l'ajouter à l'un de vos trois emplacements de clic droit. Les compétences passives ont une bordure bleue sur l'écran de compétence."
+
+HelpTitleVendors			"Marchands"
+HelpTextVendors				"Il peut y avoir de nombreux marchands ou même aucun marchand en ville. Il y a aussi différents types de marchands comme les marchands de petits objets, les armuriers et les fabricants d'armes. Ils transportent différents objets, mais vous pouvez vendre n'importe quel objet à n'importe quel marchand pour le même prix.\n\nPour acheter un objet, déplacez-le simplement de l'inventaire du marchand au vôtre, cliquez droit sur l'objet ou utilisez la touche de raccourci pour acheter (espace par défaut).\n\nPour vendre un objet, déplacez-le simplement de votre inventaire à celui du marchand ou pressez la touche de raccourci pour vendre (espace par défaut).\n\nVous pouvez aussi identifier tous vos objets non-identifiés ou les faire réparer pour un certain prix. Seuls les armuriers et les forgerons d'armes peuvent réparer des objets."
+
+HelpTitleGambler			"Parieur"
+HelpTextGambler				"Le parieur vous permet de parier sur des objets.  Pour parier, il vous suffit d'acheter l'objet comme un objet normal, et si vous avez de la chance, ce sera un objet magique qui vaudra bien plus que ce que vous l'avez payé."
+
+HelpTitleQuestGivers			"Donneurs de quêtes"
+HelpTextQuestGivers			"Chaque ville a normalement quatre donneurs de quêtes principaux : le maître de guerre, l'intendant, l'apothicaire et Din (le dieu qui vous a maudit). En général, ils proposent chacun différents types de quêtes.\n\nDe plus, d'autres PNJ de la ville vous offriront parfois des quêtes personnelles."
+
+HelpTitleItemRarity			"Rareté des objets"
+HelpTextItemRarity			"Les objets se présentent selon différentes raretés ou types : ^c004normal^c145, ^c002commun^c145, ^c005rare^c145, ^c008set^c145, ^c006élite^c145, ^c147artefact^c145 et ^c121légendaire^c145.\n\nLes objets ^c004normaux^c145 ne sont que cela, normaux.\n\nLes objets ^c002communs^c145 et ^c005rares^c145 ont des améliorations magiques aléatoires, les objets ^c005rares^c145 en ayant généralement davantage.\n\nLes objets de ^c008set^c145 appartiennent à un groupe d'objets.  Si vous pouvez trouver et porter tous les objets d'un set, vous obtiendrez des améliorations bonus.  De nombreux sets ont aussi un bonus partiel si vous pouvez porter une partie du set.\n\nLes objets d'^c006élite^c145 possèdent un nom, ont des enchantements qui sont toujours les mêmes et sont souvent très puissants.\n\nLes objets ^c147artefacts^c145 sont très similaires aux objets d'élite mais généralement ont au moins une amélioration supplémentaire, aussi sont-ils très puissants.\n\nLes objets ^c121légendaires^c145 sont le Saint Graal. Ils sont les mêmes que leurs homologues artefacts, sauf qu'ils ont un modificateur magique additionnel aléatoire."
+
+HelpTitleLowHealth			"Santé basse"
+HelpTextLowHealth			"Il y a de nombreux moyens de regagner de la santé lorsque votre santé descend trop bas.\n\nLa façon typique et la plus facile est de manger un peu de nourriture.  Cela régénère lentement votre santé et la nourriture est relativement bon marché.\n\nLa façon la plus rapide de regagner de la santé est de boire une potion de santé.  Les potions de santé vous redonnent instantanément votre santé mais sont relativement chères.\n\nLe moyen le plus économique de regagner votre santé est d'utiliser l'autel de Din en ville.  Utiliser cet autel régénère votre santé assez rapidement et est gratuit, mais il vous faut être en ville bien sûr.\n\nEnfin, et surtout, certaines classes ont différents sorts qui peuvent soigner les blessures."
+
+HelpTitleLevelUp			"Montée en niveau"
+HelpTextLevelUp				"Chaque fois que vous montez en niveau, vous obtenez plus de points d'attributs et de compétences à distribuer de la façon que vous voulez.\n\nPour utiliser vos points d'attributs, ouvrez votre page de personnage (touche C par défaut) et pressez le bouton + à côté de l'attribut que vous souhaitez augmenter.  Vous obtenez 5 points d'attributs à chaque niveau.\n\nPour utiliser vos points de compétence, ouvrer votre page de compétences (touche S par défaut) et pressez le bouton + à côté de la compétence que vous voulez augmenter.  Plus le niveau de votre personnage est élevé, plus vous gagnez de points de compétences par niveau.  Notez également que les compétences coûtent de plus en plus à chaque niveau de compétence et qu'elles coûtent aussi une certaine quantité d'argent pour être augmentées."
+
+HelpTitleWonGame			"Jeu gagné"
+HelpTextWonGame				"Lorsque vous avez sauvé une ville, vous pouvez finir ce que vous avez besoin de finir et pouvez ensuite commencer une nouvelle ville. Assurez-vous cependant d'ouvrir votre coffre de récompense au centre de la ville. Une fois que vous en avez fini, vous pouvez commencer une nouvelle ville en cliquant sur l'icône de victoire clignotante.  Ne vous inquiétez pas, votre personnage et vos objets seront tous transportés dans la nouvelle ville."
+
+HelpTitleDeath				"Mort"
+HelpTextDeath				"La mort est inévitable dans Din's Curse.  Quand vous mourez, vous pouvez cependant toujours ressusciter par le pouvoir de Din (à moins que vous ne jouiez en hardcore (mortel)).\n\nQuand vous êtes tué, vous subissez une petite dette d'expérience en pénalité.  Cela veut dire que vous gagnerez moins d'expérience jusqu'à ce que vous résorbiez la dette d'exp.  Si vous allez récupérer votre pierre d'âme qui est tombée quand vous êtes mort, la dette d'exp. Sera diminuée. Les pierres d'âme ne sont pas sauvegardées pour être sûr que vous les ramassiez rapidement."
+
+HelpTitleMoney				"Argent"
+HelpTextMoney				"Dans le monde d'Aleria, l'argent se présente sous la forme de pièces de cuivre (^c026PC^c145), de pièces d'argent (^c128PA^c145) et de pièces d'or (^c061PO^c145).\n\n^c026100 pièces de cuivre^c145 = ^c1281 pièce d'argent^c145\n^c128100 pièces d'argent^c145 = ^c0611 pièce d'or^c145.\n"
+
+HelpTitleFindCombatPercents		"Pourcentage de Trouvaille et de Combat"
+HelpTextFindCombatPercents		"Les bonus de trouvaille d'objets, de trouvaille de magie, de coup critique, de coup écrasant et de blessures profondes sont légèrement trompeurs.  Ils représentent les bonus comparés à la normale.\n\nPar exemple, un bonus de 100% en coup critique signifie 100% de chances en plus de la normale, pas 100% de chance dans l'absolu.  Aussi, si votre chance de coup critique normale est de 5% et que vous avez un bonus de 100%, la valeur finale sera de 10%."
+
+HelpTitleUIScreens			"Écran d'interface utilisateur (IU)"
+HelpTextUIScreens			"Voici une liste rapide des principaux écrans de l'interface utilisateur avec leurs touches de raccourci par défaut.\n\nPersonnage - C\nQuêtes - Q\nCompétences - S\nInventaire - I\nCarte - M\nJournal - J\nBestiaire - B\nMenu principal - Esc\nMini-carte - Tab\nTous ces écrans ont aussi de petits boutons en bas de l'écran."
+
+HelpTitleLocks				"Serrures"
+HelpTextLocks				"Parfois les portes et les coffres sont verrouillés ou bloqués. Si quelque chose est verrouillé et que vous l'utilisez, vous utiliserez automatiquement une de vos clés squelettes qui déverrouillera la serrure.\n\nToutefois, si vous n'avez pas de clé, vous pourrez utiliser votre compétence de crochetage si vous êtes un roublard ou il vous faudra enfoncer la porte ou forcer le coffre. Forcer est la seule façon d'ouvrir une porte bloquée.\n\nPour forcer quelque chose, attaquez-le simplement avec n'importe laquelle de vos compétences de dégâts, y compris votre compétence d'attaque principale (touche 1 par défaut).\n\nAttention toutefois : forcer quelque chose fait beaucoup de bruit, ce qui alertera les monstres alentour et vous donnera une pénalité de surprise pendant quelques secondes. Forcer a aussi tendance à endommager votre arme plus rapidement que frapper des ennemis."
+
+HelpTitleCaveIns			"Éboulements"
+HelpTextCaveIns				"Les cavernes et souterrains sont assez fragiles. De grosses explosions peuvent causer des éboulements qui peuvent endommager tout ce qui se trouve en-dessous et peuvent aussi bloquer les chemins. S'ils se produisent sur votre chemin, vous pouvez cependant les attaquer et les détruire, comme s'il s'agissait de monstres. Attention toutefois : taper sur des rochers avec votre arme l'use plus rapidement."
+
+HelpTitleLowMana			"Mana basse"
+HelpTextLowMana				"Il y a plusieurs façons de regagner de la mana quand votre jauge de mana descend trop bas.\n\nLa plus facile et de la laisser simplement se régénérer. C'est aussi cependant la façon la plus lente.\n\nVous pouvez boire une potion de mana pour regagner instantanément de la mana.\n\nVous pouvez aussi boire une boisson pour regagner de la mana avec le temps. Ce n'est pas instantané comme les potions, mais c'est plus rapide que votre taux de régénération normale.\n\nA part cela, de nombreuses classes ont diverses façons de gagner de la mana. Référez-vous à vos compétences de personnage pour les spécificités."
+
+HelpTitleReputation			"Réputation"
+HelpTextReputation			"La réputation est très importante dans Din's Curse puisque Din ne vous libèrera pas de sa malédiction tant que vous n'aurez pas gagné une réputation suffisamment haute.\n\nVous ne pouvez gagner de la réputation que d'une seule façon, en accomplissant des quêtes. Toutefois, faire des quêtes pour Din et les habitants de la ville ordinaires vaut généralement davantage de réputation.\n\nVous pouvez cependant perdre de la réputation de multiples façons. Chaque fois que vous échouez dans une quête, que quelqu'un en ville meurt, ou que vous achetez des objets à une source moins réputée, vous perdrez un peu de votre réputation.\n\nA titre de bonus, chaque fois que vous montez en niveau de réputation, vous gagnez un objet unique en récompense !"
+
+HelpTitleAcid				"Acide"
+HelpTextAcid				"Prenez très garde aux flaques d'acide et aux attaques basées sur l'acide. L'acide fait considérablement plus de dégâts de durabilité à vos objets que n'importe quoi d'autre. Les flaques d'acide ressemblent à de petites mares de liquide vert."
+
+HelpTitleDurability			"Durabilité"
+HelpTextDurability			"La plupart des objets ont une durabilité limité avant de se casser. Vous serez averti quand un objet est trop usé, et faites-y attention, sinon quelque chose pourrait casser au mauvais moment. Les forgerons d'armes et les armuriers de la ville peuvent réparer les objets moyennant finance. Attaquer des choses comme les portes, les coffres et les éboulements causera plus de dégâts à votre arme que des choses plus molles."
+
+HelpTitleMultiplayer			"Multijoueur"
+HelpTextMultiplayer			"Pour la plus grande part, Din's Curse fonctionne de la même façon en multijoueur qu'en solo. L'expérience multijoueur est conçue pour être coopérative, aussi vous ne pourrez blesser les autres joueurs et des choses comme les quêtes et l'expérience sont partagées. Il y a quelques petites différences. Vous pouvez communiquer avec les autres joueurs en appuyant sur le bouton de dialogue dans le coin gauche en bas de l'écran. Vous pouvez aussi passez la souris sur l'icône dans le coin droit en haut de l'écran pour trouver des informations sur la partie. Vous pouvez voir les emplacements (soit un point, soit le nom du niveau) des autres joueurs sur la carte du monde. La santé de chaque joueur s'affiche sur la droite de l'écran. Si le joueur est suffisamment proche, cliquer gauche sur sa barre de santé  sélectionnera son personnage et cliquer droit affichera ses objets."
+
+HelpTitleObjectInteraction		"Interaction des objets"
+HelpTextObjectInteraction		"De nombreux objets du monde peuvent être utilisés et/ou détruits, aussi gardez un œil aux différents types d'objets. Ils s'avèreront plusieurs fois utiles, mais pas toujours. Par exemple, certaines choses sont empoisonnées ou supportent le plafond. Provoquer de larges explosions à proximité des piliers de soutien n'est pas la chose la plus maline à faire. Attention aussi à ceci : certains types de monstres savent comment utiliser certains des objets du jeu."
+
+HelpTitleDynamicWorld			"Monde dynamique"
+HelpTextDynamicWorld			"Contrairement à la plupart des autres jeux, Din's Curse a un monde très dynamique. Chaque ville sera très différente des autres. Sans trop dévoiler de choses, quand un PNJ vous dit de faire quelque chose rapidement sinon quelque chose pourrait se produire, eh bien quelle que soit cette chose, elle arrivera si vous ne faites rien. Quand un PNJ vous dit de vous dépêcher, il le pense. La partie changera en fonction de ce qui est en train de se passer en ville lorsque vous arrivez, de ce que vous faites ou ne faites pas et même ce que font les monstres. Alors restez vigilant et résolvez les problèmes de la ville aussi vite que vous le pourrez. Vous êtes le héros, après tout."
+
+HelpTitleEgoItems			"Objets à ego"
+HelpTextEgoItems			"Il existe dans le monde d'Aleria des objets rares qui ont un certain niveau d'intelligence. Cette intelligence peut prendre différentes formes, certaines bonnes et d'autres mauvaises, mais tous les objets à Ego ont une chose en commun : un bonus de 25% de dégâts, d'armure ou de défense respectivement pour les armes, les armures ou les boucliers."
+
+HelpTitleFragileItems			"Objets fragiles (Cristal/Obsidienne)"
+HelpTextFragileItems			"Parfois, des objets sont faits de matériaux fragiles : de cristal ou d'obsidienne. Ces deux matériaux rendent les objets qui en sont faits irréparables. Cependant, ces matériaux sont utilisés parce qu'il améliorent grandement les armes et armures. Le cristal donne un bonus de dégâts ou d'armure de 25% et l'obsidienne un bonus de 50%."
+
+HelpTitleSecretDoors			"Portes secrètes"
+HelpTextSecretDoors			"Attention : les choses ne sont pas toujours ce qu'elles paraissent. Parfois, certaines sections de murs sont de vraies illusions qui sont des portes secrètes ouvrant sur des zones secrètes. Généralement, il y aura un indice subtile pour les marquer d'une façon différente des autres. Cliquez sur une porte secrète et elle se dissipera."
+
+HelpTitleBags				"Sacs"
+HelpTextBags				"Les sacs sont assez cruciaux pour votre inventaire.\n\nVotre inventaire principal (les 4 emplacements en bas à droite de cet écran) et vos coffres ne peuvent contenir que des sacs. Les autres objets vont dans ces derniers (excepté ceux que vous avez équipé). Cliquez droit sur un sac pour voir ce qui est à l'intérieur ou pour y mettre des objets.\n\nVous ne pouvez mettre d'objets dans un sac qui est lui-même dans un autre sac. Vous ne pouvez pas non plus déplacer des sacs qui contiennent des objets."
+
+HelpTitleWaysBackToTown			"Chemins vers la ville"
+HelpTextWaysBackToTown			"Il y a plusieurs façons de revenir en ville.\n\nVous pouvez toujours remonter tous les escaliers jusqu'à la ville, mais c'est lent.\n\nEn général, la meilleure façon est d'utiliser le portail le plus proche. Chaque niveau du souterrain a un portail. Ces portails permettent un voyage instantané de et vers la ville une fois que vous les avez activés.\n\nEn cas d'urgence, vous pouvez toujours utiliser votre pierre de téléportation. Cliquez simplement sur l'icône de pierre de téléportation dans le coin gauche en bas de l'écran et vous serez instantanément téléporté en ville. Cependant, vous ne pouvez l'utiliser qu'une fois par ville.\n\nLa seule autre solution est de mourir et ressusciter, mais je saurais la recommander."
+
+HelpTitleInventoryScreen		"Écran d'inventaire"
+HelpTextInventoryScreen			"L'écran d'inventaire affiche, outre tous vos sacs, tous les objets que vous transportez et ceux que vous portez sur vous (équipés). Pour équiper un objet, cliquez simplement dessus puis cliquez là où vous souhaitez qu'il aille. Vous pouvez aussi simplement cliquer droit sur l'objet et il sera équipé automatiquement dans l'emplacement correct.\n\nAssurez-vous d'équiper votre arme de départ avant de descendre dans le souterrain !\n\nVous pouvez aussi déterminer deux ensembles armes/boucliers et ainsi facilement basculer entre eux au moyen d'une touche de raccourci (W par défaut)."
+
+
+// Hardcore stuff
+
+HardcoreMode				"Hardcore"
+
+HardcoreDead				"Vous êtes mort"
+HardcoreDeadDesc			"En mode hardcore (mortel), la mort est permanente !"
+
+
+// Powerups
+
+GiantPowerupName			"Géant"
+GiantPowerupDesc			"Increases the damage you inflict, your size,\nand your movement speed."
+
+HastePowerupName			"Hâte"
+HastePowerupDesc			"Increases your movement and attack speed."
+
+StoneSkinPowerupName			"Peau de pierre"
+StoneSkinPowerupDesc			"Decreases the damage you take."
+
+RegenerationPowerupName			"Régéneration"
+RegenerationPowerupDesc			"Increases the rate of regerating both\nyour health and mana."
+
+LifeStealPowerupName			"Vol de vie"
+LifeStealPowerupDesc			"Steals some of your enemy's health each\ntime you hit him."
+
+ManaLeechPowerupName			"Aspiration de mana"
+ManaLeechPowerupDesc			"Steals some of your enemy's mana each\ntime you hit him."
+
+HolyShieldPowerupName			"Bouclier Saint"
+HolyShieldPowerupDesc			"A magical shield that absorbs all damage taken."
+
+InfiniteManaPowerupName			"Mana infinie"
+InfiniteManaPowerupDesc			"Greatly increases the regeneration of mana."
+
+InfiniteStaminaPowerupName		"Endurance infinie"
+InfiniteStaminaPowerupDesc		"Greatly increases the regeneration of stamina."
+
+FireShieldPowerupName			"Bouclier de feu"
+FireShieldPowerupDesc			"Shield that damages any enemy that\ndamages you.  Also provides fire resistance."
+
+
+// Events
+
+SecretFound				"Secret trouvé !"
+FoundIllusion				"Illusion dissipée"
+FoundSecretIllusion			"Secret trouvé !  Illusion dissipée."
+
+XWasKilledByY				"##1## a été tué par ##2##!"
+XWaskilledByAY				"##1## a été tué par un ##2##!"
+XHasDied				"##1## est mort !"
+
+PlayerXWasKilledByY			"##1## a été tué par ##2## dans ##3##!"
+PlayerXWaskilledByAY			"##1## a été tué par un ##2## dans ##3##!"
+PlayerXHasDied				"##1## est mort dans ##2##!"
+
+NowLevelX				"Maintenant niv. ##1##: +##2## points d'attributs et +##3## points de compétence !"
+NowReputationLevelX			"Maintenant réputation niv. ##1## !"
+NowReputationLevelXReward		"Maintenant réputation niv. ##1## : reçu ##2## en récompense !"
+NowReputationLevelXRewardGround		"Maintenant réputation de niveau ##1## : reçu ##2## en récompense (par terre) !"
+
+// World modifiers
+
+KnownWorldModifiers			"Modificateurs de monde connus"
+KnownWorldModifiersDesc			"Chaque ville et souterrain a une saveur différente.\n Cette liste montre certaines des différences\nles plus importantes. Notez qu'ils existe de nombreux\nmodificateurs qui sont secrets et ne figurent\npas sur cette liste."
+NoKnownWorldModifiers			"Aucun"
+
+WorldModifierRain			"Pluvieux"
+WorldModifierTraps			"Pièges"
+WorldModifierHighIntensity		"Haute intensité"
+WorldModifierVulnerableTown		"Ville vulnérable"
+WorldModifierGargoyles			"Gargouilles"
+WorldModifierUndead			"Mort-vivant"
+WorldModifierHaunted			"Hanté"
+WorldModifierDemons			"Démons"
+WorldModifierSpiders			"Araignées"
+WorldModifierDarkElves			"Elfes obscurs"
+WorldModifierHorror			"Horreur"
+WorldModifierUnstable			"Instable"
+WorldModifierAcid			"Acide"
+WorldModifierWarehouse			"Entrepot"
+WorldModifierFireHazard			"Risque d'inflammation"
+WorldModifierExplosionHazard		"Risque d'explosion"
+WorldModifierMushrooms			"Champignons"
+WorldModifierMonsterTraps		"Pièges à monstres"
+WorldModifierTricksterRealm		"Royaume de roublards"
+WorldModifierObjects			"Fatras"
+WorldModifierChaos			"Chaos"
+WorldModifierStorms			"Tempête"
+WorldModifierDarkness			"Obscurité"
+WorldModifierBright			"Lumineux"
+WorldModifierFear			"Peur"
+WorldModifierCursed			"Maudit"
+WorldModifierMagma			"Magma"
+WorldModifierEarthquakes		"Tremblement de terre"
+WorldModifierPlague			"Peste"
+WorldModifierFog			"Brumeux"
+
+WorldModifierRainDesc			"Pluvieux : Il pleut beaucoup."
+WorldModifierTrapsDesc			"Pièges : Les monstres sous la ville adorent leurs pièges."
+WorldModifierHighIntensityDesc		"Haute intensité : Les dangers dans cette ville vont plus vite."
+WorldModifierVulnerableTownDesc		"Ville vulnérable : Pour quelque raison que ce soit, cette ville est attaquée plus souvent que la normale."
+WorldModifierGargoylesDesc		"Gargouilles: Une force étrange a transformé de nombreux monstres du dessous en gargouilles."
+WorldModifierUndeadDesc			"Morts vivants : Les morts-vivants adorent cette ville."
+WorldModifierHauntedDesc		"Hanté : Le souterrain est hanté."
+WorldModifierDemonsDesc			"Démons : Démons là dessous!"
+WorldModifierSpidersDesc		"Araignées : Le souterrain est ordinairement infesté d'araignées."
+WorldModifierDarkElvesDesc		"Elfes obscurs : De nombreux elfes obscurs, attention."
+WorldModifierHorrorDesc			"Horreur : Des morts-vivants, l'obscurité et la Mort !"
+WorldModifierUnstableDesc		"Instable : Le souterrain sous la ville est très fragile."
+WorldModifierAcidDesc			"Acide : Le périmètre a des problèmes d'acidité."
+WorldModifierWarehouseDesc		"Entrepôt : Les monstres sont des rats en meute ou autre."
+WorldModifierFireHazardDesc		"Risque d'incendie : Le souterrain a tendance à contenir beaucoup d'objets inflammables."
+WorldModifierExplosionHazardDesc	"Risque d'explosion : Tout dans le souterrain semble vouloir exploser."
+WorldModifierMushroomsDesc		"Champignons : Le souterrain est assez humide et est un bon terreau pour les champignons."
+WorldModifierMonsterTrapsDesc		"Pièges de monstres : Les monstres de ce souterrain aiment utiliser davantage de pièges actifs."
+WorldModifierTricksterRealmDesc		"Royaume de roublards : Des objets sont plus fréquemment verrouillés et piégés."
+WorldModifierObjectsDesc		"Fatras : Il semble y avoir beaucoup plus d'objets dans le souterrain."
+WorldModifierChaosDesc			"Chaos : Les monstres semblent être toujours en guerre ici."
+WorldModifierStormsDesc			"Tempête : Les environs ont souvent mauvais temps."
+WorldModifierDarknessDesc		"Ténèbres : La ville et le souterrain sont plus sombres que la normale."
+WorldModifierBrightDesc			"Lumineux : La ville et le souterrain sont plus éclairés que la normale."
+WorldModifierFearDesc			"Peur : Vous devriez avoir peur du souterrain, ici. Les gens y descendent et y meurent."
+WorldModifierCursedDesc			"Maudit : Les environs sont maudits, ce qui fait que de nombreux objets sont maudits."
+WorldModifierMagmaDesc			"Magma : Il doit y avoir une faille dans le manteau au dessous car il y a beaucoup de magma."
+WorldModifierPlagueDesc			"Peste : La ville a la peste."
+WorldModifierFogDesc			"Brumeux : Le souterrain est plus brumeux que la normale."
+WorldModifierWars			"Guerres"
+WorldModifierWarsDesc			"Guerres : Les monstres vont en guerre plus souvent."
+
+SkillMonsterLevel			"Niv. de monstre"
+SkillMonsterMaxCount			"Compte max. de monstre"
+
+// General status effect stuff
+
+Duration				"Durée"
+LifeStolenPerHit			"Vie volée par coup"
+AbsorbsAllDamage			"Absorbe tous les dégâts"
+FreezesTarget				"Gèle la cible"
+PreventsUsingSpells			"Empêche d'utiliser des sorts"
+PreventsUsingSkills			"Empêche d'utiliser des compétences"
+PreventsMovement			"Empêche les mouvements"
+AnyDamageBreaksEffect			"Tout dégât brise l'effet"
+XChanceOfDynamicStat			"##1## chance de ##2##"
+XDamageEveryY				"##1## dégâts chaque ##2##"
+XHealthOverY				"##1## santé au dessus de ##2##"
+XHealthEachSecond			"Régénère ##1## santé par seconde"
+RegeneratesXHealthPerSecond		"Régénère ##1## santé par seconde"
+XPowerEveryY				"##1## ##2## chaque ##3##"
+XPowerOverY				"##1## ##2## au dessus de ##3##"
+RegeneratesPowerPerSecond		"Régénère ##1## mana par seconde"
+XStaminaOverY				"##1## endurance au dessus de ##2##"
+LeachesXPowerPerHit			"Extrait ##1## ##2## par coup"
+CausesXDamageEachTimeHit		"Inflige ##1## dégâts à l'attaquant chaque fois que vous êtes touché"
+CausesXPercentDamageEachTimeHit		"Inflige ##1## dégâts maximums à l'attaquant chaque fois que touché"
+BurnsXPowerEachSuccessfulHit		"Brûle ##1## de la mana de la victime à chaque coup réussi"
+BurnsXStaminaEachSuccessfulHit		"Brûle ##1## de l'endurance de la victime à chaque coup réussi"
+XToYRandomElementalDamage		"##1## - ##2## dégâts élémentaires aléatoires"
+AbsorbsUpToXDamage			"Absorbe jusqu'à ##1## dégâts"
+
+FoodSupplyPriceDesc			"Les ressources alimentaires sont basses et coûtent actuellement ##1##% de plus que la normale"
+DrinkSupplyPriceDesc			"Les ressources en eau sont basses et coûtent ##1##% de plus que la normale"
+
+// Skill stuff
+
+CostForNextPoint			"Coût du pt. suivant"
+SkillPoints				"Points"
+CostToDecrease				"Coût pour réduire"
+SkillPointsRegained			"Points de compétences regagnés"
+
+ExtraDamagePerRage			"Dégât suppl. par mana"
+LevelXEnemy				"ennemi de niv. ##1##"
+
+// Entity State
+
+MinorDistraction			"Distraction mineure"
+DecentDistraction			"Distraction décente"
+MajorDistraction			"Distraction majeure"
+EnemyBlock				"Ennemi bloque"
+EnemyParry				"Ennemi pare"
+EnemyDeflection				"Déflection de l'ennemi"
+EnemyDodge				"Ennemi esquive"
+EnemyEvade				"Ennemi s'évade"
+EnemyCriticalHit			"Coup critique ennemi"
+EnemyHit				"Coup ennemi"
+EnemyMinorDistraction			"Distraction mineure de l'ennemi"
+EnemyDecentDistraction			"Distraction correcte de l'ennemi"
+EnemyMajorDistraction			"Distraction majeure de l'ennemi"
+EnemyStealthed				"Ennemi camouflé"
+
+PlayerSummoned				"Joueur invoqué"
+Summoned				"Invoqué"
+Raised					"Relevé"
+
+TownUnderAttack				"La ville est attaquée"
+
+// Attributes
+
+BaseStrength				"Force de base"
+BaseDexterity				"Dextérité de base"
+BaseVitality				"Vitalité de base"
+BaseIntelligence			"Intelligence de base"
+BaseSpirit				"Esprit de base"
+
+Health				"Santé"
+Strength				"Force"
+Dexterity				"Dextérité"
+Vitality				"Vitalité"
+Intelligence				"Intelligence"
+Spirit					"Esprit"
+Stamina				"Endurance"
+Damage				"Dégâts"
+DPS					"Dég./sec."
+ReputationLevel			"Niv. de réputation"
+Money					"Argent"
+ExportHtml				"Exporter en HTML"
+ExportVbulletin				"Exporter au vBulletin"
+
+CharacterMenu1				"Stats. principales"
+CharacterMenu2				"Autres stat."
+
+// Stats
+
+MainStats				"Stats. principales"
+Defense					"Défense"
+Block					"Bloque"
+Parry					"Pare"
+Deflection				"Déflection"
+Dodge					"Esquive"
+Evade					"S'évade"
+Attack					"Attaque"
+AttackSpeed				"Temps d'attaque"
+Armor					"Armure"
+ArmorPiercing				"Pénétration d'armure"
+MaxHealth				"Santé max."
+Power					"Mana"
+MaxPower				"Mana max."
+Level					"Niveau"
+Xp					"Exp."
+XpNeeded				"Exp. requise"
+XpDebt					"Dette d'exp."
+MinDamage				"Dégâts min."
+MaxDamage				"Dégâts max."
+HealthRegen				"Régén. de santé"
+ManaRegen				"Régén. de mana"
+PowerRegen				"Régén. de puissance"
+Class					"Classe"
+AttributePointsLeft			"Points restants"
+SkillPointsLeft				"Points restants"
+Movement				"Mouvement"
+ResistancePhysical			"Résistance physique"
+ResistanceFire				"Résistance au feu"
+ResistanceCold				"Résistance au froid"
+ResistancePoison			"Immunisation au poison"
+ResistanceLightning			"Résistance à la foudre"
+ResistanceMagic				"Résistance à la magie"
+ExtraMoney				"Trouve de l'argent"
+ItemsChance				"Trouve des objets suppl."
+MagicChance				"Trouve de la magie"
+LightIntensity				"Intensité lumineuse"
+DisarmTrap				"Désarmer les pièges"
+SecretsFound				"Secrets trouvés"
+LockPicking				"Crochetage"
+MaxStamina				"Endurance max."
+
+CriticalHit				"Coup critique"
+CrushingBlow				"Coup écrasant"
+StunningBlow				"Coup assommant"
+DeepWounds				"Blessures profondes"
+
+
+// Dynamic stats
+
+CriticalHit				"Coup critique"
+CrushingBlow				"Coup écrasant"
+StunningBlow				"Coup assommant"
+DeepWounds				"Blessures profondes"
+ExtraDamage				"Dégâts suppl."
+TotalTime				"Temps total"
+ExtraPowerGainChance			"Chance de gain de mana suppl."
+ExtraPowerGainChanceFormat		"Chance de gain de ##1##"
+PowerGainMult				"Gain de mana"
+HateChange				"Changement de haine"
+SkillDamage				"Dégâts de compétence"
+PowerNeeded				"Mana requise"
+MagicCriticalHit			"Coup critique magique"
+MagicCrushingBlow			"Coup écrasant magique"
+TimePlayedMilliSeconds		"Temps de jeu"
+
+// Fun stats
+
+Kills					"Tués"
+Deaths					"Morts"
+KillsPerDeath				"Victimes par vie"
+GoldFound				"Or trouvé"
+MaxDamageDealt				"Dégâts max. infligés"
+MaxDamageTaken				"Dégâts max. subis"
+StrongestMonsterDefeated		"Plus fort monstre battu"
+ToughestBattleWon			"Plus dure bataille remportée"
+StrongestMonsterKilledBy		"Plus fort monstre tué par"
+WeakestMonsterKilledBy			"Plus faible monstre tué par"
+QuestsSolved				"Quêtes résolues"
+MaxDamageDealtAtOnce			"Dégâts max. infligés en un coup"
+MaxHealthHealed				"Dégâts max. soignés"
+RaidsOffensiveWon			"Raids offensifs victorieux"
+RaidsDefensiveWon			"Raids défensifs victorieux"
+DestroyedByMonsters			"Détruit par des monstres"
+BestTrapDisarmed			"Meilleur piège désarmé"
+EquipmentWorth				"Valeur équipement"
+InventoryWorth				"Valeur inventaire"
+
+// Damage types
+
+Physical				"Physique"
+Fire					"Feu"
+Cold					"Froid"
+Poison					"Poison"
+Lightning				"Foudre"
+Magic					"Magie"
+
+// Skill stuff
+
+SkillLevel				"Niveau ##1##"
+PassiveSkill				"Compétence passive"
+PowerNeededX				"##1## requis : ##2##"
+StaminaNeededX				"Endurance requise : ##1##"
+SkillSuccessChanceX			"Chance de succès : ##1##%"
+
+AddsPowerIfKillingBlow			"Ajoute ##1## ##2## si coup mortel"
+AddsPower				"Ajoute ##1## ##2##"
+
+TargetAllEnemiesInRange			"Cible : Tous les ennemis dans votre champ d'action"
+TargetCurrentEnemy			"Cible : Ennemi actuel"
+TargetDeadBody				"Cible : Cadavre sélectionné"
+TargetAllAllies				"Cible : Tous les alliés"
+TargetAllPets				"Cible : Tous les familiers"
+TargetSelfOrFriend			"Cible : Soi ou un ami"
+TargetSelf				"Cible : Soi"
+TargetLockableObject			"Cible : Objet verrouillable"
+
+RangeInFeet				"Cible : ##1## à ##2## pieds"
+OutOfRange				"Hors de portée"
+HitsOneExtraNearbyEnemy			"Touche jusqu'à 1 ennemi proche en plus"
+HitsXExtraNearbyEnemies			"Touche jusqu'à ##1## ennemis proches en plus"
+InterruptsSpells			"Interrompt les sorts"
+AttackTime				"Temps d'attaque"
+RequiresOne				"Requiert un"
+RequiresAll				"Requiert tout"
+Requires				"Requiert"
+or					"ou"
+AtLeast					"au moins"
+
+AtCurrentSkillLevel			"Au niv. de compétence actuel"
+DontHaveThisSkill			"Vous n'avez pas cette compétence"
+AtNextSkillLevel			"Au prochain niv. de compétence"
+MaxSkillLevel				"Niv. max. de compétence"
+SkillMaxed				"Comp. maximisée"
+
+XPercentLessChanceOfEnemyStat		"##1## pourcents de chances en moins de ##2## ennemi"
+XChanceOfEnemyStat			"##1## chance de ##2## ennemi"
+
+PercentDamageType			"##1## dégâts de ##2##"
+
+CuresXDamageTypePerSec			"Soigne ##1## ##2## dégâts par sec."
+
+EnemyHate				"Haine de l'ennemi"
+
+//CastTime				"Temps de jet"
+Time					"Temps"
+ReducesHate				"Réduit la haine"
+Healing					"Soin"
+
+SkillXToYDamageType			"##1## - ##2## dégâts de ##3##"
+SkillXToYDamageTypeWithinRadius		"##1## - ##2## dégâts de ##3## dans le champ d'action"
+
+CantUseForAnotherSecond			"Inutilisable pendant encore 1 seconde"
+CantUseForAnotherXSeconds		"Inutilisable pendant encore ##1## secondes"
+
+Stealthed				"Camouflé"
+
+SkillDecreaseClick			"Cliquez gauche pour diminuer ##1## de 1"
+SkillIncreaseClick			"Cliquez gauche pour augmenter ##1## de 1"
+
+CantBeRaised				"Ne peut être augmenté"
+armor					"armure"
+
+// Errors
+
+ErrorCharacterNameEmpty			"Votre personnage doit avoir un nom !"
+ErrorCharacterNameUsed			"Ce nom de personnage est déjà pris !"
+ErrorInvalidClass			"Classe invalide"
+ErrorInvalidHybrid			"Vous devez choisir 2 spécialités pour une classe hybride !"
+
+FullQuestSlots				"Vous n'avez plus d'emplacement de quête libre pour cette quête !"
+NoFreeQuestSlots			"Plus d'emplacement de quête disponible !"
+NotEnoughMoney				"Pas assez d'argent"
+NothingSelected				"Rien de sélectionné"
+BagIsFull				"Sac plein !"
+CantPickupBagsWithItems			"Impossible de ramasser des sacs avec quelque chose dedans !"
+CantTakeThisItem			"Impossible de prendre cet objet !"
+CantMoveItemHere			"Impossible de déplacer cet objet ici !"
+ItemMustStayInInventory			"Les objets doivent rester dans l'inventaire !"
+SlotCanOnlyHold				"Emplt. pour déposer seulement"
+CantDropItem				"Impossible de déposer l'objet !"
+CantAffordItem				"Objet hors de vos moyens !"
+CantSellItem				"Objet invendable !"
+CantSellBagsWithItems			"On ne peut pas vendre un sac avec quelque chose dedans !"
+CanOnlySellGuardsToGuardVendor		"On ne peut vendre un objet de garde qu'à un marchand de gardes !"
+CanOnlySellItemsToVendor		"On ne peut vendre un objet normal qu'à un marchand normal !"
+DontHaveXSkill				"N'a pas la compétence ##1##"
+PathBlocked				"Voie bloquée"
+VendorIsDead				"Le marchand est mort !"
+AlreadyHaveAllWeNeed			"Nous avons déjà ce qu'il nous faut !"
+DontHaveEnoughMoneyToIdentifyEverything	"Pas assez d'argent pour tout identifier !"
+DontHaveEnoughMoneyToRepairEverything	"Pas assez d'argent pour tout réparer !"
+CantEquip2HandedWeaponAndShield		"Impossible de porter une arme à deux mains et un bouclier en même temps !"
+DontHaveSkill				"N'a pas la compétence"
+
+NoRoomInInventory			"Plus de place dans l'inventaire !"
+CantUseWhenDead				"Inutilisable quand on est mort"
+CantUseYet				"Ne peut pas encore être utilisé"
+NotEnoughPower				"Pas assez de ##1##"
+NotEnoughStamina			"Pas assez d'endurance"
+NoStamina				"Pas d'endurance"
+NeedAnEnemy				"Il faut un ennemi"
+NeedsDeadBody				"Nécessite un cadavre"
+NeedsLockableObject			"Nécessite un objet verrouillable"
+CanOnlyUseInCombat			"Ne peut s'utiliser qu'en combat"
+OutOfRange				"Hors de portée"
+MissingRequirement			"Pré-requis manquants"
+BlockedFromUsing			"Compétences inutilisables"
+DontMeetRequirements			"Ne remplit pas les pré-requis"
+CantSee					"Ne peut pas voir"
+InViewOfEnemies				"En vue d'ennemis"
+PathBlocked				"Voie bloquée"
+ErrorUserNameUsed			"Ce nom de joueur est déjà pris !"
+ErrorUserNameEmpty			"Vous devez avoir un nom de joueur !"
+NotEnoughMoney				"Pas assez d'argent"
+MustBeEdible				"Non comestible"
+
+// Multiplayer stuff
+
+ChatPrompt				"Dialogue Msg>"
+PlayerJoinedGame			"##1## a rejoint la partie"
+PlayerLeftGame				"##1## a quitté la partie"
+Multiplayer				"Multijoueur"
+
+
+StartServer				"Commencer le serveur local"
+FindLocalServers			"Trouver des serveurs locaux"
+LocalServers				"Serveurs locaux"
+JoinServer				"Rejoindre serveur"
+RefreshServerList			"Rafraîchir la liste"
+DirectConnect				"Connexion directe"
+IpAddress				"Adresse IP"
+LocalServer				"Serveur local"
+InternetServer				"Serveur Internet"
+
+InternetServers				"Serveurs Internet"
+PlayOnInternet				"Jouer sur Internet"
+MultiplayerInternet			"Multijoueur Internet"
+StartInternetServer			"Lancer serveur Internet"
+FindInternetServers			"Trouver des serveurs Internet"
+GetNextServers				"Obtenir davantage de serveurs"
+GetNextServersPause			"Impossible d'obtenir davantage de serveurs pour le moment"
+
+HostingGame				"Héberge une partie"
+LeftClickForMultMenu			"Cliquer gauche pour le Menu multijoueur"
+
+ShutdownServer				"Éteindre le serveur"
+ShutdownServerDesc			"Éteindre le serveur\nCette option éteindra le serveur, quittera la partie,\net éjectera (kick off) tous les joueurs du serveur."
+
+DisconnectClient			"Déconnecter"
+DisconnectClientDesc			"Déconnecter du serveur"
+AlreadyInMultiplayer			"Déjà en multijoueur"
+
+NetworkMessageServerDisconnect		"Le serveur n'a pas pu être contacté, déconnecté ou a été perdu !"
+NetworkMessageServerLeftGame		"Le serveur a stoppé le jeu.  Mais il est toujours connecté."
+NetworkMessageJoinedServer		"Vous avez rejoint le serveur avec succès !\n\nL'icône dans le coin droit en haut de l'écran affiche votre statut de connexion et le statut du serveur/de la partie."
+
+NetworkMessageIncorrectProtocol		"N'arrive pas à joindre le serveur.  Celui-ci utilise une version de protocole différente."
+NetworkMessageIncorrectPassword		"Mauvais mot de passe pour ce serveur !"
+NetworkMessageServerFull		"Le serveur affiche complet"
+
+NetworkMessageUnsupportedProtocol	"Protocole de serveur maître non supporté.  Veuillez mettre à jour le jeu avec la dernière version."
+NetworkMessageUnknownGame		"Partie inconnue."
+NetworkMessageAlreadyLoggedIn		"Votre clé-produit est déjà loguée dans le serveur maître.  Seule une personne/ordinateur peut utiliser chaque clé de produit à la fois."
+NetworkMessageMasterServerTimeOut	"Impossible de contacter le serveur maître. Veuillez réessayer.  Si le problème persiste, vérifiez votre connexion Internet.  Si celle-ci est fonctionnelle, veuillez contacter le support technique."
+NetworkMessageInvalidProductKey		"Clé produit invalide"
+NetworkMessageBannedProductKey		"Votre clé-produit a été bannie des serveurs."
+NetworkMessageUnknownError		"Une erreur inconnue (##1##) est apparue sur le serveur maître."
+
+WaitingForServer			"En attente de serveur.\n\nCeci peut prendre jusqu'à une minute, mais généralement moins. Veuillez patienter."
+WaitingForAssistedServer		"En attente du serveur. Tente de rejoindre le serveur maître avec assistance (assisted join)."
+WaitingForMasterServer			"Connexion au serveur-maître"
+ServerName				"Nom du serveur"
+ServerNeedsName				"Entrez un nom pour votre serveur"
+
+RequestTrade				"Requiert Transaction"
+TradeRequest				"Requête de transaction"
+TradeRequestInfo			"Requête de transaction de ##1##\nCliquez gauche pour commencer à commercer.\nCliquez droit pour rejeter la transaction."
+BadTrade				"Mauvaise transaction"
+TradeFinalized				" ^c002(Finalisé)^c145"
+WeOffer					"Nous offrons"
+XPlayerOffers				"##1## offre"
+TradeWait				"Il faut attendre quelques secondes entre un changement dans la transaction (trade change) et sa finalisation."
+FinalizeTradeDesc			"Ceci finalisera votre part de la transaction. Lorsque\nles deux joueurs ont finalisé la transaction, elle\nsera de fait réalisée. Si quoi que ce soit est changé ;\nil vous faudra finaliser à nouveau. Une fois que faites\nune offre, vous pouvez changer d'avis si vous\nle faites avant que l'autre joueur finalise la transaction."
+CancelRequestTrade			"Annuler requête"
+WeHave					"Nous avons"
+ChangeMind				"Changer d'avis"
+OfferDeal				"Faire une offre"
+ClearTrade				"Effacer"
+ClearTradeDesc				"Efface votre part de la transaction"
+SelectGoldAmount			"Choisir la somme d'or"
+TradeItemDropped			"Pas de place, objet de la transaction posé par terre (il vous est réservé)"
+TradeExecuted				"Transaction validée"
+
+AdventureStarted			"Aventure ##1## commencée"
+ServerPlayers				"Joueurs sur serveur"
+ServerWorld				"Aventure"
+AdventureNone				"Aucune"
+IpAddressHelp				"Entrez l'adresse OP du serveur selon le format ###.###.###.###\n(ex. :  192.168.1.100)"
+CantChangeUserInMultiplayer		"Impossible de changer d'utilisateur en multijoueur\n(hébergeant ou connecté à un serveur)"
+
+ErrorBadIpAddress			"Mauvaise adresse IP. Veuillez utiliser le format ###.###.###.### (ex. :  192.168.1.100)"
+
+StartChatMessage			"Start chat message"
+SendChatMessage				"Envoyer message de discussion"
+
+ServerPassword				"Mot de passe"
+ServerPasswordDesc			"Mot de passe pour le serveur.\nNe le déterminez que si vous souhaitez restreindre la partie à ceux qui connaissent le mot de passe."
+ClientPasswordHelp			"Ceci doit correspondre au mot de passe du serveur.\nLa plupart des serveurs laisseront probablement cette case vide."
+
+ServerMaxPlayers			"Joueurs max."
+ServerMaxPlayersDesc			"Il n'y a pas de limite stricte au nombre max. de joueurs. Cependant, si\nvous la fixez trop haut, le serveur et le client pourraient\navoir des problèmes de taux d'images par seconde et/ou de réseau."
+
+ShowPlayerNames				"Afficher noms des joueurs"
+ShowPlayerNamesDesc			"Affiche les noms des autres joueurs au-dessus\nde leur tête (multijoueur uniquement)."
+
+WinConfirmTimerStarted			"##1## : victoire confirmée, ##2## secondes restant dans l'aventure, à moins que tous les joueurs ne choisissent d'arrêter l'aventure."
+
+Zone					"Zone"
+Zone_West_US				"Ouest des US"
+Zone_East_US				"Est des US"
+Zone_Europe				"Europe"
+Zone_Other				"Autres"
+Zone_Default				"Défaut"
+Zone_None				"Aucune"
+ZoneLoggedInDesc			"Zone de serveur maître dans laquelle vous êtes logué"
+ZoneLoggingIntoDesc			"Zone de serveur maître à laquelle vous êtes en train de vous loguer"
+ZoneDesc				"Zone de serveur-maître"
+
+PasswordRequiredShort			"^c005pass"
+NoPasswordRequiredShort			"^c002ouvrir"
+
+ServerSearch				"Chercher serveur"
+SearchForServerPause			"Vous ne pouvez pas encore chercher un serveur."
+SearchForServerDesc			"Chercher le serveur au nom spécifié"
+SearchForServerDesc2			"Nom du serveur à chercher"
+
+NoServersFound				"Aucun serveur trouvé"
+NoServerSelected			"Aucun serveur sélectionné"
+
+ServerInfoHelp				"Sélectionnez un serveur à rejoindre.\n\nFormat : NomServeur - Joueurs / Joueurs max. (Différence de niveaux) Mot de passe\n\nDifférence de niveau signifie quel est le niveau de départ du monde, comparé\nà celui de votre personnage.\n\nLe mot de passe est soit ^c002ouvert^c145 (aucun mot de passe), soit ^c005passe^c145 (mot de passe requis)."
+
+XAddedToBestiary			"##1## ajouté au bestiaire"
+
+InvalidCantGiveItemsMonsters		"Impossible de donner des objets aux monstres"
+InvalidCantGiveItemsEnemies		"Impossible de donner des objets aux ennemis"
+
+LifestoneRegeneration			"Régénération Pierre de vie"
+ManastoneRegeneration			"Régénération Pierre de mana"
+HealthstoneRegeneration			"Régénération Pierre de santé"
+
+PartyMemberHelp				"Déposer de la nourriture ou une potion de soin ici pour soigner\nun membre de votre équipe. Cliquez gauche pour choisir l'entité."
+ClientHelp				"Cliquez gauche pour sélectionner l'entité.\nCliquez droit pour sélectionner et voir équipement\nNe fonctionne que si à proximité."
+NotCloseEnough				"Pas assez près"
+
+// Credits
+
+DesignerProgrammer			"Designer & Programmeur"
+StoryWriting				"Histoire & Rédaction"
+LeadArtist				"Artiste en chef"
+SoundEffectsMusic			"Effets sonores & Musique"
+Voices					"Voix"
+Artists					"Artistes"
+LevelDesign				"Design des niveaux"
+
+SurprisePenalty				"Pénalité de surprise"
+
+ChanceToDisarmTrap			"##1## chances de désarmer un piège de niveau ##2##"
+
+SlipperySurface				"Surface glissante"
+
+XFellToLevelY				"##1## est tombé dans ##2## !"
+
+ItemEnchantmentDesc			"On ne peut avoir qu'un enchantement à la fois."
+
+// Export stuff
+
+Stats					"Stats."
+Attributes				"Attributs"
+Resistances				"Résistances"
+Skills					"Compétences"
+Equipment				"Équipement"
+FunStats				"Stats. amusantes"
+
+EnemiesTooClose				"Ennemis trop proches"
+
+//
+// Anything below this not used yet
+//
+
+// Adventure Names
+
+// Races
+
+RaceLumen				"Lumen"
+RaceBarbarian				"Barbare"
+RaceHuman				"Humain"
+
+CursedTotem				"Totem maudit"
+Totem					"Totem"
+Bridge					"Pont"
+Altar					"Autel"
+Gate					"Portail"
+
+UnknownMonster				"Inconnu"
+
+// Monster unique names
+
+FuryUniqueName				"Zorn"
+OrcShamanUniqueName			"Gizlin"
+DarkElfWarriorUniqueName		"Malos"
+DarkElfAssassinUniqueName		"Tore"
+DarkElfDarkPriestUniqueName		"Nequam"
+
+// Monster boss names
+
+DarkElfWarriorBossName			"Azar"
+DarkElfAssassinBossName			"Degol"
+DarkElfWizardBossName			"Vrull"
+
+// Monster skills
+
+Caltrops				"Chausse-trappe"
+Weakness				"Faiblesse"
+Block					"Bloque"
+Stunned					"Sonné"
+DarkElfPoison				"Poison elfe obscur"
+ChargedStrike				"Frappe chargée"
+WampirPoison				"Poison de Wampir"
+
+Drain					"Draine"
+Curse					"Maudit"
+Growth					"Croissance"
+Web					"Toile"
+FreakySpeed				"Vitesse monstrueuse"
+EnhancedStrength			"Force augmentée"
+Stunned					"Sonné"
+Growth					"Grandit"
+Drain					"Draine"
+Curse					"Maudit"
+MinorFireImbuedFromAura			"Imprégné de Feu mineur (par aura)"
+MinorColdImbuedFromAura			"Imprégné de Froid mineur (par aura)"
+MinorLightningImbuedFromAura		"Imprégné de Foudre mineure (par aura)"
+MinorPoisonImbuedFromAura		"Imprégné de Poison mineur (par aura)"
+MinorElementalImbuedFromAura		"Imprégné d'Élémentaire mineur (par aura)"
+ElementalResistanceFromAura		"Résistance élémentaire (par aura)"
+QuicknessFromAura			"Rapidité (par aura)"
+ExtraStrengthFromAura			"Force supplémentaire (par aura)"
+
+// Monster enhancements
+
+MinorExtraStrength			"Force supplémentaire mineure"
+ExtraStrength				"Force supplémentaire"
+MajorExtraStrength			"Force supplémentaire majeure"
+MinorQuickness				"Rapidité mineure"
+Quickness				"Rapidité"
+MajorQuickness				"Rapidité majeure"
+MinorStoneSkin				"Peau de pierre mineure"
+StoneSkin				"Peau de pierre"
+MajorStoneSkin				"Peau de pierre majeure"
+MinorElementalResistance		"Résistance élémentaire mineure"
+ElementalResistance			"Résistance élémentaire"
+MajorElementalResistance		"Résistance élémentaire majeure"
+MinorFleetofFoot			"Pied léger mineur"
+FleetofFoot				"Pied léger"
+MajorFleetofFoot			"Pied léger majeur"
+MinorDefender				"Défenseur mineur"
+Defender				"Défenseur"
+MajorDefender				"Défenseur majeur"
+MinorBerserker				"Berserker mineur"
+Berserker				"Berserker"
+MajorBerserker				"Berserker majeur"
+MinorZealot				"Zélote mineur"
+Zealot					"Zélote"
+MajorZealot				"Zélote majeur"
+MinorGiant				"Géant mineur"
+Giant					"Géant"
+MajorGiant				"Géant majeur"
+MinorDeadlyAim				"But mortel mineur"
+DeadlyAim				"But mortel"
+MajorDeadlyAim				"But mortel majeur"
+MinorCriticalHit			"Coup critique mineur"
+CriticalHit				"Coup critique"
+MajorCriticalHit			"Coup critique majeur"
+MinorCrushingBlow			"Coup écrasant mineur"
+CrushingBlow				"Coup écrasant"
+MajorCrushingBlow			"Coup écrasant majeur"
+MinorStunningBlow			"Coup assommant mineur"
+StunningBlow				"Coup assommant"
+MajorStunningBlow			"Coup assommant majeur"
+MinorDeepWounds				"Blessures profondes mineures"
+DeepWounds				"Blessures profondes"
+MajorDeepWounds				"Blessures profondes majeures"
+MinorThorns				"Epines mineures"
+Thorns					"Epines"
+MajorThorns				"Epines majeures"
+MinorPowerBurn				"Brûlure de mana mineure"
+PowerBurn				"Brûlure de mana"
+MajorPowerBurn				"Brûlure de mana majeure"
+MinorStaminaBurn			"Brûlure d'endurance mineure"
+StaminaBurn				"Brûlure d'endurance"
+MajorStaminaBurn			"Brûlure d'endurance majeure"
+MinorColdImbued				"Imprégné de froid mineur"
+ColdImbued				"Imprégné de froid"
+MajorColdImbued				"Imprégné de froid majeur"
+MinorFireImbued				"Imprégné de feu mineur"
+FireImbued				"Imprégné de feu"
+MajorFireImbued				"Imprégné de feu majeur"
+MinorLightningImbued			"Imprégné de foudre mineure"
+LightningImbued				"Imprégné de foudre"
+MajorLightningImbued			"Imprégné de foudre majeure"
+MinorPoisonImbued			"Imprégné de poison mineur"
+PoisonImbued				"Imprégné de poison"
+MajorPoisonImbued			"Imprégné de poison majeur"
+MinorElementalImbued			"Imprégnation élémentaire mineure"
+ElementalImbued				"Imprégnation élémentaire"
+MajorElementalImbued			"Imprégnée élémentaire majeure"
+MinorRegeneration			"Régénération mineure"
+Regeneration				"Régénération"
+MajorRegeneration			"Régénération majeure"
+MinorLifeSteal				"Vol de vie mineur"
+LifeSteal				"Vol de vie"
+MajorLifeSteal				"Vol de vie majeur"
+MinorFireResistance			"Résistance au feu mineure"
+FireResistance				"Résistance au feu"
+MajorFireResistance			"Ignifugation majeure"
+MinorColdResistance			"Résistance au froid mineure"
+ColdResistance				"Résistance au froid"
+MajorColdResistance			"Résistance au froid majeure"
+MinorLightningResistance		"Résistance à la foudre mineure"
+LightningResistance			"Résistance à la foudre"
+MajorLightningResistance		"Résistance à la foudre majeure"
+MinorPoisonResistance			"Résistance au poison mineure"
+PoisonResistance			"Résistance au poison"
+MajorPoisonResistance			"Immunisation au poison majeure"
+MinorFireShield				"Bouclier de feu mineur"
+FireShield				"Bouclier de feu"
+MajorFireShield				"Bouclier de feu majeur"
+MinorIceShield				"Bouclier de glace mineur"
+IceShield				"Bouclier de glace"
+MajorIceShield				"Bouclier de glace majeur"
+MinorLightningShield			"Bouclier de foudre mineur"
+LightningShield				"Bouclier de foudre"
+MajorLightningShield			"Bouclier de foudre majeur"
+FireEnchantmentAura			"Aura d'enchantement de feu"
+ColdEnchantmentAura			"Aura d'enchantement de froid"
+LightningEnchantmentAura		"Aura d'enchantement de foudre"
+PoisonEnchantmentAura			"Aura d'enchantement de poison"
+ElementalEnchantmentAura		"Aura d'enchantement élémentaire"
+DangerousAim				"But dangereux"
+FreezeAura				"Aura de gel"
+RegenAura				"Aura de régén."
+
+AuraDarkElf				"Aura - Elf obscur"
+AuraOrc					"Aura - Orc"
+AuraUndead				"Aura - Mort-vivant"
+AuraAltar				"Aura - Autel"
+
+MinorPoisonImbuedfromaura
+
+// Usable objects
+
+LeverNameRed				"Levier ^c001rouge^c145"
+LeverNameGreen				"Levier ^c002vert^c145"
+LeverNameBlue				"Levier ^c003Bleu^c145"
+
+SwitchNameRed				"Interrupteur ^c001rouge^c145"
+SwitchNameGreen				"Interrupteur ^c002vert^c145"
+SwitchNameBlue				"Interrupteur ^c003bleu^c145"
+
+DoorNameRed					"Porte ^c001rouge^c145"
+DoorNameGreen				"Porte ^c002verte^c145"
+DoorNameBlue				"Porte ^c003bleue^c145"
+
+// Mouse hints
+
+LeftClickToOpen				"Cliquer gauche pour ouvrir"
+LeftClickToAttack			"Cliquer gauche pour attaquer"
+LeftClickToPickUp			"Cliquer gauche pour ramasser"
+LeftClickToUse				"Cliquez gauche pour utiliser"
+LeftClickToActivate			"Cliquez gauche pour activer"
+LeftClickToBreak			"Cliquez gauche pour briser"
+LeftClickToTalk				"Cliquez gauche pour parler"
+LeftClickToGamble			"Cliquez gauche pour parier"
+LeftClickToBuyAndSell			"Cliquez gauche pour acheter et vendre"
+LeftClickToRead				"Cliquez gauche pour lire"
+LeftClickToIncreaseXByY			"Cliquer gauche pour augmenter ##1## de ##2##"
+UseSkillsToAttack			"Utiliser les compétences pour attaquer"
+
+PressHotKeyAction			"Presser la touche ##1## pour ##2##"
+PressHotKey				"Presser la touche ##1##"
+
+// Menus / UI
+
+Exit					"Quitter"
+Back					"Retour"
+CantGoBack				"Retour impossible"
+Done					"Fait"
+Close					"Fermer"
+OK					"OK"
+Ok					"OK"
+Yes					"Oui"
+No					"Non"
+Randomize				"Aléatoire"
+RandomizeDesc				"Classe, nom et options avancées (sauf hardcore) aléatoires."
+
+SelectSpecialty				"Choisir"
+SelectSpecialtyDesc			"Sélectionner la spécialité courante"
+SelectCharacter				"Choix du perso."
+NewCharacter				"Nouveau"
+DeleteCharacter				"Supprimer"
+ConfirmDeleteChar			"Tapez delete pour confirmer\nla suppression du personnage"
+Delete					"Supprimer"
+
+ConfirmDeclineQuest			"Êtes-vous sûr de vouloir décliner cette quête ?"
+Decline					"Décliner"
+
+CreateNewWorld				"Créer le monde"
+CreateNewWorldDesc			"Personnage, recrues et objets seront tous déplacés dans le nouveau monde"
+LoadExistingWorld			"Charger monde existant"
+CreateNewWorldNoAbandon			"Créer le monde"
+CreateNewWorldAbandonOld		"Nouveau monde (abandonner l'ancien)"
+CreateWorldInfo				"Créer un nouveau monde \n\nNiv. de départ des monstres : ##1##\nDifficulté : ##2##"
+CreateCharacterInfo			"Créer nouveau personnage \n\nNom : ##1##\nClasse : ##2##\nSexe : ##3##"
+
+SetupWorldMenuTitle			"Paramètres monde"
+SelectStartingMonsterLevel		"Niv. de départ des monstres"
+SelectStartingMonsterLevelDesc		"Ce nombre est le niveau auquel les monstres commenceront.\nSi vous voulez une partie difficile, choisissez un niveau plus élevé que\ncelui de votre personnage.  Si vous voulez une partie plus facile, choisissez\nun niveau plus bas que celui de votre personnage."
+
+WaitForServerNewWorld1			"Veuillez attendre le serveur"
+WaitForServerNewWorld2			"pour créer un nouveau monde."
+
+WorldModifierLowStress			"Stress bas"
+WorldModifierLowStressDesc		"Stress bas : Cette ville n'aura pas certaines des quêtes\nles plus stressantes, comme les attaques de ville.\nCependant, vous gagnerez 15% d'expérience de moins."
+WorldModifierDangerousMonsters		"Monstres dangereux"
+WorldModifierDangerousMonstersDesc	"Monstres dangereux : Les monstres sont plus puissants que la normale.\nCependant, il y en a moins."
+DoesntMeetRequirements			"Ne remplit pas les conditions"
+SkillMonsterTimeLimit			"Limite de temps"
+LevelUnavailableNormal			"Niveau disponible uniquement en difficulté Normale"
+LevelUnavailableChampion		"Niveau disponible uniquement en difficulté Champion"
+LevelUnavailableElite			"Niveau disponible uniquement en difficulté Élite"
+LevelUnavailableLegendary		"Niveau disponible uniquement en difficulté Légendaire"
+
+CharactersLevel				"Niveau du personnage"
+CharactersLevelDesc			"C'est le degré de puissance de votre personnage"
+CharactersLevelLow			"Bas"
+CharactersLevelLowDesc			"Ceci devrait crée un monde relativement faible comparé à votre personnage"
+CharactersLevelMedium			"Moyen"
+CharactersLevelMediumDesc		"Ceci devrait créer un monde relativement équilibré comparé à votre personnage"
+CharactersLevelHigh			"Haut"
+CharactersLevelHighDesc			"Ceci devrait créer un monde relativement puissant comparé à votre personnage"
+
+
+SelectWorldDifficulty			"Difficulté du monde"
+Normal					"Normale"
+ChampionDesc				"La difficulté champion requiert un personnage de niveau 25\nou d'avoir terminé le jeu en difficulté normale"
+EliteDesc				"La difficulté élite requiert un personnage de niveau 50 \nou d'avoir terminé le jeu en difficulté champion"
+Legendary				"Légendaire"
+LegendaryDesc				"La difficulté légendaire requiert un personnage de niveau 75\nou d'avoir terminé le jeu en difficulté élite"
+
+ShowNewerTextEvents			"Afficher davantage d'évènements textuels\n"
+HideTextEvents				"Cacher tous les évènements textuels\n"
+ShowOlderTextEvents			"Afficher moins d'évènements textuels\n"
+
+// Npcs menus
+
+Intro					"Intro"
+Talk					"Parler"
+Trade					"Faire affaire"
+Quests					"Quêtes"
+SwitchPlaces				"Permuter"
+Nevermind				"Non non, rien"
+Happiness				"Bonheur"
+
+// Win game menu
+
+Congratulations				"Félicitations !"
+
+WonGameText1				"Vous avez sauvé une autre ville au bord de l'annihilation et vous êtes maintenant plus près de la rédemption."
+WonGameText2				"La victoire est à portée de mains ! Une autre ville est sauvée, grâce à vous."
+WonGameText3				"Le succès est à vous pour cette prise ! Vous êtes une ville plus près de la rédemption."
+WonGameText4				"Bien joué, héros. Une autre ville prospère grâce à votre intervention."
+WonGameText5				"La paix règne à nouveau grâce à votre puissante influence. Je suis ravi."
+
+LostGameText1				"Vous avez perdu la ville. Ce n'est pas le chemin de la rédemption !"
+LostGameText2				"La destruction règne ici, grâce à votre incompétence."
+LostGameText3				"La ville est en ruine. Vous avez échoué à la sauver."
+LostGameText4				"Votre échec laisse la désolation là où autrefois il y avait de l'espoir."
+LostGameText5				"Une autre victoire du Mal ne me satisfait pas."
+
+// Character menu
+
+XChanceToHitLevelYMonster		" ##1## de chance de toucher les monstres de niveau ##2##"
+XChanceLevelYMonsterWillHitYou		" ##1## de chance que les monstres de niveau ##2## vous touchent"
+AbsorbXDamageFromLevelYMonster		"En moyenne, absorbe ##1## dégâts d'un monstre de niveau ##2##"
+DamagePerSuccessulHit			"dégâts par coup réussi"
+AbsorbXYDamageFromLevelZMonster		"En moyenne, absorbe ##1## de dégâts de ##2## d'un monstre de niveau ##3##"
+ReputationLevel				"Niv. réputation"
+ExportHtml				"Exporter en HTML"
+ExportVbulletin				"Exporter au vBulletin"
+ExportCharHtml				"Exporter perso. en HTML"
+ExportCharHtmlDesc			"Exporte les informations de votre personnage (statistiques, compétences \n et équipement) vers uns fichier html qui peut être vu par tout\nnavigateur web ou peut être posté sur Internet."
+ExportCharVbulletin			"Exporter perso. au vBulletin"
+ExportCharVbulletinDesc			"Exporte les informations de votre personnage (statistiques, compétences\net équipement vers un format utilisé par les forums vBulletin\n(comme http://www.soldak.com/forums/)."
+CharacterExportedToHTML			"Personnage exporté en HTML"
+CharacterExportedToVbulletin		"Personnage exporté au Vbulletin"
+OtherStats					"Autres stat."
+
+// Quests menu
+
+Quests					"Quêtes"
+NoActiveQuests				"Pas de quête active, allez en choisir une !"
+NoNewQuestsAvailable			"Aucune nouvelle quête disponible."
+AvailableQuests				"Quêtes disponibles"
+
+// Escort menu
+
+EscortNpc				"Escorter PNJ"
+
+// Delivery menu
+
+DeliverPackage				"Liver paquet"
+GivePackage				"Obtenir des informations"
+DontHavePackageForX			"Vous n'avez pas la quête pour parler à ##1## !"
+
+// Help menu
+
+HelpTopic				"Sujet d'aide"
+NoMoreHelp				"Ne plus afficher\nd'aide"
+ConfirmNoHelp				"Êtes-vous sûr de vouloir désactiver l'aide ? Vous pourrez toujours la réactiver par l'écran d'options de jeu, dans les options."
+TurnOffHelp				"Désactiver l'aide"
+NewHelpTopic				"Nouveau sujet d'aide"
+
+// Options menu
+
+GraphicsOptions				"Options graphiques"
+SoundOptions				"Options sonores"
+GameOptions				"Options de jeu"
+ConfigureInput				"Configuration clavier"
+Back					"Retour"
+MultiplayerOptions			"Options multijoueur"
+
+// Options shared
+
+Apply					"Appliquer"
+Cancel				"Annuler"
+ResetToDefaults				"Réinitialiser"
+
+// Game options
+
+ShowHealthBars				"Afficher les barres de vie"
+ShowDamageNumbers			"Afficher les nb. des dégâts"
+ShowXPNumbers				"Afficher les points"
+ShowPlayerHealthBar			"Afficher barre de vie joueur"
+ShowCombatEffects			"Afficher effets de combat"
+UseShowItemsToggle			"Verrouillage nom objets"
+UseStayStillToggle			"Verr. immobilisation"
+
+HealthBarsDesc				"Affiche la barre de santé pendant la partie au-dessus de la tête des monstres et des PNJ."
+DamageNumbersDesc			"Affiche les nombres des dégâts aux monstres, PNJ et joueurs."
+ShowXPDesc				"Affiche les nombres de points accordés au joueur."
+HardwareCursorDesc			"Utilise un pointeur hardware si disponible.  Recommandation : Conservez\ncette option activée, à moins que vous ayez des problèmes avec le pointeur.\nDésactiver cette option pourrait régler des problèmes de\ncorruption graphiques (flickering : tremblements)."
+PlayerHealthBarDesc			"Affiche la barre de santé du joueur pendant la partie au dessus de la tête du personnage."
+CombatEffectsDesc			"Affiche les effets de combat."
+UseShowItemsToggleDesc			"Si cette option est activée, la touche d'affichage des noms d'objets au sol\nagit comme un verrouillage au lieu de devoir être maintenue appuyée."
+UseStayStillToggleDesc			"Si cette option est activée, la touche d'immobilisation\nagit comme un verrouillage au lieu de devoir être\nmaintenue pressée."
+ResetHelpTopics				"Réinitialiser les aides"
+ShowSimpleTips				"Afficher trucs simples"
+ShowSimpleTipsDesc			"Détermine si des conseils assez simples sont affichés ou non."
+CanClickOnPets				"Clic sur les familiers"
+CanClickOnPetsDesc			"Désactivez cette option si vos familiers se mettent en travers lorsque\nvous essayez de cliquer sur le sol et que vous n'avez\naucune raison de cliquer sur eux directement."
+PickupItemsOnlyByText			"Ramasser objets par texte"
+PickupItemsOnlyByTextDesc		"Cette option fait que vous ne pouvez ramasser les objets\nqu'en cliquant sur le texte d'aide qui s'affiche lorsque \nla touche d'affichage d'objets (ALT par défaut) est maintenue\nenfoncée ou verrouillée.\nCeci peut vous aider à ramasser moins de rebus\nque vous ne voudriez pas ramasser."
+HideCrappyItems				"Masquer la pacotille"
+HideCrappyItemsDesc			"Masque les objets (n'affiche pas les textes avec alt) que le jeu\nestime superflus pour vous (en général qui ne valent pas grand chose)."
+DrawPlayerHelmet			"Afficher casque joueur"
+DrawPlayerHelmetDesc			"Affiche le casque du joueur.  Désactiver cette option\nsi vous préférez voir la tête de votre personnage."
+MaxTextEvents				"Nb. max. de textes d'évt."
+MaxTextEventsDesc			"Contrôle le nombre maximum de textes d'évènements qui\nseront affichés en même temps sur l'écran principal."
+CanShakeScreen				"Secousse d'écran"
+CanShakeScreenDesc			"Permet de secouer l'écran lorsque brutalement touché ou durant des tremblements de terre."
+ShowUseHints				"Afficher conseils d'util."
+ShowUseHintsDesc			"Affiche une icône près du joueur lorsque certaines compétences et/ou\nobjets sont à nouveau utilisables."
+ColorCodeEquipment			"Equipt. à code de couleur"
+ColorCodeEquipmentDesc			"Ceci détermine si des objets de plus grande rareté brilleront sur votre personnage ou non."
+CenterWidescreenUI			"Centrer interface"
+CenterWidescreenUIDesc			"Au lieu d'étirer l'interface pour s'ajuster à un écran\nlarge, cette option la centrera."
+
+
+// Graphics options
+
+AdvancedGraphicsOptions			"Options avancées"
+
+Fullscreen				"Plein écran"
+ScreenSize				"Taille écran"
+ScreenFrequency				"Fréquence"
+Shadows					"Ombres"
+MonitorSync				"Sync. moniteur"
+FilteringQuality			"Qualité filtrage"
+CompressedTextures			"Textures compressées"
+ScreenshotType				"Type de captures d'écran"
+Zoom					"Zoom"
+AnisotropicFiltering			"Filtrage anisotropique"
+AnisotropicFilteringQuality		"Qualité filtrage aniso."
+GroundDetail				"Détails du sol"
+Anti-aliasing				"Anti-créneleage"
+BetterLighting				"Meilleur éclairage"
+Bloom					"Effet brillant"
+PerspectiveView				"Vue en perspective"
+DetailModels				"Modèles détaillés"
+MinimapAlpha				"Mini-carte Alpha"
+UseHardwareCursor			"Curseur matériel"
+Gamma					"Gamma"
+ModelDetail				"Détail des modèles"
+ModelDetailDesc				"Cette option détermine le degré de détail \ndes modèles. Plus bas est la nombre, plus\nbasse sera la qualité, mais cela peut accélérer\nle jeu."
+EffectsDetail				"Détail des effets"
+EffectsDetailDesc			"Cette option détermine le degré de détail\ndes effets visuels. Plus le nombre est bas, plus\nla qualité est basse, mais cela peut accélérer\nle jeu."
+
+CompressedTexturesDesc			"Des textures compressées utilisent beaucoup moins de mémoire\net accélèrent le jeu.\nNe désactivez pas cette option, à moins que vous\nn'ayez des problèmes de textures."
+MonitorSyncDesc				"La synchronisation réduit \nl'update tearing de l'écran (cela rend mieux) mais peut\nralentir la vitesse graphique juste un peu.\n Recommandation : conserver activé."
+FullScreenDesc				"Cette option détermine si le jeu\nprend tout l'espace du moniteur."
+AnisotropicFilteringDesc		"Le filtrage anisotropique rend les graphismes\nplus fins au prix de la vitesse." 
+BetterLightingDesc			"Activer le meilleur éclairage pour voir un\néclairage amélioré sur votre personnage,\nles PNJ et les monstres.\nSi vous avez des problèmes de vitesse graphique,\ncette option peut être désactivée pour\naméliorer la vitesse du jeu."
+BloomDesc				"Activer le bloom (effet brillant) pour voir un effet de type scintillant\nsur des surfaces plus brillantes.  Activer cette option\npeut rendre le jeu un petit peu plus lent.\n\nNOTE : certaines personnes aiment vraiment le bloom et\nd'autres le détestent tout autant.  Aussi, n'activez\ncette option que si vous aimez son rendu."
+MinimapAlphaDesc			"Cette option détermine la transparence/l'opacité\nde la mini-carte dans le coin supérieur\ndroit de l'écran.  Plus la glissière est\nà droite, plus la carte devient\nopaque."
+ZoomDesc				"Cette option détermine la distance de la caméra\npar rapport au joueur.\nPlus la targette est sur la droite,\nplus la caméra sera en hauteur\net plus vous pourrez voir de choses."
+AnisotropicFilteringQualityDesc		"Cette option détermine la qualité du \nfiltrage anisotropique.  Plus la targette est\nsur la droite, meilleure est\nla qualité."
+DetailModelsDesc			"Cette option active les détails environnementaux.\nSi vous la désactivez, la plupart des\nenvironnements scéniques ne s'afficheront pas.\nLa désactiver peut améliorer la vitesse\nde jeu mais le jeu ne sera pas aussi joli.\nRecommandation : conservez-la activée,\nà moins que le jeu ne tourne\nque très lentement."
+ScreenSizeDesc				"Choisissez ici la taille de l'écran.\n Plus les nombres sont élevés, plus le jeu\nsera joli, mais une meilleure résolution peut\nêtre plus ralentissante."
+ScreenFreqDesc				"Choisissez ici la fréquence du taux\nde rafraîchissement du moniteur.\nLa valeur par défaut suffit\npour la plupart des gens, mais certaines personnes\nsont sensibles aux taux de rafraîchissement plus bas.\n Pour ces personnes, le plus élevé est généralement le meilleur.\nSi votre moniteur a des problèmes avec le\nchangement de fréquence, remettez celle-ci à son niveau par défaut\nou essayez une autre fréquence."
+ShadowsDesc				"Cette option détermine la qualité des\nombres de votre joueur, des PNJ et des monstres.\nDes ombres simples affichent simplement une tache noire\nsous le personnage, tandis que des ombres\ncomplexes affichent une vraie ombre du personnage.\nAvancées est le plus joli mais le plus lent."
+FilteringQualityDesc			"La qualité du filtrage affecte grandement  la\nqualité des graphismes.  Trilinéaire\nest le plus joli mais le plus lent.\nRecommandation : conserver en\ntrilinéaire, à moins que vous ayez des\nproblèmes de vitesse graphique."
+ScreenshotTypeDesc			"Cette option détermine sous quel format de\nfichier les capture d'écran sont sauvegardées.\n- TGA est un format de fichier non-compressé,\naussi ces captures sont-elles parfaites\nmais réellement volumineuses et la plupart\ndes programmes ne le supportent pas.\n- Les fichiers PNG utilisent une compression\nsans perte.  Cela signifie qu'ils auront l'air \nparfaits tout comme les TGA, mais seront\nplus petits.  De nombreux programmes\nsupportent les PNG.\n- JPG est un format avec pertes.  Cela signifie\nque l'image se sera pas exactement ce qui\napparaît à l'écran, mais ils ont généralement\nl'air assez proche et seront beaucoup plus\npetits.\n  La plupart des programmes qui traitent des\nimages peuvent fonctionner avec le JPG.\nRecommandation : conserver le format JPG."
+GroundDetailDesc			"Cette option détermine les détails des textures qui sont utilisées\npour le sol.\nRecommandation : laissez en normal ou plus élevés,\nà moins que vous ayez des problèmes de vitesse graphique."
+AntiAliasingDesc			"L'anti-crénelage (anti aliasing) aide à corriger\nles bords des choses pour les empêcher d'avoir\nl'air trop pointus (en particulier les objets\nlongs et fins comme les épées).\nPlus les nombres sont élevés, meilleurs seront\nles graphismes, mais plus lent sera le jeu.\nCela dépend cependant grandement de la vitesse\nde votre carte graphique."
+GammaDesc				"Cette option détermine la luminosité de\ntout ce qui apparaît à l'écran.\nPlus la targette est sur la droite, plus les\ngraphismes seront lumineux."
+
+JpgMedium				"jpg - moyens"
+JpgLow					"jpg - bas"
+JpgHigh					"jpg - hauts"
+
+FastestSettings				"Config. rapide"
+FastestSettingsDesc			"Cette option change toutes les options graphiques pour la\nconfiguration la plus rapide, mais généralement la plus basse qualité."
+HighestQualitySettings			"Plus haute qualité"
+HighestQualitySettingsDesc		"Cette option change toutes les options graphiques pour la\nconfiguration la plus haute, mais aussi également la plus lente."
+
+ShadowsAdvanced				"Avancées"
+//ShadowsDesc - changed above
+
+PerspectiveViewDesc			"Cette option change la vue pour y ajouter la perspective\n(et plus une vue isométrique). Cela donne à tout un peu plus\nde profondeur et est plus joli en général, mais c'est un peu plus lent."
+
+DetailModelMovement			"Mvts. détaillés"
+DetailModelMovementDesc			"Cette option active les mouvements environnementaux.\nSi vous la désactivez, beaucoup d'environnements\nscéniques cesseront leur subtil mouvement.\nLa désactiver peut améliorer la vitesse\ndu jeu mais le jeu n'aura pas l'air aussi joli.\nRecommandation : conserver cette option activée à moins que\nle jeu ne fonctionne au ralenti."
+
+
+// Input options
+
+KeyboardOptions				"Options clavier"
+
+KeyCommand				"Nom"
+KeyName					"Touche"
+
+QuestScreen				"Écran de quêtes"
+SkillsScreen				"Écran de comp."
+JournalScreen				"Écran du journal"
+InventoryScreen				"Écran d'inventaire"
+BestiaryScreen				"Écran du bestiaire"
+UseSlot					"Util. Emplt."
+VirtualPause				"Pause"
+VirtualZoomIn				"Zoomer"
+VirtualZoomOut				"Dézoomer"
+VirtualTakeScreenshot			"Capture d'écran"
+VirtualNextEnemy			"Ennemi suivant"
+VirtualNextAlly				"Allié suivant"
+VirtualQuickBuySell			"Achat/Vente rapide"
+VirtualClearUseSlot			"Vider l'empl."
+VirtualSwitchWeapon			"Basc. arme/bouclier"
+VirtualChat				"Dialogue"
+VirtualUp				"Haut"
+VirtualDown				"Bas"
+VirtualLeft				"Gauche"
+VirtualRight				"Droite"
+VirtualStayStill1			"S'immobiliser 1"
+VirtualStayStill2			"S'immobiliser 2"
+VirtualShowItems1			"Afficher objets 1"
+VirtualShowItems2			"Afficher objets 2"
+
+KeyboardType				"Type de clavier"
+MouseWheelAction			"Roue de souris"
+PressKeyToUseFor			"Presser la touche à utiliser pour"
+PressEscapeToCancel			"Presser Echape pour annuler"
+LeftClickToChange			"^c008Cliquez gauche pour changer"
+
+MouseWheelActionZoom			"Zoom"
+MouseWheelActionScrollEnemy		"Ennemi suivt./précdt."
+MouseWheelActionScrollSkills		"Défilt. Comp. Clic droit"
+
+// Sound options
+
+MasterVolume				"Volume global"
+SoundEffectsVolume			"Volume effets sonore"
+MusicVolume				"Volume musique"
+DialogVolume				"Volume Dialogue/Voix"
+SoundDevice				"Périphérique son"
+MuteVoice				"Pas de voix"
+
+MasterVolumeDesc			"Ceci contrôle le volume de tous les sons et musiques du\njeu.  Pousser à droite pour augmenter."
+SoundEffectsVolumeDesc			"Ceci contrôle seulement le volume des sons du jeu.\nPousser à droite pour augmenter."
+MusicVolumeDesc				"Ceci contrôle seulement le volume de la musique du jeu.\nPousser à droite pour augmenter."
+DialogVolumeDesc			"Ceci contrôle seulement le volume des dialogues/voix du jeu.\nPousser à droite pour augmenter."
+SpeakerTypeDesc				"Veuillez choisir l'option la plus proche de la configuration\nde haut-parleur que vous avez sur votre ordinateur."
+SoundDeviceDesc				"Cette option détermine le périphérique que le système sonore\nutilisera.  Vous devriez probablement la laisser sur la valeur par défaut\nà moins que vous n'ayez des problèmes.  Malheureusement, vous devez\nquitter et relancer le jeu complètement pour que cette option\nprenne effet."
+
+ChooseGate				"Choisir un portail"
+
+OpenAll					"Tout ouvrir"
+CloseAll				"Tout fermer"
+
+Experience				"Expérience"
+ExperienceDebtDesc			"\nQuand vous avez une dette d'exp., vous gagnez\nde l'expérience à la moitié du taux normal\n"
+
+// But sell menu
+
+BuySellEssential			"Objets essentiels"
+BuySellGambling				"Pari"
+BuySellOther				"Autres objets"
+BuySellHeld				"Objets"
+BuySellHeld2				"mis de côté"
+BuySellHeldDesc				"Objets mis de côté\n\nVous pouvez déplacer n'importe quel objet\ndu marchand vers l'emplacement de\nréservation. \nLe marchand conservera ces objets\njusqu'à ce que le joueur les achète ou change\nle contenu de l'emplacement."
+BuySellRecent				"Dernières ventes"
+BuySellRecent2				"du joueur"
+BuySellRecentDesc			"Dernières ventes\ndu joueur :\nLe marchand sauvegarde dans ces\nemplacements les deux derniers\nobjets qu'on lui a vendus.\nLes objets dans ces emplacements\npeuvent être rachetés au prix\ninitialement perçu par le joueur."
+BuySellWealth				"Votre compte :"
+BuySellIdentify				"Tout identifier"
+BuySellRepair				"Réparer"
+BuySellRepairAll			"Tout réparer"
+IdentifyAllYourItemsFor			"Identifier tous vos objets pour"
+RepairAllYourItemsFor			"Réparer tous vos objets pour"
+
+// Confirm win menu
+
+WonAdventure				"Ville sauvée"
+WonAdventureDesc			"Quand vous en avez fini avec cette ville, cliquez sur l'icône dans le coin droit en haut. Assurez-vous cependant d'ouvrir d'abord le coffre de récompense !"
+ContinueAdventure			"Continuer"
+
+//DoneWithAdventure			"Fini avec cette ville"
+//DoneWithAdventureDesc			"Cliquez ici si vous voulez quitter définitivement cette ville."
+//ContinueAdventure			"Continuer avec cette ville"
+//ContinueAdventureDesc			"Cliquez ici si vous voulez continuer à jouer\ndans cette ville et finir quelque chose.\nLorsque vous estimerez en avoir fini, cliquez sur\nl'icône clignotante dans le coin droit en haut\nde l'écran."
+
+ResetFogOfWar				"Réinit. carte"
+ResetFogOfWarDesc			"Réinitialiser la carte remet un brouillard de\n guerre au niveau où se trouve le joueur.\nIl peut s'avérer plus facile de savoir\noù vous êtes allé récemment."
+
+Paused					"Pause"
+
+RanOutOfThisItem			"A court de cet objet"
+ToRemoveFromSlotPressDelete		"Pour retirer de l'emplacement, presser delete"
+PutSkillsOrItemsHere			"Placer des compétences ou des objets ici"
+PutSkillsHere				"Placer des compétences ou des objets ici"
+PressKeyForDescription			"Presser H pour une description"
+
+NewCharacterMenuTitle			"Créer un perso."
+SelectCharacterClass			"Choisir une classe"
+SelectGender				"Choisir le sexe"
+CharacterName				"Nom du perso."
+RandomName				"Nom aléatoire"
+Rotate					"Rotation"
+SelectHybrid				"Type d'hybride"
+RandomHybrid				"Hybride aléatoire"
+MaleChoice				"Homme"
+FemaleChoice				"Femme"
+
+AdvancedCharacterOptions		"Options avancées"
+SelectCharacter				"Choix du perso."
+NewCharacter				"Nouveau"
+DeleteCharacter				"Supprimer perso."
+ConfirmDeleteChar			"Tapez delete pour confirmer la suppression de votre personnage"
+Delete					"Supprimer"
+Choose				"Choisir"
+OptionsKey				"Touches d'option"
+Randomize				"Aléatoire"
+MaleChoiceDesc				"Sélectionne un personnage masculin.\n\nCela ne change que l'apparence de\nvotre personnage et n'a aucune\nincidence sur la jouabilité."
+FemaleChoiceDesc			"Sélectionne un personnage féminin.\n\nCela ne change que l'apparence de\nvotre personnage et n'a aucune\nincidence sur la jouabilité."
+
+Version					"ver."
+Copyright				"Copyright (c) 2010 Soldak Entertainment, Inc. Tous droits réservés."
+
+PartDopWorld1				"Partie du monde de"
+PartDopWorld2				" "
+
+PermanentSkillBonuses			"Bonus de compétences permanent pour TOUS les personnages"
+
+// Awards menu
+
+AwardsMenuTitle				"Récompenses"
+
+TotalScore1				"Total"
+TotalScore2				"Score"
+AdventureTrophies1			"Aventure"
+AdventureTrophies2			"Trophées"
+Difficulty				"Difficulté"
+
+// Bestiary menu
+
+BeastiaryMenuTitle			"Bestiaire"
+
+// Character menu
+
+CharacterStory				"Histoire du personnage"
+
+// Confirm exit menu
+
+ConfirmExit				"Confirmer Quitter"
+ExitAdventureWarning2			"Si vous quittez l'aventure, il vous faudra recommencer cette aventure du début."
+
+// Confirm resume menu
+
+ResumeQuestion				"Vous avez une aventure sauvegardée. Souhaitez-vous reprendre cette aventure ? NOTE : vous pouvez avoir seulement une sauvegarde par utilisateur."
+ResumeAdventure				"Reprendre aventure"
+PlayNewAdventure			"Lancer une nouvelle aventure"
+
+// Confirm tutorial menu
+
+Tutorial				"Didacticiel"
+PlayTutorial				"Lancer le didacticiel"
+TutorialQuestion			"Désirez-vous participer au didacticiel ?"
+SkipTutorial				"Sauter le didacticiel"
+
+// Credits menu
+
+CreditsMenuTitle			"L'équipe"
+
+// Delete user confirm menu
+
+DeleteUser				"Supprimer utilisateur"
+TypeDeleteToConfirm			"Tapez 'delete' pour supprimer cet utilisateur" // NOTE: 'delete' should remain in Enlish
+Delete					"Supprimer"
+
+// Demo screen
+
+DemoThankYou				"Thank you for playing the Kivi's Underworld open beta!"
+DemoFullGameAvailable			"The full game is available to buy now at www.soldak.com"
+DemoFullGameBenefits			"Full game benefits"
+DemoBenefit1				"Find out what happens to Kivi, Defiance, and the rest of lumenkind"
+DemoBenefit2				"30 adventures to explore and conquer"
+DemoBenefit3				"Hundreds more secrets to discover"
+DemoBenefit4				"Play as any one of 20 characters with unique abilities and magic spells"
+DemoBenefit5				"Battle many more fierce and dangerous types of monsters"
+DemoBenefit6				"Easily create new adventures, classes, and powerups or download those made by others"
+DemoBenefit7				"Gagnez de nombreuses récompenses"
+DemoBenefit8				"et beaucoup plus..."
+
+OrderFullGame				"COMMANDER LE JEU COMPLET"
+OrderFullGameDesc1			"Opens browser to"
+OrderFullGameDesc2			"When Kivi's Underworld is available, this is where it will be on sale."
+OrderFullGameDesc3			"Order the full game or just visit our website at"
+
+DemoExit				"Quitter la beta ouverte"
+
+// Beta screen
+
+BetaMessage				"Merci d'avoir acheté la version de pré-commande de Din's Curse!\n\nUne des raisons pour lesquelles nous avons choisi de permettre une pré-commande à un programme en beta est que nous pourrions ainsi obtenir un retour de la part des vrais gamers (en d'autres termes, de vous). Aussi, veuillez cliquer sur le bouton du site ci-dessous et poster vos observations dans nos forums."
+
+// Duplicate input menu
+
+KeyAlreadyBeingUsed			"Cette clé est déjà utilisée."
+SelectDifferentKey			"Veuillez sélectionner une clé différente."
+
+// Editor
+
+EditorHelp				"Aide de l'éditeur\n\n*Cliquez sur les mots Textures ou Objets dans le coins droit en haut pour changer le mode : Texture/Objet.\n*Sélectionnez une texture ou un objet dans la liste de droite en cliquant gauche dessus.\n*Placez une texture ou un objet en cliquant gauche sur la carte.\n*Vous pouvez aussi cliquer sur ctrl gauche sur une texture ou un objet déjà dans le niveau pour changer votre sélection actuelle au lieu de sélectionner dans la liste de droite.\n*En mode objet, cliquer droit effacera l'objet désigné par le pointeur.\n*En mode texture, cliquer droit agit comme le clic gauche mais avec une texture séparée sélectionnée, de sorte que vous puissiez travailler avec 2 textures à la fois.\n\nTouches :\nHome - déplace du centre vers la partie sud-ouest de la carte\nEnd - déplace du centre vers la partie nord-est de la carte\nR - fait pivoter les modèles dans le sens inverse des aiguilles d'une montre\nT - fait pivoter les modèles dans le sens des aiguilles d'une montre\nRoue de la souris - zoome et dézoome\nFlèches Gauche/Droite - déplace la carte vers l'est/l'ouest\nFlèches Haut/Bas - déplace la carte vers le nord/le sud"
+
+FileMenu				"Fichier"
+NewAreaOption				"Nouv. zone"
+OpenAreaOption				"Ouvrir zone"
+SaveAreaOption				"Sauver zone"
+SaveAsOption				"Enreg. sous"
+
+TexturesMenu				"Textures"
+NewTextureDirectoryOption		"Nouv. répertoire texture"
+SmallBrushOption			"Petit pinceau"
+MediumBrushOption			"Pinceau moyen"
+LargeBrushOption			"Pinceau large"
+HugeBrushOption				"Pinceau énorme"
+FillOption				"Remplir"
+
+ObjectsMenu				"Objets"
+NewObjectDirectoryOption		"Nouv. répertoire objet"
+
+CommandsMenu				"Commandes"
+DrawModelsOption			"Dessiner modèles"
+ShowCollisionGridOption			"Afficher grille de collision"
+BlendTilesOption			"Mélanger les dalles (Blend Tiles)"
+
+FileName				"Nom fichier"
+
+HelpOption				"Aide"
+
+TexturesMode				"Textures"
+ObjectsMode				"Objets"
+
+AreaFileName				"Nom de fichier de zone"
+ObjectDir				"Répertoire objet"
+TextureDir				"Répertoire textures"
+TileLocation				"Empl. Tile"
+HighlightInfo				"Info en surbrillance"
+
+RandomRotation				"Rotation aléatoire"
+RotateModels				"Rotation modèles"
+RotateModelsCCW				"Rotation modèles dans le sens inverse des aiguilles d'une montre\nTouche de raccourci : R"
+RotateModelsCW				"Rotation modèles dans le sens des aiguilles d'une montre\nTouche de raccourci : T"
+
+LevelNotSaved				"Niveau non sauvé"
+CancelExit				"Annuler quitter"
+ExitWithoutSaving			"Quitter sans sauver"
+CancelNew				"Annuler nouveau"
+NewWithoutSaving			"Nouv. sans sauver"
+CancelOpen				"Annuler ouvrir"
+OpenWithoutSaving			"Ouvrir sans sauver"
+
+// Game menu
+
+MoreUseSlots				"Plus d'emplacements"
+LessUseSlots				"Moins d'emplacements"
+
+SpaceKeyDesc1				"Peut aussi être utilisé en pressant la ^c008"
+SpaceKeyDesc2				"touche ^c145"
+
+UnusedSkillPoints			"Points de compétence inutilisés"
+UnusedAttributePoints			"Points d'attributs inutilisés"
+
+CharacterScreen				"Écran de personnage"
+BestiaryScreen			"Bestiaire"
+MapScreen				"Écran de carte"
+IngameMenu				"Menu de jeu"
+QuestsScreen				"Écran de quêtes"
+MiniMap					"Mini-carte"
+
+Time					"Temps"
+
+RightClickMainSlot			"Ajouter des compétences ici (à partir de l'écran de compétences)\n - Clic droit pour utiliser cette compétence"
+RightClickSlot				"Ajouter des compétences ici (à partir de l'écran de compétences)\n - Emplacement du clic droit secondaire"
+RotateRightClickSlotsUp			"??Rotate right click slots up"
+RotateRightClickSlotsDown		"Rotate right click slots down"
+
+ConfirmWinText				"Vous avez sauvé cette ville. Cliquez\nsur cette icône pour vous rendre dans\nla ville en détresse suivante."
+
+HoldingPosition				"Tenir position"
+HoldingPositionDesc			"Vous avez verrouillé la touche d'immobilisation (touche par défaut ctrl)"
+
+// In game menu
+
+Options					"Options"
+
+SaveAndExit				"Sauver et quitter"
+ExitAdventure				"Quitter l'aventure"
+ExitAdventureWarning			"Avertissement : Si vous quittez l'aventure, il\nvous faudra recommencer cette aventure \ndu début."
+OnlineManual				"Manuel en ligne"
+
+ReturnToGame				"Retour au jeu"
+
+// Load user menu
+
+SelectUser				"Choisir le joueur"
+NewUser					"Nouveau joueur"
+
+// Main menu
+
+Play					"Jouer"
+Multiplayer				"Multijoueur"
+Awards					"Récompenses"
+Beastiary				"Bestiaire"
+Editor					"Editeur"
+ModelEditor				"Éditeur de modèles"
+ChangeUser				"Autre partie"
+Credits					"Notre équipe"
+Welcome					"Bienvenu"
+Language				"Langue"
+
+ResumeGame				"Reprendre"
+ResumeLastGame				"Reprendre la dernière partie solo"
+
+Exit					"Quitter"
+
+Newsletter				"Lettre"
+NewsletterDesc				"Abonnez-vous à la lettre d'information gratuite de Soldak Entertainment."
+
+VisitWebsite				"Visiter le site"
+VisitWebsiteDesc			"Ouvrir le navigateur à :"
+
+NeedUser				"Impossible de jouer avant que vous ayez sélectionné un nouvel utilisateur."
+
+// New user menu
+
+UserName				"Nom d'utilisateur"
+
+// Rescue menu
+
+RescueNpc				"Secourir"
+
+// Pick adventure menu
+
+PickAdventure				"Prendre une aventure"
+
+TotalScore				"Score total"
+HighestScore				"Plus haut score"
+SecretsFound				"Secrets trouvés"
+LowestDeaths				"Plus basses morts"
+
+BuySkills				"Acheter compétences "
+Continue				"Continuer"
+
+// Pick character menu
+
+PickCharacter				"Choisir un personnage"
+
+AdventuresWon				"Aventures gagnées"
+WonThisAdventure			"Gagné cette aventure ?"
+
+StartAdventure				"Lancer aventure"
+MuteVoice				"Sans voix"
+MuteVoiceDesc				"Active/désactive la voix du narrateur pour l'histoire de l'aventure.\nNe prendra effet que lorsque la prochaine voix off essaiera de se lancer."
+
+// Player menu
+
+HealthBarDesc				"Santé"
+ManaBarDesc				"Mana"
+StaminaBarDesc				"Endurance"
+
+LeftClickToSelectQuest			"^c008Clic gauche pour sélectionner une quête^c145"
+
+// Resurrect menu
+
+Resurrect				"Ressusciter"
+NoMoreLivesAdventureOver		"Plus de vies. Aventure terminée. Réessayez."
+
+// Story menu
+
+PlayVoice				"Jouer la voix"
+
+PlayerTitle				"##3## de niveau ##1##"
+//PlayerTitle				"le ##3##"
+
+
+LevelAbrev				"niv."
+
+// Npc options
+
+SpottedByEnemy				"Repéré par l'ennemi"
+
+RecruitTitle				" "
+
+// Teleporters
+
+TeleporterRedStart			"Téléporteur ^c001rouge^c145"
+TeleporterGreenStart			"Téléporteur ^c002vert^c145"
+TeleporterBlueStart			"Téléporteur ^c003bleu^c145"
+
+TeleporterRedEnd			"Destination du téléporteur ^c001rouge^c145"
+TeleporterGreenEnd			"^c002Green^c145 Teleporter Destination"
+TeleporterBlueEnd			"^c003Blue^c145 Teleporter Destination"
+
+TeleporterDown				"En bas"
+TeleporterDownDesc			"\nUne fois descendu, vous ne pourrez plus remonter\n"
+
+// UI in engine options
+
+ShadowsNone				"Aucune"
+ShadowsSimple				"Simples"
+ShadowsComplex				"Complexes"
+ShadowsComplexLowRes			"Complx. (mais basse rés.)"
+ShadowsAdvanced			"Avancées"
+
+FilteringNone				"Aucun"
+FilteringBilinear			"Bilinéaire"
+FilteringTrilinear			"Trilinéaire"
+
+FreqDefault				"Par défaut"
+FreqHz					"Hz."
+
+GroundDetailLow				"Bas"
+GroundDetailNormal			"Moyens"
+GroundDetailHigh			"Hauts"
+
+AntiAliasingNone			"Aucun"
+AntiAliasingSamples			"Echantillons"
+
+StealthSurprise				"Surprise d'infiltration"
+
+HoldDownAltToSeeAllItemsOnGround	" "
+RightClickToUse				"Clic droit pour utiliser"
+LeftOrRightClickToUse			"Left or Right click^c145 to use"
+
+// Skills
+
+OffenseSkillName			"Attaque"
+OffenseSkillDesc			"Increases your chance to hit monsters\nand increases your damage done."
+
+DefenseSkillName			"Défense"
+DefenseSkillDesc			"Decreases the chance that monsters hit you."
+
+HealthSkillName				"Santé"
+HealthSkillDesc				"Increases the health of your character\nso that it takes more hits to kill you."
+
+PowerSkillName				"Mana"
+PowerSkillDesc				"Increases your maximum mana.  The more\nmana you have, the more times you can use\nyour active skill before needing to wait for it\nto replenish."
+
+PowerStrikeSkillName			"Frappe puissante"
+PowerStrikeSkillDesc			"A slow but powerful attack"
+
+StunningBlowsSkillName			"Coups assommants"
+StunningBlowsSkillDesc			"Increases the chance of delivering a\nstunning blow.  Stunning blows automatically\ndo the maximum damage possible."
+
+BerserkSkillName			"Berserk"
+BerserkSkillDesc			"A quick and powerful attack that leaves\nyou open and easier to hit for a few seconds."
+
+BloodLustSkillName			"Blood Lust"
+BloodLustSkillDesc			"Regain mana back quicker"
+
+WhirlwindSkillName			"Whirlwind"
+WhirlwindSkillDesc			"An attack that can hit up to 5 nearby enemies."
+
+BlurredBladesSkillName			"Blurred Blades"
+BlurredBladesSkillDesc			"Increased the speed of your attacks."
+
+BlockSkillName				"Block"
+BlockSkillDesc				"Makes you harder to hit during the block\nand stuns any enemies that you block."
+
+KillBonusSkillName			"Kill Bonus"
+KillBonusSkillDesc			"Get more score for each monster kill."
+
+SmiteSkillName				"Smite"
+SmiteSkillDesc				"A reasonably powerful attack that also\ndoes damage over time."
+
+RegenSkillName				"Régénération"
+RegenSkillDesc				"Increased the rate of your health regeneration."
+
+BurstOfSpeedSkillName			"Burst of Speed"
+BurstOfSpeedSkillDesc			"Increases your attack speed and increases\nyour chances of causing critical hits\nand deep wounds for a short period of time."
+
+DeadlyAimSkillName			"Cible mortelle"
+DeadlyAimSkillDesc			"Increases your chances of causing critical hits."
+
+ShurikenSkillName			"Shuriken"
+ShurikenSkillDesc			"A ranged attack."
+
+ShadowWalkSkillName			"Marche dans l'ombre"
+ShadowWalkSkillDesc			"Makes it harder for monsters to notice you."
+
+StealthSkillName			"Furtivité"
+StealthSkillDesc			"When stealthed it is hard for monsters to\nsee you.  When you come out of stealth\nyou get a large surprise bonus to your damage and\ncritical hit chance."
+
+FleetOfFootSkillName			"Pied léger"
+FleetOfFootSkillDesc			"Increases your run speed."
+
+SmokeScreenSkillName			"Ecran de fumée"
+SmokeScreenSkillDesc			"Creates a smokescreen that blinds all monsters\nin range.  Beware, any damage will return that\nmonster to normal."
+
+AvoidTrapsSkillName			"Avoid Traps"
+AvoidTrapsSkillDesc			"Increases the chance of avoiding trap damage."
+
+HolyFireSkillName			"Feu sacré"
+HolyFireSkillDesc			"A magical projectile that does fire damage."
+
+DivineInterventionSkillName		"Intervention divine"
+DivineInterventionSkillDesc		"Has a small chance each time hit for divine intervention\nthat restores some health and mana.  Each\nskill point increases the chance."
+
+FireboltSkillName			"Firebolt"
+FireboltSkillDesc			"A magical projectile that does fire damage."
+
+BattleToughSkillName			"Battle Tough"
+BattleToughSkillDesc			"Increased resistance to physical damage."
+
+ChangePowerupSkillName			"Powerup Enchantment"
+ChangePowerupSkillDesc			"Magically tries to change your current powerups\ninto better powerups.  If you have no powerups,\nthis will attempt to create one.  The higher the\nskill level, the better chance of either the\nenhancement or creation working."
+
+WeaknessAuraSkillName			"Weakness Aura"
+WeaknessAuraSkillDesc			"An aura that automatically makes enemies in\nthe area weaker and do less physical\ndamage."
+
+FireballSkillName			"Fireball"
+FireballSkillDesc			"A magical projectile that does fire damage\nand hits any enemies within the explosion."
+
+FireResistanceSkillName			"Fire Resistance"
+FireResistanceSkillDesc			"Decreases the damage done from fire."
+
+IceShardSkillName			"Ice Shard"
+IceShardSkillDesc			"A magical projectile that does ice damage\nand slows down enemies for a while."
+
+DefensiveIceNovaSkillName		"Defensive Ice Nova"
+DefensiveIceNovaSkillDesc		"Occassionally when hit, an ice nova will be\nreleased doing damage and slowing\ndown enemies."
+
+SpontaneousCombustionSkillName		"Spontaneous Combustion"
+SpontaneousCombustionSkillDesc		"Instantly catches the victim on fire and\ndoes damage over time (but it is\nvery fast)."
+
+DamageShieldSkillName			"Damage Shield"
+DamageShieldSkillDesc			"Does damage to any enemy that does\ndamage to you."
+
+LightningBlastSkillName			"Lightning Blast"
+LightningBlastSkillDesc			"Launces a bolt of lightning at the enemy."
+
+PowerStealSkillName			"Mana Steal"
+PowerStealSkillDesc			"Leeches mana away from the enemy each\ntime you hit them."
+
+WizardOffenseSkillName			"Offense"
+WizardOffenseSkillDesc			"Increases your chance to hit monsters\nand increases your damage done."
+
+IceStormSkillName			"Ice Storm"
+IceStormSkillDesc			"Causes a large storm of falling ice\ndamaging and slowing down all enemies\nwithin the area."
+
+ElementalResistanceSkillName		"Elemental Resistance"
+ElementalResistanceSkillDesc		"Decreases the damage done from all elemental\ntypes of damage (fire, ice, lightning, and poison)."
+
+PotionThrowSkillName			"Potion Throw"
+PotionThrowSkillDesc			"Throws a vial of poison that creates a\ncloud of posion that damages all enemies\nwithin for a few seconds."
+
+PotionBonusSkillName			"Potion Bonus"
+PotionBonusSkillDesc			"Increases the benefits of health and\nmana potions."
+
+SwipeSkillName				"Swipe"
+SwipeSkillDesc				"A powerful swipe of the staff that can\nhit up to 2 enemies at once."
+
+MoneyBonusSkillName			"Money Bonus"
+MoneyBonusSkillDesc			"Increases the score from all gold and\ngems found."
+
+CrossbowSkillName			"Crossbow"
+CrossbowSkillDesc			"Fires a bolt from your crossbow."
+
+FireShotSkillName			"Fire Shot"
+FireShotSkillDesc			"Fires a flaming bolt from your crossbow\ndoing extra fire damage."
+
+FastDrawSkillName			"Fast Draw"
+FastDrawSkillDesc			"Increases your attack speed."
+
+DeathSliceSkillName			"Death Slice"
+DeathSliceSkillDesc			"An attack that uses up all of your mana and focuses\nall of that power into one deadly blow.  The more\nmana used, the more powerful the attack."
+
+RuneRegenSkillName			"Rune Regen"
+RuneRegenSkillDesc			"Using the body runes of the dark elves\nregenerates mana faster."
+
+SKWarriorActiveSkillName		"Disease Cloud"
+SKWarriorActiveSkillDesc		"Creates a cloud of disease that weakens nearby\nmonsters' attacks and defense.  The more points\nthe longer the effect."
+
+SKWarriorPassiveSkillName		"Undead Resistance"
+SKWarriorPassiveSkillDesc		"Decreases the damage done from all elemental\ntypes of damage (fire, ice, lightning, and poison)."
+
+ActiveSkillName				"Compétence active"
+ActiveSkillDesc				"Chaque personnage a une compétence active unique."
+
+PassiveSkillName			"Compétence passive"
+PassiveSkillDesc			"Chaque personnage a une compétence passive unique."
+
+// Status effects
+
+Frost					"Gelé"
+OffenseTotemBonus			"Bonus de totem offensif"
+
+
+// End of level unlock info
+
+//NewUnlocks				"Nouveaux déblocages :"
+NoNewUnlocks				"Aucun"
+BeastiaryEntryUnlock			"^c001Entrée du Bestiaire (##1##)^c145"
+NextAdventureUnlock			"Aventure suivante (##1##)"
+AwardUnlock				"^c061Récompense ($$##1##$$)^c145"
+ClassUnlock				"^c003##1## (##2##)^c145"
+
+Adv1GateName				"Entrée de $$LumenLostCity$$"
+Adv7DoorName				"Porte vers Avond Nuit"
+Adv13DoorName				"Porte vers $$AdventureName13$$"
+LeaveMessageName			"Endroit d'un message caché"
+
+PowerupItemSlot				"Emplacement pour Powerups"
+
+
+// Monster rarities
+
+ChampionColored				"^c002Champion"
+EliteColored				"^c005Elite"
+UniqueColored				"^c006Unique"
+LegendColored				"^c001Légende"
+BossColored				"^c095Boss"
+
+Champion				"Champion"
+Elite					"Élite"
+Unique					"Unique"
+Legend					"Légende"
+Boss					"Boss"
+
+TempPointsLeft				"Points temp. restants"
+SkillPointsLeftHighlight		"\n\nUse your points to temporarily get\nhigher levels of your skills."
+
+UserPointsLeftHighlight			"\n\nUse your points to permanently get\nhigher levels of your skills."
+
+ScoreForBronzeTrophy			"Score for ^c020Bronze^c145 trophy: ##1##\n"
+ScoreForSilverTrophy			"Score for ^c128Silver^c145 trophy: ##1##\n"
+ScoreForGoldTrophy			"Score for ^c061Gold^c145 trophy: ##1##\n"
+
+BronzeAdventureTrophies			"^c020Bronze^c145 Adventure Trophies"
+SilverAdventureTrophies			"^c128Silver^c145 Adventure Trophies"
+GoldAdventureTrophies			"^c061Gold^c145 Adventure Trophies"
+
+BronzeTrophyPointsShort			"Worth 1 Point Each"
+SilverTrophyPointsShort			"Worth 2 Points Each"
+GoldTrophyPointsShort			"Worth 3 Points Each"
+
+BronzeTrophyPointsLong			"^c020Bronze^c145 Trophy worth 1 point on Buy Skills screen"
+SilverTrophyPointsLong			"^c128Silver^c145 Trophy worth 2 points on Buy Skills screen"
+GoldTrophyPointsLong			"^c061Gold^c145 Trophy worth 3 points on Buy Skills screen"
+
+BronzeTrophyPointsReallyLong		"Each ^c020Bronze^c145 Trophy worth 1 point on Buy Skills screen"
+SilverTrophyPointsReallyLong		"Each ^c128Silver^c145 Trophy worth 2 points on Buy Skills screen"
+GoldTrophyPointsReallyLong		"Each ^c061Gold^c145 Trophy worth 3 points on Buy Skills screen"
+
+// Difficulties
+
+DifficultyTitle				"Choisir une difficulté"
+
+NormalDiff				"Facile"
+NormalDiffDesc				"Easy difficulty - All of the monsters are easier."
+
+ChampionDiff				"Normale"
+ChampionDiffDesc			"Normal difficulty - Everything is normal."
+
+EliteDiff				"Difficile"
+EliteDiffDesc				"Hard difficulty - All of the monsters are tougher and faster."
+
+LegendaryDiff				"Hardcore"
+LegendaryDiffDesc			"Hardcore difficulty - All of the monsters are much tougher and faster\nand you have fewer lives per adventure."
+
+// Bonus score stuff
+
+BonusFirstBlood				"^f006^c061First Blood (+##1## Score)"
+BonusNoLivesLeft			"^f006^c061Good Luck (+##1## Score)"
+BonusBigPain				"^f006^c061Ouch (+##1## Score)"
+BonusOverkill				"^f006^c061Overkill (+##1## Score)"
+BonusKillingSpree			"^f006^c061Killing Spree (+##1## Score)"
+BonusSpecificKillingSpree		"^f006^c061##2## Killing Spree (+##1## Score)"
+BonusCourageSpree			"^f006^c061Courage Spree (+##1## Score)"
+BonusObjectKillingSpree			"^f006^c061Marauder (+##1## Score)"
+BonusMassacre				"^f006^c061Massacre (+##1## Score)"
+BonusCloseCall				"^f006^c061Close Call (+##1## Score)"
+BonusNearDeath				"^f006^c061Near Death Experience (+##1## Score)"
+
+DeathScoreBonus				"Bonus de morts :"
+DeathsScoreBonusDesc			"An extra score bonus for one or no deaths."
+
+MonstersScoreBonus			"Bonus de monstres :"
+MonstersScoreBonusDesc			"An extra score bonus for killing\nall of the monsters in an adventure."
+
+SecretsScoreBonus			"Bonus de secrets :"
+SecretsScoreBonusDesc			"An extra score bonus for finding\nall of the secrets in an adventure."
+
+TimeScoreBonus				"Bonus de temps :"
+
+CritHitPrint				"^f005##1## (Coup critique)"
+CrushHitPrint				"^f005##1## (Coup écrasant)"
+StunHitPrint				"^f005##1## (Coup assommant)"
+DeepHitPrint				"^f005##1## (Blessures profondes)"
+
+EscapeNotice				"Échapper aux regards"
+
+
+// 0.901 changes
+
+ItemPowerGainMult			"Gain de mana par objet (Item Mana Gain)"
+
+TownGateDesc				"Vous téléporte au centre de la ville"
+AttackingOrSkillDisruptsEffect		"Attaquer en utilisant une compétence interrompt l'effet"
+// ManaGenIceMageDesc changed above
+// ManaGenMagicianDesc changed above
+// SkillPointsLeftHighlight changed above
+
+
+// 0.902 changes
+
+// ShowXPNumbers & ShowXPDesc changed above
+
+GoldVein				"Veine d'or"
+LeftClickToSearch			"Clic gauche pour sonder"
+
+
+// 0.904 changes
+
+//StartChatMessage changed
+
+MultiplayerOptions			"Options multijoueurs"
+ServerDataRate				"Taux de données du serveur"
+ServerDataRateDesc			"La quantité maximale de données que le serveur enverra\nà chaque client par seconde (bytes par seconde)"
+ClientDataRate				"Taux de données du client"
+ClientDataRateDesc			"La quantité maximale de données que nous voulons que le serveur\nnous envoie chaque seconde (bytes par seconde)"
+LowBandwidth				"Faible débit (Low Bandwidth)"
+LowBandwidthDesc			"Dit au serveur de ne pas envoyer de détails trop peu importants\n(comme des modèles détaillés et des effets de combat)"
+
+ExtraProjectiles			"Projectiles suppl."
+
+LootCarryingCapacity			"Capacité de transport de butin\nEmplacements utilisés/Emplacements au total\nDevient rouge quand supérieur à 90%"
+
+
+// 0.905 changes
+
+//CreateNewWorldDesc changed
+TeleportSurprise			"Téléport. surprise"
+SkillProjectileRadius			"Rayon d'explosion : ##1##"
+
+NoStamina				"Epuisé"
+ExtraDefenseFromAura			"Défense supplémentaire (par aura)"
+MachineBrightness			"Machine à luminosité"
+MachineBrightnessDesc			"Machine à Luminosité : La ville a construit une machine qui rend la région plus lumineuse."
+
+//CharactersLevelLow changed
+//CharactersLevelMedium changed
+//CharactersLevelHigh changed
+
+
+// 0.906 changes
+
+FakeImp					"$$Imp$$"
+FakeScree				"$$Fiend1$$"
+FakeTorva				"$$TortureTorva$$"
+FakeSaurian				"$$JungleSaurian$$"
+FakeOrc					"$$SavageClanOrc$$"
+
+//HelpTextLowHealth changed
+
+LifestoneRegenerationDin		"Bénédiction de Din"
+
+
+// 0.907 changes
+
+TeleportStoneDesc			"Pierre de Téléportation\n^c008Cliquez gauche ou droit pour utiliser.^c145\nElle vous téléporte instantanément en ville.\nCEPENDANT, vous ne pouvez l'utiliser qu'une seule fois par monde."
+TeleportStoneUsedDesc			"Pierre de Téléportation\nVous avez déjà utilisé votre pierre dans ce monde !"
+UsedTeleportStoneMale			"##1## a utilisé sa Pierre de téléportation"
+UsedTeleportStoneFemale			"##1## a utilisé sa Pierre de téléportation"
+
+
+// 0.908 changes
+
+SwitchTo1stWeaponSet			"Basculer sur le 1er ensemble arme/bouclier"
+SwitchTo2ndWeaponSet			"Basculer sur le 2nd ensemble arme/bouclier"
+NoWeaponEquipped			"Aucune arme équipée"
+
+CastTime				"Temps de jet"
+CenteredAtMouseCurser			"centré sur le pointeur de la souris"
+ChanceToPickLock			"##1## de chances de crocheter une serrure de niveau ##2##"
+
+WorldModifierPace			"Tempo"
+
+WorldModifierSlowPace			"Tempo lent"
+WorldModifierSlowPaceDesc		"Tempo lent : Les quêtes avancent et les monstres réapparaissent plus lentement. Cependant, vous gagnez 15% d'exp. En moins."
+
+WorldModifierFastPace			"Tempo rapide"
+WorldModifierFastPaceDesc		"Tempo rapide : Les quêtes avancent et les monstres réapparaissent plus rapidement. Vous gagnez cependant un bonus de 15% d'exp."
+
+WorldModifierVerySlowPace		"Tempo très lent"
+WorldModifierVerySlowPaceDesc		"Tempo très lent : Les quêtes arrivent et les monstres réapparaissent plus lentement. Cependant, vous gagnez 20% d'exp. En moins."
+WorldModifierNormalPace			"Tempo normal"
+WorldModifierPaceDesc			"L'option Tempo affecte la rapidité de l'avancement des quêtes et de la réapparition des monstres.\n\nTempo très lent : ^c00520% d'exp. en moins^c145 ;\n\nTempo lent : ^c00515% d'exp. en moins^c145 ;\n\nTempo normal : Le rythme normal du jeu ;\n\nTempo rapide : ^c00215% de bonus d'exp.^c145 ;\n\nTempo très rapide : ^c00220% de bonus d'exp. ^c145 et commence aussi avec davantage de quêtes."
+
+WorldModifierVeryFastPace		"Tempo très rapide"
+WorldModifierVeryFastPaceDesc		"Tempo très rapide : L'avancement des quêtes et la réapparition des monstres sont beaucoup plus rapides.\nCe mode commence aussi avec davantage de quêtes. Vous gagnez cependant un bonus de 20% d'exp."
+
+DropFoodOrPotionOnRecruitToHeal		"Déposer de la nourriture ou une potion de soin sur un membre de l'équipe pour le soigner"
+DropFoodOrPotionOnRecruitToHealShowKeys	"Déposer de la nourriture ou une potion de soin sur un membre de l'équipe pour le soigner"
+
+
+// 0.909 changes
+
+FireWeaponPowerupName			"Frappe enflammée"
+FireWeaponPowerupDesc			"Imprègne votre arme de feu, infligeant énormément plus de dégâts."
+
+IceWeaponPowerupName			"Frappe gelée"
+IceWeaponPowerupDesc			"Imprègne votre arme de glace, infligeant davantage de dégâts\net ralentissant tous les ennemis que vous touchez."
+
+UnknownGate				"Portail inconnu"
+UnknownGateDesc				"Ce portail inconnu mène à un autre portail quelque part en dessous."
+
+OnlineManual				"Manuel en ligne"
+
+
+// 0.910 changes
+
+InCombatPowerGainMult			"Gain de mana en combat"
+
+WorldModifierVendors			"Marchands à gogo"
+WorldModifierVendorsDesc		"Marchands à gogo : Les colporteurs aiment vraiment cette ville."
+
+Gravestone				"Pierre tombale"
+GravestoneDesc				"\nFouiller les tombes entraîne une pénalité de réputation,\nmais vous pouvez ce faisant trouver des objets et de l'or !"
+
+FoundRoomTombLesser			"Trouvé tombe mineure"
+FoundRoomTomb				"Trouvé tombe"
+FoundRoomTombGreater			"Trouvé grand tombeau"
+
+FoundRoomTeleporterLesser		"Trouvé petite Salle de téléportation"
+FoundRoomTeleporter			"Trouvé Salle de téléportation"
+FoundRoomTeleporterGreater		"Trouvé grande Salle de téléportation"
+
+FoundRoomTortureLesser			"Trouvé petite Salle de torture"
+FoundRoomTorture			"Trouvé Salle de torture"
+FoundRoomTortureGreater			"Trouvé grande Salle de torture"
+
+OnlineManualDesc			"Le manuel est aussi disponible dans le répertoire \noù vous avez installé Din's Curse."
+
+
+// 0.912 changes
+
+ShowClock				"Afficher horloge"
+ShowClockDesc				"Affiche une horloge dans l'interface du jeu,\ndans le coin droit en bas de l'écran."
+
+MouseWheelActionScrollEnemyInSight	"Ennemi suivant/précédent en vue"
+VirtualNextEnemyInSight			"Ennemi suivant en vue"
+
+DeadBodyName				"corps de ##1##"
+
+CharacterMenu1				"Stat. principales"
+CharacterMenu2				"Autres stats."
+
+TempDisarmTrap				"Désarmer pièges"
+TempCriticalHit				"Coup critique"
+TempCrushingBlow			"Coup écrasant"
+TempStunningBlow			"Coup assommant"
+TempDeepWounds				"Blessures profondes"
+TempCriticalHeal			"Soin critique"
+TempMagicCriticalHit			"Coup critique magique"
+TempMagicCrushingBlow			"Coup écrasant magique"
+TempHealthRegen				"Régénération santé"
+TempPowerRegen				"Régénération mana"
+
+PerceptionTrapText			"  ##1##% de chances de percevoir correctement un piège de niveau ##2##"
+DisarmTrapText				"  ##1##% de chances de désarmer un piège de niveau ##2##"
+LockPickingText				"  ##1##% de chances de crocheter une serrure de niveau ##2##"
+ArmorPiercingText			"  En moyenne, perce ##1##% de l'armure d'un monstre de niveau ##2##"
+
+StartGameText1				"La ville de ##1## est en grande détresse !"
+StartGameText2				"Bienvenu à ##1## !"
+StartGameText3				"Vous avez été amené ici pour sauver la ville de ##1## !"
+
+StatueInXHonor				"La ville a érigé une statue en l'honneur de ##1##."
+PlayerStatueName			"Statue dédiée à ##1##"
+NamedChestDestroyed			"##1## détruit"
+
+TimeLeft				"Temps restant
+
+ChooseSpecialtyMenuTitle		"Choisir une spécialité"
+
+
+// 1.001 changes
+
+DinStatusFree				"Liberté accordée"
+DinStatusChampion			"Champion de Din"
+DinStatusElite				"Élite de Din"
+DinStatusLegend				"Légende de Din"
+
+
+// 1.002 changes
+
+VirtualSelectPlayer1			"Choisir joueur 1"
+VirtualSelectPlayer2			"Choisir joueur 2"
+VirtualSelectPlayer3			"Choisir joueur 3"
+VirtualSelectPlayer4			"Choisir joueur 4"
+VirtualSelectPlayer5			"Choisir joueur 5"
+VirtualSelectPlayer6			"Choisir joueur 6"
+VirtualSelectPlayer7			"Choisir joueur 7"
+VirtualSelectPlayer8			"Choisir joueur 8"
+
+TrapOil					"Huile"
+TrapAcid				"Acide"
+TrapMagma				"Magma"
+
+
+// 1.003 changes
+
+CharacterExport				"Exporter perso."
+
+
+// 1.005 changes
+
+Legendary				"Légendaire"
+Money					"Argent"
+Cancel					"Annuler"
+Health					"Santé"
+Damage					"Dégâts"
+DPS					"Dég./Sec."
+damage					"dégâts"
+Durability				"Durabilité"
+ItemInChestBroken			"Objet du coffre cassé"
+
+
+// 1.007 changes
+
+
+// 1.008 changes
+
+StandStill				"Concentration"
+StandStillDesc				"Il faut rester immobile pour jeter des sorts offensifs"
+
+IncreaseAttributeStrength		"^c008Clic gauche pour augmenter la Force de 1^c141"
+IncreaseAttributeDexterity		"^c008Clic gauche pour augmenter la Dextérité de 1^c141"
+IncreaseAttributeVitality		"^c008Clic gauche pour augmenter la Vitalité de 1^c141"
+IncreaseAttributeIntelligence		"^c008Clic gauche pour augmenter l'Intelligence de 1^c141"
+IncreaseAttributeSpirit			"^c008Clic gauche pour augmenter l'Esprit de 1^c141"
+
+MoraleBonus				"Bonus de moral"
+MoralePenalty				"Pénalité de moral"
+BasicMoralePenalty			"Peur"
+BasicMoralePenaltyDesc			"Les monstres/PNJ effrayés fuient"
+
+
+// 1.011 changes
+
+
+// 1.014 changes
+
+
+// 1.015 changes
+
+
+// 1.017 changes
+
+
+// 1.018 changes
+
+HardcoreModeAbbrev			"HC"
+CursedModeAbbrev			"Mau"
+EgoModeAbbrev				"E"
+UnluckyModeAbbrev			"Mal"
+PovertyModeAbbrev			"P"
+HonorableDeathModeAbbrev		"MH"
+FragileModeAbbrev			"F"
+ClumsyModeAbbrev			"Md"
+CharacterOptionsKey			"Touche"
+
+
+// 1.020 changes
+
+
+// 1.021 changes
+
+
+// 1.023 changes
+
+
+// 1.024 changes
+
+MagicCrushingBlowChance			"Chance de coup écrasant magique"
+AllItemsInChestBroken			"Tous les objets du coffre sont brisés"
+MagicChest				"Coffre magique"
+MagicChestDesc				"\nTous les objets seront détruits si le coffre est détruit !"
+
+NotHighEnoughLevel			"Niv. pas assez haut"
+
